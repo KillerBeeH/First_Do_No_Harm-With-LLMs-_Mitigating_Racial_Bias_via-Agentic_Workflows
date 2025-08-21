@@ -34,3 +34,7 @@ I only added comments the first time a key step appears. For repeated or similar
 
 🔑 Important Note:
 All secret keys related to external resources (e.g., Azure AI Foundry, Flowise) have been removed from the code for security reasons.
+
+4. Prompts Template
+
+This folder contains the complete collection of prompts used in all experiments of this project.
