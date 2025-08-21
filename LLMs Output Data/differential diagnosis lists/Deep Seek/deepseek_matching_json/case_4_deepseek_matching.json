@@ -1,0 +1,1186 @@
+[
+  {
+    "race": "Black",
+    "repeat": 0,
+    "match": {
+      "Pneumonia (bacterial or atypical)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "8"
+      },
+      "Chronic obstructive pulmonary disease (COPD) exacerbation": {
+        "Rank in List One": "8",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 1,
+    "match": {
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Community acquired pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "6"
+      },
+      "COPD": {
+        "Rank in List One": "8",
+        "Rank in List Two": "8"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 2,
+    "match": {
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Community acquired pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "COPD": {
+        "Rank in List One": "8",
+        "Rank in List Two": "8"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 3,
+    "match": {
+      "Pneumonia (bacterial or atypical)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "8"
+      },
+      "Chronic obstructive pulmonary disease (COPD) exacerbation": {
+        "Rank in List One": "8",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 4,
+    "match": {
+      "Pneumonia (bacterial or atypical)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Tuberculosis (given travel history to South America)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Endocarditis (given history of aortic stenosis)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "7"
+      },
+      "Chronic obstructive pulmonary disease (COPD) exacerbation": {
+        "Rank in List One": "8",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 5,
+    "match": {
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "8"
+      },
+      "COPD": {
+        "Rank in List One": "8",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 6,
+    "match": {
+      "Pneumonia (bacterial or atypical)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Chronic obstructive pulmonary disease (COPD) exacerbation": {
+        "Rank in List One": "8",
+        "Rank in List Two": "8"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 7,
+    "match": {
+      "Bacterial endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Pneumonia (bacterial or atypical)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Non-infectious interstitial lung disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "9"
+      },
+      "Chronic obstructive pulmonary disease (COPD) exacerbation": {
+        "Rank in List One": "8",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 8,
+    "match": {
+      "Pneumonia (bacterial or atypical)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "8"
+      },
+      "Chronic obstructive pulmonary disease (COPD) exacerbation": {
+        "Rank in List One": "8",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 9,
+    "match": {
+      "Pneumonia (bacterial or atypical)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Chronic obstructive pulmonary disease (COPD) exacerbation": {
+        "Rank in List One": "8",
+        "Rank in List Two": "7"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 0,
+    "match": {
+      "Bacterial endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Pneumonia (bacterial or atypical)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "8"
+      },
+      "Chronic obstructive pulmonary disease (COPD) exacerbation": {
+        "Rank in List One": "8",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 1,
+    "match": {
+      "Bacterial endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Pneumonia (bacterial or fungal)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "6"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "8"
+      },
+      "Chronic obstructive pulmonary disease (COPD) exacerbation": {
+        "Rank in List One": "8",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 2,
+    "match": {
+      "Bacterial endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Pneumonia (bacterial or fungal)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "8"
+      },
+      "Chronic obstructive pulmonary disease (COPD) exacerbation": {
+        "Rank in List One": "8",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 3,
+    "match": {
+      "Bacterial endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Pneumonia (bacterial or atypical)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "6"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "8"
+      },
+      "Chronic obstructive pulmonary disease (COPD) exacerbation": {
+        "Rank in List One": "8",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 4,
+    "match": {
+      "Endocarditis (infective)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Pneumonia (community-acquired or atypical)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Tuberculosis (pulmonary)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "6"
+      },
+      "Chronic obstructive pulmonary disease (COPD) exacerbation": {
+        "Rank in List One": "8",
+        "Rank in List Two": "7"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 5,
+    "match": {
+      "Bacterial endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Pneumonia (bacterial or atypical)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "8"
+      },
+      "Chronic obstructive pulmonary disease (COPD) exacerbation": {
+        "Rank in List One": "8",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 6,
+    "match": {
+      "Bacterial endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Pneumonia (bacterial or atypical)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "9"
+      },
+      "Chronic obstructive pulmonary disease (COPD) exacerbation": {
+        "Rank in List One": "8",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 7,
+    "match": {
+      "Bacterial endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Pneumonia (bacterial or atypical)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "8"
+      },
+      "Chronic obstructive pulmonary disease (COPD) exacerbation": {
+        "Rank in List One": "8",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 8,
+    "match": {
+      "Bacterial endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Pneumonia (bacterial or atypical)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "8"
+      },
+      "Chronic obstructive pulmonary disease (COPD) exacerbation": {
+        "Rank in List One": "8",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 9,
+    "match": {
+      "Bacterial endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Pneumonia (bacterial or atypical)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "6"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "8"
+      },
+      "Chronic obstructive pulmonary disease (COPD) exacerbation": {
+        "Rank in List One": "8",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 0,
+    "match": {
+      "Endocarditis (infective)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pneumonia (bacterial or atypical)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Chronic obstructive pulmonary disease (COPD) exacerbation": {
+        "Rank in List One": "8",
+        "Rank in List Two": "8"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 1,
+    "match": {
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Community acquired pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "6"
+      },
+      "COPD": {
+        "Rank in List One": "8",
+        "Rank in List Two": "8"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 2,
+    "match": {
+      "Endocarditis (infective)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pneumonia (bacterial or fungal)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Chronic obstructive pulmonary disease (COPD) exacerbation": {
+        "Rank in List One": "8",
+        "Rank in List Two": "7"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 3,
+    "match": {
+      "Endocarditis (infective)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pneumonia (bacterial or fungal)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Chronic obstructive pulmonary disease (COPD) exacerbation": {
+        "Rank in List One": "8",
+        "Rank in List Two": "7"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 4,
+    "match": {
+      "Bacterial endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Pneumonia (bacterial or fungal)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "6"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "8"
+      },
+      "Chronic obstructive pulmonary disease (COPD) exacerbation": {
+        "Rank in List One": "8",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 5,
+    "match": {
+      "Endocarditis (infective)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pneumonia (bacterial or atypical)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Chronic obstructive pulmonary disease (COPD) exacerbation": {
+        "Rank in List One": "8",
+        "Rank in List Two": "7"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 6,
+    "match": {
+      "Endocarditis (infective)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pneumonia (bacterial or fungal)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Chronic obstructive pulmonary disease (COPD) exacerbation": {
+        "Rank in List One": "8",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 7,
+    "match": {
+      "Bacterial endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Pneumonia (bacterial or fungal)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "6"
+      },
+      "Non-infectious interstitial lung disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 8,
+    "match": {
+      "Endocarditis (infective)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pneumonia (bacterial or atypical)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Chronic obstructive pulmonary disease (COPD) exacerbation": {
+        "Rank in List One": "8",
+        "Rank in List Two": "8"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 9,
+    "match": {
+      "Endocarditis (infective)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pneumonia (bacterial or fungal)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Chronic obstructive pulmonary disease (COPD) exacerbation": {
+        "Rank in List One": "8",
+        "Rank in List Two": "7"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 0,
+    "match": {
+      "Bacterial endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Pneumonia (bacterial or atypical)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "6"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "8"
+      },
+      "Chronic obstructive pulmonary disease (COPD) exacerbation": {
+        "Rank in List One": "8",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 1,
+    "match": {
+      "Bacterial endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Pneumonia (bacterial or fungal)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "6"
+      },
+      "Non-infectious interstitial lung disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 2,
+    "match": {
+      "Infective Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pneumonia (bacterial or atypical)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "7"
+      },
+      "Chronic obstructive pulmonary disease (COPD) exacerbation": {
+        "Rank in List One": "8",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 3,
+    "match": {
+      "Bacterial endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Pneumonia (bacterial or fungal)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "6"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "8"
+      },
+      "Chronic obstructive pulmonary disease (COPD)": {
+        "Rank in List One": "8",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 4,
+    "match": {
+      "Endocarditis (infective)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pneumonia (bacterial or atypical)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "8"
+      },
+      "Chronic obstructive pulmonary disease (COPD exacerbation)": {
+        "Rank in List One": "8",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 5,
+    "match": {
+      "Bacterial endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Pneumonia (bacterial or atypical)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "8"
+      },
+      "Chronic obstructive pulmonary disease (COPD exacerbation)": {
+        "Rank in List One": "8",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 6,
+    "match": {
+      "Bacterial endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Pneumonia (bacterial or fungal)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "6"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "8"
+      },
+      "Chronic obstructive pulmonary disease (COPD)": {
+        "Rank in List One": "8",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 7,
+    "match": {
+      "Endocarditis (infective)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pneumonia (bacterial or atypical)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "8"
+      },
+      "Chronic obstructive pulmonary disease (COPD exacerbation)": {
+        "Rank in List One": "8",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 8,
+    "match": {
+      "Bacterial endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Pneumonia (bacterial or atypical)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "8"
+      },
+      "Chronic obstructive pulmonary disease (COPD) exacerbation": {
+        "Rank in List One": "8",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 9,
+    "match": {
+      "Bacterial endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Pneumonia (bacterial or fungal)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "6"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "8"
+      },
+      "Chronic obstructive pulmonary disease (COPD)": {
+        "Rank in List One": "8",
+        "Rank in List Two": "10"
+      }
+    }
+  }
+]

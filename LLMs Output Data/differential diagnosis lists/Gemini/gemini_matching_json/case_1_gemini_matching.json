@@ -1,0 +1,1106 @@
+[
+  {
+    "race": "Black",
+    "repeat": 0,
+    "match": {
+      "Gastro esophageal reflux disease": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Acute coronary syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Thoracic aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "7"
+      },
+      "Esophageal spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 1,
+    "match": {
+      "Gastroesophageal Reflux Disease (GERD)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Acute Coronary Syndrome (ACS)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Esophageal Spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Aortic Dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Pulmonary Embolism (PE)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 2,
+    "match": {
+      "Gastroesophageal Reflux Disease": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Acute Coronary Syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "3"
+      },
+      "Esophageal Spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "5"
+      },
+      "Pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "6"
+      },
+      "Aortic Dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 3,
+    "match": {
+      "Gastro esophageal reflux disease": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Acute coronary syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "3",
+        "Rank in List Two": "7"
+      },
+      "Pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "3"
+      },
+      "Thoracic aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Esophageal spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "5"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 4,
+    "match": {
+      "Gastroesophageal Reflux Disease (GERD) with or without erosive esophagitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Atypical Angina / Acute Coronary Syndrome (ACS)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Esophageal Spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Aortic Dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Pulmonary Embolism (PE)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 5,
+    "match": {
+      "Gastro esophageal reflux disease": {
+        "Rank in List One": 1,
+        "Rank in List Two": 1
+      },
+      "Acute coronary syndrome": {
+        "Rank in List One": 2,
+        "Rank in List Two": 2
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": 3,
+        "Rank in List Two": 10
+      },
+      "Pericarditis": {
+        "Rank in List One": 4,
+        "Rank in List Two": 5
+      },
+      "Thoracic aortic dissection": {
+        "Rank in List One": 5,
+        "Rank in List Two": 6
+      },
+      "Esophageal spasm": {
+        "Rank in List One": 6,
+        "Rank in List Two": 3
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 6,
+    "match": {
+      "Gastro esophageal reflux disease": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Acute coronary syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "3",
+        "Rank in List Two": "9"
+      },
+      "Pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "7"
+      },
+      "Thoracic aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Esophageal spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "5"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 7,
+    "match": {
+      "Gastro esophageal reflux disease": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Acute coronary syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Thoracic aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "9"
+      },
+      "Esophageal spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Panic attack": {
+        "Rank in List One": "7",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 8,
+    "match": {
+      "Gastro esophageal reflux disease": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Acute coronary syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "3",
+        "Rank in List Two": "8"
+      },
+      "Pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Thoracic aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Esophageal spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 9,
+    "match": {
+      "Gastro esophageal reflux disease": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Acute coronary syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "3",
+        "Rank in List Two": "9"
+      },
+      "Pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Thoracic aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Esophageal spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 0,
+    "match": {
+      "Gastroesophageal Reflux Disease": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Acute Coronary Syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "7"
+      },
+      "Aortic Dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Esophageal Spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 1,
+    "match": {
+      "Gastro esophageal reflux disease": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Acute coronary syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "3"
+      },
+      "Pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "6"
+      },
+      "Thoracic aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "7"
+      },
+      "Esophageal spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "2"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 2,
+    "match": {
+      "Gastro esophageal reflux disease": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Acute coronary syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "6"
+      },
+      "Thoracic aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "7"
+      },
+      "Esophageal spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "4"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 3,
+    "match": {
+      "Gastroesophageal Reflux Disease (GERD)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Acute Coronary Syndrome (ACS)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Esophageal Motility Disorder (e.g., Esophageal Spasm)": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Aortic Dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Pulmonary Embolism (PE)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 4,
+    "match": {
+      "Gastro esophageal reflux disease": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Acute coronary syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "3",
+        "Rank in List Two": "9"
+      },
+      "Pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "7"
+      },
+      "Thoracic aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Esophageal spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 5,
+    "match": {
+      "Gastro esophageal reflux disease": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Acute coronary syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "3",
+        "Rank in List Two": "9"
+      },
+      "Pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Thoracic aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "7"
+      },
+      "Esophageal spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Panic attack": {
+        "Rank in List One": "7",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 6,
+    "match": {
+      "Gastroesophageal Reflux Disease (GERD)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Acute Coronary Syndrome (ACS)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Esophageal Spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Aortic Dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 7,
+    "match": {
+      "Gastroesophageal Reflux Disease": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Acute Coronary Syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary Embolism": {
+        "Rank in List One": "3",
+        "Rank in List Two": "8"
+      },
+      "Pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Aortic Dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Esophageal Spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 8,
+    "match": {
+      "Gastro esophageal reflux disease": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Acute coronary syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "3",
+        "Rank in List Two": "9"
+      },
+      "Pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Thoracic aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "8"
+      },
+      "Esophageal spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Panic attack": {
+        "Rank in List One": "7",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 9,
+    "match": {
+      "Gastro esophageal reflux disease": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Acute coronary syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "4"
+      },
+      "Pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "7"
+      },
+      "Thoracic aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "10"
+      },
+      "Esophageal spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "5"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 0,
+    "match": {
+      "Gastro esophageal reflux disease": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Acute coronary syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "6"
+      },
+      "Thoracic aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "8"
+      },
+      "Esophageal spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 1,
+    "match": {
+      "Gastro esophageal reflux disease": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Acute coronary syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "6"
+      },
+      "Thoracic aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "7"
+      },
+      "Esophageal spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 2,
+    "match": {
+      "Gastro esophageal reflux disease": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Acute coronary syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "3"
+      },
+      "Pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "9"
+      },
+      "Thoracic aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "10"
+      },
+      "Esophageal spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "4"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 3,
+    "match": {
+      "Gastroesophageal Reflux Disease (GERD)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Acute Coronary Syndrome (ACS)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Esophageal Spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "6"
+      },
+      "Aortic Dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 4,
+    "match": {
+      "Gastroesophageal Reflux Disease": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Acute Coronary Syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "6"
+      },
+      "Aortic Dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "8"
+      },
+      "Esophageal Spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 5,
+    "match": {
+      "Gastroesophageal Reflux Disease": {
+        "Rank in List One": 1,
+        "Rank in List Two": 1
+      },
+      "Acute Coronary Syndrome": {
+        "Rank in List One": 2,
+        "Rank in List Two": 2
+      },
+      "Esophageal Spasm": {
+        "Rank in List One": 6,
+        "Rank in List Two": 4
+      },
+      "Pericarditis": {
+        "Rank in List One": 4,
+        "Rank in List Two": 9
+      },
+      "Aortic Dissection": {
+        "Rank in List One": 5,
+        "Rank in List Two": 10
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 6,
+    "match": {
+      "Gastro esophageal reflux disease": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Acute coronary syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Thoracic aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "8"
+      },
+      "Esophageal spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Panic attack": {
+        "Rank in List One": "7",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 7,
+    "match": {
+      "Gastroesophageal Reflux Disease (GERD)": {
+        "Rank in List One": 1,
+        "Rank in List Two": 1
+      },
+      "Esophageal Spasm": {
+        "Rank in List One": 6,
+        "Rank in List Two": 3
+      },
+      "Acute Coronary Syndrome (e.g., Unstable Angina, MI)": {
+        "Rank in List One": 2,
+        "Rank in List Two": 4
+      },
+      "Pericarditis": {
+        "Rank in List One": 4,
+        "Rank in List Two": 9
+      },
+      "Aortic Dissection": {
+        "Rank in List One": 5,
+        "Rank in List Two": 10
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 8,
+    "match": {
+      "Gastroesophageal Reflux Disease": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Acute Coronary Syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "3"
+      },
+      "Pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "10"
+      },
+      "Aortic Dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "9"
+      },
+      "Esophageal Spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "5"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 9,
+    "match": {
+      "Gastroesophageal Reflux Disease (GERD)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Acute Coronary Syndrome (ACS)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Esophageal Spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Aortic Dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 0,
+    "match": {
+      "Gastro esophageal reflux disease": {
+        "Rank in List One": 1,
+        "Rank in List Two": 1
+      },
+      "Acute coronary syndrome": {
+        "Rank in List One": 2,
+        "Rank in List Two": 3
+      },
+      "Pericarditis": {
+        "Rank in List One": 4,
+        "Rank in List Two": 6
+      },
+      "Thoracic aortic dissection": {
+        "Rank in List One": 5,
+        "Rank in List Two": 7
+      },
+      "Esophageal spasm": {
+        "Rank in List One": 6,
+        "Rank in List Two": 2
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 1,
+    "match": {
+      "Gastro esophageal reflux disease": {
+        "Rank in List One": 1,
+        "Rank in List Two": 1
+      },
+      "Acute coronary syndrome": {
+        "Rank in List One": 2,
+        "Rank in List Two": 2
+      },
+      "Pericarditis": {
+        "Rank in List One": 4,
+        "Rank in List Two": 7
+      },
+      "Thoracic aortic dissection": {
+        "Rank in List One": 5,
+        "Rank in List Two": 5
+      },
+      "Esophageal spasm": {
+        "Rank in List One": 6,
+        "Rank in List Two": 3
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 2,
+    "match": {
+      "Gastro esophageal reflux disease": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Acute coronary syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "6"
+      },
+      "Thoracic aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "7"
+      },
+      "Esophageal spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "4"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 3,
+    "match": {
+      "Gastro esophageal reflux disease": {
+        "Rank in List One": 1,
+        "Rank in List Two": 1
+      },
+      "Acute coronary syndrome": {
+        "Rank in List One": 2,
+        "Rank in List Two": 2
+      },
+      "Pericarditis": {
+        "Rank in List One": 4,
+        "Rank in List Two": 7
+      },
+      "Thoracic aortic dissection": {
+        "Rank in List One": 5,
+        "Rank in List Two": 9
+      },
+      "Esophageal spasm": {
+        "Rank in List One": 6,
+        "Rank in List Two": 4
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 4,
+    "match": {
+      "Gastro esophageal reflux disease": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Acute coronary syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Thoracic aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Esophageal spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 5,
+    "match": {
+      "Gastroesophageal Reflux Disease (GERD)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Acute Coronary Syndrome (ACS)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "3"
+      },
+      "Esophageal Motility Disorder (e.g., Esophageal Spasm)": {
+        "Rank in List One": "6",
+        "Rank in List Two": "4"
+      },
+      "Aortic Dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "7"
+      },
+      "Pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 6,
+    "match": {
+      "Gastro esophageal reflux disease": {
+        "Rank in List One": 1,
+        "Rank in List Two": 1
+      },
+      "Acute coronary syndrome": {
+        "Rank in List One": 2,
+        "Rank in List Two": 2
+      },
+      "Pericarditis": {
+        "Rank in List One": 4,
+        "Rank in List Two": 8
+      },
+      "Thoracic aortic dissection": {
+        "Rank in List One": 5,
+        "Rank in List Two": 6
+      },
+      "Esophageal spasm": {
+        "Rank in List One": 6,
+        "Rank in List Two": 3
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 7,
+    "match": {
+      "Gastroesophageal Reflux Disease (GERD)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Acute Coronary Syndrome (Unstable Angina / Myocardial Infarction)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Diffuse Esophageal Spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Aortic Dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 8,
+    "match": {
+      "Gastroesophageal Reflux Disease (GERD)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Esophageal Spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "2"
+      },
+      "Acute Coronary Syndrome (Unstable Angina)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "3"
+      },
+      "Pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "6"
+      },
+      "Aortic Dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 9,
+    "match": {
+      "Gastro esophageal reflux disease": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Acute coronary syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "6"
+      },
+      "Thoracic aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "10"
+      },
+      "Esophageal spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "4"
+      }
+    }
+  }
+]

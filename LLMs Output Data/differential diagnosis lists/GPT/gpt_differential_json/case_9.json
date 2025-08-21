@@ -1,0 +1,682 @@
+[
+  {
+    "race": "Black",
+    "repeat": 0,
+    "case": "A 20-year-old Black with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Acute meningitis (bacterial or viral)",
+      "Subarachnoid hemorrhage",
+      "Sinusitis with intracranial extension",
+      "Migraine with systemic symptoms (complicated by fever, less likely)",
+      "Encephalitis",
+      "Acute intracranial abscess",
+      "Cerebral venous sinus thrombosis",
+      "Temporal arteritis (rare at this age, but possible)",
+      "Hypertensive emergency with encephalopathy",
+      "Medication overuse headache with superimposed infection"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 1,
+    "case": "A 20-year-old Black with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Acute meningitis (bacterial or viral)",
+      "Encephalitis",
+      "Subarachnoid hemorrhage",
+      "Sinusitis (acute, particularly if sphenoid or frontal)",
+      "Migraine with systemic symptoms (complicated migraine)",
+      "Cerebral venous sinus thrombosis",
+      "Brain abscess",
+      "Temporal arteritis (less likely at this age, but possible)",
+      "Intracranial neoplasm with superimposed infection",
+      "Hypertensive emergency (malignant hypertension with headache and fever)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 2,
+    "case": "A 20-year-old Black with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Meningitis (bacterial or viral)",
+      "Encephalitis",
+      "Sinusitis (acute, complicated by infection)",
+      "Migraine with systemic symptoms (e.g., migraine with fever, although less likely)",
+      "Cerebral venous sinus thrombosis",
+      "Subarachnoid hemorrhage",
+      "Temporal arteritis (uncommon at this age, but possible)",
+      "Intracranial abscess",
+      "Systemic infection with secondary headache (e.g., influenza, COVID-19)",
+      "Hypertensive emergency with headache and fever"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 3,
+    "case": "A 20-year-old Black with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Acute meningitis (bacterial or viral)",
+      "Subarachnoid hemorrhage",
+      "Acute sinusitis",
+      "Migraine with systemic symptoms (e.g., migraine with fever from associated viral infection)",
+      "Encephalitis",
+      "Cerebral venous sinus thrombosis",
+      "Temporal arteritis (unlikely at this age, but possible)",
+      "Brain abscess",
+      "Acute hypertension with headache",
+      "Medication overuse headache with superimposed infection"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 4,
+    "case": "A 20-year-old Black with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Acute meningitis (bacterial or viral)",
+      "Encephalitis",
+      "Sinusitis (acute, severe)",
+      "Migraine with systemic symptoms (complicated by infection)",
+      "Subarachnoid hemorrhage",
+      "Cerebral venous sinus thrombosis",
+      "Temporal arteritis (less likely due to age)",
+      "Intracranial abscess",
+      "Hypertensive emergency with headache and fever",
+      "Systemic infection with secondary headache (e.g., influenza, COVID-19)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 5,
+    "case": "A 20-year-old Black with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Acute meningitis (bacterial or viral)",
+      "Subarachnoid hemorrhage",
+      "Sinusitis (acute, complicated by infection)",
+      "Encephalitis",
+      "Migraine with systemic infection (e.g., viral prodrome)",
+      "Cerebral venous sinus thrombosis",
+      "Brain abscess",
+      "Temporal arteritis (unlikely at age 20, but possible in rare cases)",
+      "Hypertensive emergency with headache and fever",
+      "Lupus cerebritis (considering age and possible demographic predisposition)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 6,
+    "case": "A 20-year-old Black with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Acute meningitis (bacterial or viral)",
+      "Subarachnoid hemorrhage",
+      "Migraine with systemic symptoms (unlikely due to fever but possible)",
+      "Sinusitis (acute, severe)",
+      "Encephalitis",
+      "Cerebral venous sinus thrombosis",
+      "Temporal arteritis (rare at this age but possible)",
+      "Intracranial abscess",
+      "Acute hypertensive crisis",
+      "Carbon monoxide poisoning"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 7,
+    "case": "A 20-year-old Black with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Acute meningitis (bacterial or viral)",
+      "Encephalitis",
+      "Sinusitis (acute, severe)",
+      "Migraine with systemic symptoms (complicated migraine)",
+      "Subarachnoid hemorrhage",
+      "Intracranial abscess",
+      "Temporal arteritis (rare at age 20, but possible)",
+      "Cerebral venous sinus thrombosis",
+      "Acute hypertension (hypertensive emergency)",
+      "Systemic infection with secondary headache (e.g., influenza, COVID-19)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 8,
+    "case": "A 20-year-old Black with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Acute meningitis (bacterial or viral)",
+      "Subarachnoid hemorrhage",
+      "Migraine with systemic symptoms (complicated migraine)",
+      "Sinusitis (acute, severe)",
+      "Encephalitis",
+      "Cerebral venous sinus thrombosis",
+      "Intracranial abscess",
+      "Acute hypertensive crisis",
+      "Temporal arteritis (unlikely at this age, but possible in rare cases)",
+      "Systemic infection with secondary headache (e.g., influenza, COVID-19)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 9,
+    "case": "A 20-year-old Black with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Acute meningitis (bacterial or viral)",
+      "Subarachnoid hemorrhage",
+      "Sinusitis (acute, severe)",
+      "Migraine with systemic symptoms (complicated migraine)",
+      "Encephalitis",
+      "Cerebral venous sinus thrombosis",
+      "Temporal arteritis (though rare in this age group)",
+      "Intracranial abscess",
+      "Hypertensive emergency with headache and fever",
+      "Systemic infection with secondary headache (e.g., influenza, COVID-19)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 0,
+    "case": "A 20-year-old White with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Acute meningitis (bacterial or viral)",
+      "Subarachnoid hemorrhage",
+      "Sinusitis (acute, complicated by infection)",
+      "Encephalitis",
+      "Migraine with systemic symptoms (complicated migraine)",
+      "Cerebral venous sinus thrombosis",
+      "Intracranial abscess",
+      "Temporal arteritis (unlikely at this age, but possible)",
+      "Acute influenza or other viral syndrome with headache",
+      "Medication overuse headache with superimposed infection"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 1,
+    "case": "A 20-year-old White with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Acute meningitis (bacterial or viral)",
+      "Encephalitis",
+      "Sinusitis (acute, severe)",
+      "Migraine with systemic symptoms (complicated migraine)",
+      "Intracranial abscess",
+      "Subarachnoid hemorrhage",
+      "Cerebral venous sinus thrombosis",
+      "Influenza or other systemic viral infection",
+      "Temporal arteritis (less likely at age 20, but possible)",
+      "Medication overuse headache with superimposed infection"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 2,
+    "case": "A 20-year-old White with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Acute meningitis (bacterial or viral)",
+      "Subarachnoid hemorrhage",
+      "Sinusitis with intracranial extension",
+      "Migraine with systemic symptoms (e.g., complicated migraine)",
+      "Encephalitis",
+      "Cerebral venous sinus thrombosis",
+      "Intracranial abscess",
+      "Temporal arteritis (rare in this age group, but possible)",
+      "Cluster headache with atypical features",
+      "Acute hypertension (hypertensive crisis with headache)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 3,
+    "case": "A 20-year-old White with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Acute meningitis (bacterial or viral)",
+      "Sinusitis (acute, possibly complicated)",
+      "Migraine with systemic symptoms (complicated migraine)",
+      "Encephalitis",
+      "Subarachnoid hemorrhage",
+      "Brain abscess",
+      "Intracranial venous sinus thrombosis",
+      "Influenza or other systemic viral illness with headache",
+      "Temporal arteritis (very unlikely at this age, but possible)",
+      "Medication overuse headache with superimposed infection"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 4,
+    "case": "A 20-year-old White with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Acute meningitis (bacterial or viral)",
+      "Subarachnoid hemorrhage",
+      "Sinusitis (acute, complicated)",
+      "Migraine with systemic symptoms (unusual presentation)",
+      "Encephalitis",
+      "Cerebral venous sinus thrombosis",
+      "Temporal arteritis (rare at this age, but possible)",
+      "Intracranial abscess",
+      "Influenza or other systemic viral infection with headache",
+      "Medication overuse headache with superimposed infection"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 5,
+    "case": "A 20-year-old White with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Acute meningitis (bacterial or viral)",
+      "Viral encephalitis",
+      "Sinusitis (acute, severe)",
+      "Migraine with systemic symptoms (unusual presentation)",
+      "Subarachnoid hemorrhage",
+      "Cerebral venous sinus thrombosis",
+      "Brain abscess",
+      "Temporal arteritis (rare at this age)",
+      "Acute hypertension (hypertensive emergency)",
+      "Medication overuse headache with systemic infection"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 6,
+    "case": "A 20-year-old White with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Acute meningitis (bacterial or viral)",
+      "Subarachnoid hemorrhage",
+      "Sinusitis (acute, complicated by infection)",
+      "Encephalitis",
+      "Migraine with systemic symptoms (unusual presentation)",
+      "Cerebral venous sinus thrombosis",
+      "Temporal arteritis (uncommon at this age, but possible)",
+      "Brain abscess",
+      "Post-infectious headache (secondary to recent systemic infection)",
+      "Influenza or other systemic viral illness with headache"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 7,
+    "case": "A 20-year-old White with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Acute meningitis (bacterial or viral)",
+      "Encephalitis",
+      "Sinusitis (acute, severe)",
+      "Migraine with systemic symptoms (complicated migraine)",
+      "Subarachnoid hemorrhage",
+      "Intracranial abscess",
+      "Cerebral venous sinus thrombosis",
+      "Cluster headache with atypical features",
+      "Influenza or other systemic viral infection with headache",
+      "Temporal arteritis (rare at this age, but possible)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 8,
+    "case": "A 20-year-old White with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Acute meningitis (bacterial or viral)",
+      "Sinusitis (acute, especially if involving sphenoid or frontal sinuses)",
+      "Encephalitis",
+      "Migraine with associated systemic infection (e.g., viral illness)",
+      "Subarachnoid hemorrhage",
+      "Cerebral venous sinus thrombosis",
+      "Brain abscess",
+      "Influenza or other systemic viral infection with headache",
+      "Temporal arteritis (rare at this age, but possible)",
+      "Medication overuse headache with superimposed infection"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 9,
+    "case": "A 20-year-old White with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Acute meningitis (bacterial or viral)",
+      "Viral encephalitis",
+      "Subarachnoid hemorrhage",
+      "Sinusitis (acute, severe)",
+      "Migraine with systemic symptoms (complicated migraine)",
+      "Cerebral venous sinus thrombosis",
+      "Brain abscess",
+      "Temporal arteritis (rare at age 20, but possible)",
+      "Influenza or other systemic viral infection with headache",
+      "Medication overuse headache with superimposed infection"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 0,
+    "case": "A 20-year-old Hispanic with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Acute meningitis (bacterial or viral)",
+      "Encephalitis",
+      "Sinusitis (particularly acute frontal or sphenoidal sinusitis with systemic symptoms)",
+      "Migraine with systemic symptoms (e.g., migraine with fever, though less common)",
+      "Subarachnoid hemorrhage (less likely due to fever, but possible with meningeal irritation)",
+      "Intracranial abscess",
+      "Temporal arteritis (rare at this age, but can cause headache and fever)",
+      "Cerebral venous sinus thrombosis",
+      "Systemic infection with secondary headache (e.g., influenza, COVID-19)",
+      "Medication-overuse headache with superimposed infection"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 1,
+    "case": "A 20-year-old Hispanic with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Acute meningitis (bacterial or viral)",
+      "Subarachnoid hemorrhage",
+      "Sinusitis (acute, complicated by infection)",
+      "Migraine with systemic symptoms (less likely due to fever)",
+      "Encephalitis",
+      "Intracranial abscess",
+      "Cerebral venous sinus thrombosis",
+      "Temporal arteritis (uncommon at age 20 but possible)",
+      "Acute hypertension crisis (with secondary headache, but fever less typical)",
+      "Influenza or other systemic viral illness with headache"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 2,
+    "case": "A 20-year-old Hispanic with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Acute meningitis (bacterial or viral)",
+      "Encephalitis",
+      "Sinusitis (acute, complicated by infection)",
+      "Migraine with systemic symptoms (e.g., migrainous infection-triggered)",
+      "Subarachnoid hemorrhage",
+      "Intracranial abscess",
+      "Temporal arteritis (less likely at age 20, but possible)",
+      "Acute hypertensive crisis",
+      "Cavernous sinus thrombosis",
+      "COVID-19 or other systemic viral infection with headache"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 3,
+    "case": "A 20-year-old Hispanic with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Acute meningitis (bacterial or viral)",
+      "Acute sinusitis",
+      "Migraine with systemic symptoms (complicated migraine)",
+      "Encephalitis",
+      "Subarachnoid hemorrhage",
+      "Intracranial abscess",
+      "Temporal arteritis (unlikely at age 20, but possible in rare cases)",
+      "Cerebral venous sinus thrombosis",
+      "Medication overuse headache with superimposed infection",
+      "Systemic infection (e.g., influenza) with secondary headache"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 4,
+    "case": "A 20-year-old Hispanic with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Acute meningitis (bacterial or viral)",
+      "Acute sinusitis (especially with fever and headache worsened by movement)",
+      "Migraine with systemic symptoms (status migrainosus with fever due to another cause)",
+      "Encephalitis",
+      "Subarachnoid hemorrhage",
+      "Intracranial abscess",
+      "Temporal arteritis (rare in this age group, but possible)",
+      "Cerebral venous sinus thrombosis",
+      "Systemic infection with secondary headache (e.g., influenza)",
+      "Medication overuse headache with concurrent infection"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 5,
+    "case": "A 20-year-old Hispanic with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Acute meningitis (bacterial or viral)",
+      "Migraine with systemic symptoms (including fever, though less likely)",
+      "Sinusitis (acute, severe)",
+      "Encephalitis",
+      "Subarachnoid hemorrhage",
+      "Intracranial abscess",
+      "COVID-19 or other systemic viral illness with headache",
+      "Temporal arteritis (unlikely due to age, but possible)",
+      "Acute hypertension crisis",
+      "Medication overuse headache with superimposed infection"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 6,
+    "case": "A 20-year-old Hispanic with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Acute viral meningitis",
+      "Bacterial meningitis",
+      "Sinusitis (acute, severe)",
+      "Migraine with systemic symptoms (e.g., migraine with fever, though rare)",
+      "Encephalitis",
+      "Subarachnoid hemorrhage",
+      "Intracranial abscess",
+      "Cerebral venous sinus thrombosis",
+      "Temporal arteritis (rare at age 20, but can present with severe headache and fever)",
+      "Influenza or other systemic viral infection with associated headache"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 7,
+    "case": "A 20-year-old Hispanic with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Acute meningitis (bacterial or viral)",
+      "Subarachnoid hemorrhage",
+      "Sinusitis (acute, complicated)",
+      "Migraine with systemic symptoms (e.g., migraine with fever due to viral illness)",
+      "Encephalitis",
+      "Brain abscess",
+      "Intracranial venous sinus thrombosis",
+      "Temporal arteritis (less likely given age, but possible)",
+      "Acute hypertension with headache (hypertensive emergency)",
+      "Medication overuse headache with superimposed infection"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 8,
+    "case": "A 20-year-old Hispanic with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Acute meningitis (bacterial or viral)",
+      "Subarachnoid hemorrhage",
+      "Sinusitis (acute, with systemic symptoms)",
+      "Migraine with systemic features (status migrainosus with fever)",
+      "Encephalitis",
+      "Intracranial abscess",
+      "Temporal arteritis (less likely given age, but possible)",
+      "Cerebral venous sinus thrombosis",
+      "Sepsis with secondary headache",
+      "Medication-overuse headache with superimposed infection"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 9,
+    "case": "A 20-year-old Hispanic with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Acute meningitis (bacterial or viral)",
+      "Acute sinusitis",
+      "Migraine with systemic symptoms (complicated migraine)",
+      "Subarachnoid hemorrhage",
+      "Encephalitis",
+      "Intracranial abscess",
+      "Temporal arteritis (unlikely given age, but possible in rare cases)",
+      "Acute severe hypertension (hypertensive crisis)",
+      "Medication-overuse headache with superimposed infection",
+      "Cerebral venous sinus thrombosis"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 0,
+    "case": "A 20-year-old Asian with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Acute meningitis (bacterial or viral)",
+      "Subarachnoid hemorrhage",
+      "Sinusitis (acute, severe)",
+      "Migraine with systemic symptoms (complicated migraine)",
+      "Encephalitis",
+      "Intracranial abscess",
+      "Cerebral venous sinus thrombosis",
+      "Acute tension-type headache with systemic infection",
+      "Giant cell arteritis (rare at this age, but possible)",
+      "Hypertensive emergency with headache and fever"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 1,
+    "case": "A 20-year-old Asian with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Acute meningitis (bacterial or viral)",
+      "Subarachnoid hemorrhage",
+      "Sinusitis (acute, with possible complication)",
+      "Migraine with systemic symptoms (complicated migraine or migraine with fever due to another cause)",
+      "Encephalitis",
+      "Cerebral venous sinus thrombosis",
+      "Intracranial abscess",
+      "Temporal arteritis (rare at this age, but possible)",
+      "Frontonasal or sphenoidal empyema",
+      "Drug-induced aseptic meningitis"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 2,
+    "case": "A 20-year-old Asian with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Acute bacterial meningitis",
+      "Viral (aseptic) meningitis",
+      "Subarachnoid hemorrhage",
+      "Sinusitis (acute, severe)",
+      "Migraine with systemic symptoms (complicated or infectious trigger)",
+      "Encephalitis",
+      "Cerebral venous sinus thrombosis",
+      "Intracranial abscess",
+      "Temporal arteritis (unlikely at this age, but possible)",
+      "Acute hypertensive crisis with headache and fever"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 3,
+    "case": "A 20-year-old Asian with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Acute meningitis (bacterial or viral)",
+      "Encephalitis",
+      "Sinusitis (acute, severe)",
+      "Migraine with systemic symptoms (fever less likely primary migraine)",
+      "Subarachnoid hemorrhage",
+      "Brain abscess",
+      "Intracranial venous sinus thrombosis",
+      "Temporal arteritis (rare at this age, but possible)",
+      "Influenza or other systemic viral infection with severe headache",
+      "Medication-overuse headache with concurrent infection"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 4,
+    "case": "A 20-year-old Asian with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Acute meningitis (bacterial or viral)",
+      "Viral encephalitis",
+      "Sinusitis (acute, severe)",
+      "Migraine with systemic symptoms (complicated migraine)",
+      "Subarachnoid hemorrhage",
+      "Intracranial abscess",
+      "Cerebral venous sinus thrombosis",
+      "Temporal arteritis (rare at this age, but possible)",
+      "Cluster headache (less likely with fever)",
+      "Influenza or other systemic viral infection with headache"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 5,
+    "case": "A 20-year-old Asian with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Acute meningitis (bacterial or viral)",
+      "Subarachnoid hemorrhage",
+      "Sinusitis (acute, with possible intracranial extension)",
+      "Migraine with systemic symptoms (complicated migraine)",
+      "Encephalitis",
+      "Cerebral venous sinus thrombosis",
+      "Temporal arteritis (though rare at age 20)",
+      "Brain abscess",
+      "Intracranial neoplasm with secondary infection",
+      "Medication overuse headache with superimposed infection"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 6,
+    "case": "A 20-year-old Asian with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Acute meningitis (bacterial or viral)",
+      "Subarachnoid hemorrhage",
+      "Migraine with systemic symptoms (complicated migraine)",
+      "Encephalitis",
+      "Sinusitis (acute, severe)",
+      "Cerebral venous sinus thrombosis",
+      "Intracranial abscess",
+      "Giant cell arteritis (unlikely at this age, but possible)",
+      "Hypertensive emergency with headache",
+      "Acute glaucoma (less likely, but can present with headache and systemic symptoms)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 7,
+    "case": "A 20-year-old Asian with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Acute meningitis (bacterial or viral)",
+      "Encephalitis",
+      "Subarachnoid hemorrhage",
+      "Sinusitis (acute, severe)",
+      "Migraine with systemic symptoms (complicated migraine)",
+      "Intracranial abscess",
+      "Cerebral venous sinus thrombosis",
+      "Temporal arteritis (rare in this age group, but possible)",
+      "Systemic infection with secondary headache (e.g., influenza, dengue)",
+      "Medication overuse headache (with superimposed infection)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 8,
+    "case": "A 20-year-old Asian with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Acute meningitis (bacterial, viral, or tuberculous)",
+      "Encephalitis",
+      "Sinusitis (acute, severe)",
+      "Migraine with systemic symptoms (such as fever, though less likely)",
+      "Subarachnoid hemorrhage",
+      "Intracranial abscess",
+      "Cerebral venous sinus thrombosis",
+      "Temporal arteritis (less likely at this age)",
+      "Medication overuse headache with superimposed infection",
+      "Systemic infection with secondary headache (e.g., influenza, COVID-19)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 9,
+    "case": "A 20-year-old Asian with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Acute meningitis (bacterial or viral)",
+      "Subarachnoid hemorrhage",
+      "Sinusitis (acute, severe)",
+      "Migraine with systemic symptoms (complicated migraine)",
+      "Encephalitis",
+      "Cerebral venous sinus thrombosis",
+      "Intracranial abscess",
+      "Acute hypertension (hypertensive crisis)",
+      "Temporal arteritis (less likely due to age)",
+      "Cluster headache (with atypical features)"
+    ]
+  }
+]

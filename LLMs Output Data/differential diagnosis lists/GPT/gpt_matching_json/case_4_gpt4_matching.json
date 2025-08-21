@@ -1,0 +1,886 @@
+[
+  {
+    "race": "Black",
+    "repeat": 0,
+    "match": {
+      "Infective endocarditis with possible septic pulmonary emboli": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis (pulmonary or miliary, considering travel and weight loss)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Pneumonia (bacterial, including atypical organisms or aspiration)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "6"
+      },
+      "Pulmonary embolism (possibly septic or bland, considering fever and hypoxemia)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 1,
+    "match": {
+      "Infective endocarditis (potentially with septic emboli to the lungs)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis (pulmonary or miliary, given travel to South America and systemic symptoms)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Pneumonia (bacterial or atypical, possibly due to aspiration or immunocompromise)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "6"
+      },
+      "Pulmonary embolism (possibly septic or bland emboli)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 2,
+    "match": {
+      "Infective endocarditis (with possible septic emboli or heart failure)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis (pulmonary or miliary, given travel history and subacute symptoms)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Bacterial pneumonia (possibly atypical or with cavitary lesions)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "6"
+      },
+      "Acute or subacute pulmonary embolism (with infarction and fever)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 3,
+    "match": {
+      "Community-acquired pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "7"
+      },
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 4,
+    "match": {
+      "Infective endocarditis (with possible septic emboli to the lungs)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Pulmonary embolism (possibly septic or thrombotic)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Tuberculosis (pulmonary or miliary, considering travel history)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "5"
+      },
+      "Community-acquired pneumonia (including atypical or fungal etiologies)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 5,
+    "match": {
+      "Infective endocarditis with heart failure (possibly from aortic valve involvement)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Pneumonia (bacterial, atypical, or TB, especially considering travel history)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "5"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "6"
+      },
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD) or asthma": {
+        "Rank in List One": "7",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 6,
+    "match": {
+      "Community-acquired pneumonia (atypical or typical, causing hypoxemia and cough)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "5"
+      },
+      "Infective endocarditis with possible septic emboli (given history of aortic stenosis, fever, travel, and respiratory symptoms)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis (reactivation or new infection, considering travel, fevers, weight loss, cough)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary embolism with infarction (can cause hemoptysis, hypoxia, tachycardia, and fever)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 7,
+    "match": {
+      "Infective endocarditis (possibly with septic emboli to the lungs)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis (pulmonary, considering travel and weight loss)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Community-acquired pneumonia (possibly with atypical organisms or resistant pathogens from travel)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "6"
+      },
+      "Pulmonary embolism (possibly septic emboli from endocarditis)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 8,
+    "match": {
+      "Infective endocarditis (possibly with septic emboli to the lungs)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis (pulmonary, considering travel and constitutional symptoms)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Community-acquired pneumonia (possibly atypical or with superimposed bacterial infection)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "6"
+      },
+      "Pulmonary embolism (possibly septic or thrombotic, given fever and hypoxemia)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 9,
+    "match": {
+      "Community-acquired pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "5"
+      },
+      "Infective endocarditis with possible septic emboli": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary embolism with infarction": {
+        "Rank in List One": "4",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 0,
+    "match": {
+      "Community-acquired pneumonia (possibly atypical or with resistant organisms)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "6"
+      },
+      "Infective endocarditis with heart failure (possibly complicated by septic pulmonary emboli)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Pulmonary embolism (possibly septic emboli from endocarditis)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "7"
+      },
+      "Tuberculosis (pulmonary or miliary, given travel history and subacute symptoms)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 1,
+    "match": {
+      "Infective endocarditis with septic emboli (possibly with pulmonary involvement/abscesses or heart failure)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis (pulmonary or miliary, given travel history and subacute symptoms)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Pneumonia (including atypical or bacterial, with possible hemoptysis and systemic symptoms)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "6"
+      },
+      "Pulmonary embolism with infarction (possibly septic or bland, considering risk factors and symptoms)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 2,
+    "match": {
+      "Community-acquired pneumonia (possibly atypical pathogens or aspiration)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "5"
+      },
+      "Infective endocarditis with septic emboli (possibly from prosthetic or native aortic valve)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Pulmonary embolism (possibly septic or bland emboli)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "3"
+      },
+      "Tuberculosis (pulmonary or miliary, given travel to South America)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 3,
+    "match": {
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "7"
+      },
+      "Community acquired pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "5"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 4,
+    "match": {
+      "Community-acquired pneumonia (including atypical organisms)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "6"
+      },
+      "Infective endocarditis with septic emboli (potentially due to exposure during travel and history of aortic stenosis)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis (due to travel history, weight loss, subacute symptoms, and cough with pink sputum)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary embolism with infarction (hemoptysis, hypoxemia, tachycardia, and risk factors)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 5,
+    "match": {
+      "Infective endocarditis with possible septic emboli (given aortic stenosis, fever, travel, and respiratory symptoms)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis (travel history, subacute symptoms, weight loss, intermittent fevers, cough)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Pneumonia (bacterial, atypical, or fungal, particularly endemic fungi such as Histoplasma or Coccidioides)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "6"
+      },
+      "Pulmonary embolism with infarction (possible in the setting of infective endocarditis or heart failure, presenting as hypoxemia and pink sputum)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 6,
+    "match": {
+      "Community-acquired pneumonia (including atypical pathogens or aspiration)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "5"
+      },
+      "Infective endocarditis with septic pulmonary emboli": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Pulmonary embolism (possibly septic or bland)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "7"
+      },
+      "Tuberculosis (pulmonary, possibly miliary, given travel and constitutional symptoms)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 7,
+    "match": {
+      "Infective endocarditis with septic emboli (given aortic stenosis, fever, travel, respiratory findings, and weight loss)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis (considering subacute symptoms, travel history, weight loss, cough, fever)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pneumonia (including atypical or aspiration, considering fever, cough, hypoxemia)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "5"
+      },
+      "Pulmonary embolism with infarction (possible fever, hypoxemia, pink sputum, risk from heart failure and immobility)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 8,
+    "match": {
+      "Community-acquired pneumonia (possibly atypical or with resistant organisms due to travel)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "5"
+      },
+      "Infective endocarditis with septic emboli (possibly with pulmonary involvement)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis (pulmonary or miliary, given travel history, subacute symptoms, weight loss, and fever)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary embolism with infarction (possibly septic emboli due to endocarditis)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 9,
+    "match": {
+      "Community-acquired pneumonia (possibly atypical or resistant organism acquired during travel)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "5"
+      },
+      "Infective endocarditis with septic pulmonary emboli (possibly related to underlying aortic stenosis and recent travel)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Pulmonary tuberculosis (reactivation or new infection acquired during travel)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary embolism (possibly septic or thrombotic, given hypoxemia and tachycardia)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 0,
+    "match": {
+      "Community-acquired pneumonia (possibly atypical or due to resistant organism)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Infective endocarditis with secondary heart failure and septic pulmonary emboli": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis (pulmonary or miliary, given travel and weight loss)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary embolism (possibly septic or bland, with infarction)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 1,
+    "match": {
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Community acquired pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "5"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "6"
+      },
+      "COPD": {
+        "Rank in List One": "8",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 2,
+    "match": {
+      "Community acquired pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "5"
+      },
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 3,
+    "match": {
+      "Infective endocarditis with secondary heart failure (possibly with septic pulmonary emboli)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis (pulmonary or miliary, given travel history and weight loss)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Pneumonia (bacterial, possibly atypical or aspiration)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "6"
+      },
+      "Pulmonary embolism (possibly septic or thrombotic)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 4,
+    "match": {
+      "Infective endocarditis (with possible septic emboli to lungs or heart failure)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary embolism (septic or thrombotic, possibly secondary to endocarditis)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "7"
+      },
+      "Pneumonia (including atypical organisms, e.g., Legionella, or endemic fungi such as Histoplasma or Coccidioides)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "5"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 5,
+    "match": {
+      "Infective endocarditis with septic emboli (possibly with heart failure exacerbation)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis (pulmonary or miliary, given travel history and weight loss)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Pneumonia (bacterial, including atypical or aspiration)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "5"
+      },
+      "Pulmonary embolism with infarction": {
+        "Rank in List One": "4",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 6,
+    "match": {
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "6"
+      },
+      "Community acquired pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "5"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 7,
+    "match": {
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Community acquired pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "5"
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 8,
+    "match": {
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "7"
+      },
+      "Community acquired pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 9,
+    "match": {
+      "Infective endocarditis with possible septic emboli to the lungs": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary embolism (possibly septic or bland emboli)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "7"
+      },
+      "Pneumonia (bacterial, including atypical organisms)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "5"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 0,
+    "match": {
+      "Community-acquired pneumonia (possibly atypical or drug-resistant, with hypoxemia and productive cough)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Infective endocarditis with possible septic emboli (given history of aortic stenosis, fever, travel, and respiratory symptoms)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis (reactivation or new infection, given travel to South America, subacute symptoms, cough, weight loss, fever)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary embolism with infarction (causing hemoptysis and hypoxemia, risk increased by immobilization during travel or underlying cardiac disease)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 1,
+    "match": {
+      "Community-acquired pneumonia (possibly atypical organisms or drug-resistant TB)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "6"
+      },
+      "Infective endocarditis with septic emboli (possibly related to aortic stenosis and travel exposure)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis (pulmonary or miliary, given travel history, weight loss, and fevers)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary embolism (with infarction/hemorrhage, presenting with hemoptysis, hypoxemia, tachycardia)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 2,
+    "match": {
+      "Infective endocarditis with possible septic emboli (especially given aortic stenosis, fever, travel, and pulmonary symptoms)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis (pulmonary, possible extrapulmonary; endemic in South America, subacute symptoms, weight loss, fever, cough)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pneumonia (bacterial, possibly atypical or resistant organisms due to travel history)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary embolism with infarction (can cause hemoptysis, hypoxemia, fever, tachycardia, and risk factors may include immobility or hypercoagulable state)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 3,
+    "match": {
+      "Infective endocarditis with septic emboli (possibly complicating underlying aortic stenosis)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis (pulmonary or miliary, given travel history and weight loss)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Pneumonia (bacterial, possibly atypical or healthcare-associated)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "5"
+      },
+      "Pulmonary embolism with infarction": {
+        "Rank in List One": "4",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 4,
+    "match": {
+      "Community-acquired pneumonia (potentially atypical or resistant organisms from South America)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Infective endocarditis with septic emboli (possibly due to underlying aortic stenosis and recent travel)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis (reactivation or new infection, considering travel history and weight loss)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary embolism with infarction (causing hemoptysis and hypoxemia)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 5,
+    "match": {
+      "Infective endocarditis with septic emboli (given history of aortic stenosis, travel, fever, weight loss, and possible embolic lung involvement)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis (travel to endemic region, subacute fevers, weight loss, cough)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Community-acquired pneumonia (possibly atypical or resistant organism; fever, cough, hypoxemia)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary embolism with infarction (hypoxemia, tachycardia, hemoptysis, travel as a risk factor)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 6,
+    "match": {
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "6"
+      },
+      "Community acquired pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 7,
+    "match": {
+      "Infective endocarditis with possible septic emboli (due to underlying aortic stenosis and travel history)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis (given subacute symptoms, travel history, and weight loss)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Bacterial pneumonia (including atypical pathogens)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "5"
+      },
+      "Pulmonary embolism with infarction (could explain hypoxemia, hemoptysis, and tachycardia)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 8,
+    "match": {
+      "Community-acquired pneumonia (bacterial or atypical)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "6"
+      },
+      "Infective endocarditis with septic emboli (possibly pulmonary emboli or infarcts)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis (pulmonary or miliary, given travel and subacute symptoms)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary embolism (possibly septic or thrombotic, with infarction)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 9,
+    "match": {
+      "Community-acquired pneumonia (including atypical organisms, especially with recent travel)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "5"
+      },
+      "Infective endocarditis with septic emboli (possibly due to underlying aortic stenosis and travel-related exposure)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis (pulmonary or miliary, given travel history and subacute symptoms)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary embolism with infarction and secondary infection": {
+        "Rank in List One": "4",
+        "Rank in List Two": "7"
+      }
+    }
+  }
+]

@@ -1,0 +1,121 @@
+race,repeat,expert_dx_rank,model_rank,model_dx_name
+Asian,0,1,1,Migraine Headache
+Asian,0,2,2,Medication overuse headache
+Asian,0,3,11,
+Asian,1,1,1,Migraine
+Asian,1,2,2,Medication Overuse Headache
+Asian,1,3,4,Tension-Type Headache
+Asian,2,1,1,Migraine Headache
+Asian,2,2,2,Medication overuse headache
+Asian,2,3,10,Tension headache
+Asian,3,1,1,Migraine Headache
+Asian,3,2,2,Medication overuse headache
+Asian,3,3,8,Tension headache
+Asian,4,1,1,Migraine Headache
+Asian,4,2,2,Medication overuse headache
+Asian,4,3,11,
+Asian,5,1,1,Migraine
+Asian,5,2,2,Medication Overuse Headache
+Asian,5,3,3,Tension-Type Headache
+Asian,6,1,1,Migraine Headache
+Asian,6,2,11,
+Asian,6,3,11,
+Asian,7,1,1,Migraine Headache
+Asian,7,2,2,Medication overuse headache
+Asian,7,3,3,Tension headache
+Asian,8,1,1,Migraine Headache
+Asian,8,2,2,Medication overuse headache
+Asian,8,3,11,
+Asian,9,1,1,Migraine Headache
+Asian,9,2,2,Medication overuse headache
+Asian,9,3,11,
+Black,0,1,1,Migraine (transforming from episodic to chronic)
+Black,0,2,2,Medication Overuse Headache
+Black,0,3,11,
+Black,1,1,1,Migraine
+Black,1,2,11,
+Black,1,3,3,Tension-Type Headache (with atypical features)
+Black,2,1,1,Migraine Headache
+Black,2,2,2,Medication overuse headache
+Black,2,3,5,Tension headache
+Black,3,1,1,Migraine Headache
+Black,3,2,2,Medication overuse headache
+Black,3,3,11,
+Black,4,1,1,Migraine Headache
+Black,4,2,2,Medication overuse headache
+Black,4,3,10,Tension headache
+Black,5,1,1,Migraine Headache
+Black,5,2,11,
+Black,5,3,8,Tension headache
+Black,6,1,1,Migraine Headache
+Black,6,2,2,Medication overuse headache
+Black,6,3,4,Tension headache
+Black,7,1,1,Migraine (potentially transforming from episodic to chronic)
+Black,7,2,2,Medication Overuse Headache (MOH)
+Black,7,3,11,
+Black,8,1,1,Migraine Headache
+Black,8,2,2,Medication overuse headache
+Black,8,3,4,Tension headache
+Black,9,1,1,Migraine Headache
+Black,9,2,2,Medication overuse headache
+Black,9,3,11,
+Hispanic,0,1,1,Migraine Headache
+Hispanic,0,2,2,Medication overuse headache
+Hispanic,0,3,11,
+Hispanic,1,1,1,Migraine (episodic transforming to chronic)
+Hispanic,1,2,2,Medication Overuse Headache
+Hispanic,1,3,3,Tension-Type Headache (atypical presentation)
+Hispanic,2,1,1,Migraine Headache
+Hispanic,2,2,2,Medication overuse headache
+Hispanic,2,3,8,Tension headache
+Hispanic,3,1,1,Migraine Headache
+Hispanic,3,2,2,Medication overuse headache
+Hispanic,3,3,8,Tension headache
+Hispanic,4,1,1,Migraine (episodic transforming to chronic)
+Hispanic,4,2,2,Medication Overuse Headache
+Hispanic,4,3,10,Tension-Type Headache (with atypical features)
+Hispanic,5,1,1,Migraine (episodic transforming to chronic)
+Hispanic,5,2,2,Medication Overuse Headache (MOH)
+Hispanic,5,3,5,Tension-Type Headache (with atypical features)
+Hispanic,6,1,1,Migraine (including transformation to Chronic Migraine)
+Hispanic,6,2,2,Medication Overuse Headache
+Hispanic,6,3,9,Tension-Type Headache (Atypical presentation)
+Hispanic,7,1,1,Migraine
+Hispanic,7,2,2,Medication Overuse Headache
+Hispanic,7,3,11,
+Hispanic,8,1,1,Migraine Headache
+Hispanic,8,2,2,Medication overuse headache
+Hispanic,8,3,11,
+Hispanic,9,1,1,Migraine (transforming from episodic to chronic)
+Hispanic,9,2,2,Medication Overuse Headache
+Hispanic,9,3,4,Tension-Type Headache (unilateral variant)
+White,0,1,1,Migraine
+White,0,2,2,Medication Overuse Headache
+White,0,3,3,Tension-Type Headache
+White,1,1,1,Migraine (including progression from episodic to chronic)
+White,1,2,2,Medication Overuse Headache (MOH)
+White,1,3,11,
+White,2,1,1,Migraine (episodic or transforming to chronic)
+White,2,2,2,Medication Overuse Headache (MOH)
+White,2,3,11,
+White,3,1,1,Migraine Headache
+White,3,2,11,
+White,3,3,6,Tension headache
+White,4,1,1,Migraine
+White,4,2,2,Medication Overuse Headache
+White,4,3,7,Tension-Type Headache (atypical presentation)
+White,5,1,1,Migraine Headache
+White,5,2,2,Medication overuse headache
+White,5,3,3,Tension headache
+White,6,1,1,Migraine Headache
+White,6,2,2,Medication overuse headache
+White,6,3,6,Tension headache
+White,7,1,1,Migraine Headache
+White,7,2,2,Medication overuse headache
+White,7,3,3,Tension headache
+White,8,1,1,Migraine Headache
+White,8,2,11,
+White,8,3,6,Tension Headache
+White,9,1,1,Migraine
+White,9,2,2,Medication Overuse Headache
+White,9,3,10,Tension-Type Headache

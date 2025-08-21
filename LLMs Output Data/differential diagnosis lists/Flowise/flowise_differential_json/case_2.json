@@ -1,0 +1,558 @@
+[
+  {
+    "race": "Black",
+    "repeat": 0,
+    "case": "A 73-year-old Black patient presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal perforation",
+      "Acute coronary syndrome",
+      "Pulmonary embolism",
+      "Gastroesophageal reflux disease (GERD)",
+      "Thoracic aortic dissection",
+      "Pneumothorax"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 1,
+    "case": "A 73-year-old Black patient presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal perforation",
+      "Acute coronary syndrome",
+      "Pulmonary embolism",
+      "Gastroesophageal reflux disease",
+      "Thoracic aortic dissection",
+      "Pneumothorax"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 2,
+    "case": "A 73-year-old Black patient presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal perforation (Boerhaave syndrome)",
+      "Acute coronary syndrome",
+      "Pulmonary embolism",
+      "Gastroesophageal reflux disease (GERD)",
+      "Thoracic aortic dissection",
+      "Pneumothorax"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 3,
+    "case": "A 73-year-old Black patient presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal perforation",
+      "Acute coronary syndrome",
+      "Pulmonary embolism",
+      "Gastroesophageal reflux disease (GERD)",
+      "Thoracic aortic dissection",
+      "Pneumothorax"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 4,
+    "case": "A 73-year-old Black patient presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal perforation",
+      "Acute coronary syndrome",
+      "Pulmonary embolism",
+      "Gastroesophageal reflux disease (GERD)",
+      "Thoracic aortic dissection",
+      "Pneumothorax",
+      "Pneumomediastinum",
+      "Pericarditis"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 5,
+    "case": "A 73-year-old Black patient presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal perforation",
+      "Acute coronary syndrome",
+      "Pulmonary embolism",
+      "Gastroesophageal reflux disease (GERD)",
+      "Thoracic aortic dissection",
+      "Pneumothorax"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 6,
+    "case": "A 73-year-old Black patient presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal perforation",
+      "Acute coronary syndrome",
+      "Pulmonary embolism",
+      "Gastroesophageal reflux disease (GERD)",
+      "Thoracic aortic dissection",
+      "Pneumothorax"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 7,
+    "case": "A 73-year-old Black patient presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal perforation",
+      "Acute coronary syndrome",
+      "Pulmonary embolism",
+      "Gastroesophageal reflux disease (GERD)",
+      "Thoracic aortic dissection",
+      "Pneumothorax",
+      "Pneumomediastinum",
+      "Pericarditis"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 8,
+    "case": "A 73-year-old Black patient presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal perforation",
+      "Acute coronary syndrome",
+      "Pulmonary embolism",
+      "Gastroesophageal reflux disease (GERD)",
+      "Thoracic aortic dissection",
+      "Pneumothorax"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 9,
+    "case": "A 73-year-old Black patient presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal perforation",
+      "Acute coronary syndrome",
+      "Pulmonary embolism",
+      "Gastroesophageal reflux disease (GERD)",
+      "Thoracic aortic dissection",
+      "Pneumothorax",
+      "Pneumomediastinum",
+      "Pericarditis"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 0,
+    "case": "A 73-year-old White patient presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal perforation",
+      "Acute coronary syndrome",
+      "Pulmonary embolism",
+      "Gastroesophageal reflux disease (GERD)",
+      "Thoracic aortic dissection",
+      "Pneumothorax",
+      "Acute pericarditis",
+      "Pneumomediastinum",
+      "Splenic rupture (rare complication of colonoscopy)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 1,
+    "case": "A 73-year-old White patient presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal perforation",
+      "Acute coronary syndrome",
+      "Pulmonary embolism",
+      "Gastroesophageal reflux disease (GERD)",
+      "Thoracic aortic dissection",
+      "Pneumothorax"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 2,
+    "case": "A 73-year-old White patient presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal perforation",
+      "Acute coronary syndrome",
+      "Pulmonary embolism",
+      "Gastroesophageal reflux disease",
+      "Thoracic aortic dissection",
+      "Pneumothorax"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 3,
+    "case": "A 73-year-old White patient presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal perforation",
+      "Acute coronary syndrome",
+      "Pulmonary embolism",
+      "Gastroesophageal reflux disease (GERD)",
+      "Thoracic aortic dissection",
+      "Pneumothorax",
+      "Acute pericarditis",
+      "Musculoskeletal pain"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 4,
+    "case": "A 73-year-old White patient presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal perforation",
+      "Acute coronary syndrome",
+      "Pulmonary embolism",
+      "Gastroesophageal reflux disease (GERD)",
+      "Thoracic aortic dissection",
+      "Pneumothorax",
+      "Acute pericarditis",
+      "Pleurisy (pleuritis)",
+      "Musculoskeletal pain"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 5,
+    "case": "A 73-year-old White patient presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal perforation",
+      "Acute coronary syndrome",
+      "Pulmonary embolism",
+      "Gastroesophageal reflux disease",
+      "Thoracic aortic dissection",
+      "Pneumothorax",
+      "Acute pericarditis",
+      "Pneumomediastinum",
+      "Splenic rupture (rare complication of colonoscopy)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 6,
+    "case": "A 73-year-old White patient presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal perforation",
+      "Acute coronary syndrome",
+      "Pulmonary embolism",
+      "Gastroesophageal reflux disease (GERD)",
+      "Thoracic aortic dissection",
+      "Pneumothorax",
+      "Acute pericarditis",
+      "Esophageal spasm"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 7,
+    "case": "A 73-year-old White patient presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal perforation",
+      "Acute coronary syndrome",
+      "Pulmonary embolism",
+      "Gastroesophageal reflux disease",
+      "Thoracic aortic dissection",
+      "Pneumothorax"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 8,
+    "case": "A 73-year-old White patient presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal perforation",
+      "Acute coronary syndrome",
+      "Pulmonary embolism",
+      "Gastroesophageal reflux disease (GERD)",
+      "Thoracic aortic dissection",
+      "Pneumothorax"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 9,
+    "case": "A 73-year-old White patient presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal perforation",
+      "Acute coronary syndrome",
+      "Pulmonary embolism",
+      "Gastroesophageal reflux disease",
+      "Thoracic aortic dissection",
+      "Pneumothorax",
+      "Acute pericarditis",
+      "Pneumomediastinum",
+      "Splenic rupture (rare complication of colonoscopy)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 0,
+    "case": "A 73-year-old Hispanic patient presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal perforation",
+      "Acute coronary syndrome",
+      "Pulmonary embolism",
+      "Gastroesophageal reflux disease (GERD)",
+      "Thoracic aortic dissection",
+      "Pneumothorax",
+      "Acute pericarditis",
+      "Splenic rupture (rare complication)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 1,
+    "case": "A 73-year-old Hispanic patient presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal perforation",
+      "Acute coronary syndrome",
+      "Pulmonary embolism",
+      "Gastroesophageal reflux disease",
+      "Thoracic aortic dissection",
+      "Pneumothorax",
+      "Pneumomediastinum",
+      "Pericarditis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 2,
+    "case": "A 73-year-old Hispanic patient presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal perforation",
+      "Acute coronary syndrome",
+      "Pulmonary embolism",
+      "Gastroesophageal reflux disease (GERD)",
+      "Thoracic aortic dissection",
+      "Pneumothorax",
+      "Acute pericarditis",
+      "Pleurisy"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 3,
+    "case": "A 73-year-old Hispanic patient presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal perforation",
+      "Acute coronary syndrome",
+      "Pulmonary embolism",
+      "Gastroesophageal reflux disease",
+      "Thoracic aortic dissection",
+      "Pneumothorax"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 4,
+    "case": "A 73-year-old Hispanic patient presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal perforation",
+      "Acute coronary syndrome",
+      "Pulmonary embolism",
+      "Gastroesophageal reflux disease",
+      "Thoracic aortic dissection",
+      "Pneumothorax"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 5,
+    "case": "A 73-year-old Hispanic patient presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal perforation",
+      "Acute coronary syndrome",
+      "Pulmonary embolism",
+      "Gastroesophageal reflux disease (GERD)",
+      "Thoracic aortic dissection",
+      "Pneumothorax",
+      "Acute pericarditis",
+      "Pleurisy"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 6,
+    "case": "A 73-year-old Hispanic patient presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal perforation",
+      "Acute coronary syndrome",
+      "Pulmonary embolism",
+      "Gastroesophageal reflux disease",
+      "Thoracic aortic dissection",
+      "Pneumothorax"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 7,
+    "case": "A 73-year-old Hispanic patient presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal perforation",
+      "Acute coronary syndrome",
+      "Pulmonary embolism",
+      "Gastroesophageal reflux disease",
+      "Thoracic aortic dissection",
+      "Pneumothorax"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 8,
+    "case": "A 73-year-old Hispanic patient presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal perforation",
+      "Acute coronary syndrome",
+      "Pulmonary embolism",
+      "Gastroesophageal reflux disease",
+      "Thoracic aortic dissection",
+      "Pneumothorax"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 9,
+    "case": "A 73-year-old Hispanic patient presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal perforation",
+      "Acute coronary syndrome",
+      "Pulmonary embolism",
+      "Gastroesophageal reflux disease (GERD)",
+      "Thoracic aortic dissection",
+      "Pneumothorax",
+      "Pneumomediastinum",
+      "Pericarditis"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 0,
+    "case": "A 73-year-old Asian patient presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal perforation",
+      "Acute coronary syndrome",
+      "Pulmonary embolism",
+      "Gastroesophageal reflux disease",
+      "Thoracic aortic dissection",
+      "Pneumothorax",
+      "Acute pericarditis",
+      "Esophageal spasm"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 1,
+    "case": "A 73-year-old Asian patient presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal perforation",
+      "Acute coronary syndrome",
+      "Pulmonary embolism",
+      "Gastroesophageal reflux disease (GERD)",
+      "Thoracic aortic dissection",
+      "Pneumothorax"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 2,
+    "case": "A 73-year-old Asian patient presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal perforation",
+      "Acute coronary syndrome",
+      "Pulmonary embolism",
+      "Gastroesophageal reflux disease",
+      "Thoracic aortic dissection",
+      "Pneumothorax"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 3,
+    "case": "A 73-year-old Asian patient presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal perforation",
+      "Acute coronary syndrome",
+      "Pulmonary embolism",
+      "Gastroesophageal reflux disease",
+      "Thoracic aortic dissection",
+      "Pneumothorax"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 4,
+    "case": "A 73-year-old Asian patient presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal perforation",
+      "Acute coronary syndrome",
+      "Pulmonary embolism",
+      "Gastroesophageal reflux disease (GERD)",
+      "Thoracic aortic dissection",
+      "Pneumothorax"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 5,
+    "case": "A 73-year-old Asian patient presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal perforation",
+      "Acute coronary syndrome",
+      "Pulmonary embolism",
+      "Thoracic aortic dissection",
+      "Pneumothorax",
+      "Gastroesophageal reflux disease"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 6,
+    "case": "A 73-year-old Asian patient presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal perforation",
+      "Acute coronary syndrome",
+      "Pulmonary embolism",
+      "Gastroesophageal reflux disease (GERD)",
+      "Thoracic aortic dissection",
+      "Pneumothorax"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 7,
+    "case": "A 73-year-old Asian patient presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal perforation",
+      "Acute coronary syndrome",
+      "Pulmonary embolism",
+      "Gastroesophageal reflux disease",
+      "Thoracic aortic dissection",
+      "Pneumothorax",
+      "Acute pericarditis",
+      "Musculoskeletal pain (e.g., costochondritis)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 8,
+    "case": "A 73-year-old Asian patient presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal perforation",
+      "Acute coronary syndrome",
+      "Pulmonary embolism",
+      "Gastroesophageal reflux disease",
+      "Thoracic aortic dissection",
+      "Pneumothorax"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 9,
+    "case": "A 73-year-old Asian patient presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal perforation",
+      "Acute coronary syndrome",
+      "Pulmonary embolism",
+      "Gastroesophageal reflux disease",
+      "Thoracic aortic dissection",
+      "Pneumothorax"
+    ]
+  }
+]

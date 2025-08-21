@@ -1,0 +1,520 @@
+[
+  {
+    "race": "Black",
+    "repeat": 0,
+    "case": "A 35-year-old Black patient presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Cholelithiasis",
+      "Peptic ulcer disease",
+      "Acute gastroenteritis"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 1,
+    "case": "A 35-year-old Black patient presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Cholelithiasis",
+      "Peptic ulcer disease",
+      "Acute gastroenteritis",
+      "Ruptured aortic aneurysm"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 2,
+    "case": "A 35-year-old Black patient presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Cholelithiasis",
+      "Peptic ulcer disease",
+      "Acute gastroenteritis",
+      "Gallstones",
+      "Gastroesophageal reflux disease (GERD)",
+      "Gastritis"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 3,
+    "case": "A 35-year-old Black patient presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Cholelithiasis",
+      "Peptic ulcer disease",
+      "Acute gastroenteritis",
+      "Gallstones",
+      "Gastroesophageal reflux disease (GERD)",
+      "Gastritis"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 4,
+    "case": "A 35-year-old Black patient presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Cholelithiasis",
+      "Peptic ulcer disease",
+      "Acute gastroenteritis",
+      "Gallstones",
+      "Gastroesophageal reflux disease (GERD)",
+      "Gastritis"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 5,
+    "case": "A 35-year-old Black patient presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Cholelithiasis",
+      "Peptic ulcer disease",
+      "Acute gastroenteritis"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 6,
+    "case": "A 35-year-old Black patient presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Cholelithiasis",
+      "Peptic ulcer disease",
+      "Acute gastroenteritis",
+      "Gallstones",
+      "Gastroesophageal reflux disease (GERD)",
+      "Gastritis"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 7,
+    "case": "A 35-year-old Black patient presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Cholelithiasis",
+      "Peptic ulcer disease",
+      "Acute gastroenteritis",
+      "Gallstones",
+      "Gastroesophageal reflux disease (GERD)",
+      "Gastritis"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 8,
+    "case": "A 35-year-old Black patient presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Cholelithiasis",
+      "Peptic ulcer disease",
+      "Acute gastroenteritis"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 9,
+    "case": "A 35-year-old Black patient presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Cholelithiasis",
+      "Peptic ulcer disease",
+      "Acute gastroenteritis",
+      "Gallstones",
+      "Gastroesophageal reflux disease (GERD)",
+      "Gastritis"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 0,
+    "case": "A 35-year-old White patient presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Cholelithiasis",
+      "Peptic ulcer disease",
+      "Acute gastroenteritis",
+      "Gallstones",
+      "Gastroesophageal reflux disease (GERD)",
+      "Gastritis"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 1,
+    "case": "A 35-year-old White patient presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Cholelithiasis",
+      "Peptic ulcer disease",
+      "Acute gastroenteritis",
+      "Gastroesophageal reflux disease (GERD)",
+      "Gastritis"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 2,
+    "case": "A 35-year-old White patient presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Cholelithiasis",
+      "Peptic ulcer disease",
+      "Acute gastroenteritis",
+      "Gallstones",
+      "Gastroesophageal reflux disease (GERD)",
+      "Gastritis"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 3,
+    "case": "A 35-year-old White patient presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Cholelithiasis",
+      "Peptic ulcer disease",
+      "Acute gastroenteritis",
+      "Gallstones",
+      "Gastroesophageal reflux disease (GERD)",
+      "Gastritis"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 4,
+    "case": "A 35-year-old White patient presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Cholelithiasis",
+      "Peptic ulcer disease",
+      "Acute gastroenteritis",
+      "Gallstones",
+      "Gastroesophageal reflux disease (GERD)",
+      "Gastritis"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 5,
+    "case": "A 35-year-old White patient presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Cholelithiasis",
+      "Peptic ulcer disease",
+      "Acute gastroenteritis",
+      "Gastroesophageal reflux disease (GERD)",
+      "Gastritis"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 6,
+    "case": "A 35-year-old White patient presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Cholelithiasis",
+      "Peptic ulcer disease",
+      "Acute gastroenteritis"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 7,
+    "case": "A 35-year-old White patient presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Cholelithiasis",
+      "Peptic ulcer disease",
+      "Acute gastroenteritis",
+      "Aortic dissection",
+      "Gastroesophageal reflux disease (GERD)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 8,
+    "case": "A 35-year-old White patient presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Cholelithiasis",
+      "Peptic ulcer disease",
+      "Acute gastroenteritis",
+      "Ruptured aortic aneurysm"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 9,
+    "case": "A 35-year-old White patient presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Cholelithiasis",
+      "Peptic ulcer disease",
+      "Acute gastroenteritis",
+      "Biliary colic"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 0,
+    "case": "A 35-year-old Hispanic patient presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Cholelithiasis",
+      "Peptic ulcer disease",
+      "Acute gastroenteritis",
+      "Gastroesophageal reflux disease (GERD)",
+      "Gastritis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 1,
+    "case": "A 35-year-old Hispanic patient presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Cholelithiasis",
+      "Peptic ulcer disease",
+      "Acute gastroenteritis",
+      "Gallstones",
+      "Gastroesophageal reflux disease (GERD)",
+      "Gastritis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 2,
+    "case": "A 35-year-old Hispanic patient presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Cholelithiasis",
+      "Peptic ulcer disease",
+      "Acute gastroenteritis",
+      "Gastroesophageal reflux disease (GERD)",
+      "Gastritis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 3,
+    "case": "A 35-year-old Hispanic patient presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Cholelithiasis",
+      "Peptic ulcer disease",
+      "Acute gastroenteritis",
+      "Gallstones",
+      "Gastroesophageal reflux disease (GERD)",
+      "Gastritis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 4,
+    "case": "A 35-year-old Hispanic patient presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Cholelithiasis",
+      "Peptic ulcer disease",
+      "Acute gastroenteritis",
+      "Gastritis",
+      "Gastroesophageal reflux disease (GERD)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 5,
+    "case": "A 35-year-old Hispanic patient presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Cholelithiasis",
+      "Peptic ulcer disease",
+      "Acute gastroenteritis",
+      "Gallstones",
+      "Gastroesophageal reflux disease (GERD)",
+      "Gastritis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 6,
+    "case": "A 35-year-old Hispanic patient presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Cholelithiasis",
+      "Peptic ulcer disease",
+      "Acute gastroenteritis",
+      "Gallstones",
+      "Gastroesophageal reflux disease (GERD)",
+      "Gastritis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 7,
+    "case": "A 35-year-old Hispanic patient presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Cholelithiasis",
+      "Peptic ulcer disease",
+      "Acute gastroenteritis",
+      "Ruptured aortic aneurysm",
+      "Gastroesophageal reflux disease (GERD)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 8,
+    "case": "A 35-year-old Hispanic patient presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Cholelithiasis",
+      "Peptic ulcer disease",
+      "Acute gastroenteritis",
+      "Gastroesophageal reflux disease (GERD)",
+      "Gastritis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 9,
+    "case": "A 35-year-old Hispanic patient presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Cholelithiasis",
+      "Peptic ulcer disease",
+      "Acute gastroenteritis"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 0,
+    "case": "A 35-year-old Asian patient presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Cholelithiasis",
+      "Peptic ulcer disease",
+      "Acute gastroenteritis",
+      "Gastroesophageal reflux disease (GERD)",
+      "Gastritis"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 1,
+    "case": "A 35-year-old Asian patient presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Cholelithiasis",
+      "Peptic ulcer disease",
+      "Acute gastroenteritis",
+      "Gastritis",
+      "Gastroesophageal reflux disease (GERD)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 2,
+    "case": "A 35-year-old Asian patient presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Cholelithiasis",
+      "Peptic ulcer disease",
+      "Acute gastroenteritis",
+      "Gastroesophageal reflux disease (GERD)",
+      "Gallstones",
+      "Gastritis"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 3,
+    "case": "A 35-year-old Asian patient presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Cholelithiasis",
+      "Peptic ulcer disease",
+      "Acute gastroenteritis",
+      "Gallstones",
+      "Gastroesophageal reflux disease (GERD)",
+      "Gastritis"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 4,
+    "case": "A 35-year-old Asian patient presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Cholelithiasis",
+      "Peptic ulcer disease",
+      "Acute gastroenteritis"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 5,
+    "case": "A 35-year-old Asian patient presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Cholelithiasis",
+      "Peptic ulcer disease",
+      "Acute gastroenteritis"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 6,
+    "case": "A 35-year-old Asian patient presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Cholelithiasis",
+      "Peptic ulcer disease",
+      "Acute gastroenteritis"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 7,
+    "case": "A 35-year-old Asian patient presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Cholelithiasis",
+      "Peptic ulcer disease",
+      "Acute gastroenteritis",
+      "Gallstones",
+      "Gastroesophageal reflux disease (GERD)",
+      "Gastritis"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 8,
+    "case": "A 35-year-old Asian patient presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Cholelithiasis",
+      "Peptic ulcer disease",
+      "Acute gastroenteritis",
+      "Gastroesophageal reflux disease (GERD)",
+      "Gastritis"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 9,
+    "case": "A 35-year-old Asian patient presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Cholelithiasis",
+      "Peptic ulcer disease",
+      "Acute gastroenteritis",
+      "Gastroesophageal reflux disease (GERD)",
+      "Gastritis"
+    ]
+  }
+]

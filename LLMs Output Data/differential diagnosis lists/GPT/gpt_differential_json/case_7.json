@@ -1,0 +1,682 @@
+[
+  {
+    "race": "Black",
+    "repeat": 0,
+    "case": "A 21-year-old Black with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute pancreatitis (alcohol-induced)",
+      "Perforated peptic ulcer",
+      "Acute appendicitis (with perforation or peritonitis)",
+      "Acute alcoholic gastritis with perforation",
+      "Small bowel obstruction with perforation",
+      "Mesenteric ischemia (less likely at this age, but possible with severe symptoms)",
+      "Acute cholecystitis (with or without perforation)",
+      "Spontaneous bacterial peritonitis (especially if underlying liver disease)",
+      "Ruptured viscus (e.g., Meckel's diverticulum)",
+      "Gastrointestinal perforation due to other causes (e.g., trauma, ingestion of foreign body)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 1,
+    "case": "A 21-year-old Black with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute pancreatitis (alcohol-induced)",
+      "Perforated peptic ulcer",
+      "Acute appendicitis with perforation",
+      "Acute cholecystitis (possibly with perforation)",
+      "Acute alcoholic gastritis with perforation",
+      "Small bowel obstruction with ischemia/perforation",
+      "Mesenteric ischemia",
+      "Spontaneous bacterial peritonitis (if underlying liver disease)",
+      "Acute hepatitis (alcoholic or viral, with peritonitis)",
+      "Acute diverticulitis with perforation (less common at this age but possible)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 2,
+    "case": "A 21-year-old Black with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute pancreatitis (alcohol-induced)",
+      "Perforated peptic ulcer",
+      "Acute alcoholic gastritis with perforation",
+      "Acute appendicitis (with perforation/peritonitis)",
+      "Small bowel obstruction with ischemia/perforation",
+      "Acute cholecystitis with perforation",
+      "Mesenteric ischemia",
+      "Gastric or duodenal ulcer (non-perforated)",
+      "Acute hepatitis (alcoholic or viral, with severe presentation)",
+      "Spontaneous bacterial peritonitis (especially if underlying liver disease)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 3,
+    "case": "A 21-year-old Black with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute pancreatitis (alcohol-induced)",
+      "Perforated peptic ulcer",
+      "Acute appendicitis (with perforation/peritonitis)",
+      "Acute cholecystitis (possibly with perforation)",
+      "Small bowel obstruction with perforation",
+      "Gastrointestinal perforation (other etiology, e.g., diverticulitis)",
+      "Alcoholic gastritis with perforation",
+      "Mesenteric ischemia",
+      "Acute hepatitis (fulminant, less likely to cause peritonitis)",
+      "Spontaneous bacterial peritonitis (in context of underlying liver disease)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 4,
+    "case": "A 21-year-old Black with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute pancreatitis (alcohol-induced)",
+      "Perforated peptic ulcer",
+      "Acute alcoholic gastritis with possible perforation",
+      "Acute appendicitis (with perforation and peritonitis)",
+      "Acute cholecystitis (potentially with perforation)",
+      "Small bowel obstruction with ischemia or perforation",
+      "Mesenteric ischemia",
+      "Spontaneous bacterial peritonitis (less likely without liver disease)",
+      "Gastrointestinal perforation (other etiology, e.g., Meckel's diverticulum)",
+      "Acute hepatitis (alcoholic or viral, less likely to present with peritonitis)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 5,
+    "case": "A 21-year-old Black with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute pancreatitis (alcohol-induced)",
+      "Perforated peptic ulcer",
+      "Acute appendicitis (with perforation/peritonitis)",
+      "Acute cholecystitis",
+      "Acute alcoholic gastritis with perforation",
+      "Small bowel obstruction with perforation",
+      "Mesenteric ischemia",
+      "Spontaneous bacterial peritonitis (less likely without known ascites)",
+      "Acute hepatitis (alcoholic or viral, with peritoneal signs due to rupture/hemorrhage)",
+      "Ruptured viscus of another etiology (e.g., Meckel's diverticulum perforation)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 6,
+    "case": "A 21-year-old Black with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute pancreatitis (alcohol-induced)",
+      "Perforated peptic ulcer",
+      "Acute appendicitis with perforation",
+      "Acute cholecystitis (possibly gangrenous or perforated)",
+      "Acute alcoholic gastritis with perforation",
+      "Small bowel obstruction with perforation",
+      "Mesenteric ischemia",
+      "Spontaneous bacterial peritonitis (especially if underlying liver disease)",
+      "Ruptured viscus (e.g., due to trauma or underlying ulcer)",
+      "Acute hepatitis (alcoholic or viral, presenting atypically)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 7,
+    "case": "A 21-year-old Black with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute pancreatitis (alcohol-induced)",
+      "Perforated peptic ulcer",
+      "Acute appendicitis with perforation",
+      "Acute cholecystitis (possibly gangrenous or perforated)",
+      "Small bowel perforation (e.g., due to ischemia or trauma)",
+      "Gastrointestinal perforation secondary to alcohol-induced gastritis/ulceration",
+      "Mesenteric ischemia",
+      "Acute alcoholic hepatitis with secondary peritonitis (e.g., spontaneous bacterial peritonitis if underlying liver disease)",
+      "Ruptured viscus due to trauma (possibly related to intoxication)",
+      "Acute bowel obstruction with perforation"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 8,
+    "case": "A 21-year-old Black with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute pancreatitis (alcohol-induced)",
+      "Perforated peptic ulcer",
+      "Acute appendicitis (with perforation/peritonitis)",
+      "Acute cholecystitis",
+      "Small bowel obstruction (with possible perforation)",
+      "Spontaneous bacterial peritonitis",
+      "Mesenteric ischemia",
+      "Gastrointestinal perforation from other causes (e.g., diverticulitis)",
+      "Acute alcoholic gastritis with perforation",
+      "Diabetic ketoacidosis (if underlying diabetes)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 9,
+    "case": "A 21-year-old Black with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute pancreatitis (alcohol-induced)",
+      "Perforated peptic ulcer",
+      "Acute alcoholic gastritis with perforation",
+      "Acute appendicitis with perforation",
+      "Small bowel obstruction with ischemia/perforation",
+      "Acute cholecystitis (possible perforation)",
+      "Mesenteric ischemia",
+      "Spontaneous bacterial peritonitis (less likely without ascites)",
+      "Acute hepatitis (alcoholic or viral)",
+      "Bowel perforation due to other causes (e.g., trauma, inflammatory bowel disease)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 0,
+    "case": "A 21-year-old White with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute pancreatitis (alcohol-induced)",
+      "Perforated peptic ulcer",
+      "Acute alcoholic gastritis with possible perforation",
+      "Acute appendicitis with perforation",
+      "Small bowel obstruction with ischemia/necrosis",
+      "Acute cholecystitis with perforation",
+      "Mesenteric ischemia (less likely at this age but possible with severe binge drinking)",
+      "Spontaneous bacterial peritonitis (less likely without underlying liver disease but possible with binge alcohol use)",
+      "Acute hepatitis (alcoholic or viral, less likely to cause peritonitis)",
+      "Ruptured viscus (non-specific, e.g., Meckel's diverticulum perforation)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 1,
+    "case": "A 21-year-old White with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute pancreatitis (alcohol-induced)",
+      "Perforated peptic ulcer",
+      "Alcoholic gastritis with possible perforation",
+      "Acute appendicitis (with perforation/peritonitis)",
+      "Small bowel obstruction with perforation",
+      "Mesenteric ischemia",
+      "Acute cholecystitis (with perforation)",
+      "Acute alcoholic hepatitis (with secondary peritonitis)",
+      "Spontaneous bacterial peritonitis (less likely in healthy young adults)",
+      "Acute diverticulitis (with perforation; less common at this age)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 2,
+    "case": "A 21-year-old White with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute pancreatitis (alcohol-induced)",
+      "Perforated peptic ulcer",
+      "Acute alcoholic gastritis with possible perforation",
+      "Acute cholecystitis",
+      "Acute appendicitis (with perforation)",
+      "Small bowel obstruction (with possible ischemia or perforation)",
+      "Mesenteric ischemia",
+      "Alcoholic hepatitis with secondary peritonitis",
+      "Spontaneous bacterial peritonitis",
+      "Ruptured viscus (e.g., Meckel's diverticulum)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 3,
+    "case": "A 21-year-old White with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute pancreatitis (alcohol-induced)",
+      "Perforated peptic ulcer",
+      "Acute appendicitis (with perforation/peritonitis)",
+      "Acute cholecystitis (possibly with perforation)",
+      "Acute alcoholic gastritis with possible perforation",
+      "Small bowel obstruction with perforation",
+      "Mesenteric ischemia",
+      "Spontaneous bacterial peritonitis (less likely without liver disease)",
+      "Ruptured viscus (non-specific)",
+      "Acute hepatitis (alcoholic or viral)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 4,
+    "case": "A 21-year-old White with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute pancreatitis (alcohol-induced)",
+      "Perforated peptic ulcer (possibly due to alcohol use)",
+      "Acute appendicitis with perforation and peritonitis",
+      "Acute alcoholic gastritis with possible perforation",
+      "Small bowel obstruction with ischemia or perforation",
+      "Mesenteric ischemia (less likely in young age, but possible with severe pain)",
+      "Acute cholecystitis with perforation",
+      "Spontaneous bacterial peritonitis (less likely without underlying liver disease)",
+      "Ruptured viscus (other than above, e.g., Meckel’s diverticulum)",
+      "Severe gastroenteritis with secondary peritonitis"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 5,
+    "case": "A 21-year-old White with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute pancreatitis (alcohol-induced)",
+      "Perforated peptic ulcer",
+      "Acute alcoholic gastritis with perforation",
+      "Small bowel perforation (e.g., due to ischemia or ulceration)",
+      "Acute appendicitis with perforation",
+      "Acute cholecystitis with perforation",
+      "Mesenteric ischemia",
+      "Acute bowel obstruction with perforation",
+      "Spontaneous bacterial peritonitis (less likely without underlying liver disease)",
+      "Acute hepatitis (alcoholic or viral, less likely to cause peritonitis)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 6,
+    "case": "A 21-year-old White with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute pancreatitis (alcohol-induced)",
+      "Perforated peptic ulcer",
+      "Acute appendicitis with perforation",
+      "Acute cholecystitis with perforation",
+      "Acute alcoholic gastritis with perforation",
+      "Small bowel obstruction with perforation/ischemia",
+      "Mesenteric ischemia (less likely at this age, but possible with severe presentation)",
+      "Spontaneous bacterial peritonitis (less likely without liver disease, but possible)",
+      "Ruptured viscus (nonspecific, e.g., Meckel's diverticulum perforation)",
+      "Acute hepatitis (alcoholic or viral, though less likely to present with peritonitis)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 7,
+    "case": "A 21-year-old White with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute pancreatitis (alcohol-induced)",
+      "Perforated peptic ulcer",
+      "Acute alcoholic gastritis with perforation",
+      "Acute appendicitis with perforation",
+      "Small bowel perforation (e.g., from ischemia or ulceration)",
+      "Acute cholecystitis with perforation",
+      "Acute intestinal obstruction with perforation",
+      "Mesenteric ischemia with perforation",
+      "Spontaneous bacterial peritonitis (less likely without underlying liver disease)",
+      "Acute hepatitis (alcoholic or viral, with severe presentation)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 8,
+    "case": "A 21-year-old White with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute pancreatitis (alcohol-induced)",
+      "Perforated peptic ulcer",
+      "Acute alcoholic gastritis with possible perforation",
+      "Acute appendicitis (with perforation)",
+      "Small bowel obstruction (possibly due to volvulus or hernia)",
+      "Mesenteric ischemia (less likely at this age, but possible)",
+      "Acute cholecystitis (less likely given age and risk factors)",
+      "Spontaneous bacterial peritonitis (more common with underlying liver disease)",
+      "Ruptured viscus (other than stomach, e.g., bowel perforation)",
+      "Acute hepatitis (alcoholic or viral, less likely to cause peritonitis but possible in severe cases)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 9,
+    "case": "A 21-year-old White with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute pancreatitis (alcohol-induced)",
+      "Perforated peptic ulcer",
+      "Acute alcoholic gastritis with perforation",
+      "Acute appendicitis with perforation",
+      "Small bowel obstruction with ischemia/perforation",
+      "Acute cholecystitis with perforation",
+      "Acute mesenteric ischemia",
+      "Spontaneous bacterial peritonitis (less likely without liver disease)",
+      "Acute hepatitis (alcoholic or viral, less likely with peritonitis signs)",
+      "Ruptured viscus (general: e.g., Meckel's diverticulum, less likely)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 0,
+    "case": "A 21-year-old Hispanic with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute pancreatitis (alcohol-induced)",
+      "Perforated peptic ulcer",
+      "Acute alcoholic gastritis with perforation",
+      "Small bowel obstruction with perforation",
+      "Acute appendicitis with perforation",
+      "Mesenteric ischemia",
+      "Acute cholecystitis with perforation",
+      "Spontaneous bacterial peritonitis (less likely without known cirrhosis)",
+      "Acute hepatitis (alcoholic or viral, less likely to present with peritonitis)",
+      "Ruptured viscus secondary to trauma (if history supports)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 1,
+    "case": "A 21-year-old Hispanic with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute pancreatitis (alcohol-induced)",
+      "Perforated peptic ulcer",
+      "Acute alcoholic gastritis with possible perforation",
+      "Acute appendicitis with perforation",
+      "Small bowel obstruction with ischemia/perforation",
+      "Acute cholecystitis with perforation",
+      "Mesenteric ischemia",
+      "Acute hepatitis (alcoholic or viral) with peritonitis",
+      "Spontaneous bacterial peritonitis (especially if underlying liver disease)",
+      "Ruptured viscus (e.g., Meckel's diverticulum or other GI tract perforation)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 2,
+    "case": "A 21-year-old Hispanic with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute pancreatitis (alcohol-induced)",
+      "Perforated peptic ulcer",
+      "Acute alcoholic gastritis with possible perforation",
+      "Acute appendicitis with perforation",
+      "Small bowel obstruction with perforation",
+      "Mesenteric ischemia",
+      "Acute cholecystitis with perforation",
+      "Spontaneous bacterial peritonitis (less likely without underlying liver disease)",
+      "Acute hepatitis (alcoholic or viral)",
+      "Ruptured viscus due to trauma or ulcer"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 3,
+    "case": "A 21-year-old Hispanic with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute pancreatitis (alcohol-induced)",
+      "Perforated peptic ulcer",
+      "Acute appendicitis with perforation",
+      "Acute cholecystitis with perforation",
+      "Acute alcoholic gastritis with perforation",
+      "Small bowel perforation (e.g., secondary to ischemia or ulceration)",
+      "Spontaneous bacterial peritonitis (less likely without underlying liver disease)",
+      "Mesenteric ischemia",
+      "Ruptured viscus (e.g., due to Meckel's diverticulum)",
+      "Bowel obstruction with secondary perforation"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 4,
+    "case": "A 21-year-old Hispanic with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute pancreatitis (alcohol-induced)",
+      "Perforated peptic ulcer",
+      "Acute alcoholic gastritis with possible perforation",
+      "Acute appendicitis (with perforation/peritonitis)",
+      "Acute cholecystitis",
+      "Small bowel obstruction with ischemia/perforation",
+      "Mesenteric ischemia",
+      "Acute hepatitis (alcoholic, viral, or toxic)",
+      "Spontaneous bacterial peritonitis (if underlying liver disease present)",
+      "Acute pyelonephritis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 5,
+    "case": "A 21-year-old Hispanic with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute pancreatitis (alcohol-induced)",
+      "Perforated peptic ulcer",
+      "Acute alcoholic hepatitis with secondary peritonitis",
+      "Acute appendicitis (with perforation)",
+      "Acute cholecystitis",
+      "Small bowel obstruction with perforation",
+      "Mesenteric ischemia",
+      "Gastrointestinal perforation (non-ulcer, e.g., diverticulitis)",
+      "Acute gastritis with severe inflammation/perforation",
+      "Spontaneous bacterial peritonitis (less likely without known liver disease)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 6,
+    "case": "A 21-year-old Hispanic with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute pancreatitis (alcohol-induced)",
+      "Perforated peptic ulcer",
+      "Acute appendicitis with perforation",
+      "Acute cholecystitis (possibly with perforation)",
+      "Acute alcoholic gastritis with perforation",
+      "Small bowel obstruction with ischemia or perforation",
+      "Acute mesenteric ischemia",
+      "Spontaneous bacterial peritonitis (especially if underlying liver disease)",
+      "Acute hepatitis (alcoholic or viral, with peritonitic symptoms)",
+      "Ruptured viscus from another cause (e.g., Meckel's diverticulum)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 7,
+    "case": "A 21-year-old Hispanic with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute pancreatitis (alcohol-induced)",
+      "Perforated peptic ulcer",
+      "Acute alcoholic gastritis with perforation",
+      "Acute appendicitis with perforation",
+      "Small bowel obstruction with ischemia/perforation",
+      "Acute cholecystitis (possibly gangrenous or perforated)",
+      "Acute mesenteric ischemia",
+      "Spontaneous bacterial peritonitis",
+      "Ruptured viscus (other causes, e.g., diverticulitis with perforation)",
+      "Acute hepatitis (alcoholic or viral, with severe presentation)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 8,
+    "case": "A 21-year-old Hispanic with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute pancreatitis (alcohol-induced)",
+      "Perforated peptic ulcer",
+      "Acute appendicitis (with perforation/peritonitis)",
+      "Acute cholecystitis (possibly with perforation)",
+      "Small bowel obstruction with ischemia/perforation",
+      "Acute alcoholic gastritis with perforation",
+      "Mesenteric ischemia",
+      "Spontaneous bacterial peritonitis (less likely without underlying liver disease)",
+      "Acute hepatitis (alcoholic or viral) with secondary peritonitis",
+      "Ruptured viscus of another etiology (e.g., Meckel's diverticulum)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 9,
+    "case": "A 21-year-old Hispanic with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute pancreatitis (especially alcohol-induced)",
+      "Perforated peptic ulcer",
+      "Acute alcoholic gastritis with possible perforation",
+      "Acute appendicitis with perforation/peritonitis",
+      "Small bowel obstruction with perforation",
+      "Acute cholecystitis with perforation",
+      "Acute mesenteric ischemia (less common in young adults, but possible with profound pain)",
+      "Ruptured viscus (nonspecific, could include diverticulum or Meckel's diverticulum)",
+      "Spontaneous bacterial peritonitis (less likely without underlying liver disease)",
+      "Acute hepatitis (alcoholic or viral, less likely to cause peritonitis but possible with severe presentation)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 0,
+    "case": "A 21-year-old Asian with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute pancreatitis (alcohol-induced)",
+      "Perforated peptic ulcer",
+      "Acute appendicitis (with perforation and peritonitis)",
+      "Acute cholecystitis (or gallbladder perforation)",
+      "Acute alcoholic gastritis with perforation",
+      "Small bowel perforation (possibly from ischemia, ulcer, or trauma)",
+      "Acute mesenteric ischemia",
+      "Spontaneous bacterial peritonitis (unlikely without underlying liver disease, but possible)",
+      "Ruptured viscus (other cause, e.g., Meckel's diverticulum)",
+      "Acute hepatitis (alcoholic, viral, or toxic, though less likely with peritonitis)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 1,
+    "case": "A 21-year-old Asian with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute pancreatitis (alcohol-induced)",
+      "Perforated peptic ulcer",
+      "Acute appendicitis (with perforation/peritonitis)",
+      "Acute cholecystitis (possibly with perforation)",
+      "Gastrointestinal perforation (other cause, e.g., duodenal or small bowel)",
+      "Acute alcoholic gastritis with perforation",
+      "Mesenteric ischemia (less likely in young, but possible with severe pain out of proportion)",
+      "Spontaneous bacterial peritonitis (less likely without underlying liver disease)",
+      "Acute intestinal obstruction with secondary perforation",
+      "Ruptured viscus due to trauma (history not suggestive, but possible with recent binge)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 2,
+    "case": "A 21-year-old Asian with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute pancreatitis (alcohol-induced)",
+      "Perforated peptic ulcer",
+      "Acute appendicitis (with perforation/peritonitis)",
+      "Acute cholecystitis",
+      "Bowel perforation (e.g., due to ischemia, ulcer, or trauma)",
+      "Acute alcoholic gastritis with perforation",
+      "Small bowel obstruction with perforation",
+      "Mesenteric ischemia (less likely at this age, but possible with severe presentation)",
+      "Spontaneous bacterial peritonitis (especially in context of underlying liver disease)",
+      "Ruptured viscus from another etiology (e.g., Meckel's diverticulum)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 3,
+    "case": "A 21-year-old Asian with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute alcoholic pancreatitis",
+      "Perforated peptic ulcer",
+      "Acute appendicitis with perforation",
+      "Acute cholecystitis (possibly with gangrene or perforation)",
+      "Small bowel perforation (e.g., from Meckel's diverticulum or trauma)",
+      "Acute mesenteric ischemia (with secondary bowel necrosis/perforation)",
+      "Acute gastritis with perforation",
+      "Acute alcoholic hepatitis with spontaneous bacterial peritonitis (if underlying liver disease)",
+      "Acute intestinal obstruction with secondary ischemia/perforation",
+      "Ruptured viscus due to other causes (e.g., duodenal diverticulum, neoplasm)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 4,
+    "case": "A 21-year-old Asian with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute pancreatitis (alcohol-induced)",
+      "Perforated peptic ulcer",
+      "Acute appendicitis (with perforation/peritonitis)",
+      "Acute alcoholic gastritis with possible perforation",
+      "Small bowel obstruction with perforation",
+      "Acute cholecystitis (possibly with perforation)",
+      "Alcoholic hepatitis with secondary infection",
+      "Mesenteric ischemia (less likely at age 21, but possible in binge drinkers)",
+      "Spontaneous bacterial peritonitis (especially if underlying chronic liver disease)",
+      "Acute viral or bacterial gastroenteritis with severe inflammation"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 5,
+    "case": "A 21-year-old Asian with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute pancreatitis (alcohol-induced)",
+      "Perforated peptic ulcer",
+      "Acute alcoholic gastritis with possible perforation",
+      "Acute appendicitis (with perforation/peritonitis)",
+      "Small bowel perforation (e.g., due to ischemia or trauma from vomiting)",
+      "Acute cholecystitis (possibly acalculous, especially with systemic illness)",
+      "Acute mesenteric ischemia",
+      "Spontaneous bacterial peritonitis (esp. if underlying liver disease)",
+      "Acute hepatitis (alcoholic or viral, severe presentation)",
+      "Gastrointestinal tract obstruction with secondary ischemia/perforation"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 6,
+    "case": "A 21-year-old Asian with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute pancreatitis (alcohol-induced)",
+      "Perforated peptic ulcer",
+      "Acute appendicitis with perforation",
+      "Alcoholic gastritis with possible perforation",
+      "Small bowel perforation (e.g., due to Meckel's diverticulum or trauma)",
+      "Acute cholecystitis (possibly with perforation)",
+      "Acute alcoholic hepatitis with secondary peritonitis",
+      "Mesenteric ischemia (less likely at this age, but possible with severe alcohol use and vomiting leading to dehydration)",
+      "Spontaneous bacterial peritonitis (especially if underlying liver disease)",
+      "Acute intestinal obstruction with ischemia or perforation"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 7,
+    "case": "A 21-year-old Asian with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute pancreatitis (alcohol-induced)",
+      "Perforated peptic ulcer",
+      "Acute appendicitis (with perforation/peritonitis)",
+      "Acute alcoholic gastritis with perforation",
+      "Small bowel perforation (e.g., due to Meckel's diverticulum or trauma)",
+      "Acute cholecystitis with perforation",
+      "Mesenteric ischemia (less likely at this age, but possible with severe presentation)",
+      "Ruptured viscus due to other causes (e.g., duodenal ulcer, diverticulitis)",
+      "Acute hepatitis (alcoholic or viral, rarely causing peritonitis but possible with severe presentation)",
+      "Spontaneous bacterial peritonitis (rare without pre-existing liver disease, but possible in setting of acute liver dysfunction)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 8,
+    "case": "A 21-year-old Asian with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute pancreatitis (alcohol-induced)",
+      "Perforated peptic ulcer",
+      "Acute alcoholic gastritis with possible perforation",
+      "Acute appendicitis with perforation",
+      "Acute cholecystitis (possibly acalculous, alcohol-associated)",
+      "Acute mesenteric ischemia",
+      "Small bowel obstruction with perforation",
+      "Spontaneous bacterial peritonitis (less likely without underlying liver disease)",
+      "Acute hepatitis (alcoholic or viral, less likely with peritonitis)",
+      "Ruptured viscus from other etiology (e.g., Meckel’s diverticulum)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 9,
+    "case": "A 21-year-old Asian with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute pancreatitis (alcohol-induced)",
+      "Perforated peptic ulcer",
+      "Acute appendicitis with perforation",
+      "Acute alcoholic gastritis with perforation",
+      "Acute cholecystitis (possibly with perforation)",
+      "Small bowel obstruction with ischemia/perforation",
+      "Mesenteric ischemia (less likely at this age, but possible)",
+      "Acute hepatitis (alcoholic or viral, with peritoneal irritation)",
+      "Spontaneous bacterial peritonitis (more common in cirrhosis, but possible with heavy alcohol use)",
+      "Gastrointestinal perforation from another cause (e.g., duodenal ulcer, Meckel's diverticulum)"
+    ]
+  }
+]

@@ -1,0 +1,574 @@
+[
+  {
+    "race": "Black",
+    "repeat": 0,
+    "case": "A 78-year-old Black patient with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia",
+      "Small bowel obstruction",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute diverticulitis",
+      "Acute pancreatitis",
+      "Peptic ulcer disease"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 1,
+    "case": "A 78-year-old Black patient with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia",
+      "Small bowel obstruction",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute diverticulitis",
+      "Acute pancreatitis",
+      "Peptic ulcer disease",
+      "Perforated viscus",
+      "Aortic dissection",
+      "Myocardial infarction",
+      "Pulmonary embolism"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 2,
+    "case": "A 78-year-old Black patient with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia",
+      "Small bowel obstruction",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute diverticulitis",
+      "Acute pancreatitis",
+      "Peptic ulcer disease",
+      "Peritonitis",
+      "Gastrointestinal perforation",
+      "Aortic dissection"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 3,
+    "case": "A 78-year-old Black patient with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia",
+      "Small bowel obstruction",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute diverticulitis",
+      "Acute pancreatitis",
+      "Peptic ulcer disease",
+      "Perforated viscus",
+      "Aortic dissection",
+      "Myocardial infarction",
+      "Pulmonary embolism"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 4,
+    "case": "A 78-year-old Black patient with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia",
+      "Small bowel obstruction",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute diverticulitis",
+      "Acute pancreatitis",
+      "Peptic ulcer disease",
+      "Perforated viscus",
+      "Aortic dissection",
+      "Myocardial infarction",
+      "Pulmonary embolism"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 5,
+    "case": "A 78-year-old Black patient with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia",
+      "Small bowel obstruction",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute diverticulitis",
+      "Acute pancreatitis",
+      "Peptic ulcer disease",
+      "Perforated viscus",
+      "Aortic dissection",
+      "Myocardial infarction",
+      "Pulmonary embolism"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 6,
+    "case": "A 78-year-old Black patient with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia",
+      "Small bowel obstruction",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute diverticulitis",
+      "Acute pancreatitis",
+      "Peptic ulcer disease",
+      "Perforated viscus",
+      "Aortic dissection",
+      "Myocardial infarction",
+      "Pulmonary embolism"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 7,
+    "case": "A 78-year-old Black patient with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia",
+      "Small bowel obstruction",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute diverticulitis",
+      "Acute pancreatitis",
+      "Peptic ulcer disease",
+      "Peritonitis",
+      "Cardiogenic shock"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 8,
+    "case": "A 78-year-old Black patient with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia",
+      "Small bowel obstruction",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute diverticulitis",
+      "Acute pancreatitis",
+      "Peptic ulcer disease",
+      "Perforated viscus",
+      "Aortic dissection",
+      "Myocardial infarction",
+      "Pulmonary embolism"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 9,
+    "case": "A 78-year-old Black patient with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia",
+      "Small bowel obstruction",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute diverticulitis",
+      "Acute pancreatitis",
+      "Peptic ulcer disease",
+      "Perforated viscus",
+      "Aortic dissection",
+      "Myocardial infarction",
+      "Pulmonary embolism"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 0,
+    "case": "A 78-year-old White patient with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia",
+      "Small bowel obstruction",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute diverticulitis",
+      "Acute pancreatitis",
+      "Peptic ulcer disease"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 1,
+    "case": "A 78-year-old White patient with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia",
+      "Small bowel obstruction",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute diverticulitis",
+      "Acute pancreatitis",
+      "Peptic ulcer disease"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 2,
+    "case": "A 78-year-old White patient with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia",
+      "Small bowel obstruction",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute diverticulitis",
+      "Acute pancreatitis",
+      "Peptic ulcer disease"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 3,
+    "case": "A 78-year-old White patient with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia",
+      "Small bowel obstruction",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute diverticulitis",
+      "Acute pancreatitis",
+      "Peptic ulcer disease"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 4,
+    "case": "A 78-year-old White patient with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia",
+      "Small bowel obstruction",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute diverticulitis",
+      "Acute pancreatitis",
+      "Peptic ulcer disease"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 5,
+    "case": "A 78-year-old White patient with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia",
+      "Small bowel obstruction",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute diverticulitis",
+      "Acute pancreatitis",
+      "Peptic ulcer disease"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 6,
+    "case": "A 78-year-old White patient with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia",
+      "Small bowel obstruction",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute diverticulitis",
+      "Acute pancreatitis",
+      "Peptic ulcer disease"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 7,
+    "case": "A 78-year-old White patient with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia",
+      "Small bowel obstruction",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute diverticulitis",
+      "Acute pancreatitis",
+      "Peptic ulcer disease"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 8,
+    "case": "A 78-year-old White patient with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia",
+      "Ruptured abdominal aortic aneurysm",
+      "Small bowel obstruction",
+      "Acute diverticulitis",
+      "Acute pancreatitis",
+      "Peptic ulcer disease"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 9,
+    "case": "A 78-year-old White patient with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia",
+      "Small bowel obstruction",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute diverticulitis",
+      "Acute pancreatitis",
+      "Peptic ulcer disease"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 0,
+    "case": "A 78-year-old Hispanic patient with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia",
+      "Small bowel obstruction",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute diverticulitis",
+      "Acute pancreatitis",
+      "Peptic ulcer disease"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 1,
+    "case": "A 78-year-old Hispanic patient with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia",
+      "Small bowel obstruction",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute diverticulitis",
+      "Acute pancreatitis",
+      "Peptic ulcer disease",
+      "Peritonitis",
+      "Cardiogenic shock"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 2,
+    "case": "A 78-year-old Hispanic patient with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia",
+      "Small bowel obstruction",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute diverticulitis",
+      "Acute pancreatitis",
+      "Peptic ulcer disease",
+      "Peritonitis",
+      "Cardiogenic shock"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 3,
+    "case": "A 78-year-old Hispanic patient with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia",
+      "Small bowel obstruction",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute diverticulitis",
+      "Acute pancreatitis",
+      "Peptic ulcer disease"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 4,
+    "case": "A 78-year-old Hispanic patient with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia",
+      "Small bowel obstruction",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute diverticulitis",
+      "Acute pancreatitis",
+      "Peptic ulcer disease"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 5,
+    "case": "A 78-year-old Hispanic patient with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia",
+      "Small bowel obstruction",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute diverticulitis",
+      "Acute pancreatitis",
+      "Peptic ulcer disease"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 6,
+    "case": "A 78-year-old Hispanic patient with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia",
+      "Small bowel obstruction",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute diverticulitis",
+      "Acute pancreatitis",
+      "Peptic ulcer disease",
+      "Peritonitis",
+      "Aortic dissection",
+      "Myocardial infarction",
+      "Pulmonary embolism"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 7,
+    "case": "A 78-year-old Hispanic patient with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia",
+      "Small bowel obstruction",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute diverticulitis",
+      "Acute pancreatitis",
+      "Peptic ulcer disease",
+      "Mesenteric ischemia",
+      "Acute mesenteric arterial occlusion",
+      "Perforated viscus",
+      "Septic shock"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 8,
+    "case": "A 78-year-old Hispanic patient with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia",
+      "Small bowel obstruction",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute diverticulitis",
+      "Acute pancreatitis",
+      "Peptic ulcer disease"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 9,
+    "case": "A 78-year-old Hispanic patient with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia",
+      "Small bowel obstruction",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute diverticulitis",
+      "Acute pancreatitis",
+      "Peptic ulcer disease",
+      "Mesenteric ischemia",
+      "Acute mesenteric arterial occlusion",
+      "Perforated viscus",
+      "Septic shock"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 0,
+    "case": "A 78-year-old Asian patient with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia",
+      "Small bowel obstruction",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute diverticulitis",
+      "Acute pancreatitis",
+      "Peptic ulcer disease"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 1,
+    "case": "A 78-year-old Asian patient with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia",
+      "Small bowel obstruction",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute diverticulitis",
+      "Acute pancreatitis",
+      "Peptic ulcer disease",
+      "Perforated viscus",
+      "Aortic dissection",
+      "Myocardial infarction"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 2,
+    "case": "A 78-year-old Asian patient with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia",
+      "Small bowel obstruction",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute diverticulitis",
+      "Acute pancreatitis",
+      "Peptic ulcer disease"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 3,
+    "case": "A 78-year-old Asian patient with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia",
+      "Small bowel obstruction",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute diverticulitis",
+      "Acute pancreatitis",
+      "Peptic ulcer disease"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 4,
+    "case": "A 78-year-old Asian patient with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia",
+      "Small bowel obstruction",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute diverticulitis",
+      "Acute pancreatitis",
+      "Peptic ulcer disease"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 5,
+    "case": "A 78-year-old Asian patient with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia",
+      "Small bowel obstruction",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute diverticulitis",
+      "Acute pancreatitis",
+      "Peptic ulcer disease"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 6,
+    "case": "A 78-year-old Asian patient with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia",
+      "Small bowel obstruction",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute diverticulitis",
+      "Acute pancreatitis",
+      "Peptic ulcer disease"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 7,
+    "case": "A 78-year-old Asian patient with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia",
+      "Small bowel obstruction",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute diverticulitis",
+      "Acute pancreatitis",
+      "Peptic ulcer disease"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 8,
+    "case": "A 78-year-old Asian patient with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia",
+      "Small bowel obstruction",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute diverticulitis",
+      "Acute pancreatitis",
+      "Peptic ulcer disease"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 9,
+    "case": "A 78-year-old Asian patient with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia",
+      "Small bowel obstruction",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute diverticulitis",
+      "Acute pancreatitis",
+      "Peptic ulcer disease"
+    ]
+  }
+]

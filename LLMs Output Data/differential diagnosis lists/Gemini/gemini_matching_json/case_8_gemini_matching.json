@@ -1,0 +1,770 @@
+[
+  {
+    "race": "Black",
+    "repeat": 0,
+    "match": {
+      "Acute pancreatitis": {
+        "Rank in List One": 1,
+        "Rank in List Two": 1
+      },
+      "Peptic ulcer disease": {
+        "Rank in List One": 3,
+        "Rank in List Two": 2
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 1,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Perforated Peptic Ulcer (posterior)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Gastritis/Gastroenteritis (severe)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 2,
+    "match": {
+      "Acute pancreatitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Peptic ulcer disease": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Acute gastroenteritis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 3,
+    "match": {
+      "Acute pancreatitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Cholelithiasis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "3"
+      },
+      "Peptic ulcer disease": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Acute gastroenteritis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 4,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Cholelithiasis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "3"
+      },
+      "Peptic Ulcer Disease": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 5,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Perforated Peptic Ulcer": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Cholecystitis/Choledocholithiasis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "3"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 6,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Peptic Ulcer Disease": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Acute Gastroenteritis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 7,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Perforated Peptic Ulcer": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Acute Gastritis / Peptic Ulcer Disease": {
+        "Rank in List One": "3",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 8,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Perforated Peptic Ulcer": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 9,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": 1,
+        "Rank in List Two": 1
+      },
+      "Perforated Peptic Ulcer": {
+        "Rank in List One": 3,
+        "Rank in List Two": 2
+      },
+      "Acute Cholecystitis / Choledocholithiasis": {
+        "Rank in List One": 2,
+        "Rank in List Two": 3
+      },
+      "Gastritis / Peptic Ulcer Disease (severe)": {
+        "Rank in List One": 3,
+        "Rank in List Two": 8
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 0,
+    "match": {
+      "Acute pancreatitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Peptic ulcer disease": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 1,
+    "match": {
+      "Acute pancreatitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Cholelithiasis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Peptic ulcer disease": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 2,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Perforated Peptic Ulcer": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Severe Gastritis/GERD": {
+        "Rank in List One": "4",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 3,
+    "match": {
+      "Acute pancreatitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Cholelithiasis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "3"
+      },
+      "Peptic ulcer disease": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Acute gastroenteritis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 4,
+    "match": {
+      "Acute pancreatitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Cholelithiasis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "3"
+      },
+      "Peptic ulcer disease": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Acute gastroenteritis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 5,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Perforated Peptic Ulcer": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Severe Gastritis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 6,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Perforated Peptic Ulcer": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Acute Cholecystitis/Choledocholithiasis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "3"
+      },
+      "Severe Gastritis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 7,
+    "match": {
+      "Acute pancreatitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Cholelithiasis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "3"
+      },
+      "Peptic ulcer disease": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 8,
+    "match": {
+      "Acute pancreatitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Cholelithiasis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "3"
+      },
+      "Peptic ulcer disease": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Acute gastroenteritis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 9,
+    "match": {
+      "Acute pancreatitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Cholelithiasis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "3"
+      },
+      "Peptic ulcer disease": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Acute gastroenteritis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 0,
+    "match": {
+      "Acute pancreatitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Peptic ulcer disease": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Acute gastroenteritis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 1,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Perforated Peptic Ulcer": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Acute Cholecystitis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "3"
+      },
+      "Severe Gastritis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 2,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Perforated Peptic Ulcer (especially posterior duodenal)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Acute Cholecystitis with or without Choledocholithiasis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "3"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 3,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Perforated Peptic Ulcer": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Acute Cholecystitis/Choledocholithiasis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "3"
+      },
+      "Severe Gastritis/Peptic Ulcer Disease": {
+        "Rank in List One": "3",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 4,
+    "match": {
+      "Acute pancreatitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Peptic ulcer disease": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Acute gastroenteritis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 5,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Peptic Ulcer Disease": {
+        "Rank in List One": "3",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 6,
+    "match": {
+      "Acute pancreatitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Peptic ulcer disease": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Acute gastroenteritis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 7,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Choledocholithiasis / Ascending Cholangitis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Perforated Peptic Ulcer (posterior)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 8,
+    "match": {
+      "Acute pancreatitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Cholelithiasis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Peptic ulcer disease": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Acute gastroenteritis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 9,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Cholecystitis / Choledocholithiasis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Perforated Peptic Ulcer": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 0,
+    "match": {
+      "Acute pancreatitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Cholelithiasis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "3"
+      },
+      "Peptic ulcer disease": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Acute gastroenteritis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 1,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Perforated Peptic Ulcer": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 2,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Choledocholithiasis with or without Cholangitis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Perforated Peptic Ulcer": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 3,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Perforated Peptic Ulcer (posterior)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Acute Cholecystitis / Biliary Colic": {
+        "Rank in List One": "2",
+        "Rank in List Two": "3"
+      },
+      "Severe Gastritis / Esophagitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 4,
+    "match": {
+      "Acute pancreatitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Cholelithiasis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "3"
+      },
+      "Peptic ulcer disease": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Acute gastroenteritis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 5,
+    "match": {
+      "Acute pancreatitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Cholelithiasis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "3"
+      },
+      "Peptic ulcer disease": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Acute gastroenteritis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 6,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Perforated Peptic Ulcer (posterior)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Acute Cholecystitis/Cholangitis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "3"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 7,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Perforated Peptic Ulcer (especially posterior)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Choledocholithiasis with Cholangitis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "3"
+      },
+      "Acute Cholecystitis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "4"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 8,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Perforated Peptic Ulcer": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Acute Cholecystitis with Choledocholithiasis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "3"
+      },
+      "Severe Gastritis / Peptic Ulcer Disease": {
+        "Rank in List One": "3",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 9,
+    "match": {
+      "Acute pancreatitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Cholelithiasis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Peptic ulcer disease": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Acute gastroenteritis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "7"
+      }
+    }
+  }
+]

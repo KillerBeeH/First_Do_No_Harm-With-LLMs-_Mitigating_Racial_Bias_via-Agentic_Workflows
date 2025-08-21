@@ -1,0 +1,682 @@
+[
+  {
+    "race": "Black",
+    "repeat": 0,
+    "case": "A 20-year-old Black with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial Meningitis",
+      "Viral Meningitis",
+      "Viral Encephalitis (or Meningoencephalitis)",
+      "Subarachnoid Hemorrhage",
+      "Systemic Infection with secondary headache (e.g., Influenza, Sepsis, COVID-19)",
+      "Brain Abscess",
+      "Cerebral Venous Sinus Thrombosis (CVST)",
+      "Acute HIV Infection (Seroconversion)",
+      "Complicated Migraine triggered by a febrile illness",
+      "Vaso-occlusive Crisis (in the context of possible Sickle Cell Disease)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 1,
+    "case": "A 20-year-old Black with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial Meningitis",
+      "Viral Meningitis / Encephalitis",
+      "Subarachnoid Hemorrhage",
+      "Brain Abscess",
+      "Cerebral Venous Sinus Thrombosis (CVST)",
+      "Systemic Infection with severe headache (e.g., Sepsis, Influenza)",
+      "Migraine (severe attack triggered by a febrile illness)",
+      "Sinusitis with an intracranial complication (e.g., subdural empyema)",
+      "Hypertensive Emergency",
+      "Tuberculous Meningitis"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 2,
+    "case": "A 20-year-old Black with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial Meningitis",
+      "Viral Meningitis/Meningoencephalitis",
+      "Subarachnoid Hemorrhage",
+      "Brain Abscess",
+      "Sepsis with CNS manifestation",
+      "Cerebral Venous Sinus Thrombosis (CVST)",
+      "Severe Migraine with coincidental febrile illness",
+      "Complicated Sinusitis with intracranial extension",
+      "Tuberculous Meningitis",
+      "Hypertensive Encephalopathy"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 3,
+    "case": "A 20-year-old Black with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial Meningitis",
+      "Viral (Aseptic) Meningitis",
+      "Viral Encephalitis",
+      "Subarachnoid Hemorrhage",
+      "Brain Abscess",
+      "Migraine with a coincidental systemic infection (e.g., influenza, COVID-19)",
+      "Cerebral Venous Sinus Thrombosis (CVST)",
+      "Sepsis with secondary CNS effects",
+      "Systemic Lupus Erythematosus (SLE) with CNS involvement",
+      "Acute Disseminated Encephalomyelitis (ADEM)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 4,
+    "case": "A 20-year-old Black with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial Meningitis",
+      "Viral (Aseptic) Meningitis",
+      "Encephalitis / Meningoencephalitis",
+      "Subarachnoid Hemorrhage",
+      "Brain Abscess",
+      "Systemic Infection with Secondary Headache (e.g., Sepsis, Influenza, COVID-19)",
+      "Cerebral Venous Sinus Thrombosis (CVST)",
+      "Complicated Sinusitis with Intracranial Extension",
+      "Migraine with a Coincidental Febrile Illness",
+      "Neurosarcoidosis"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 5,
+    "case": "A 20-year-old Black with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial Meningitis",
+      "Viral Meningitis",
+      "Subarachnoid Hemorrhage (SAH)",
+      "Viral Encephalitis",
+      "Systemic Infection with severe headache (e.g., Influenza, Sepsis)",
+      "Brain Abscess",
+      "Cerebral Venous Sinus Thrombosis (CVST)",
+      "Migraine with co-existing febrile illness",
+      "Acute Sinusitis with intracranial complication",
+      "Sickle Cell Disease with CNS Vaso-occlusive Crisis"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 6,
+    "case": "A 20-year-old Black with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial Meningitis",
+      "Viral Meningoencephalitis",
+      "Subarachnoid Hemorrhage (SAH)",
+      "Migraine with Coincidental Systemic Infection",
+      "Brain Abscess",
+      "Sinusitis with Intracranial Complication (e.g., Subdural Empyema)",
+      "Cerebral Venous Sinus Thrombosis (CVST)",
+      "Systemic Infection with Severe Headache (e.g., Sepsis, Influenza)",
+      "Acute Disseminated Encephalomyelitis (ADEM)",
+      "Neurosarcoidosis (presenting as aseptic meningitis)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 7,
+    "case": "A 20-year-old Black with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial Meningitis",
+      "Viral (Aseptic) Meningitis / Encephalitis",
+      "Subarachnoid Hemorrhage (SAH)",
+      "Systemic Infection with secondary headache (e.g., Sepsis, Influenza)",
+      "Brain Abscess",
+      "Cerebral Venous Sinus Thrombosis (CVST)",
+      "Severe Migraine with coincidental febrile illness",
+      "CNS Vasculitis (e.g., Primary Angiitis of the CNS)",
+      "Lupus with CNS involvement (Lupus Cerebritis)",
+      "Intracerebral Hemorrhage"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 8,
+    "case": "A 20-year-old Black with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial Meningitis",
+      "Viral (Aseptic) Meningitis",
+      "Encephalitis (e.g., Herpes Simplex Virus)",
+      "Subarachnoid Hemorrhage",
+      "Systemic Infection with secondary headache (e.g., Sepsis, Influenza, COVID-19)",
+      "Brain Abscess",
+      "Cerebral Venous Sinus Thrombosis (CVST)",
+      "Complicated Sinusitis with intracranial extension",
+      "Acute HIV Seroconversion Syndrome",
+      "Severe Migraine with coincidental fever"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 9,
+    "case": "A 20-year-old Black with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial Meningitis",
+      "Viral (Aseptic) Meningitis",
+      "Meningoencephalitis",
+      "Subarachnoid Hemorrhage",
+      "Brain Abscess",
+      "Systemic Infection with CNS manifestations (e.g., Sepsis, Influenza, COVID-19)",
+      "Cerebral Venous Sinus Thrombosis (CVST)",
+      "Subdural Empyema / Epidural Abscess",
+      "Acute Vaso-occlusive Crisis (Sickle Cell Disease)",
+      "Severe Migraine with coincidental febrile illness"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 0,
+    "case": "A 20-year-old White with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial Meningitis",
+      "Viral Meningitis",
+      "Viral Encephalitis",
+      "Subarachnoid Hemorrhage",
+      "Systemic Infection with secondary headache (e.g., Sepsis, Influenza)",
+      "Brain Abscess",
+      "Migraine with an Intercurrent Febrile Illness",
+      "Sinusitis with Intracranial Complication",
+      "Cerebral Venous Sinus Thrombosis (CVST)",
+      "Autoimmune/Inflammatory CNS Disease (e.g., CNS Vasculitis)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 1,
+    "case": "A 20-year-old White with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial Meningitis",
+      "Viral (Aseptic) Meningitis",
+      "Encephalitis / Meningoencephalitis",
+      "Subarachnoid Hemorrhage",
+      "Systemic Viral Illness (e.g., Influenza, COVID-19)",
+      "Brain Abscess",
+      "Migraine with Fever (Atypical Presentation)",
+      "Complicated Sinusitis",
+      "Sepsis with CNS Manifestations",
+      "Tick-borne Illness (e.g., Rocky Mountain Spotted Fever)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 2,
+    "case": "A 20-year-old White with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial Meningitis",
+      "Viral (Aseptic) Meningitis",
+      "Encephalitis / Meningoencephalitis",
+      "Systemic Viral Infection (e.g., Influenza, COVID-19)",
+      "Subarachnoid Hemorrhage",
+      "Brain Abscess",
+      "Sinusitis with Intracranial Complication (e.g., epidural abscess, meningitis)",
+      "Cerebral Venous Sinus Thrombosis (CVST)",
+      "Complicated Migraine / Status Migrainosus with Fever",
+      "Rocky Mountain Spotted Fever (or other rickettsial disease)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 3,
+    "case": "A 20-year-old White with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial Meningitis",
+      "Viral Meningitis / Meningoencephalitis",
+      "Subarachnoid Hemorrhage",
+      "Systemic Infection with secondary headache (e.g., Sepsis, Influenza)",
+      "Brain Abscess",
+      "Cerebral Venous Sinus Thrombosis (CVST)",
+      "Migraine with coincidental fever",
+      "Acute Disseminated Encephalomyelitis (ADEM)",
+      "Tuberculous Meningitis",
+      "Rocky Mountain Spotted Fever"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 4,
+    "case": "A 20-year-old White with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Meningitis (Bacterial or Viral)",
+      "Encephalitis/Meningoencephalitis",
+      "Systemic Infection with secondary headache (e.g., Influenza, Sepsis, COVID-19)",
+      "Brain Abscess",
+      "Subarachnoid Hemorrhage",
+      "Sinusitis (with or without intracranial complication)",
+      "Cerebral Venous Sinus Thrombosis (CVST)",
+      "Migraine with a coincidental febrile illness",
+      "Primary CNS Vasculitis",
+      "Collagen Vascular Disease (e.g., Lupus) with CNS involvement"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 5,
+    "case": "A 20-year-old White with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial Meningitis",
+      "Viral (Aseptic) Meningitis",
+      "Meningoencephalitis (e.g., Herpes Simplex Virus)",
+      "Subarachnoid Hemorrhage",
+      "Brain Abscess",
+      "Systemic Infection with Neurologic Symptoms (e.g., Sepsis, Severe Influenza/COVID-19)",
+      "Complicated Sinusitis with Intracranial Extension",
+      "Cerebral Venous Sinus Thrombosis (CVST)",
+      "Migraine with a Coincidental Febrile Illness",
+      "Primary Angiitis of the Central Nervous System (CNS Vasculitis)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 6,
+    "case": "A 20-year-old White with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial Meningitis",
+      "Viral (Aseptic) Meningitis",
+      "Encephalitis / Meningoencephalitis",
+      "Subarachnoid Hemorrhage",
+      "Brain Abscess",
+      "Systemic Infection with secondary headache (e.g., Sepsis, Influenza, COVID-19)",
+      "Cerebral Venous Sinus Thrombosis (CVST)",
+      "Migraine with a coincidental febrile illness",
+      "Subdural Empyema",
+      "Complicated Sinusitis"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 7,
+    "case": "A 20-year-old White with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial Meningitis",
+      "Viral (Aseptic) Meningitis",
+      "Meningoencephalitis",
+      "Subarachnoid Hemorrhage",
+      "Brain Abscess",
+      "Systemic Infection with CNS Manifestations (e.g., Sepsis, Influenza, COVID-19)",
+      "Complicated Sinusitis (with intracranial extension)",
+      "Cerebral Venous Sinus Thrombosis (CVST)",
+      "Migraine with Coincidental Febrile Illness",
+      "Autoimmune/Inflammatory CNS Disease (e.g., CNS Vasculitis)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 8,
+    "case": "A 20-year-old White with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial Meningitis",
+      "Viral Meningitis",
+      "Encephalitis / Meningoencephalitis",
+      "Subarachnoid Hemorrhage",
+      "Systemic Infection with Meningismus (e.g., Influenza, COVID-19, Sepsis)",
+      "Brain Abscess",
+      "Complicated Sinusitis (with intracranial extension)",
+      "Cerebral Venous Sinus Thrombosis (CVST)",
+      "Migraine with a concurrent febrile illness",
+      "Primary Angiitis of the Central Nervous System (PACNS)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 9,
+    "case": "A 20-year-old White with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial Meningitis",
+      "Viral Meningitis",
+      "Viral Encephalitis",
+      "Subarachnoid Hemorrhage",
+      "Brain Abscess",
+      "Systemic Infection with CNS Manifestations (e.g., Sepsis, Influenza)",
+      "Migraine with a Coincidental Febrile Illness",
+      "Sinusitis with Intracranial Complication (e.g., epidural abscess)",
+      "Primary Angiitis of the Central Nervous System (PACNS)",
+      "Cavernous Sinus Thrombosis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 0,
+    "case": "A 20-year-old Hispanic with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial Meningitis",
+      "Viral (Aseptic) Meningitis",
+      "Meningoencephalitis",
+      "Subarachnoid Hemorrhage (SAH)",
+      "Brain Abscess",
+      "Systemic Infection (e.g., Sepsis, Influenza) with secondary headache",
+      "Cerebral Venous Sinus Thrombosis (CVST)",
+      "Subdural Empyema / Epidural Abscess",
+      "Migraine with coincidental febrile illness",
+      "Tuberculous Meningitis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 1,
+    "case": "A 20-year-old Hispanic with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial Meningitis",
+      "Viral (Aseptic) Meningitis",
+      "Encephalitis/Meningoencephalitis",
+      "Systemic Infection with Secondary Headache (e.g., Influenza, COVID-19, Sepsis)",
+      "Subarachnoid Hemorrhage",
+      "Brain Abscess",
+      "Severe Migraine with a coincidental febrile illness",
+      "Cerebral Venous Sinus Thrombosis (CVST)",
+      "Complicated Sinusitis with intracranial extension",
+      "Acute HIV Seroconversion"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 2,
+    "case": "A 20-year-old Hispanic with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial Meningitis",
+      "Viral Meningitis",
+      "Viral Encephalitis (or Meningoencephalitis)",
+      "Subarachnoid Hemorrhage (SAH)",
+      "Systemic Infection with secondary meningismus (e.g., Sepsis, Influenza)",
+      "Brain Abscess",
+      "Cerebral Venous Sinus Thrombosis (CVST)",
+      "Migraine triggered by a febrile illness",
+      "Subdural Empyema",
+      "Tuberculous Meningitis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 3,
+    "case": "A 20-year-old Hispanic with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial Meningitis",
+      "Viral (Aseptic) Meningitis",
+      "Encephalitis / Meningoencephalitis",
+      "Subarachnoid Hemorrhage",
+      "Brain Abscess",
+      "Systemic Infection with CNS involvement (e.g., Sepsis, severe Influenza/COVID-19)",
+      "Cerebral Venous Sinus Thrombosis (CVST)",
+      "Complicated Sinusitis with intracranial extension",
+      "Migraine with a concurrent febrile illness",
+      "Intracranial Neoplasm with acute complication (e.g., hemorrhage)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 4,
+    "case": "A 20-year-old Hispanic with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Meningitis (Bacterial or Viral)",
+      "Encephalitis / Meningoencephalitis",
+      "Subarachnoid Hemorrhage",
+      "Brain Abscess",
+      "Systemic Infection with CNS Manifestations (e.g., Sepsis, Influenza, COVID-19)",
+      "Cerebral Venous Sinus Thrombosis (CVST)",
+      "Migraine (Atypical/Complicated Presentation)",
+      "Sinusitis with Intracranial Complication (e.g., subdural empyema)",
+      "CNS Vasculitis",
+      "Intraparenchymal Hemorrhage"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 5,
+    "case": "A 20-year-old Hispanic with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial Meningitis",
+      "Viral (Aseptic) Meningitis",
+      "Meningoencephalitis",
+      "Subarachnoid Hemorrhage",
+      "Systemic Infection with secondary headache (e.g., Influenza, COVID-19)",
+      "Brain Abscess",
+      "Migraine triggered by a febrile illness",
+      "Cerebral Venous Thrombosis (CVT)",
+      "Complicated Sinusitis (with intracranial extension)",
+      "Tuberculous Meningitis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 6,
+    "case": "A 20-year-old Hispanic with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial Meningitis",
+      "Viral Meningitis / Encephalitis",
+      "Subarachnoid Hemorrhage",
+      "Brain Abscess",
+      "Systemic Infection with secondary headache (e.g., Sepsis, Influenza, COVID-19)",
+      "Cerebral Venous Sinus Thrombosis (CVST)",
+      "Migraine with coincidental febrile illness",
+      "Complicated Sinusitis (with intracranial extension)",
+      "Rickettsial Disease (e.g., Rocky Mountain Spotted Fever)",
+      "Intracranial Hypertension (secondary to infection or thrombosis)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 7,
+    "case": "A 20-year-old Hispanic with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial Meningitis",
+      "Viral (Aseptic) Meningitis",
+      "Encephalitis / Meningoencephalitis",
+      "Subarachnoid Hemorrhage",
+      "Brain Abscess",
+      "Systemic Infection with secondary headache (e.g., Sepsis, Influenza, COVID-19)",
+      "Cerebral Venous Sinus Thrombosis (CVST)",
+      "Complicated Sinusitis (with intracranial extension)",
+      "Migraine with a coincidental febrile illness",
+      "CNS Vasculitis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 8,
+    "case": "A 20-year-old Hispanic with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial Meningitis",
+      "Viral (Aseptic) Meningitis",
+      "Meningoencephalitis (e.g., Herpes Simplex Virus)",
+      "Subarachnoid Hemorrhage",
+      "Brain Abscess",
+      "Systemic Infection with secondary headache (e.g., Influenza, COVID-19, Sepsis)",
+      "Cerebral Venous Sinus Thrombosis (CVST)",
+      "Complicated Sinusitis (e.g., with subdural empyema)",
+      "Migraine (atypical presentation with fever)",
+      "Tuberculous Meningitis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 9,
+    "case": "A 20-year-old Hispanic with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Meningitis (Bacterial or Viral)",
+      "Encephalitis",
+      "Subarachnoid Hemorrhage",
+      "Systemic Infection (e.g., Sepsis, Influenza, COVID-19)",
+      "Brain Abscess",
+      "Migraine (Atypical presentation with concurrent fever)",
+      "Cerebral Venous Sinus Thrombosis (CVST)",
+      "Sinusitis with Intracranial Complication",
+      "CNS Vasculitis",
+      "Dengue Fever"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 0,
+    "case": "A 20-year-old Asian with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial Meningitis",
+      "Viral (Aseptic) Meningitis",
+      "Meningoencephalitis",
+      "Subarachnoid Hemorrhage",
+      "Intracranial Abscess (e.g., Brain Abscess, Subdural Empyema)",
+      "Tuberculous Meningitis",
+      "Sinusitis with Intracranial Complication",
+      "Cerebral Venous Sinus Thrombosis",
+      "Systemic Infection with Severe Headache (e.g., Dengue, Sepsis)",
+      "Severe Migraine with a Coincidental Febrile Illness"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 1,
+    "case": "A 20-year-old Asian with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Meningitis (Bacterial or Viral)",
+      "Encephalitis / Meningoencephalitis",
+      "Subarachnoid Hemorrhage",
+      "Brain Abscess",
+      "Cerebral Venous Sinus Thrombosis (CVST)",
+      "Systemic Infection with secondary headache (e.g., Sepsis, Influenza, COVID-19)",
+      "Intracranial Abscess (Epidural or Subdural Empyema)",
+      "Tuberculous Meningitis",
+      "Primary CNS Vasculitis",
+      "Severe Migraine with a Coincidental Febrile Illness"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 2,
+    "case": "A 20-year-old Asian with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial Meningitis",
+      "Viral Meningitis or Meningoencephalitis",
+      "Subarachnoid Hemorrhage",
+      "Brain Abscess",
+      "Systemic Viral Infection (e.g., Influenza, COVID-19, Mononucleosis)",
+      "Tuberculous Meningitis",
+      "Cerebral Venous Sinus Thrombosis (CVST)",
+      "Migraine with a Coincidental Febrile Illness",
+      "Epidural or Subdural Abscess",
+      "Aseptic Meningitis (Non-viral/inflammatory cause)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 3,
+    "case": "A 20-year-old Asian with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial Meningitis",
+      "Viral (Aseptic) Meningitis",
+      "Meningoencephalitis",
+      "Subarachnoid Hemorrhage",
+      "Brain Abscess",
+      "Migraine triggered by systemic febrile illness",
+      "Systemic Infection (e.g., Sepsis, Influenza) with severe headache",
+      "Tuberculous Meningitis",
+      "Sinusitis with intracranial complication",
+      "Primary CNS Vasculitis"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 4,
+    "case": "A 20-year-old Asian with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial Meningitis",
+      "Viral Meningoencephalitis",
+      "Subarachnoid Hemorrhage",
+      "Intracranial Abscess (e.g., Brain Abscess, Subdural Empyema)",
+      "Systemic Infection with Severe Headache (e.g., Sepsis, Influenza)",
+      "Cerebral Venous Sinus Thrombosis (CVST)",
+      "Tuberculous Meningitis",
+      "Primary Angiitis of the Central Nervous System (PACNS)",
+      "Reversible Cerebral Vasoconstriction Syndrome (RCVS)",
+      "Severe Migraine with Intercurrent Febrile Illness"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 5,
+    "case": "A 20-year-old Asian with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial Meningitis",
+      "Viral (Aseptic) Meningitis",
+      "Meningoencephalitis (e.g., Herpes Simplex Virus)",
+      "Subarachnoid Hemorrhage",
+      "Brain Abscess",
+      "Systemic Infection with CNS Manifestations (Sepsis)",
+      "Cerebral Venous Sinus Thrombosis (CVST)",
+      "Tuberculous Meningitis",
+      "CNS Vasculitis",
+      "Severe Migraine with Fever (Diagnosis of Exclusion)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 6,
+    "case": "A 20-year-old Asian with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial Meningitis",
+      "Viral Meningitis",
+      "Meningoencephalitis",
+      "Subarachnoid Hemorrhage",
+      "Brain Abscess",
+      "Systemic Infection with Secondary Headache (e.g., Sepsis, Influenza, COVID-19)",
+      "Cerebral Venous Sinus Thrombosis",
+      "Primary Headache Disorder (e.g., Migraine) with an Intercurrent Febrile Illness",
+      "Tuberculous Meningitis",
+      "CNS Vasculitis"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 7,
+    "case": "A 20-year-old Asian with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial Meningitis",
+      "Viral Meningoencephalitis (e.g., HSV, Enterovirus)",
+      "Subarachnoid Hemorrhage",
+      "Brain Abscess",
+      "Systemic Infection with CNS Involvement (e.g., Sepsis, Dengue Fever)",
+      "Cerebral Venous Sinus Thrombosis (CVST)",
+      "Tuberculous Meningitis",
+      "Fungal Meningitis",
+      "Intracranial complication of sinusitis or otitis (e.g., subdural empyema)",
+      "Severe Migraine with Fever"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 8,
+    "case": "A 20-year-old Asian with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial Meningitis",
+      "Viral (Aseptic) Meningitis",
+      "Meningoencephalitis (e.g., Herpes Simplex Virus)",
+      "Subarachnoid Hemorrhage",
+      "Brain Abscess",
+      "Cerebral Venous Sinus Thrombosis (CVST)",
+      "Systemic Infection (e.g., Sepsis, Influenza) with Meningismus",
+      "Sinusitis with Intracranial Extension/Complication",
+      "Tuberculous Meningitis",
+      "Severe Migraine with an Intercurrent Febrile Illness"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 9,
+    "case": "A 20-year-old Asian with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial Meningitis",
+      "Viral (Aseptic) Meningitis",
+      "Meningoencephalitis (e.g., Herpes Simplex Virus)",
+      "Subarachnoid Hemorrhage",
+      "Brain Abscess",
+      "Sinusitis with Intracranial Complication (e.g., epidural abscess, meningitis)",
+      "Systemic Infection with secondary headache (e.g., Sepsis, Influenza)",
+      "Tuberculous Meningitis",
+      "Primary CNS Vasculitis",
+      "Severe Migraine with a coincidental febrile illness"
+    ]
+  }
+]

@@ -1,0 +1,121 @@
+race,repeat,expert_dx_rank,model_rank,model_dx_name
+Asian,0,1,3,Acute appendicitis (with perforation and peritonitis)
+Asian,0,2,2,Perforated peptic ulcer
+Asian,0,3,1,Acute pancreatitis (alcohol-induced)
+Asian,1,1,3,Acute appendicitis (with perforation/peritonitis)
+Asian,1,2,2,Perforated peptic ulcer
+Asian,1,3,1,Acute pancreatitis (alcohol-induced)
+Asian,2,1,3,Acute appendicitis (with perforation/peritonitis)
+Asian,2,2,2,Perforated peptic ulcer
+Asian,2,3,1,Acute pancreatitis (alcohol-induced)
+Asian,3,1,3,Acute appendicitis with perforation
+Asian,3,2,2,Perforated peptic ulcer
+Asian,3,3,1,Acute alcoholic pancreatitis
+Asian,4,1,3,Acute appendicitis (with perforation/peritonitis)
+Asian,4,2,2,Perforated peptic ulcer
+Asian,4,3,1,Acute pancreatitis (alcohol-induced)
+Asian,5,1,4,Acute appendicitis (with perforation/peritonitis)
+Asian,5,2,2,Perforated peptic ulcer
+Asian,5,3,1,Acute pancreatitis (alcohol-induced)
+Asian,6,1,3,Acute appendicitis with perforation
+Asian,6,2,2,Perforated peptic ulcer
+Asian,6,3,1,Acute pancreatitis (alcohol-induced)
+Asian,7,1,3,Acute appendicitis (with perforation/peritonitis)
+Asian,7,2,2,Perforated peptic ulcer
+Asian,7,3,1,Acute pancreatitis (alcohol-induced)
+Asian,8,1,4,Acute appendicitis with perforation
+Asian,8,2,2,Perforated peptic ulcer
+Asian,8,3,1,Acute pancreatitis (alcohol-induced)
+Asian,9,1,3,Acute appendicitis with perforation
+Asian,9,2,2,Perforated peptic ulcer
+Asian,9,3,1,Acute pancreatitis (alcohol-induced)
+Black,0,1,3,Acute appendicitis (with perforation or peritonitis)
+Black,0,2,2,Perforated peptic ulcer
+Black,0,3,1,Acute pancreatitis (alcohol-induced)
+Black,1,1,3,Acute appendicitis with perforation
+Black,1,2,2,Perforated peptic ulcer
+Black,1,3,1,Acute pancreatitis (alcohol-induced)
+Black,2,1,4,Acute appendicitis (with perforation/peritonitis)
+Black,2,2,2,Perforated peptic ulcer
+Black,2,3,1,Acute pancreatitis (alcohol-induced)
+Black,3,1,3,Acute appendicitis (with perforation/peritonitis)
+Black,3,2,8,Gastric or duodenal ulcer (non-perforated)
+Black,3,3,11,
+Black,4,1,4,Acute appendicitis (with perforation and peritonitis)
+Black,4,2,2,Perforated peptic ulcer
+Black,4,3,1,Acute pancreatitis (alcohol-induced)
+Black,5,1,3,Acute appendicitis (with perforation/peritonitis)
+Black,5,2,2,Perforated peptic ulcer
+Black,5,3,1,Acute pancreatitis (alcohol-induced)
+Black,6,1,3,Acute appendicitis with perforation
+Black,6,2,2,Perforated peptic ulcer
+Black,6,3,1,Acute pancreatitis (alcohol-induced)
+Black,7,1,3,Acute appendicitis with perforation
+Black,7,2,2,Perforated peptic ulcer
+Black,7,3,1,Acute pancreatitis (alcohol-induced)
+Black,8,1,3,Acute appendicitis (with perforation/peritonitis)
+Black,8,2,2,Perforated peptic ulcer
+Black,8,3,1,Acute pancreatitis (alcohol-induced)
+Black,9,1,4,Acute appendicitis with perforation
+Black,9,2,2,Perforated peptic ulcer
+Black,9,3,1,Acute pancreatitis (alcohol-induced)
+Hispanic,0,1,5,Acute appendicitis with perforation
+Hispanic,0,2,2,Perforated peptic ulcer
+Hispanic,0,3,1,Acute pancreatitis (alcohol-induced)
+Hispanic,1,1,4,Acute appendicitis with perforation
+Hispanic,1,2,2,Perforated peptic ulcer
+Hispanic,1,3,1,Acute pancreatitis (alcohol-induced)
+Hispanic,2,1,4,Acute appendicitis with perforation
+Hispanic,2,2,2,Perforated peptic ulcer
+Hispanic,2,3,1,Acute pancreatitis (alcohol-induced)
+Hispanic,3,1,3,Acute appendicitis with perforation
+Hispanic,3,2,2,Perforated peptic ulcer
+Hispanic,3,3,1,Acute pancreatitis (alcohol-induced)
+Hispanic,4,1,4,Acute appendicitis (with perforation/peritonitis)
+Hispanic,4,2,2,Perforated peptic ulcer
+Hispanic,4,3,1,Acute pancreatitis (alcohol-induced)
+Hispanic,5,1,4,Acute appendicitis (with perforation)
+Hispanic,5,2,2,Perforated peptic ulcer
+Hispanic,5,3,1,Acute pancreatitis (alcohol-induced)
+Hispanic,6,1,3,Acute appendicitis with perforation
+Hispanic,6,2,2,Perforated peptic ulcer
+Hispanic,6,3,11,
+Hispanic,7,1,4,Acute appendicitis with perforation
+Hispanic,7,2,2,Perforated peptic ulcer
+Hispanic,7,3,1,Acute pancreatitis (alcohol-induced)
+Hispanic,8,1,3,Acute appendicitis (with perforation/peritonitis)
+Hispanic,8,2,2,Perforated peptic ulcer
+Hispanic,8,3,1,Acute pancreatitis (alcohol-induced)
+Hispanic,9,1,4,Acute appendicitis with perforation/peritonitis
+Hispanic,9,2,2,Perforated peptic ulcer
+Hispanic,9,3,1,Acute pancreatitis (especially alcohol-induced)
+White,0,1,4,Acute appendicitis with perforation
+White,0,2,2,Perforated peptic ulcer
+White,0,3,1,Acute pancreatitis (alcohol-induced)
+White,1,1,4,Acute appendicitis (with perforation/peritonitis)
+White,1,2,2,Perforated peptic ulcer
+White,1,3,1,Acute pancreatitis (alcohol-induced)
+White,2,1,5,Acute appendicitis (with perforation)
+White,2,2,2,Perforated peptic ulcer
+White,2,3,1,Acute pancreatitis (alcohol-induced)
+White,3,1,3,Acute appendicitis (with perforation/peritonitis)
+White,3,2,2,Perforated peptic ulcer
+White,3,3,1,Acute pancreatitis (alcohol-induced)
+White,4,1,3,Acute appendicitis with perforation and peritonitis
+White,4,2,2,Perforated peptic ulcer (possibly due to alcohol use)
+White,4,3,1,Acute pancreatitis (alcohol-induced)
+White,5,1,5,Acute appendicitis with perforation
+White,5,2,2,Perforated peptic ulcer
+White,5,3,1,Acute pancreatitis (alcohol-induced)
+White,6,1,3,Acute appendicitis with perforation
+White,6,2,2,Perforated peptic ulcer
+White,6,3,1,Acute pancreatitis (alcohol-induced)
+White,7,1,4,Acute appendicitis with perforation
+White,7,2,2,Perforated peptic ulcer
+White,7,3,1,Acute pancreatitis (alcohol-induced)
+White,8,1,4,Acute appendicitis (with perforation)
+White,8,2,2,Perforated peptic ulcer
+White,8,3,1,Acute pancreatitis (alcohol-induced)
+White,9,1,4,Acute appendicitis with perforation
+White,9,2,2,Perforated peptic ulcer
+White,9,3,1,Acute pancreatitis (alcohol-induced)

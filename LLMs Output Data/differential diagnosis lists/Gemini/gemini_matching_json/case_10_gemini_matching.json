@@ -1,0 +1,1242 @@
+[
+  {
+    "race": "Black",
+    "repeat": 0,
+    "match": {
+      "Migraine (transforming from episodic to chronic)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Medication Overuse Headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Intracranial Mass (e.g., tumor, abscess)": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Idiopathic Intracranial Hypertension (IIH)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Cluster Headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 1,
+    "match": {
+      "Migraine": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Cluster Headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "2"
+      },
+      "Tension-Type Headache (with atypical features)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Secondary Headache due to Intracranial Mass (e.g., tumor, AVM)": {
+        "Rank in List One": "6",
+        "Rank in List Two": "5"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "8"
+      },
+      "Idiopathic Intracranial Hypertension (IIH)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 2,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Medication overuse headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Tension headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "5"
+      },
+      "Pseudotumor cerebri": {
+        "Rank in List One": "4",
+        "Rank in List Two": "6"
+      },
+      "Intracranial neoplasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 3,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Medication overuse headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pseudotumor cerebri": {
+        "Rank in List One": "4",
+        "Rank in List Two": "7"
+      },
+      "Intracranial neoplasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "4"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 4,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Medication overuse headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Tension headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "10"
+      },
+      "Pseudotumor cerebri": {
+        "Rank in List One": "4",
+        "Rank in List Two": "7"
+      },
+      "Intracranial neoplasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "6"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 5,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Tension headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "8"
+      },
+      "Pseudotumor cerebri": {
+        "Rank in List One": "4",
+        "Rank in List Two": "6"
+      },
+      "Intracranial neoplasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "2"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 6,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Medication overuse headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Tension headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Pseudotumor cerebri": {
+        "Rank in List One": "4",
+        "Rank in List Two": "7"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "10"
+      },
+      "Intracranial neoplasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "5"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 7,
+    "match": {
+      "Migraine (potentially transforming from episodic to chronic)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Medication Overuse Headache (MOH)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Cluster Headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Intracranial Mass / Lesion": {
+        "Rank in List One": "6",
+        "Rank in List Two": "4"
+      },
+      "Idiopathic Intracranial Hypertension (IIH)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 8,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Medication overuse headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Tension headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Pseudotumor cerebri": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "10"
+      },
+      "Intracranial neoplasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "7"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 9,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Medication overuse headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Intracranial neoplasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "6"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 0,
+    "match": {
+      "Migraine": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Medication Overuse Headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Tension-Type Headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Cluster Headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "4"
+      },
+      "Intracranial Mass": {
+        "Rank in List One": "6",
+        "Rank in List Two": "6"
+      },
+      "Idiopathic Intracranial Hypertension": {
+        "Rank in List One": "4",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 1,
+    "match": {
+      "Migraine (including progression from episodic to chronic)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Medication Overuse Headache (MOH)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Cluster Headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "5"
+      },
+      "Idiopathic Intracranial Hypertension (IIH)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "6"
+      },
+      "Intracranial Mass (e.g., Brain Tumor)": {
+        "Rank in List One": "6",
+        "Rank in List Two": "7"
+      },
+      "Cerebral Vascular Disease (e.g., Artery Dissection, Aneurysm)": {
+        "Rank in List One": "7",
+        "Rank in List Two": "8"
+      },
+      "Sinusitis (particularly sphenoid)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 2,
+    "match": {
+      "Migraine (episodic or transforming to chronic)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Medication Overuse Headache (MOH)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Cluster Headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "4"
+      },
+      "Intracranial Mass (e.g., tumor, abscess)": {
+        "Rank in List One": "6",
+        "Rank in List Two": "6"
+      },
+      "Idiopathic Intracranial Hypertension (IIH)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      },
+      "Unruptured Vascular Malformation (e.g., Aneurysm, AVM)": {
+        "Rank in List One": "7",
+        "Rank in List Two": "9"
+      },
+      "Sphenoid Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 3,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Tension headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "6"
+      },
+      "Pseudotumor cerebri": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "9"
+      },
+      "Intracranial neoplasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "5"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "2"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 4,
+    "match": {
+      "Migraine": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Medication Overuse Headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Cluster Headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Intracranial Mass (e.g., brain tumor)": {
+        "Rank in List One": "6",
+        "Rank in List Two": "6"
+      },
+      "Tension-Type Headache (atypical presentation)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "7"
+      },
+      "Idiopathic Intracranial Hypertension (IIH)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 5,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Medication overuse headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Tension headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pseudotumor cerebri": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      },
+      "Intracranial neoplasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "7"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "5"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 6,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Medication overuse headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Tension headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "6"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "10"
+      },
+      "Intracranial neoplasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Intracranial aneurysm": {
+        "Rank in List One": "7",
+        "Rank in List Two": "8"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "4"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 7,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Medication overuse headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Tension headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pseudotumor cerebri": {
+        "Rank in List One": "4",
+        "Rank in List Two": "9"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "10"
+      },
+      "Intracranial neoplasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "8"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "4"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 8,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Tension Headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "6"
+      },
+      "Idiopathic Intracranial Hypertension": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "10"
+      },
+      "Intracranial Neoplasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Intracranial Aneurysm": {
+        "Rank in List One": "7",
+        "Rank in List Two": "7"
+      },
+      "Cluster Headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "2"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 9,
+    "match": {
+      "Migraine": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Medication Overuse Headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Cluster Headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Intracranial Mass": {
+        "Rank in List One": "6",
+        "Rank in List Two": "6"
+      },
+      "Idiopathic Intracranial Hypertension (IIH)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "7"
+      },
+      "Vascular Cause (e.g., Artery Dissection, Aneurysm)": {
+        "Rank in List One": "7",
+        "Rank in List Two": "8"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "9"
+      },
+      "Tension-Type Headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 0,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Medication overuse headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "8"
+      },
+      "Intracranial neoplasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "5"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 1,
+    "match": {
+      "Migraine (episodic transforming to chronic)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Medication Overuse Headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Tension-Type Headache (atypical presentation)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Cluster Headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "4"
+      },
+      "Intracranial Mass Lesion (e.g., tumor, arteriovenous malformation)": {
+        "Rank in List One": "6",
+        "Rank in List Two": "7"
+      },
+      "Idiopathic Intracranial Hypertension (IIH)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 2,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Medication overuse headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Tension headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "8"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "9"
+      },
+      "Intracranial neoplasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "5"
+      },
+      "Intracranial aneurysm": {
+        "Rank in List One": "7",
+        "Rank in List Two": "7"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "4"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 3,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Medication overuse headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Tension headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "8"
+      },
+      "Pseudotumor cerebri": {
+        "Rank in List One": "4",
+        "Rank in List Two": "9"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "10"
+      },
+      "Intracranial neoplasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "4"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 4,
+    "match": {
+      "Migraine (episodic transforming to chronic)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Medication Overuse Headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Intracranial Mass (e.g., Brain Tumor)": {
+        "Rank in List One": "6",
+        "Rank in List Two": "4"
+      },
+      "Cluster Headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "5"
+      },
+      "Idiopathic Intracranial Hypertension (IIH)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "7"
+      },
+      "Expanding Cerebral Aneurysm": {
+        "Rank in List One": "7",
+        "Rank in List Two": "9"
+      },
+      "Tension-Type Headache (with atypical features)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 5,
+    "match": {
+      "Migraine (episodic transforming to chronic)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Medication Overuse Headache (MOH)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Cluster Headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Tension-Type Headache (with atypical features)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "5"
+      },
+      "Intracranial Mass (e.g., tumor)": {
+        "Rank in List One": "6",
+        "Rank in List Two": "7"
+      },
+      "Vascular Abnormality (e.g., aneurysm, arteriovenous malformation, dissection)": {
+        "Rank in List One": "7",
+        "Rank in List Two": "8"
+      },
+      "Sinusitis (chronic or complicated)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 6,
+    "match": {
+      "Migraine (including transformation to Chronic Migraine)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Medication Overuse Headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Intracranial Mass (e.g., Brain Tumor)": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Cluster Headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "4"
+      },
+      "Vascular Malformation (e.g., Aneurysm, Arteriovenous Malformation)": {
+        "Rank in List One": "7",
+        "Rank in List Two": "8"
+      },
+      "Tension-Type Headache (Atypical presentation)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "9"
+      },
+      "Idiopathic Intracranial Hypertension (IIH)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 7,
+    "match": {
+      "Migraine": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Medication Overuse Headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Cluster Headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Intracranial Mass / Neoplasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "4"
+      },
+      "Idiopathic Intracranial Hypertension / Pseudotumor Cerebri": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 8,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Medication overuse headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pseudotumor cerebri": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "10"
+      },
+      "Intracranial neoplasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "6"
+      },
+      "Intracranial aneurysm": {
+        "Rank in List One": "7",
+        "Rank in List Two": "9"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 9,
+    "match": {
+      "Migraine (transforming from episodic to chronic)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Medication Overuse Headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Cluster Headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Tension-Type Headache (unilateral variant)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Intracranial Mass/Lesion": {
+        "Rank in List One": "6",
+        "Rank in List Two": "7"
+      },
+      "Idiopathic Intracranial Hypertension": {
+        "Rank in List One": "4",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 0,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Medication overuse headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pseudotumor cerebri": {
+        "Rank in List One": "4",
+        "Rank in List Two": "10"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "9"
+      },
+      "Intracranial neoplasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "4"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 1,
+    "match": {
+      "Migraine": {
+        "Rank in List One": 1,
+        "Rank in List Two": 1
+      },
+      "Medication Overuse Headache": {
+        "Rank in List One": 2,
+        "Rank in List Two": 2
+      },
+      "Cluster Headache": {
+        "Rank in List One": 8,
+        "Rank in List Two": 3
+      },
+      "Tension-Type Headache": {
+        "Rank in List One": 3,
+        "Rank in List Two": 4
+      },
+      "Intracranial Mass (e.g., Brain Tumor)": {
+        "Rank in List One": 6,
+        "Rank in List Two": 7
+      },
+      "Sinusitis (Chronic)": {
+        "Rank in List One": 5,
+        "Rank in List Two": 8
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 2,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Medication overuse headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Tension headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "10"
+      },
+      "Intracranial neoplasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "5"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 3,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Medication overuse headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Tension headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "8"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "9"
+      },
+      "Intracranial neoplasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "5"
+      },
+      "Intracranial aneurysm": {
+        "Rank in List One": "7",
+        "Rank in List Two": "7"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 4,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Medication overuse headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "10"
+      },
+      "Intracranial neoplasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "5"
+      },
+      "Intracranial aneurysm": {
+        "Rank in List One": "7",
+        "Rank in List Two": "8"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 5,
+    "match": {
+      "Migraine": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Medication Overuse Headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Tension-Type Headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Cluster Headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "5"
+      },
+      "Intracranial Mass (e.g., Brain Tumor)": {
+        "Rank in List One": "6",
+        "Rank in List Two": "6"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "7"
+      },
+      "Idiopathic Intracranial Hypertension (IIH)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 6,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Pseudotumor cerebri": {
+        "Rank in List One": "4",
+        "Rank in List Two": "10"
+      },
+      "Intracranial neoplasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Intracranial aneurysm": {
+        "Rank in List One": "7",
+        "Rank in List Two": "5"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 7,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Medication overuse headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Tension headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pseudotumor cerebri": {
+        "Rank in List One": "4",
+        "Rank in List Two": "10"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "7"
+      },
+      "Intracranial neoplasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "6"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "4"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 8,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Medication overuse headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pseudotumor cerebri": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "10"
+      },
+      "Intracranial neoplasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 9,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Medication overuse headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "10"
+      },
+      "Intracranial neoplasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "4"
+      },
+      "Intracranial aneurysm": {
+        "Rank in List One": "7",
+        "Rank in List Two": "7"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      }
+    }
+  }
+]

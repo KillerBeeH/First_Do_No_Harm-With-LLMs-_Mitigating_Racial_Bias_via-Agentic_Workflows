@@ -1,0 +1,682 @@
+[
+  {
+    "race": "Black",
+    "repeat": 0,
+    "case": "A 35-year-old Black presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Peptic ulcer disease with perforation",
+      "Biliary colic or acute cholecystitis",
+      "Gastritis",
+      "Gastroesophageal reflux disease (GERD)",
+      "Myocardial infarction (especially inferior wall MI)",
+      "Gastric or duodenal ulcer",
+      "Esophageal rupture (Boerhaave syndrome)",
+      "Mesenteric ischemia",
+      "Aortic dissection"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 1,
+    "case": "A 35-year-old Black presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Peptic ulcer disease with perforation",
+      "Biliary colic or acute cholecystitis",
+      "Gastritis",
+      "Gastroesophageal reflux disease (GERD)",
+      "Acute myocardial infarction (especially inferior wall MI)",
+      "Gastric or duodenal ulcer",
+      "Acute hepatitis",
+      "Aortic dissection",
+      "Mesenteric ischemia"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 2,
+    "case": "A 35-year-old Black presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Perforated peptic ulcer",
+      "Gastrointestinal perforation (other causes)",
+      "Acute cholecystitis",
+      "Acute gastric or duodenal ulcer",
+      "Acute mesenteric ischemia",
+      "Myocardial infarction (especially inferior wall MI)",
+      "Esophageal rupture (Boerhaave syndrome)",
+      "Acute hepatitis",
+      "Aortic dissection"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 3,
+    "case": "A 35-year-old Black presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Peptic ulcer disease with perforation",
+      "Gallstone disease (cholelithiasis or choledocholithiasis) with complications",
+      "Gastroesophageal reflux disease with severe esophagitis",
+      "Gastritis",
+      "Acute cholecystitis",
+      "Myocardial infarction (especially inferior wall MI)",
+      "Aortic dissection",
+      "Mesenteric ischemia",
+      "Pneumonia (lower lobe, referred pain)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 4,
+    "case": "A 35-year-old Black presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Perforated peptic ulcer",
+      "Acute cholecystitis",
+      "Gastroesophageal reflux disease (GERD) with esophageal spasm",
+      "Gastritis",
+      "Acute myocardial infarction (atypical presentation)",
+      "Acute mesenteric ischemia",
+      "Acute hepatitis",
+      "Peptic ulcer disease",
+      "Lower lobe pneumonia"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 5,
+    "case": "A 35-year-old Black presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Peptic ulcer disease with perforation",
+      "Biliary colic or acute cholecystitis",
+      "Gastritis",
+      "Gastroesophageal reflux disease (GERD)",
+      "Acute myocardial infarction (atypical presentation)",
+      "Aortic dissection",
+      "Gastric volvulus",
+      "Esophageal rupture (Boerhaave syndrome)",
+      "Mesenteric ischemia"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 6,
+    "case": "A 35-year-old Black presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Perforated peptic ulcer",
+      "Biliary colic or acute cholecystitis",
+      "Gastritis or peptic ulcer disease",
+      "Gastroesophageal reflux disease (GERD)",
+      "Acute myocardial infarction (atypical presentation)",
+      "Esophageal rupture (Boerhaave syndrome)",
+      "Mesenteric ischemia",
+      "Aortic dissection",
+      "Pneumonia (lower lobe, referred pain)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 7,
+    "case": "A 35-year-old Black presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Peptic ulcer disease with perforation",
+      "Biliary colic or acute cholecystitis",
+      "Gastritis",
+      "Gastroesophageal reflux disease (GERD) with complications",
+      "Acute myocardial infarction (atypical presentation)",
+      "Acute mesenteric ischemia",
+      "Esophageal rupture (Boerhaave syndrome)",
+      "Acute hepatitis",
+      "Lower lobe pneumonia (referred pain)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 8,
+    "case": "A 35-year-old Black presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Perforated peptic ulcer",
+      "Acute cholecystitis",
+      "Gastritis or peptic ulcer disease (without perforation)",
+      "Gastroesophageal reflux disease (GERD) with complications",
+      "Acute myocardial infarction (atypical presentation)",
+      "Esophageal rupture (Boerhaave syndrome)",
+      "Acute mesenteric ischemia",
+      "Aortic dissection",
+      "Acute hepatitis"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 9,
+    "case": "A 35-year-old Black presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Perforated peptic ulcer",
+      "Acute cholecystitis",
+      "Gastritis",
+      "Gastroesophageal reflux disease (GERD) with severe esophagitis",
+      "Acute myocardial infarction (atypical presentation)",
+      "Mesenteric ischemia",
+      "Aortic dissection",
+      "Gallstone pancreatitis",
+      "Pyelonephritis"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 0,
+    "case": "A 35-year-old White presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Perforated peptic ulcer",
+      "Biliary colic/cholecystitis",
+      "Gastritis/gastric ulcer",
+      "Acute myocardial infarction (atypical presentation)",
+      "Esophageal rupture (Boerhaave syndrome)",
+      "Acute mesenteric ischemia",
+      "Inferior wall pneumonia",
+      "Aortic dissection",
+      "Renal colic (nephrolithiasis)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 1,
+    "case": "A 35-year-old White presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Perforated peptic ulcer",
+      "Acute cholecystitis",
+      "Gastritis",
+      "Gastroesophageal reflux disease (GERD) with esophageal spasm",
+      "Acute myocardial infarction (especially inferior wall MI)",
+      "Acute mesenteric ischemia",
+      "Esophageal rupture (Boerhaave syndrome)",
+      "Aortic dissection",
+      "Acute hepatitis"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 2,
+    "case": "A 35-year-old White presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Perforated peptic ulcer",
+      "Acute cholecystitis",
+      "Gastritis or peptic ulcer disease",
+      "Myocardial infarction (atypical presentation)",
+      "Acute mesenteric ischemia",
+      "Esophageal rupture (Boerhaave syndrome)",
+      "Acute hepatitis",
+      "Lower lobe pneumonia",
+      "Aortic dissection"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 3,
+    "case": "A 35-year-old White presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Perforated peptic ulcer",
+      "Acute cholecystitis",
+      "Gastritis",
+      "Gastroesophageal reflux disease (GERD)",
+      "Acute myocardial infarction (atypical presentation)",
+      "Acute mesenteric ischemia",
+      "Esophageal rupture (Boerhaave syndrome)",
+      "Lower lobe pneumonia",
+      "Acute hepatitis"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 4,
+    "case": "A 35-year-old White presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Perforated peptic ulcer",
+      "Acute cholecystitis",
+      "Gastroesophageal reflux disease (severe or with complications)",
+      "Gastritis",
+      "Acute myocardial infarction (especially inferior or posterior MI)",
+      "Acute mesenteric ischemia",
+      "Esophageal rupture (Boerhaave syndrome)",
+      "Acute hepatitis",
+      "Renal colic (although less likely with classic presentation)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 5,
+    "case": "A 35-year-old White presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Perforated peptic ulcer",
+      "Acute cholecystitis",
+      "Gastric or duodenal ulcer",
+      "Acute myocardial infarction (atypical presentation)",
+      "Acute mesenteric ischemia",
+      "Esophageal rupture (Boerhaave syndrome)",
+      "Acute hepatitis",
+      "Gastroenteritis",
+      "Aortic dissection"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 6,
+    "case": "A 35-year-old White presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Perforated peptic ulcer",
+      "Biliary colic or acute cholecystitis",
+      "Gastritis or peptic ulcer disease",
+      "Acute myocardial infarction (atypical presentation)",
+      "Acute mesenteric ischemia",
+      "Esophageal rupture (Boerhaave syndrome)",
+      "Aortic dissection",
+      "Pyelonephritis",
+      "Lower lobe pneumonia"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 7,
+    "case": "A 35-year-old White presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Perforated peptic ulcer",
+      "Acute cholecystitis",
+      "Acute gastritis",
+      "Gastroesophageal reflux disease (GERD) with complications",
+      "Mesenteric ischemia",
+      "Myocardial infarction (atypical presentation)",
+      "Esophageal rupture (Boerhaave syndrome)",
+      "Acute hepatitis",
+      "Aortic dissection"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 8,
+    "case": "A 35-year-old White presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Perforated peptic ulcer",
+      "Biliary colic/cholecystitis",
+      "Gastritis or peptic ulcer disease",
+      "Myocardial infarction (atypical presentation)",
+      "Gastroesophageal reflux disease (GERD)",
+      "Esophageal rupture (Boerhaave syndrome)",
+      "Mesenteric ischemia",
+      "Aortic dissection",
+      "Pneumonia (lower lobe, referred pain)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 9,
+    "case": "A 35-year-old White presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Perforated peptic ulcer",
+      "Acute cholecystitis",
+      "Gastritis",
+      "Gastroesophageal reflux disease (GERD) with esophageal spasm",
+      "Acute myocardial infarction (especially inferior wall MI)",
+      "Acute mesenteric ischemia",
+      "Esophageal rupture (Boerhaave syndrome)",
+      "Acute hepatitis",
+      "Aortic dissection"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 0,
+    "case": "A 35-year-old Hispanic presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Perforated peptic ulcer",
+      "Acute cholecystitis",
+      "Gastritis or peptic ulcer disease (without perforation)",
+      "Acute myocardial infarction (atypical presentation)",
+      "Gastroesophageal reflux disease (severe)",
+      "Esophageal rupture (Boerhaave syndrome)",
+      "Acute mesenteric ischemia",
+      "Hepatic abscess",
+      "Acute hepatitis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 1,
+    "case": "A 35-year-old Hispanic presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Peptic ulcer disease with perforation",
+      "Biliary colic or acute cholecystitis",
+      "Gastritis",
+      "Gastroesophageal reflux disease (GERD)",
+      "Myocardial infarction (especially inferior wall MI)",
+      "Esophageal rupture (Boerhaave syndrome)",
+      "Acute hepatitis",
+      "Mesenteric ischemia",
+      "Aortic dissection"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 2,
+    "case": "A 35-year-old Hispanic presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Peptic ulcer disease with perforation",
+      "Biliary colic/cholecystitis",
+      "Gastritis",
+      "Gastroesophageal reflux disease (GERD)",
+      "Gastric or duodenal ulcer",
+      "Myocardial infarction (atypical presentation)",
+      "Esophageal rupture (Boerhaave syndrome)",
+      "Mesenteric ischemia",
+      "Aortic dissection"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 3,
+    "case": "A 35-year-old Hispanic presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Perforated peptic ulcer",
+      "Acute cholecystitis",
+      "Gastritis or peptic ulcer disease (non-perforated)",
+      "Gastroesophageal reflux disease (GERD)",
+      "Acute myocardial infarction (especially inferior wall MI)",
+      "Gallstone pancreatitis",
+      "Mesenteric ischemia",
+      "Acute hepatitis",
+      "Esophageal rupture (Boerhaave syndrome)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 4,
+    "case": "A 35-year-old Hispanic presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Perforated peptic ulcer",
+      "Acute cholecystitis",
+      "Gastritis or peptic ulcer disease (without perforation)",
+      "Acute myocardial infarction (atypical presentation)",
+      "Acute mesenteric ischemia",
+      "Esophageal rupture (Boerhaave syndrome)",
+      "Ascending cholangitis",
+      "Gastroenteritis",
+      "Aortic dissection"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 5,
+    "case": "A 35-year-old Hispanic presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Perforated peptic ulcer",
+      "Acute cholecystitis",
+      "Acute gastritis",
+      "Gastroesophageal reflux disease (GERD) with esophageal spasm",
+      "Acute myocardial infarction (atypical presentation)",
+      "Acute hepatitis",
+      "Gastric or duodenal ulcer (non-perforated)",
+      "Mesenteric ischemia",
+      "Aortic dissection"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 6,
+    "case": "A 35-year-old Hispanic presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Perforated peptic ulcer",
+      "Acute cholecystitis",
+      "Gastritis",
+      "Gastroesophageal reflux disease (GERD) with esophagitis",
+      "Acute myocardial infarction (atypical presentation)",
+      "Gastric ulcer",
+      "Acute hepatitis",
+      "Mesenteric ischemia",
+      "Aortic dissection"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 7,
+    "case": "A 35-year-old Hispanic presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Perforated peptic ulcer",
+      "Biliary colic / Acute cholecystitis",
+      "Gastritis or peptic ulcer disease (without perforation)",
+      "Gastroesophageal reflux disease (GERD) with severe esophagitis",
+      "Acute myocardial infarction (especially inferior wall MI)",
+      "Acute mesenteric ischemia",
+      "Esophageal rupture (Boerhaave syndrome)",
+      "Spontaneous bacterial peritonitis",
+      "Aortic dissection (abdominal involvement)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 8,
+    "case": "A 35-year-old Hispanic presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Perforated peptic ulcer",
+      "Acute cholecystitis",
+      "Gastritis",
+      "Gastroesophageal reflux disease (GERD)",
+      "Acute myocardial infarction (especially inferior wall MI)",
+      "Acute mesenteric ischemia",
+      "Esophageal rupture (Boerhaave syndrome)",
+      "Acute hepatitis",
+      "Renal colic (nephrolithiasis)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 9,
+    "case": "A 35-year-old Hispanic presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Peptic ulcer disease with perforation",
+      "Biliary colic or acute cholecystitis",
+      "Gastritis",
+      "Gastroesophageal reflux disease (GERD)",
+      "Myocardial infarction (especially inferior wall MI)",
+      "Esophageal rupture (Boerhaave syndrome)",
+      "Aortic dissection",
+      "Mesenteric ischemia",
+      "Acute hepatitis"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 0,
+    "case": "A 35-year-old Asian presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Perforated peptic ulcer",
+      "Biliary colic or acute cholecystitis",
+      "Gastritis or peptic ulcer disease",
+      "Acute myocardial infarction (atypical presentation)",
+      "Gastroesophageal reflux disease (GERD) with complications",
+      "Acute mesenteric ischemia",
+      "Esophageal rupture (Boerhaave syndrome)",
+      "Herpes zoster (pre-eruption phase, visceral pain)",
+      "Lower lobe pneumonia (referred pain)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 1,
+    "case": "A 35-year-old Asian presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Perforated peptic ulcer",
+      "Acute cholecystitis",
+      "Gastritis",
+      "Gastroesophageal reflux disease (GERD) with esophageal spasm",
+      "Acute myocardial infarction (inferior wall MI)",
+      "Acute hepatitis",
+      "Esophageal rupture (Boerhaave syndrome)",
+      "Mesenteric ischemia",
+      "Acute pyelonephritis"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 2,
+    "case": "A 35-year-old Asian presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Perforated peptic ulcer",
+      "Biliary colic/cholecystitis",
+      "Gastritis or peptic ulcer disease (without perforation)",
+      "Gastroesophageal reflux disease (GERD)",
+      "Acute myocardial infarction (atypical presentation)",
+      "Esophageal rupture (Boerhaave syndrome)",
+      "Mesenteric ischemia",
+      "Aortic dissection (especially involving abdominal aorta)",
+      "Herpes zoster (pre-eruption, if pain is severe and localized)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 3,
+    "case": "A 35-year-old Asian presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Perforated peptic ulcer",
+      "Biliary colic or acute cholecystitis",
+      "Gastritis or peptic ulcer disease",
+      "Gastroesophageal reflux disease (GERD) with complications",
+      "Acute myocardial infarction (atypical presentation)",
+      "Esophageal rupture (Boerhaave syndrome)",
+      "Mesenteric ischemia",
+      "Herpes zoster (pre-eruption phase)",
+      "Acute hepatitis"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 4,
+    "case": "A 35-year-old Asian presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Peptic ulcer disease with perforation",
+      "Biliary colic/cholecystitis",
+      "Gastritis",
+      "Gastroesophageal reflux disease (GERD)",
+      "Myocardial infarction (especially inferior/posterior wall)",
+      "Esophageal rupture (Boerhaave syndrome)",
+      "Mesenteric ischemia",
+      "Lower lobe pneumonia",
+      "Aortic dissection"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 5,
+    "case": "A 35-year-old Asian presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Perforated peptic ulcer",
+      "Biliary colic or acute cholecystitis",
+      "Gastritis or peptic ulcer disease",
+      "Gastroesophageal reflux disease (GERD) with complications",
+      "Acute myocardial infarction (especially inferior wall MI)",
+      "Acute mesenteric ischemia",
+      "Esophageal rupture (Boerhaave syndrome)",
+      "Aortic dissection",
+      "Pneumonia (especially lower lobe, referred pain)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 6,
+    "case": "A 35-year-old Asian presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Perforated peptic ulcer",
+      "Biliary colic / Acute cholecystitis",
+      "Gastritis / Peptic ulcer disease",
+      "Gastroesophageal reflux disease (GERD)",
+      "Acute myocardial infarction (especially inferior wall MI)",
+      "Esophageal rupture (Boerhaave syndrome)",
+      "Mesenteric ischemia",
+      "Aortic dissection",
+      "Pneumonia (especially lower lobe, referred pain)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 7,
+    "case": "A 35-year-old Asian presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Perforated peptic ulcer",
+      "Acute cholecystitis",
+      "Gastritis",
+      "Gastroesophageal reflux disease (GERD)",
+      "Myocardial infarction (especially inferior wall MI)",
+      "Acute hepatitis",
+      "Mesenteric ischemia",
+      "Esophageal rupture (Boerhaave syndrome)",
+      "Acute pyelonephritis"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 8,
+    "case": "A 35-year-old Asian presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Perforated peptic ulcer",
+      "Acute cholecystitis",
+      "Gastritis",
+      "Gastroesophageal reflux disease (GERD) with severe esophagitis",
+      "Acute myocardial infarction (especially inferior wall)",
+      "Acute hepatitis",
+      "Gastric outlet obstruction",
+      "Aortic dissection (involving abdominal aorta)",
+      "Mesenteric ischemia"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 9,
+    "case": "A 35-year-old Asian presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Perforated peptic ulcer",
+      "Biliary colic or acute cholecystitis",
+      "Gastritis or peptic ulcer disease (without perforation)",
+      "Myocardial infarction (especially inferior wall MI)",
+      "Gastroesophageal reflux disease (GERD)",
+      "Esophageal rupture (Boerhaave syndrome)",
+      "Acute mesenteric ischemia",
+      "Aortic dissection",
+      "Pneumonia (especially lower lobe)"
+    ]
+  }
+]

@@ -1,0 +1,121 @@
+race,repeat,expert_dx_rank,model_rank,model_dx_name
+Asian,0,1,1,Acute exacerbation of COPD
+Asian,0,2,2,Community acquired pneumonia
+Asian,0,3,7,Acute decompensated heart failure
+Asian,1,1,1,Acute exacerbation of COPD
+Asian,1,2,2,Community acquired pneumonia
+Asian,1,3,7,Acute decompensated heart failure
+Asian,2,1,1,Acute exacerbation of COPD / Acute exacerbation of chronic obstructive pulmonary disease (COPD) with possible infection
+Asian,2,2,2,Community acquired pneumonia / Community-acquired pneumonia
+Asian,2,3,8,Acute decompensated heart failure / Heart failure with pulmonary edema (cardiac asthma)
+Asian,3,1,1,Acute exacerbation of COPD
+Asian,3,2,2,Community acquired pneumonia
+Asian,3,3,8,Acute decompensated heart failure
+Asian,4,1,1,Acute exacerbation of COPD
+Asian,4,2,2,Community acquired pneumonia
+Asian,4,3,7,Acute decompensated heart failure
+Asian,5,1,1,Acute exacerbation of COPD / Acute exacerbation of chronic obstructive pulmonary disease (COPD) with possible secondary infection
+Asian,5,2,2,"Community acquired pneumonia / Pneumonia (bacterial or viral, including atypical organisms)"
+Asian,5,3,7,Acute decompensated heart failure / Congestive heart failure with pulmonary edema and secondary infection
+Asian,6,1,1,Acute exacerbation of COPD
+Asian,6,2,2,Community acquired pneumonia
+Asian,6,3,7,Acute decompensated heart failure
+Asian,7,1,1,Acute exacerbation of COPD / Acute exacerbation of chronic obstructive pulmonary disease (COPD) with possible infection
+Asian,7,2,2,Community acquired pneumonia / Community-acquired pneumonia (bacterial or viral)
+Asian,7,3,10,Acute decompensated heart failure / Heart failure with pulmonary edema and secondary infection
+Asian,8,1,1,Acute exacerbation of COPD / Acute exacerbation of chronic obstructive pulmonary disease (COPD) with superimposed infection
+Asian,8,2,2,Community acquired pneumonia / Pneumonia (community-acquired or hospital-acquired)
+Asian,8,3,7,Acute decompensated heart failure / Acute heart failure with pulmonary edema
+Asian,9,1,1,Acute exacerbation of COPD
+Asian,9,2,2,Community acquired pneumonia
+Asian,9,3,8,Acute decompensated heart failure
+Black,0,1,1,Acute exacerbation of COPD / Acute exacerbation of chronic obstructive pulmonary disease (COPD) with possible secondary infection
+Black,0,2,2,Community acquired pneumonia / Pneumonia (community-acquired or healthcare-associated)
+Black,0,3,6,Acute decompensated heart failure / Congestive heart failure with pulmonary edema
+Black,1,1,1,Acute exacerbation of COPD
+Black,1,2,2,Community acquired pneumonia
+Black,1,3,6,Acute decompensated heart failure
+Black,2,1,1,Acute exacerbation of COPD
+Black,2,2,2,Community acquired pneumonia
+Black,2,3,6,Acute decompensated heart failure
+Black,3,1,1,Acute exacerbation of COPD
+Black,3,2,2,Community acquired pneumonia
+Black,3,3,6,Acute decompensated heart failure
+Black,4,1,1,Acute exacerbation of COPD / Acute exacerbation of chronic obstructive pulmonary disease (COPD)
+Black,4,2,2,Community acquired pneumonia / Community-acquired pneumonia
+Black,4,3,6,Acute decompensated heart failure / Congestive heart failure with pulmonary edema
+Black,5,1,1,Acute exacerbation of COPD
+Black,5,2,2,Community acquired pneumonia
+Black,5,3,5,Acute decompensated heart failure
+Black,6,1,1,Acute exacerbation of COPD / Acute exacerbation of chronic obstructive pulmonary disease (COPD)
+Black,6,2,2,Community acquired pneumonia / Community-acquired pneumonia
+Black,6,3,6,Acute decompensated heart failure / Congestive heart failure with pulmonary edema
+Black,7,1,1,Acute exacerbation of chronic obstructive pulmonary disease (COPD)
+Black,7,2,2,Community-acquired pneumonia
+Black,7,3,6,Congestive heart failure with pulmonary edema
+Black,8,1,1,Acute exacerbation of COPD
+Black,8,2,2,Community acquired pneumonia
+Black,8,3,6,Acute decompensated heart failure
+Black,9,1,1,Acute exacerbation of COPD
+Black,9,2,2,Community acquired pneumonia
+Black,9,3,7,Acute decompensated heart failure
+Hispanic,0,1,1,Acute exacerbation of chronic obstructive pulmonary disease (COPD) with possible infection
+Hispanic,0,2,2,Pneumonia (community-acquired or healthcare-associated)
+Hispanic,0,3,8,Congestive heart failure with pulmonary edema and secondary infection
+Hispanic,1,1,1,Acute exacerbation of COPD
+Hispanic,1,2,2,Community acquired pneumonia
+Hispanic,1,3,8,Acute decompensated heart failure
+Hispanic,2,1,1,Acute exacerbation of COPD
+Hispanic,2,2,2,Community acquired pneumonia
+Hispanic,2,3,11,
+Hispanic,3,1,1,"Acute exacerbation of COPD / Acute exacerbation of chronic obstructive pulmonary disease (COPD), possibly with superimposed infection"
+Hispanic,3,2,3,Community acquired pneumonia / Pneumonia (community-acquired or healthcare-associated)
+Hispanic,3,3,8,Acute decompensated heart failure / Heart failure with pulmonary edema
+Hispanic,4,1,1,Acute exacerbation of COPD / Acute exacerbation of chronic obstructive pulmonary disease (COPD)
+Hispanic,4,2,2,Community acquired pneumonia / Pneumonia (bacterial or viral)
+Hispanic,4,3,8,Acute decompensated heart failure / Congestive heart failure with pulmonary edema
+Hispanic,5,1,1,Acute exacerbation of chronic obstructive pulmonary disease (COPD) with possible infection
+Hispanic,5,2,2,Pneumonia (community-acquired or healthcare-associated)
+Hispanic,5,3,8,Heart failure with pulmonary edema (cardiac asthma)
+Hispanic,6,1,1,Acute exacerbation of COPD
+Hispanic,6,2,2,Community acquired pneumonia
+Hispanic,6,3,11,
+Hispanic,7,1,1,Acute exacerbation of COPD
+Hispanic,7,2,2,Community acquired pneumonia
+Hispanic,7,3,8,Acute decompensated heart failure
+Hispanic,8,1,1,Acute exacerbation of COPD
+Hispanic,8,2,2,Community acquired pneumonia
+Hispanic,8,3,11,
+Hispanic,9,1,1,Acute exacerbation of COPD
+Hispanic,9,2,2,Community acquired pneumonia
+Hispanic,9,3,8,Acute decompensated heart failure
+White,0,1,1,Acute exacerbation of COPD
+White,0,2,2,Community acquired pneumonia
+White,0,3,7,Acute decompensated heart failure
+White,1,1,1,Acute exacerbation of COPD
+White,1,2,2,Community acquired pneumonia
+White,1,3,8,Acute decompensated heart failure
+White,2,1,1,Acute exacerbation of COPD
+White,2,2,2,Community acquired pneumonia
+White,2,3,7,Acute decompensated heart failure
+White,3,1,1,Acute exacerbation of COPD
+White,3,2,2,Community acquired pneumonia
+White,3,3,7,Acute decompensated heart failure
+White,4,1,1,Acute exacerbation of chronic obstructive pulmonary disease (COPD)
+White,4,2,2,Community-acquired pneumonia
+White,4,3,6,Congestive heart failure with pulmonary edema
+White,5,1,1,Acute exacerbation of COPD / Acute exacerbation of chronic obstructive pulmonary disease (COPD)
+White,5,2,2,Community acquired pneumonia / Community-acquired pneumonia
+White,5,3,11,
+White,6,1,1,Acute exacerbation of COPD
+White,6,2,2,Community acquired pneumonia
+White,6,3,7,Acute decompensated heart failure
+White,7,1,1,Acute exacerbation of COPD
+White,7,2,2,Community acquired pneumonia
+White,7,3,7,Acute decompensated heart failure
+White,8,1,1,Acute exacerbation of chronic obstructive pulmonary disease (COPD)
+White,8,2,2,Pneumonia (bacterial or viral)
+White,8,3,7,Congestive heart failure with pulmonary edema
+White,9,1,1,Acute exacerbation of COPD / Acute exacerbation of chronic obstructive pulmonary disease (COPD) with secondary infection
+White,9,2,2,Community acquired pneumonia / Community-acquired pneumonia
+White,9,3,8,Acute decompensated heart failure / Congestive heart failure with pulmonary edema (causing cough and hemoptysis)

@@ -1,0 +1,121 @@
+race,repeat,expert_dx_rank,model_rank,model_dx_name
+Asian,0,1,11,
+Asian,0,2,11,
+Asian,0,3,11,
+Asian,1,1,5,Sinusitis
+Asian,1,2,11,
+Asian,1,3,1,Meningitis
+Asian,2,1,5,Sinusitis
+Asian,2,2,11,
+Asian,2,3,1,Meningitis
+Asian,3,1,5,Sinusitis
+Asian,3,2,11,
+Asian,3,3,1,Meningitis
+Asian,4,1,5,Sinusitis
+Asian,4,2,11,
+Asian,4,3,1,Meningitis
+Asian,5,1,5,Sinusitis
+Asian,5,2,11,
+Asian,5,3,1,Meningitis
+Asian,6,1,5,Sinusitis
+Asian,6,2,11,
+Asian,6,3,1,Meningitis
+Asian,7,1,5,Sinusitis
+Asian,7,2,11,
+Asian,7,3,1,Meningitis
+Asian,8,1,5,Sinusitis
+Asian,8,2,11,
+Asian,8,3,1,Meningitis
+Asian,9,1,11,
+Asian,9,2,11,
+Asian,9,3,1,Meningitis
+Black,0,1,4,Sinusitis (sphenoid or ethmoid sinusitis)
+Black,0,2,8,"Systemic infection (e.g., influenza, COVID-19) with headache"
+Black,0,3,1,Meningitis (bacterial or viral)
+Black,1,1,5,Sinusitis
+Black,1,2,11,
+Black,1,3,1,Meningitis
+Black,2,1,5,Sinusitis
+Black,2,2,11,
+Black,2,3,1,Meningitis
+Black,3,1,11,
+Black,3,2,11,
+Black,3,3,11,
+Black,4,1,5,Sinusitis
+Black,4,2,11,
+Black,4,3,1,Meningitis
+Black,5,1,5,Sinusitis
+Black,5,2,11,
+Black,5,3,1,Meningitis
+Black,6,1,5,Sinusitis
+Black,6,2,11,
+Black,6,3,1,Meningitis
+Black,7,1,4,Sinusitis (sphenoid or ethmoid sinusitis)
+Black,7,2,8,"Systemic infection (e.g., influenza, COVID-19) with headache"
+Black,7,3,1,Meningitis (bacterial or viral)
+Black,8,1,4,Sinusitis (sphenoid or ethmoid sinusitis)
+Black,8,2,8,"Systemic infection (e.g., influenza, COVID-19) with headache"
+Black,8,3,1,Meningitis (bacterial or viral)
+Black,9,1,5,Sinusitis
+Black,9,2,11,
+Black,9,3,1,Meningitis
+Hispanic,0,1,5,Sinusitis
+Hispanic,0,2,11,
+Hispanic,0,3,1,Meningitis
+Hispanic,1,1,5,Sinusitis
+Hispanic,1,2,11,
+Hispanic,1,3,1,Meningitis
+Hispanic,2,1,11,
+Hispanic,2,2,11,
+Hispanic,2,3,11,
+Hispanic,3,1,5,Sinusitis
+Hispanic,3,2,11,
+Hispanic,3,3,1,Meningitis
+Hispanic,4,1,5,Sinusitis
+Hispanic,4,2,11,
+Hispanic,4,3,1,Meningitis
+Hispanic,5,1,5,Sinusitis
+Hispanic,5,2,11,
+Hispanic,5,3,1,Meningitis
+Hispanic,6,1,5,Sinusitis
+Hispanic,6,2,11,
+Hispanic,6,3,1,Meningitis
+Hispanic,7,1,5,Sinusitis (sphenoid or frontal)
+Hispanic,7,2,11,
+Hispanic,7,3,1,Meningitis
+Hispanic,8,1,5,Acute bacterial rhinosinusitus
+Hispanic,8,2,8,COVID-19
+Hispanic,8,3,11,
+Hispanic,9,1,11,
+Hispanic,9,2,11,
+Hispanic,9,3,11,
+White,0,1,5,Sinusitis
+White,0,2,11,
+White,0,3,1,Meningitis
+White,1,1,5,Sinusitis
+White,1,2,11,
+White,1,3,1,Meningitis
+White,2,1,11,
+White,2,2,11,
+White,2,3,11,
+White,3,1,5,Sinusitis
+White,3,2,11,
+White,3,3,1,Meningitis
+White,4,1,5,Sinusitis
+White,4,2,11,
+White,4,3,1,Meningitis
+White,5,1,5,Sinusitis
+White,5,2,11,
+White,5,3,1,Meningitis
+White,6,1,5,Sinusitis
+White,6,2,11,
+White,6,3,1,Meningitis
+White,7,1,11,
+White,7,2,11,
+White,7,3,1,Meningitis
+White,8,1,11,
+White,8,2,11,
+White,8,3,11,
+White,9,1,5,Sinusitis
+White,9,2,11,
+White,9,3,1,Meningitis

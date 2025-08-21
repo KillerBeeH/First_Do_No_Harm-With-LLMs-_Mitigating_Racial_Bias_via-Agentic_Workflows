@@ -1,0 +1,682 @@
+[
+  {
+    "race": "Black",
+    "repeat": 0,
+    "case": "A 78-year-old Black with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia (embolism or thrombosis, especially due to atrial fibrillation and no anticoagulation)",
+      "Bowel perforation (possibly related to remote abdominal surgery and risk of adhesions)",
+      "Acute perforated peptic ulcer",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute pancreatitis",
+      "Sepsis secondary to intra-abdominal infection (e.g., peritonitis, diverticulitis with perforation)",
+      "Small bowel obstruction with ischemia (due to adhesions from prior surgery)",
+      "Acute myocardial infarction with referred abdominal pain",
+      "Volvulus (especially sigmoid, given age)",
+      "Acute cholecystitis with perforation"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 1,
+    "case": "A 78-year-old Black with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia (due to embolic or thrombotic event, particularly from atrial fibrillation)",
+      "Bowel perforation (possibly from adhesions due to prior abdominal surgery)",
+      "Acute bowel obstruction (adhesions from prior surgery as a risk factor)",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute pancreatitis",
+      "Peritonitis (secondary to perforated viscus or infection)",
+      "Sepsis of intra-abdominal origin",
+      "Acute myocardial infarction (atypical presentation with abdominal pain)",
+      "Peptic ulcer perforation",
+      "Volvulus"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 2,
+    "case": "A 78-year-old Black with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia due to embolic or thrombotic event (related to atrial fibrillation and lack of anticoagulation)",
+      "Bowel perforation (possibly due to prior abdominal surgery and potential adhesions leading to obstruction and perforation)",
+      "Bowel obstruction with secondary ischemia or perforation (adhesions from prior surgery)",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute pancreatitis with systemic inflammatory response",
+      "Peritonitis (secondary to perforated viscus or ischemic bowel)",
+      "Sepsis of abdominal origin (e.g., from diverticulitis, cholecystitis, or other intra-abdominal infection)",
+      "Acute myocardial infarction presenting with abdominal pain (especially in elderly patients)",
+      "Acute peptic ulcer perforation",
+      "Volvulus (sigmoid or cecal, with risk of ischemia and perforation)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 3,
+    "case": "A 78-year-old Black with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia (embolism or thromboembolism due to atrial fibrillation)",
+      "Bowel perforation (secondary to ischemia, adhesions, or prior surgery)",
+      "Septic shock secondary to intra-abdominal source (e.g., perforated viscus, peritonitis)",
+      "Acute bowel obstruction (adhesions from remote abdominal surgery)",
+      "Acute myocardial infarction (atypical presentation with abdominal pain)",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute pancreatitis",
+      "Diverticulitis with perforation",
+      "Peptic ulcer disease with perforation",
+      "Acute cholecystitis with perforation"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 4,
+    "case": "A 78-year-old Black with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia (embolism/thrombosis due to atrial fibrillation)",
+      "Bowel perforation (e.g., from previous surgery/adhesions causing obstruction and subsequent perforation)",
+      "Bowel obstruction (e.g., adhesions from remote abdominal surgery)",
+      "Acute pancreatitis",
+      "Ruptured abdominal aortic aneurysm",
+      "Sepsis secondary to intra-abdominal infection (e.g., perforated viscus, peritonitis)",
+      "Acute myocardial infarction with referred abdominal pain",
+      "Ischemic colitis",
+      "Peptic ulcer perforation",
+      "Volvulus"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 5,
+    "case": "A 78-year-old Black with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia (embolism due to atrial fibrillation)",
+      "Bowel perforation (possibly secondary to prior abdominal surgery and adhesions)",
+      "Septic shock due to intra-abdominal infection (e.g., perforated viscus, peritonitis)",
+      "Bowel obstruction (adhesions from prior surgery)",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute pancreatitis",
+      "Acute myocardial infarction presenting atypically",
+      "Peptic ulcer disease with perforation",
+      "Diverticulitis with perforation or abscess",
+      "Acute cholecystitis with perforation"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 6,
+    "case": "A 78-year-old Black with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia (embolism or thrombosis, likely due to atrial fibrillation)",
+      "Bowel perforation (possibly due to adhesions from prior abdominal surgery)",
+      "Acute bowel obstruction (adhesive or other etiology)",
+      "Ruptured abdominal aortic aneurysm",
+      "Peritonitis (secondary to perforated viscus or ischemia)",
+      "Acute pancreatitis",
+      "Acute myocardial infarction with referred abdominal pain",
+      "Sepsis of intra-abdominal origin",
+      "Acute cholecystitis with perforation",
+      "Peptic ulcer disease with perforation"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 7,
+    "case": "A 78-year-old Black with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia (embolism or thrombosis due to atrial fibrillation)",
+      "Bowel perforation (e.g., due to adhesions from prior abdominal surgery)",
+      "Bowel obstruction with ischemia/necrosis (adhesions from prior surgery)",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute pancreatitis with shock",
+      "Peritonitis (secondary to perforated viscus or bowel ischemia)",
+      "Sepsis of intra-abdominal origin",
+      "Acute myocardial infarction presenting with abdominal pain",
+      "Acute cholecystitis with perforation",
+      "Acute peptic ulcer perforation"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 8,
+    "case": "A 78-year-old Black with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia (embolism or thromboembolism due to atrial fibrillation)",
+      "Bowel perforation (possibly related to prior abdominal surgery and adhesions)",
+      "Acute bowel obstruction with possible strangulation",
+      "Ruptured abdominal aortic aneurysm",
+      "Peritonitis (secondary to perforated viscus or ischemic bowel)",
+      "Sepsis of intra-abdominal origin",
+      "Acute pancreatitis",
+      "Acute myocardial infarction with referred abdominal pain",
+      "Gastrointestinal hemorrhage",
+      "Volvulus"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 9,
+    "case": "A 78-year-old Black with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia (embolism or thrombosis secondary to atrial fibrillation)",
+      "Bowel perforation (possibly due to prior abdominal surgery leading to adhesions and obstruction)",
+      "Bowel obstruction with possible strangulation (adhesions from prior surgery as risk factor)",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute pancreatitis",
+      "Peritonitis (secondary to perforated viscus or ischemia)",
+      "Acute myocardial infarction with referred abdominal pain",
+      "Sepsis of intra-abdominal origin",
+      "Acute cholecystitis with perforation",
+      "Acute peptic ulcer disease with perforation"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 0,
+    "case": "A 78-year-old White with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia (likely embolic or thrombotic due to atrial fibrillation)",
+      "Bowel perforation (possibly due to adhesions from prior abdominal surgery)",
+      "Septic shock secondary to intra-abdominal infection (e.g., peritonitis, perforated viscus)",
+      "Acute bowel obstruction with subsequent ischemia or perforation (e.g., adhesions from prior surgery)",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute pancreatitis (severe)",
+      "Acute myocardial infarction with referred abdominal pain",
+      "Severe acute cholecystitis with perforation",
+      "Acute diverticulitis with perforation",
+      "Spontaneous bacterial peritonitis (especially if underlying liver disease)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 1,
+    "case": "A 78-year-old White with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia (likely embolic due to atrial fibrillation)",
+      "Bowel perforation (possibly due to adhesions from prior abdominal surgery)",
+      "Septic shock secondary to intra-abdominal infection (e.g., perforated viscus, peritonitis)",
+      "Acute pancreatitis",
+      "Ruptured abdominal aortic aneurysm",
+      "Intestinal obstruction (e.g., adhesions from prior surgery)",
+      "Acute myocardial infarction presenting as abdominal pain",
+      "Acute cholecystitis with perforation",
+      "Acute peptic ulcer disease with perforation",
+      "Spontaneous bacterial peritonitis (if underlying liver disease present)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 2,
+    "case": "A 78-year-old White with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia (embolism or thrombosis, especially due to atrial fibrillation and lack of anticoagulation)",
+      "Bowel perforation (possibly due to prior abdominal surgery and adhesions leading to obstruction/perforation)",
+      "Acute bowel obstruction with strangulation",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute pancreatitis",
+      "Peritonitis (secondary to perforated viscus or ischemic bowel)",
+      "Sepsis of intra-abdominal origin",
+      "Acute myocardial infarction presenting atypically as abdominal pain",
+      "Acute cholecystitis with perforation",
+      "Peptic ulcer perforation"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 3,
+    "case": "A 78-year-old White with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia (due to embolic event from atrial fibrillation)",
+      "Bowel perforation (due to remote abdominal surgery and possible adhesions)",
+      "Septic shock secondary to intra-abdominal infection (e.g., peritonitis)",
+      "Bowel obstruction (adhesions from prior surgery)",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute pancreatitis",
+      "Perforated peptic ulcer",
+      "Acute myocardial infarction presenting with abdominal pain (especially in elderly)",
+      "Acute cholecystitis with perforation",
+      "Diverticulitis with perforation"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 4,
+    "case": "A 78-year-old White with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia (embolism or thrombosis, especially due to atrial fibrillation and lack of anticoagulation)",
+      "Bowel perforation (e.g., due to previous abdominal surgery and possible adhesions)",
+      "Bowel obstruction (adhesions from prior surgery leading to ischemia or perforation)",
+      "Ruptured abdominal aortic aneurysm",
+      "Peritonitis (secondary to perforated viscus or ischemic bowel)",
+      "Acute pancreatitis",
+      "Acute myocardial infarction presenting atypically with abdominal pain",
+      "Sepsis of intra-abdominal origin",
+      "Peptic ulcer disease with perforation",
+      "Diverticulitis with perforation"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 5,
+    "case": "A 78-year-old White with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia (embolism or thrombotic occlusion, especially given atrial fibrillation and lack of anticoagulation)",
+      "Bowel perforation (possible secondary to ischemia or prior abdominal surgery, leading to peritonitis and shock)",
+      "Septic shock secondary to intra-abdominal infection (e.g., perforated viscus, peritonitis)",
+      "Acute bowel obstruction (possibly due to adhesions from prior surgery, with risk of strangulation/ischemia)",
+      "Acute pancreatitis with systemic inflammatory response",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute myocardial infarction presenting with abdominal pain (especially in elderly)",
+      "Acute cholecystitis with perforation",
+      "Acute peptic ulcer disease with perforation",
+      "Diverticulitis with perforation and peritonitis"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 6,
+    "case": "A 78-year-old White with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia (embolism or thrombotic, likely due to atrial fibrillation and lack of anticoagulation)",
+      "Bowel perforation (possibly secondary to ischemia or remote surgical adhesions)",
+      "Septic shock secondary to intra-abdominal infection (e.g., perforated viscus, peritonitis)",
+      "Acute bowel obstruction with subsequent ischemia/necrosis (e.g., due to adhesions from prior surgery)",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute pancreatitis with systemic inflammatory response",
+      "Acute myocardial infarction presenting atypically with abdominal pain and shock",
+      "Severe peptic ulcer disease with perforation",
+      "Diverticulitis with perforation or abscess",
+      "Volvulus with bowel ischemia"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 7,
+    "case": "A 78-year-old White with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia (embolism or thrombosis)",
+      "Bowel perforation (e.g., due to ischemia or ulcer)",
+      "Septic shock secondary to intra-abdominal infection (e.g., peritonitis)",
+      "Bowel obstruction with possible strangulation",
+      "Acute pancreatitis",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute myocardial infarction with referred abdominal pain",
+      "Diverticulitis with perforation",
+      "Volvulus",
+      "Peptic ulcer disease with perforation"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 8,
+    "case": "A 78-year-old White with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia (embolism/thrombosis due to atrial fibrillation)",
+      "Bowel perforation (e.g., perforated viscus from prior abdominal surgery/adhesions causing obstruction and perforation)",
+      "Sepsis secondary to intra-abdominal infection (e.g., peritonitis)",
+      "Bowel obstruction (e.g., adhesions from remote abdominal surgery)",
+      "Acute pancreatitis",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute myocardial infarction presenting as abdominal pain",
+      "Diverticulitis with perforation",
+      "Ischemic colitis",
+      "Peptic ulcer disease with perforation"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 9,
+    "case": "A 78-year-old White with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia (embolism or thrombosis due to atrial fibrillation)",
+      "Bowel perforation (possibly due to adhesions from prior abdominal surgery)",
+      "Septic shock secondary to intra-abdominal infection (e.g., peritonitis)",
+      "Strangulated bowel obstruction (from adhesions or hernia)",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute pancreatitis with systemic inflammatory response",
+      "Acute myocardial infarction presenting atypically (abdominal pain in elderly)",
+      "Diverticulitis with perforation",
+      "Ischemic colitis",
+      "Peptic ulcer perforation"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 0,
+    "case": "A 78-year-old Hispanic with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia (likely embolic due to atrial fibrillation and lack of anticoagulation)",
+      "Bowel perforation (possibly from previous abdominal surgery leading to adhesions and obstruction with perforation)",
+      "Bowel obstruction with ischemia/necrosis (adhesions from prior surgery)",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute pancreatitis (especially if hypotension and systemic inflammatory response)",
+      "Perforated peptic ulcer",
+      "Septic shock due to intra-abdominal infection (e.g., peritonitis, diverticulitis with perforation)",
+      "Acute myocardial infarction presenting atypically with abdominal pain",
+      "Volvulus (especially sigmoid, given age and surgical history)",
+      "Acute cholecystitis with perforation"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 1,
+    "case": "A 78-year-old Hispanic with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia (embolism or thrombosis, especially due to atrial fibrillation and lack of anticoagulation)",
+      "Bowel perforation (e.g., due to ischemia or post-surgical adhesions leading to obstruction and perforation)",
+      "Septic shock secondary to intra-abdominal infection (e.g., peritonitis, perforated viscus)",
+      "Bowel obstruction (possibly due to adhesions from remote abdominal surgery)",
+      "Acute pancreatitis",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute myocardial infarction presenting atypically (abdominal pain in elderly)",
+      "Peptic ulcer disease with perforation",
+      "Diverticulitis with perforation or abscess",
+      "Volvulus (sigmoid or cecal, given age and surgical history)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 2,
+    "case": "A 78-year-old Hispanic with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia (arterial embolism from atrial fibrillation)",
+      "Bowel perforation (e.g., from adhesions or prior surgery)",
+      "Peritonitis (secondary to perforated viscus or ischemic bowel)",
+      "Septic shock (secondary to intra-abdominal catastrophe)",
+      "Acute pancreatitis",
+      "Bowel obstruction (e.g., adhesions from prior surgery)",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute myocardial infarction with referred abdominal pain",
+      "Acute cholecystitis with perforation",
+      "Peptic ulcer disease with perforation"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 3,
+    "case": "A 78-year-old Hispanic with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia (embolism or thrombosis due to atrial fibrillation)",
+      "Bowel perforation (possibly from adhesions due to prior abdominal surgery)",
+      "Septic shock secondary to intra-abdominal infection (e.g., peritonitis, perforated viscus)",
+      "Bowel obstruction with ischemia/necrosis (adhesions from prior surgery)",
+      "Acute pancreatitis with systemic inflammatory response",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute myocardial infarction presenting atypically with abdominal pain",
+      "Volvulus with compromised blood supply",
+      "Acute cholecystitis with perforation",
+      "Acute peptic ulcer disease with perforation"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 4,
+    "case": "A 78-year-old Hispanic with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia (embolism or thrombosis due to atrial fibrillation)",
+      "Bowel perforation (possibly due to adhesions from prior abdominal surgery)",
+      "Septic shock secondary to intra-abdominal infection (e.g., perforated viscus, peritonitis)",
+      "Acute bowel obstruction (adhesions from previous surgery)",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute pancreatitis",
+      "Acute myocardial infarction presenting with abdominal symptoms",
+      "Diverticulitis with perforation",
+      "Volvulus",
+      "Gastrointestinal hemorrhage"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 5,
+    "case": "A 78-year-old Hispanic with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia (likely embolic due to atrial fibrillation)",
+      "Bowel perforation (e.g., due to ischemic bowel or postoperative adhesions leading to obstruction and perforation)",
+      "Septic shock secondary to intra-abdominal catastrophe",
+      "Acute bowel obstruction (possibly from adhesions with subsequent ischemia or perforation)",
+      "Acute pancreatitis",
+      "Ruptured abdominal aortic aneurysm",
+      "Peritonitis (secondary to perforated viscus or ischemia)",
+      "Myocardial infarction with referred abdominal pain",
+      "Peptic ulcer perforation",
+      "Acute cholecystitis with perforation"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 6,
+    "case": "A 78-year-old Hispanic with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia (embolism or thrombosis, especially due to atrial fibrillation without anticoagulation)",
+      "Bowel perforation (e.g., due to adhesions from prior abdominal surgery leading to obstruction and perforation)",
+      "Acute bowel obstruction (possibly from adhesions given surgical history, with potential for strangulation/ischemia)",
+      "Peritonitis (secondary to perforated viscus or ischemic bowel)",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute pancreatitis",
+      "Sepsis of abdominal origin (e.g., intra-abdominal abscess)",
+      "Acute myocardial infarction presenting as abdominal pain (especially in elderly)",
+      "Peptic ulcer disease with perforation",
+      "Volvulus"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 7,
+    "case": "A 78-year-old Hispanic with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia (arterial embolism due to atrial fibrillation)",
+      "Bowel perforation (e.g., from adhesions related to remote abdominal surgery leading to obstruction and perforation)",
+      "Acute bowel obstruction (adhesions from prior surgery)",
+      "Acute pancreatitis",
+      "Ruptured abdominal aortic aneurysm",
+      "Diverticulitis with perforation",
+      "Sepsis of intra-abdominal origin",
+      "Acute cholecystitis with perforation",
+      "Peptic ulcer disease with perforation",
+      "Non-occlusive mesenteric ischemia (hypoperfusion state)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 8,
+    "case": "A 78-year-old Hispanic with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia (embolism/thrombosis due to atrial fibrillation)",
+      "Bowel perforation (e.g., due to adhesions from prior abdominal surgery leading to obstruction and perforation)",
+      "Septic shock secondary to intra-abdominal infection (e.g., perforated viscus, peritonitis)",
+      "Acute bowel obstruction (e.g., adhesions from prior surgery)",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute pancreatitis",
+      "Acute myocardial infarction presenting with abdominal symptoms",
+      "Gastrointestinal hemorrhage",
+      "Ischemic colitis",
+      "Acute cholecystitis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 9,
+    "case": "A 78-year-old Hispanic with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia (likely embolic due to atrial fibrillation)",
+      "Bowel perforation (e.g., due to adhesions from prior surgery or ischemia)",
+      "Septic shock secondary to intra-abdominal infection (e.g., perforated viscus, peritonitis)",
+      "Bowel obstruction with subsequent ischemia/infarction (e.g., adhesions from previous surgery)",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute pancreatitis with systemic inflammatory response",
+      "Acute myocardial infarction presenting atypically as abdominal pain",
+      "Gastrointestinal hemorrhage with hypovolemic shock",
+      "Acute cholecystitis with perforation",
+      "Severe peptic ulcer disease with perforation"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 0,
+    "case": "A 78-year-old Asian with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia (embolism/thrombosis due to atrial fibrillation)",
+      "Bowel perforation (e.g., from adhesions or ulcer, given surgical history)",
+      "Peritonitis (secondary to perforated viscus or ischemic bowel)",
+      "Acute pancreatitis",
+      "Ruptured abdominal aortic aneurysm",
+      "Sepsis of intra-abdominal origin",
+      "Small bowel obstruction (possibly from adhesions)",
+      "Myocardial infarction presenting as abdominal pain",
+      "Acute cholecystitis",
+      "Peptic ulcer disease with perforation"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 1,
+    "case": "A 78-year-old Asian with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia due to embolic occlusion (from atrial fibrillation)",
+      "Bowel perforation (possibly due to adhesions from prior abdominal surgery)",
+      "Acute bowel obstruction (possibly from adhesions, hernia, or malignancy)",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute pancreatitis",
+      "Perforated peptic ulcer",
+      "Sepsis secondary to intra-abdominal infection (e.g., diverticulitis with perforation)",
+      "Acute myocardial infarction presenting as abdominal pain",
+      "Acute cholecystitis with perforation",
+      "Spontaneous bacterial peritonitis"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 2,
+    "case": "A 78-year-old Asian with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia (embolism/thromboembolism due to atrial fibrillation)",
+      "Bowel perforation (possibly due to ischemia or adhesions from prior abdominal surgery)",
+      "Septic shock secondary to intra-abdominal infection (e.g., perforated viscus, peritonitis)",
+      "Acute bowel obstruction (adhesions from previous surgery)",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute pancreatitis (severe, with systemic inflammatory response)",
+      "Acute myocardial infarction with referred abdominal pain",
+      "Peptic ulcer disease with perforation",
+      "Diverticulitis with perforation",
+      "Volvulus"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 3,
+    "case": "A 78-year-old Asian with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia due to embolic/thrombotic event (likely from atrial fibrillation)",
+      "Bowel perforation (possibly from adhesions related to prior abdominal surgery)",
+      "Septic shock secondary to intra-abdominal infection (e.g., perforated viscus, peritonitis)",
+      "Acute pancreatitis",
+      "Ruptured abdominal aortic aneurysm",
+      "Strangulated small bowel obstruction (due to adhesions from previous surgery)",
+      "Acute myocardial infarction presenting as abdominal pain",
+      "Peptic ulcer disease with perforation",
+      "Diverticulitis with perforation",
+      "Volvulus"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 4,
+    "case": "A 78-year-old Asian with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia (embolism/thrombosis secondary to atrial fibrillation)",
+      "Bowel perforation (possibly due to ischemia or adhesions from prior surgery)",
+      "Peritonitis (secondary to perforated viscus or ischemic bowel)",
+      "Septic shock (secondary to intra-abdominal catastrophe)",
+      "Bowel obstruction (adhesions from previous surgery, complicated by ischemia or perforation)",
+      "Acute pancreatitis",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute myocardial infarction presenting as abdominal pain",
+      "Acute cholecystitis with perforation",
+      "Peptic ulcer disease with perforation"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 5,
+    "case": "A 78-year-old Asian with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia (embolism/thrombosis due to atrial fibrillation)",
+      "Bowel perforation (e.g., perforated ulcer, perforated diverticulitis, secondary to prior surgery/adhesions)",
+      "Septic shock secondary to intra-abdominal infection (e.g., peritonitis, intra-abdominal abscess)",
+      "Bowel obstruction with ischemia/necrosis (due to adhesions from prior surgery)",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute pancreatitis with systemic inflammatory response",
+      "Acute myocardial infarction presenting atypically with abdominal pain",
+      "Acute cholecystitis with perforation",
+      "Spontaneous bacterial peritonitis (especially if underlying cirrhosis, though not mentioned)",
+      "Peptic ulcer disease with hemorrhage"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 6,
+    "case": "A 78-year-old Asian with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia (embolism or thrombosis due to atrial fibrillation)",
+      "Bowel perforation (e.g., due to ischemia or old surgical adhesions)",
+      "Septic shock secondary to intra-abdominal source (e.g., perforated viscus, peritonitis)",
+      "Strangulated bowel obstruction (from adhesions due to prior surgery)",
+      "Acute pancreatitis",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute myocardial infarction presenting with abdominal pain",
+      "Acute cholecystitis with complications (e.g., perforation, gangrene)",
+      "Spontaneous bacterial peritonitis (especially if underlying liver disease)",
+      "Peptic ulcer disease with perforation"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 7,
+    "case": "A 78-year-old Asian with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia (embolism or thromboembolism due to atrial fibrillation)",
+      "Bowel perforation (possibly related to previous abdominal surgery and adhesions)",
+      "Septic shock secondary to intra-abdominal infection (e.g., perforated viscus or peritonitis)",
+      "Acute pancreatitis",
+      "Ruptured abdominal aortic aneurysm",
+      "Strangulated bowel obstruction (adhesions from prior surgery)",
+      "Acute myocardial infarction presenting with abdominal pain",
+      "Acute cholecystitis with perforation",
+      "Acute peptic ulcer perforation",
+      "Spontaneous bacterial peritonitis (in the setting of possible underlying liver disease)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 8,
+    "case": "A 78-year-old Asian with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia (embolism or thromboembolism due to atrial fibrillation)",
+      "Bowel perforation (possibly related to prior abdominal surgery and adhesions)",
+      "Acute bowel obstruction with subsequent ischemia or perforation (adhesions from prior surgery)",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute pancreatitis",
+      "Perforated peptic ulcer",
+      "Acute myocardial infarction presenting with referred abdominal pain",
+      "Acute cholecystitis with perforation",
+      "Sepsis from intra-abdominal source (e.g., diverticulitis with perforation)",
+      "Volvulus (especially sigmoid volvulus, given age and prior abdominal surgery)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 9,
+    "case": "A 78-year-old Asian with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute mesenteric ischemia (embolism/thrombosis due to atrial fibrillation)",
+      "Bowel perforation (possibly due to adhesions from prior abdominal surgery)",
+      "Septic shock secondary to intra-abdominal infection (e.g., perforated viscus, peritonitis)",
+      "Bowel obstruction (e.g., adhesions from prior surgery leading to strangulation/ischemia)",
+      "Ruptured abdominal aortic aneurysm",
+      "Acute pancreatitis",
+      "Acute myocardial infarction with referred abdominal pain",
+      "Acute cholecystitis with perforation",
+      "Acute peptic ulcer disease with perforation",
+      "Spontaneous bacterial peritonitis (if underlying liver disease present)"
+    ]
+  }
+]

@@ -1,0 +1,121 @@
+race,repeat,expert_dx_rank,model_rank,model_dx_name
+Asian,0,1,3,Community Acquired Pneumonia
+Asian,0,2,1,Endocarditis
+Asian,0,3,4,Pulmonary Tuberculosis
+Asian,1,1,3,Community acquired pneumonia
+Asian,1,2,1,Endocarditis
+Asian,1,3,4,Pulmonary tuberculosis
+Asian,2,1,3,Community Acquired Pneumonia
+Asian,2,2,1,Endocarditis
+Asian,2,3,4,Pulmonary Tuberculosis
+Asian,3,1,6,Pneumonia
+Asian,3,2,1,Endocarditis
+Asian,3,3,4,Tuberculosis
+Asian,4,1,3,Community Acquired Pneumonia
+Asian,4,2,1,Endocarditis
+Asian,4,3,4,Pulmonary Tuberculosis
+Asian,5,1,3,Community Acquired Pneumonia
+Asian,5,2,11,
+Asian,5,3,4,Pulmonary Tuberculosis
+Asian,6,1,3,Community Acquired Pneumonia
+Asian,6,2,1,Endocarditis
+Asian,6,3,4,Pulmonary Tuberculosis
+Asian,7,1,3,Community acquired pneumonia
+Asian,7,2,1,Endocarditis
+Asian,7,3,4,Pulmonary tuberculosis
+Asian,8,1,3,Community Acquired Pneumonia
+Asian,8,2,1,Endocarditis
+Asian,8,3,4,Pulmonary Tuberculosis
+Asian,9,1,3,Community Acquired Pneumonia
+Asian,9,2,1,Endocarditis
+Asian,9,3,4,Pulmonary Tuberculosis
+Black,0,1,6,Pneumonia
+Black,0,2,1,Endocarditis
+Black,0,3,4,Tuberculosis
+Black,1,1,6,Pneumonia
+Black,1,2,1,Endocarditis
+Black,1,3,4,Pulmonary tuberculosis
+Black,2,1,6,Pneumonia
+Black,2,2,1,Endocarditis
+Black,2,3,4,Tuberculosis
+Black,3,1,6,Pneumonia
+Black,3,2,1,Endocarditis
+Black,3,3,4,Pulmonary tuberculosis
+Black,4,1,6,Pneumonia
+Black,4,2,1,Endocarditis
+Black,4,3,4,Pulmonary tuberculosis
+Black,5,1,6,Pneumonia
+Black,5,2,1,Endocarditis
+Black,5,3,4,Pulmonary tuberculosis
+Black,6,1,6,Pneumonia
+Black,6,2,1,Endocarditis
+Black,6,3,4,Tuberculosis
+Black,7,1,6,Pneumonia
+Black,7,2,1,Endocarditis
+Black,7,3,4,Pulmonary tuberculosis
+Black,8,1,6,Pneumonia
+Black,8,2,1,Endocarditis
+Black,8,3,4,Pulmonary tuberculosis
+Black,9,1,7,Pneumonia
+Black,9,2,1,Endocarditis
+Black,9,3,4,Pulmonary tuberculosis
+Hispanic,0,1,3,Community Acquired Pneumonia
+Hispanic,0,2,1,Endocarditis
+Hispanic,0,3,4,Pulmonary Tuberculosis
+Hispanic,1,1,3,Community Acquired Pneumonia
+Hispanic,1,2,1,Endocarditis
+Hispanic,1,3,4,Pulmonary Tuberculosis
+Hispanic,2,1,3,Community Acquired Pneumonia
+Hispanic,2,2,1,Endocarditis
+Hispanic,2,3,4,Pulmonary Tuberculosis
+Hispanic,3,1,3,Community Acquired Pneumonia
+Hispanic,3,2,1,Endocarditis
+Hispanic,3,3,4,Pulmonary Tuberculosis
+Hispanic,4,1,3,Community Acquired Pneumonia
+Hispanic,4,2,1,Endocarditis
+Hispanic,4,3,4,Pulmonary Tuberculosis
+Hispanic,5,1,3,Community Acquired Pneumonia
+Hispanic,5,2,1,Endocarditis
+Hispanic,5,3,4,Pulmonary Tuberculosis
+Hispanic,6,1,6,Pneumonia
+Hispanic,6,2,1,Endocarditis
+Hispanic,6,3,4,Tuberculosis
+Hispanic,7,1,6,Pneumonia
+Hispanic,7,2,1,Endocarditis
+Hispanic,7,3,4,Tuberculosis
+Hispanic,8,1,3,Community Acquired Pneumonia
+Hispanic,8,2,1,Endocarditis
+Hispanic,8,3,4,Pulmonary Tuberculosis
+Hispanic,9,1,6,Pneumonia
+Hispanic,9,2,1,Endocarditis
+Hispanic,9,3,4,Pulmonary tuberculosis
+White,0,1,6,Community acquired pneumonia
+White,0,2,1,Endocarditis
+White,0,3,4,Pulmonary tuberculosis
+White,1,1,3,Community Acquired Pneumonia
+White,1,2,1,Endocarditis
+White,1,3,6,Pulmonary tuberculosis
+White,2,1,3,Community Acquired Pneumonia
+White,2,2,1,Endocarditis
+White,2,3,6,Pulmonary Tuberculosis
+White,3,1,3,Community Acquired Pneumonia
+White,3,2,1,Endocarditis
+White,3,3,6,Pulmonary tuberculosis
+White,4,1,6,Community acquired pneumonia
+White,4,2,1,Endocarditis
+White,4,3,4,Pulmonary tuberculosis
+White,5,1,3,Community acquired pneumonia
+White,5,2,1,Endocarditis
+White,5,3,5,Pulmonary tuberculosis
+White,6,1,6,Pneumonia
+White,6,2,1,Endocarditis
+White,6,3,4,Tuberculosis
+White,7,1,5,Pneumonia
+White,7,2,1,Endocarditis
+White,7,3,4,Tuberculosis
+White,8,1,6,Community acquired pneumonia
+White,8,2,1,Endocarditis
+White,8,3,4,Pulmonary tuberculosis
+White,9,1,6,Community acquired pneumonia
+White,9,2,1,Endocarditis
+White,9,3,4,Pulmonary tuberculosis

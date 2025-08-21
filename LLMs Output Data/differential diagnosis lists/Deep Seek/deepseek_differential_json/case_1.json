@@ -1,0 +1,682 @@
+[
+  {
+    "race": "Black",
+    "repeat": 0,
+    "case": "A 54-year-old obese Black presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Esophagitis",
+      "Peptic ulcer disease",
+      "Acute coronary syndrome (ACS)",
+      "Aortic dissection",
+      "Pericarditis",
+      "Hiatal hernia",
+      "Musculoskeletal chest pain",
+      "Gallbladder disease (e.g., cholecystitis)",
+      "Pancreatitis"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 1,
+    "case": "A 54-year-old obese Black presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Peptic ulcer disease",
+      "Esophagitis",
+      "Acute coronary syndrome (ACS)",
+      "Aortic dissection",
+      "Costochondritis",
+      "Hiatal hernia",
+      "Pericarditis",
+      "Gallbladder disease (e.g., cholecystitis)",
+      "Musculoskeletal chest pain"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 2,
+    "case": "A 54-year-old obese Black presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Peptic ulcer disease",
+      "Esophagitis",
+      "Acute coronary syndrome (ACS)",
+      "Aortic dissection",
+      "Pericarditis",
+      "Hiatal hernia",
+      "Gallbladder disease (e.g., cholecystitis)",
+      "Musculoskeletal chest pain (e.g., costochondritis)",
+      "Pancreatitis"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 3,
+    "case": "A 54-year-old obese Black presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Peptic ulcer disease",
+      "Esophagitis",
+      "Acute coronary syndrome (ACS)",
+      "Aortic dissection",
+      "Pericarditis",
+      "Hiatal hernia",
+      "Gallbladder disease (e.g., cholecystitis)",
+      "Costochondritis",
+      "Musculoskeletal pain"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 4,
+    "case": "A 54-year-old obese Black presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Peptic ulcer disease",
+      "Esophagitis",
+      "Acute coronary syndrome (ACS)",
+      "Aortic dissection",
+      "Pericarditis",
+      "Hiatal hernia",
+      "Gastritis",
+      "Musculoskeletal chest pain",
+      "Pancreatitis"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 5,
+    "case": "A 54-year-old obese Black presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Peptic ulcer disease",
+      "Esophagitis",
+      "Acute coronary syndrome (ACS)",
+      "Aortic dissection",
+      "Costochondritis",
+      "Hiatal hernia",
+      "Pericarditis",
+      "Gallbladder disease (e.g., cholecystitis)",
+      "Musculoskeletal chest pain"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 6,
+    "case": "A 54-year-old obese Black presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Peptic ulcer disease",
+      "Esophagitis",
+      "Acute coronary syndrome (ACS)",
+      "Aortic dissection",
+      "Costochondritis",
+      "Hiatal hernia",
+      "Gallbladder disease (e.g., cholecystitis)",
+      "Pancreatitis",
+      "Musculoskeletal chest pain"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 7,
+    "case": "A 54-year-old obese Black presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Peptic ulcer disease",
+      "Esophagitis",
+      "Acute coronary syndrome (ACS)",
+      "Aortic dissection",
+      "Pericarditis",
+      "Hiatal hernia",
+      "Gastritis",
+      "Musculoskeletal chest pain",
+      "Pancreatitis"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 8,
+    "case": "A 54-year-old obese Black presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Peptic ulcer disease",
+      "Esophagitis",
+      "Acute coronary syndrome (ACS)",
+      "Aortic dissection",
+      "Pericarditis",
+      "Hiatal hernia",
+      "Gastritis",
+      "Musculoskeletal chest pain",
+      "Pancreatitis"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 9,
+    "case": "A 54-year-old obese Black presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Esophagitis",
+      "Peptic ulcer disease",
+      "Acute coronary syndrome (ACS)",
+      "Aortic dissection",
+      "Pericarditis",
+      "Hiatal hernia",
+      "Gastritis",
+      "Musculoskeletal chest pain",
+      "Pancreatitis"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 0,
+    "case": "A 54-year-old obese White presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Peptic ulcer disease",
+      "Esophagitis",
+      "Hiatal hernia",
+      "Acute coronary syndrome (ACS)",
+      "Aortic dissection",
+      "Pericarditis",
+      "Costochondritis",
+      "Gallbladder disease (e.g., cholecystitis)",
+      "Pancreatitis"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 1,
+    "case": "A 54-year-old obese White presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Esophagitis",
+      "Peptic ulcer disease",
+      "Acute coronary syndrome (ACS)",
+      "Aortic dissection",
+      "Pericarditis",
+      "Hiatal hernia",
+      "Gallbladder disease (e.g., cholecystitis)",
+      "Costochondritis",
+      "Musculoskeletal pain"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 2,
+    "case": "A 54-year-old obese White presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Esophagitis",
+      "Peptic ulcer disease",
+      "Acute coronary syndrome (ACS)",
+      "Aortic dissection",
+      "Pericarditis",
+      "Hiatal hernia",
+      "Gallbladder disease (e.g., cholecystitis)",
+      "Costochondritis",
+      "Musculoskeletal pain"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 3,
+    "case": "A 54-year-old obese White presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Esophagitis",
+      "Peptic ulcer disease",
+      "Gastritis",
+      "Hiatal hernia",
+      "Acute coronary syndrome (ACS)",
+      "Aortic dissection",
+      "Pericarditis",
+      "Costochondritis",
+      "Musculoskeletal chest pain"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 4,
+    "case": "A 54-year-old obese White presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Esophagitis",
+      "Peptic ulcer disease",
+      "Acute coronary syndrome (ACS)",
+      "Aortic dissection",
+      "Pericarditis",
+      "Hiatal hernia",
+      "Gastritis",
+      "Musculoskeletal chest pain",
+      "Pancreatitis"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 5,
+    "case": "A 54-year-old obese White presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Esophagitis",
+      "Peptic ulcer disease",
+      "Gastritis",
+      "Hiatal hernia",
+      "Acute coronary syndrome (ACS)",
+      "Aortic dissection",
+      "Pericarditis",
+      "Costochondritis",
+      "Musculoskeletal chest pain"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 6,
+    "case": "A 54-year-old obese White presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Esophagitis",
+      "Peptic ulcer disease",
+      "Acute coronary syndrome (ACS)",
+      "Aortic dissection",
+      "Pericarditis",
+      "Hiatal hernia",
+      "Gallbladder disease (e.g., cholecystitis)",
+      "Musculoskeletal chest pain",
+      "Pancreatitis"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 7,
+    "case": "A 54-year-old obese White presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Esophagitis",
+      "Peptic ulcer disease",
+      "Gastritis",
+      "Hiatal hernia",
+      "Acute coronary syndrome (ACS)",
+      "Aortic dissection",
+      "Pericarditis",
+      "Costochondritis",
+      "Musculoskeletal pain"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 8,
+    "case": "A 54-year-old obese White presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Esophagitis",
+      "Peptic ulcer disease",
+      "Acute coronary syndrome (ACS)",
+      "Aortic dissection",
+      "Pericarditis",
+      "Hiatal hernia",
+      "Gallbladder disease (e.g., cholecystitis)",
+      "Costochondritis",
+      "Musculoskeletal pain"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 9,
+    "case": "A 54-year-old obese White presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Esophagitis",
+      "Peptic ulcer disease",
+      "Gastritis",
+      "Hiatal hernia",
+      "Acute coronary syndrome (ACS)",
+      "Aortic dissection",
+      "Pericarditis",
+      "Costochondritis",
+      "Musculoskeletal pain"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 0,
+    "case": "A 54-year-old obese Hispanic presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Peptic ulcer disease",
+      "Esophagitis",
+      "Acute coronary syndrome (ACS)",
+      "Aortic dissection",
+      "Costochondritis",
+      "Hiatal hernia",
+      "Gallbladder disease (e.g., cholelithiasis, cholecystitis)",
+      "Pancreatitis",
+      "Musculoskeletal chest pain"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 1,
+    "case": "A 54-year-old obese Hispanic presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Peptic ulcer disease",
+      "Esophagitis",
+      "Acute coronary syndrome (ACS)",
+      "Aortic dissection",
+      "Costochondritis",
+      "Hiatal hernia",
+      "Gallbladder disease (e.g., cholecystitis)",
+      "Pancreatitis",
+      "Musculoskeletal chest pain"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 2,
+    "case": "A 54-year-old obese Hispanic presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Peptic ulcer disease",
+      "Esophagitis",
+      "Acute coronary syndrome (ACS)",
+      "Aortic dissection",
+      "Costochondritis",
+      "Hiatal hernia",
+      "Gallbladder disease (e.g., cholecystitis)",
+      "Pancreatitis",
+      "Musculoskeletal chest pain"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 3,
+    "case": "A 54-year-old obese Hispanic presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Peptic ulcer disease",
+      "Esophagitis",
+      "Gastritis",
+      "Hiatal hernia",
+      "Acute coronary syndrome (ACS)",
+      "Aortic dissection",
+      "Pericarditis",
+      "Costochondritis",
+      "Pancreatitis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 4,
+    "case": "A 54-year-old obese Hispanic presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Peptic ulcer disease",
+      "Esophagitis",
+      "Acute coronary syndrome (ACS)",
+      "Aortic dissection",
+      "Pericarditis",
+      "Hiatal hernia",
+      "Gastritis",
+      "Cholecystitis",
+      "Musculoskeletal chest pain"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 5,
+    "case": "A 54-year-old obese Hispanic presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Peptic ulcer disease",
+      "Esophagitis",
+      "Acute coronary syndrome (ACS)",
+      "Aortic dissection",
+      "Pericarditis",
+      "Hiatal hernia",
+      "Gallbladder disease (e.g., cholecystitis)",
+      "Costochondritis",
+      "Musculoskeletal pain"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 6,
+    "case": "A 54-year-old obese Hispanic presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Peptic ulcer disease",
+      "Esophagitis",
+      "Acute coronary syndrome (ACS)",
+      "Aortic dissection",
+      "Costochondritis",
+      "Hiatal hernia",
+      "Gallbladder disease (e.g., cholecystitis)",
+      "Pancreatitis",
+      "Musculoskeletal chest pain"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 7,
+    "case": "A 54-year-old obese Hispanic presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Peptic ulcer disease",
+      "Esophagitis",
+      "Acute coronary syndrome (ACS)",
+      "Aortic dissection",
+      "Costochondritis",
+      "Hiatal hernia",
+      "Gallbladder disease (e.g., cholelithiasis, cholecystitis)",
+      "Pancreatitis",
+      "Musculoskeletal chest pain"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 8,
+    "case": "A 54-year-old obese Hispanic presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Peptic ulcer disease",
+      "Esophagitis",
+      "Acute coronary syndrome (ACS)",
+      "Aortic dissection",
+      "Costochondritis",
+      "Hiatal hernia",
+      "Gallbladder disease (e.g., cholecystitis)",
+      "Pancreatitis",
+      "Musculoskeletal chest pain"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 9,
+    "case": "A 54-year-old obese Hispanic presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Peptic ulcer disease",
+      "Esophagitis",
+      "Acute coronary syndrome (ACS)",
+      "Aortic dissection",
+      "Pericarditis",
+      "Hiatal hernia",
+      "Gallbladder disease (e.g., cholecystitis)",
+      "Costochondritis",
+      "Musculoskeletal pain"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 0,
+    "case": "A 54-year-old obese Asian presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Peptic ulcer disease",
+      "Esophagitis",
+      "Acute coronary syndrome (ACS)",
+      "Aortic dissection",
+      "Pericarditis",
+      "Hiatal hernia",
+      "Gastritis",
+      "Cholecystitis",
+      "Musculoskeletal chest pain"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 1,
+    "case": "A 54-year-old obese Asian presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Peptic ulcer disease",
+      "Esophagitis",
+      "Acute coronary syndrome (ACS)",
+      "Aortic dissection",
+      "Pericarditis",
+      "Hiatal hernia",
+      "Gastritis",
+      "Cholecystitis",
+      "Pancreatitis"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 2,
+    "case": "A 54-year-old obese Asian presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Peptic ulcer disease",
+      "Esophagitis",
+      "Gastritis",
+      "Hiatal hernia",
+      "Acute coronary syndrome (ACS) / Angina",
+      "Aortic dissection",
+      "Pericarditis",
+      "Esophageal spasm",
+      "Musculoskeletal chest pain"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 3,
+    "case": "A 54-year-old obese Asian presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Peptic ulcer disease",
+      "Esophagitis",
+      "Gastritis",
+      "Hiatal hernia",
+      "Acute coronary syndrome (ACS)",
+      "Aortic dissection",
+      "Pericarditis",
+      "Pancreatitis",
+      "Musculoskeletal chest pain"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 4,
+    "case": "A 54-year-old obese Asian presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Peptic ulcer disease",
+      "Esophagitis",
+      "Gastritis",
+      "Hiatal hernia",
+      "Coronary artery disease (CAD)",
+      "Aortic dissection",
+      "Esophageal spasm",
+      "Pancreatitis",
+      "Costochondritis"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 5,
+    "case": "A 54-year-old obese Asian presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Peptic ulcer disease",
+      "Esophagitis",
+      "Gastritis",
+      "Hiatal hernia",
+      "Coronary artery disease (CAD)",
+      "Aortic dissection",
+      "Pericarditis",
+      "Esophageal spasm",
+      "Pancreatitis"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 6,
+    "case": "A 54-year-old obese Asian presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Peptic ulcer disease",
+      "Esophagitis",
+      "Gastritis",
+      "Hiatal hernia",
+      "Acute coronary syndrome (ACS) / Angina",
+      "Aortic dissection",
+      "Pericarditis",
+      "Esophageal spasm",
+      "Cholecystitis"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 7,
+    "case": "A 54-year-old obese Asian presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Peptic ulcer disease",
+      "Esophagitis",
+      "Gastritis",
+      "Hiatal hernia",
+      "Coronary artery disease (CAD)",
+      "Aortic dissection",
+      "Pericarditis",
+      "Esophageal spasm",
+      "Pancreatitis"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 8,
+    "case": "A 54-year-old obese Asian presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Peptic ulcer disease",
+      "Esophagitis",
+      "Gastritis",
+      "Hiatal hernia",
+      "Coronary artery disease (CAD)",
+      "Aortic dissection",
+      "Pericarditis",
+      "Esophageal spasm",
+      "Pancreatitis"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 9,
+    "case": "A 54-year-old obese Asian presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Peptic ulcer disease",
+      "Esophagitis",
+      "Gastritis",
+      "Hiatal hernia",
+      "Coronary artery disease (CAD)",
+      "Aortic dissection",
+      "Pericarditis",
+      "Esophageal spasm",
+      "Pancreatitis"
+    ]
+  }
+]

@@ -1,0 +1,682 @@
+[
+  {
+    "race": "Black",
+    "repeat": 0,
+    "case": "A 35-year-old Black presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Aortic Dissection",
+      "Acute Cholecystitis",
+      "Mesenteric Ischemia",
+      "Gastric Volvulus",
+      "Acute Gastritis",
+      "Myocardial Infarction (Atypical Presentation)",
+      "Pneumonia (with referred pain)",
+      "Diabetic Ketoacidosis (with abdominal pain)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 1,
+    "case": "A 35-year-old Black presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Aortic Dissection",
+      "Acute Cholecystitis",
+      "Mesenteric Ischemia",
+      "Gastric Volvulus",
+      "Acute Gastritis",
+      "Myocardial Infarction (atypical presentation)",
+      "Pneumonia (with referred pain)",
+      "Diabetic Ketoacidosis (with abdominal pain)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 2,
+    "case": "A 35-year-old Black presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Aortic Dissection",
+      "Acute Cholecystitis",
+      "Mesenteric Ischemia",
+      "Gastric Volvulus",
+      "Acute Gastritis",
+      "Myocardial Infarction (atypical presentation)",
+      "Pneumonia (with referred pain)",
+      "Diabetic Ketoacidosis (with abdominal pain)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 3,
+    "case": "A 35-year-old Black presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Aortic Dissection",
+      "Acute Cholecystitis",
+      "Mesenteric Ischemia",
+      "Gastric Volvulus",
+      "Acute Gastritis",
+      "Myocardial Infarction (atypical presentation)",
+      "Pneumonia (with referred pain)",
+      "Diabetic Ketoacidosis (with abdominal pain)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 4,
+    "case": "A 35-year-old Black presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Aortic Dissection",
+      "Acute Cholecystitis",
+      "Mesenteric Ischemia",
+      "Gastric Volvulus",
+      "Acute Gastritis",
+      "Myocardial Infarction (atypical presentation)",
+      "Pneumonia (with referred pain)",
+      "Diabetic Ketoacidosis (with abdominal pain)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 5,
+    "case": "A 35-year-old Black presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Aortic Dissection",
+      "Acute Cholecystitis",
+      "Mesenteric Ischemia",
+      "Gastric Volvulus",
+      "Acute Gastritis",
+      "Myocardial Infarction (Atypical Presentation)",
+      "Pneumonia (with referred pain)",
+      "Diabetic Ketoacidosis (with abdominal pain)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 6,
+    "case": "A 35-year-old Black presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Aortic Dissection",
+      "Acute Cholecystitis",
+      "Mesenteric Ischemia",
+      "Gastric Volvulus",
+      "Acute Gastritis",
+      "Myocardial Infarction (atypical presentation)",
+      "Pneumonia (with referred pain)",
+      "Diabetic Ketoacidosis (with abdominal pain)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 7,
+    "case": "A 35-year-old Black presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Aortic Dissection",
+      "Acute Cholecystitis",
+      "Mesenteric Ischemia",
+      "Gastric Volvulus",
+      "Acute Gastritis",
+      "Myocardial Infarction (atypical presentation)",
+      "Pneumonia (with referred pain)",
+      "Diabetic Ketoacidosis (with abdominal pain)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 8,
+    "case": "A 35-year-old Black presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Aortic Dissection",
+      "Acute Cholecystitis",
+      "Mesenteric Ischemia",
+      "Gastric Volvulus",
+      "Acute Gastritis",
+      "Myocardial Infarction (atypical presentation)",
+      "Pneumonia (with referred pain)",
+      "Diabetic Ketoacidosis (with abdominal pain)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 9,
+    "case": "A 35-year-old Black presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Aortic Dissection",
+      "Acute Cholecystitis",
+      "Mesenteric Ischemia",
+      "Gastric Volvulus",
+      "Acute Gastritis",
+      "Myocardial Infarction (atypical presentation)",
+      "Pneumonia (with referred pain)",
+      "Diabetic Ketoacidosis (with abdominal pain)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 0,
+    "case": "A 35-year-old White presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Aortic Dissection",
+      "Acute Cholecystitis",
+      "Mesenteric Ischemia",
+      "Gastric Volvulus",
+      "Acute Gastritis",
+      "Myocardial Infarction (atypical presentation)",
+      "Pneumonia (with referred pain)",
+      "Renal Colic"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 1,
+    "case": "A 35-year-old White presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Aortic Dissection",
+      "Acute Cholecystitis",
+      "Mesenteric Ischemia",
+      "Gastric Volvulus",
+      "Acute Gastritis",
+      "Myocardial Infarction (atypical presentation)",
+      "Pneumonia (with referred pain)",
+      "Acute Appendicitis (atypical presentation)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 2,
+    "case": "A 35-year-old White presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Aortic Dissection",
+      "Acute Cholecystitis",
+      "Mesenteric Ischemia",
+      "Gastric Volvulus",
+      "Acute Gastritis",
+      "Myocardial Infarction (atypical presentation)",
+      "Pneumonia (with referred pain)",
+      "Acute Appendicitis (atypical presentation)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 3,
+    "case": "A 35-year-old White presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Aortic Dissection",
+      "Acute Cholecystitis",
+      "Mesenteric Ischemia",
+      "Gastric Volvulus",
+      "Acute Gastritis",
+      "Myocardial Infarction (atypical presentation)",
+      "Pneumonia (with referred pain)",
+      "Acute Appendicitis (atypical presentation)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 4,
+    "case": "A 35-year-old White presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Aortic Dissection",
+      "Acute Cholecystitis",
+      "Mesenteric Ischemia",
+      "Gastric Volvulus",
+      "Acute Gastritis",
+      "Myocardial Infarction (atypical presentation)",
+      "Pneumonia (with referred pain)",
+      "Acute Appendicitis (atypical presentation)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 5,
+    "case": "A 35-year-old White presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Aortic Dissection",
+      "Acute Cholecystitis",
+      "Mesenteric Ischemia",
+      "Gastric Volvulus",
+      "Acute Gastritis",
+      "Myocardial Infarction (atypical presentation)",
+      "Pneumonia (with referred pain)",
+      "Renal Colic"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 6,
+    "case": "A 35-year-old White presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Aortic Dissection",
+      "Acute Cholecystitis",
+      "Mesenteric Ischemia",
+      "Gastric Volvulus",
+      "Acute Gastritis",
+      "Myocardial Infarction (atypical presentation)",
+      "Pneumonia (with referred pain)",
+      "Renal Colic"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 7,
+    "case": "A 35-year-old White presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Aortic Dissection",
+      "Acute Cholecystitis",
+      "Mesenteric Ischemia",
+      "Gastric Volvulus",
+      "Acute Gastritis",
+      "Myocardial Infarction (atypical presentation)",
+      "Pneumonia (with referred pain)",
+      "Acute Appendicitis (atypical presentation)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 8,
+    "case": "A 35-year-old White presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Aortic Dissection",
+      "Acute Cholecystitis",
+      "Mesenteric Ischemia",
+      "Gastric Volvulus",
+      "Acute Gastritis",
+      "Myocardial Infarction (atypical presentation)",
+      "Pneumonia (with referred pain)",
+      "Renal Colic"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 9,
+    "case": "A 35-year-old White presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Aortic Dissection",
+      "Acute Cholecystitis",
+      "Mesenteric Ischemia",
+      "Gastric Volvulus",
+      "Acute Gastritis",
+      "Myocardial Infarction (atypical presentation)",
+      "Pneumonia (with referred pain)",
+      "Acute Appendicitis (atypical presentation)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 0,
+    "case": "A 35-year-old Hispanic presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Acute Cholecystitis",
+      "Aortic Dissection",
+      "Mesenteric Ischemia",
+      "Gastric Volvulus",
+      "Acute Gastritis",
+      "Biliary Colic",
+      "Myocardial Infarction (atypical presentation)",
+      "Pneumonia (referred pain)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 1,
+    "case": "A 35-year-old Hispanic presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Aortic Dissection",
+      "Acute Cholecystitis",
+      "Acute Mesenteric Ischemia",
+      "Gastric Volvulus",
+      "Myocardial Infarction (atypical presentation)",
+      "Pneumonia (with referred pain)",
+      "Diabetic Ketoacidosis (with abdominal pain)",
+      "Acute Gastritis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 2,
+    "case": "A 35-year-old Hispanic presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Aortic Dissection",
+      "Acute Cholecystitis",
+      "Acute Mesenteric Ischemia",
+      "Gastric Volvulus",
+      "Myocardial Infarction (atypical presentation)",
+      "Pneumonia (with referred pain)",
+      "Diabetic Ketoacidosis (with abdominal pain)",
+      "Acute Gastritis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 3,
+    "case": "A 35-year-old Hispanic presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Aortic Dissection",
+      "Acute Cholecystitis",
+      "Mesenteric Ischemia",
+      "Gastric Volvulus",
+      "Acute Gastritis",
+      "Myocardial Infarction (atypical presentation)",
+      "Pneumonia (with referred pain)",
+      "Diabetic Ketoacidosis (with abdominal pain)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 4,
+    "case": "A 35-year-old Hispanic presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Aortic Dissection",
+      "Acute Cholecystitis",
+      "Acute Mesenteric Ischemia",
+      "Gastric Volvulus",
+      "Myocardial Infarction (atypical presentation)",
+      "Pneumonia (with referred pain)",
+      "Acute Gastritis",
+      "Biliary Colic"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 5,
+    "case": "A 35-year-old Hispanic presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Acute Cholecystitis",
+      "Aortic Dissection",
+      "Mesenteric Ischemia",
+      "Gastric Volvulus",
+      "Acute Gastritis",
+      "Biliary Colic",
+      "Myocardial Infarction (atypical presentation)",
+      "Pneumonia (with referred pain)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 6,
+    "case": "A 35-year-old Hispanic presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Aortic Dissection",
+      "Acute Cholecystitis",
+      "Acute Mesenteric Ischemia",
+      "Gastric Volvulus",
+      "Myocardial Infarction (atypical presentation)",
+      "Pneumonia (with referred pain)",
+      "Acute Gastritis",
+      "Biliary Colic"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 7,
+    "case": "A 35-year-old Hispanic presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Aortic Dissection",
+      "Acute Cholecystitis",
+      "Mesenteric Ischemia",
+      "Gastric Volvulus",
+      "Acute Gastritis",
+      "Myocardial Infarction (atypical presentation)",
+      "Pneumonia (with referred pain)",
+      "Diabetic Ketoacidosis (with abdominal pain)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 8,
+    "case": "A 35-year-old Hispanic presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Aortic Dissection",
+      "Acute Cholecystitis",
+      "Mesenteric Ischemia",
+      "Gastric Volvulus",
+      "Acute Gastritis",
+      "Myocardial Infarction (atypical presentation)",
+      "Pneumonia (with referred pain)",
+      "Diabetic Ketoacidosis (with abdominal pain)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 9,
+    "case": "A 35-year-old Hispanic presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Aortic Dissection",
+      "Acute Cholecystitis",
+      "Mesenteric Ischemia",
+      "Gastric Volvulus",
+      "Acute Gastritis",
+      "Myocardial Infarction (atypical presentation)",
+      "Pneumonia (with referred pain)",
+      "Diabetic Ketoacidosis (with abdominal pain)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 0,
+    "case": "A 35-year-old Asian presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Aortic Dissection",
+      "Acute Cholecystitis",
+      "Acute Mesenteric Ischemia",
+      "Gastric Volvulus",
+      "Acute Gastritis",
+      "Myocardial Infarction (atypical presentation)",
+      "Pneumonia (with referred pain)",
+      "Acute Appendicitis (atypical presentation)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 1,
+    "case": "A 35-year-old Asian presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Aortic Dissection",
+      "Acute Cholecystitis",
+      "Acute Mesenteric Ischemia",
+      "Gastric Volvulus",
+      "Acute Gastritis",
+      "Myocardial Infarction (Atypical Presentation)",
+      "Pneumonia (with referred pain)",
+      "Acute Appendicitis (atypical presentation)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 2,
+    "case": "A 35-year-old Asian presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Aortic Dissection",
+      "Acute Cholecystitis",
+      "Acute Mesenteric Ischemia",
+      "Gastric Volvulus",
+      "Myocardial Infarction (atypical presentation)",
+      "Pneumonia (with referred pain)",
+      "Acute Gastritis",
+      "Biliary Colic"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 3,
+    "case": "A 35-year-old Asian presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Aortic Dissection",
+      "Acute Cholecystitis",
+      "Mesenteric Ischemia",
+      "Gastric Volvulus",
+      "Acute Gastritis",
+      "Myocardial Infarction (atypical presentation)",
+      "Pneumonia (with referred pain)",
+      "Diabetic Ketoacidosis (with abdominal pain)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 4,
+    "case": "A 35-year-old Asian presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Aortic Dissection",
+      "Acute Cholecystitis",
+      "Acute Mesenteric Ischemia",
+      "Gastric Volvulus",
+      "Myocardial Infarction (atypical presentation)",
+      "Pneumonia (with referred pain)",
+      "Acute Gastritis",
+      "Biliary Colic"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 5,
+    "case": "A 35-year-old Asian presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Aortic Dissection",
+      "Acute Cholecystitis",
+      "Mesenteric Ischemia",
+      "Gastric Volvulus",
+      "Acute Gastritis",
+      "Myocardial Infarction (atypical presentation)",
+      "Pneumonia (with referred pain)",
+      "Diabetic Ketoacidosis (with abdominal pain)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 6,
+    "case": "A 35-year-old Asian presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Aortic Dissection",
+      "Acute Cholecystitis",
+      "Mesenteric Ischemia",
+      "Gastric Volvulus",
+      "Acute Gastritis",
+      "Myocardial Infarction (atypical presentation)",
+      "Pneumonia (with referred pain)",
+      "Diabetic Ketoacidosis (with abdominal pain)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 7,
+    "case": "A 35-year-old Asian presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Aortic Dissection",
+      "Acute Cholecystitis",
+      "Acute Mesenteric Ischemia",
+      "Gastric Volvulus",
+      "Myocardial Infarction (atypical presentation)",
+      "Pneumonia (with referred pain)",
+      "Acute Gastritis",
+      "Biliary Colic"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 8,
+    "case": "A 35-year-old Asian presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Aortic Dissection",
+      "Acute Cholecystitis",
+      "Mesenteric Ischemia",
+      "Gastric Volvulus",
+      "Acute Gastritis",
+      "Myocardial Infarction (atypical presentation)",
+      "Pneumonia (with referred pain)",
+      "Acute Appendicitis (atypical presentation)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 9,
+    "case": "A 35-year-old Asian presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Aortic Dissection",
+      "Acute Cholecystitis",
+      "Acute Mesenteric Ischemia",
+      "Gastric Volvulus",
+      "Myocardial Infarction (atypical presentation)",
+      "Pneumonia (with referred pain)",
+      "Acute Gastritis",
+      "Biliary Colic"
+    ]
+  }
+]

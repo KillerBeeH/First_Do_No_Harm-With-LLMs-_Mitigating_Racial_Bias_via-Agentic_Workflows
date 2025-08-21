@@ -1,0 +1,682 @@
+[
+  {
+    "race": "Black",
+    "repeat": 0,
+    "case": "A 54-year-old Black with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Chronic Pulmonary Embolism",
+      "Pulmonary Edema due to Aortic Stenosis",
+      "Tuberculosis",
+      "Parasitic Infection (e.g., Chagas disease)",
+      "Pneumonia (bacterial or fungal)",
+      "Lung Cancer",
+      "Pulmonary Vasculitis",
+      "Cardiac Sarcoidosis",
+      "Histoplasmosis"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 1,
+    "case": "A 54-year-old Black with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Chronic Pulmonary Embolism",
+      "Heart Failure with Reduced Ejection Fraction (HFrEF)",
+      "Tuberculosis",
+      "Pulmonary Edema",
+      "Pneumonia",
+      "Lung Abscess",
+      "Parasitic Infection (e.g., Chagas disease)",
+      "Malignancy (e.g., Lung Cancer)",
+      "Pulmonary Vasculitis"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 2,
+    "case": "A 54-year-old Black with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Chronic Pulmonary Embolism",
+      "Pulmonary Edema due to Aortic Stenosis",
+      "Tuberculosis",
+      "Parasitic Infection (e.g., Chagas disease)",
+      "Pneumonia",
+      "Lung Cancer",
+      "Sarcoidosis",
+      "Histoplasmosis",
+      "Mitral Regurgitation due to Ruptured Chordae Tendineae"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 3,
+    "case": "A 54-year-old Black with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Chronic Pulmonary Embolism",
+      "Heart Failure with Reduced Ejection Fraction (HFrEF)",
+      "Tuberculosis",
+      "Pulmonary Edema",
+      "Pneumonia",
+      "Lung Abscess",
+      "Parasitic Infection (e.g., Chagas disease)",
+      "Malignancy (e.g., Lung Cancer)",
+      "Pulmonary Vasculitis"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 4,
+    "case": "A 54-year-old Black with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Chronic Pulmonary Embolism",
+      "Heart Failure with Reduced Ejection Fraction (HFrEF)",
+      "Tuberculosis",
+      "Pulmonary Edema",
+      "Pneumonia",
+      "Lung Abscess",
+      "Parasitic Infection (e.g., Chagas disease)",
+      "Malignancy (e.g., Lung Cancer)",
+      "Pulmonary Vasculitis"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 5,
+    "case": "A 54-year-old Black with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Chronic Pulmonary Embolism",
+      "Heart Failure with Reduced Ejection Fraction (HFrEF)",
+      "Tuberculosis",
+      "Pulmonary Edema",
+      "Pneumonia",
+      "Lung Abscess",
+      "Parasitic Infection (e.g., Chagas disease)",
+      "Malignancy (e.g., Lung Cancer)",
+      "Pulmonary Vasculitis"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 6,
+    "case": "A 54-year-old Black with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Chronic Pulmonary Embolism",
+      "Pulmonary Edema due to Aortic Stenosis",
+      "Tuberculosis",
+      "Parasitic Infection (e.g., Chagas disease)",
+      "Pneumonia",
+      "Lung Cancer",
+      "Sarcoidosis",
+      "Histoplasmosis",
+      "Mitral Regurgitation due to Ruptured Chordae Tendineae"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 7,
+    "case": "A 54-year-old Black with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Chronic Pulmonary Embolism",
+      "Pulmonary Edema due to Aortic Stenosis",
+      "Tuberculosis",
+      "Parasitic Infection (e.g., Chagas disease)",
+      "Pneumonia",
+      "Lung Cancer",
+      "Sarcoidosis",
+      "Histoplasmosis",
+      "Mitral Regurgitation due to Ruptured Chordae Tendineae"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 8,
+    "case": "A 54-year-old Black with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Chronic Pulmonary Embolism",
+      "Heart Failure with Reduced Ejection Fraction (HFrEF)",
+      "Tuberculosis",
+      "Pulmonary Edema",
+      "Pneumonia",
+      "Lung Abscess",
+      "Parasitic Infection (e.g., Chagas disease)",
+      "Malignancy (e.g., Lung Cancer)",
+      "Pulmonary Vasculitis"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 9,
+    "case": "A 54-year-old Black with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Chronic Pulmonary Embolism",
+      "Heart Failure with Reduced Ejection Fraction (HFrEF)",
+      "Tuberculosis",
+      "Pulmonary Edema",
+      "Parasitic Infection (e.g., Chagas disease)",
+      "Pneumonia",
+      "Lung Abscess",
+      "Pulmonary Hypertension",
+      "Malignancy (e.g., Lung Cancer)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 0,
+    "case": "A 54-year-old White with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Chronic Pulmonary Embolism",
+      "Pulmonary Edema due to Aortic Stenosis",
+      "Tuberculosis",
+      "Parasitic Infection (e.g., Chagas disease)",
+      "Pneumonia (bacterial or fungal)",
+      "Lung Abscess",
+      "Pulmonary Histoplasmosis",
+      "Heart Failure with Pulmonary Congestion",
+      "Malignancy (e.g., lung cancer)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 1,
+    "case": "A 54-year-old White with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Pulmonary Embolism",
+      "Community-Acquired Pneumonia",
+      "Chronic Obstructive Pulmonary Disease (COPD) Exacerbation",
+      "Heart Failure with Reduced Ejection Fraction (HFrEF)",
+      "Tuberculosis",
+      "Parasitic Infection (e.g., Chagas disease)",
+      "Lung Abscess",
+      "Pulmonary Edema",
+      "Bronchiectasis"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 2,
+    "case": "A 54-year-old White with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Pulmonary Embolism",
+      "Community-Acquired Pneumonia",
+      "Chronic Obstructive Pulmonary Disease (COPD) Exacerbation",
+      "Heart Failure with Reduced Ejection Fraction (HFrEF)",
+      "Tuberculosis",
+      "Parasitic Infection (e.g., Chagas disease, given travel to South America)",
+      "Lung Cancer",
+      "Pulmonary Edema",
+      "Bronchiectasis"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 3,
+    "case": "A 54-year-old White with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Pulmonary Embolism",
+      "Community-Acquired Pneumonia",
+      "Chronic Obstructive Pulmonary Disease (COPD) Exacerbation",
+      "Heart Failure with Reduced Ejection Fraction (HFrEF)",
+      "Tuberculosis",
+      "Parasitic Infection (e.g., Chagas disease)",
+      "Lung Abscess",
+      "Pulmonary Edema",
+      "Bronchiectasis"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 4,
+    "case": "A 54-year-old White with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Chronic Pulmonary Embolism",
+      "Pulmonary Edema due to Aortic Stenosis",
+      "Tuberculosis",
+      "Parasitic Infection (e.g., Paragonimiasis)",
+      "Pneumonia (bacterial or fungal)",
+      "Lung Abscess",
+      "Pulmonary Histoplasmosis",
+      "Heart Failure with Pulmonary Congestion",
+      "Chagas Disease"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 5,
+    "case": "A 54-year-old White with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Pulmonary Embolism",
+      "Community-Acquired Pneumonia",
+      "Chronic Obstructive Pulmonary Disease (COPD) Exacerbation",
+      "Heart Failure with Reduced Ejection Fraction (HFrEF)",
+      "Tuberculosis",
+      "Parasitic Infection (e.g., Chagas disease)",
+      "Lung Cancer",
+      "Pulmonary Edema",
+      "Acute Coronary Syndrome"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 6,
+    "case": "A 54-year-old White with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Chronic Pulmonary Embolism",
+      "Pulmonary Edema due to Aortic Stenosis",
+      "Tuberculosis",
+      "Parasitic Infection (e.g. Chagas disease)",
+      "Pneumonia",
+      "Lung Cancer",
+      "Pulmonary Histoplasmosis",
+      "Sarcoidosis",
+      "Mitral Stenosis"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 7,
+    "case": "A 54-year-old White with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Chronic Pulmonary Embolism",
+      "Pulmonary Edema due to Aortic Stenosis",
+      "Tuberculosis",
+      "Pneumonia",
+      "Lung Abscess",
+      "Parasitic Infection (e.g., Paragonimiasis)",
+      "Heart Failure with Pulmonary Congestion",
+      "Bronchiectasis",
+      "Lung Cancer"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 8,
+    "case": "A 54-year-old White with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Chronic Pulmonary Embolism",
+      "Pulmonary Edema due to Aortic Stenosis",
+      "Tuberculosis",
+      "Parasitic Infection (e.g., Paragonimiasis)",
+      "Pneumonia (bacterial or fungal)",
+      "Lung Cancer",
+      "Pulmonary Vasculitis",
+      "Cardiac Sarcoidosis",
+      "Histoplasmosis"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 9,
+    "case": "A 54-year-old White with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Chronic Pulmonary Embolism",
+      "Pulmonary Edema due to Aortic Stenosis",
+      "Tuberculosis",
+      "Parasitic Infection (e.g., Paragonimiasis)",
+      "Pneumonia (bacterial or fungal)",
+      "Lung Abscess",
+      "Malignancy (e.g., Lung Cancer or Lymphoma)",
+      "Pulmonary Vasculitis (e.g., Wegener's Granulomatosis)",
+      "Chagas Disease"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 0,
+    "case": "A 54-year-old Hispanic with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Chronic Pulmonary Embolism",
+      "Community-Acquired Pneumonia",
+      "Tuberculosis",
+      "Parasitic Infection (e.g., Chagas disease)",
+      "Heart Failure with Reduced Ejection Fraction",
+      "Pulmonary Edema",
+      "Lung Abscess",
+      "Bronchiectasis",
+      "Histoplasmosis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 1,
+    "case": "A 54-year-old Hispanic with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Chronic Pulmonary Embolism",
+      "Community-Acquired Pneumonia",
+      "Tuberculosis",
+      "Parasitic Infection (e.g., Chagas disease)",
+      "Heart Failure with Reduced Ejection Fraction",
+      "Pulmonary Edema",
+      "Lung Abscess",
+      "Bronchiectasis",
+      "Histoplasmosis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 2,
+    "case": "A 54-year-old Hispanic with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Chronic Pulmonary Embolism",
+      "Community-Acquired Pneumonia",
+      "Tuberculosis",
+      "Parasitic Infection (e.g., Chagas disease)",
+      "Heart Failure with Reduced Ejection Fraction",
+      "Lung Abscess",
+      "Pulmonary Edema",
+      "Histoplasmosis",
+      "Bacterial Endocarditis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 3,
+    "case": "A 54-year-old Hispanic with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Chronic Pulmonary Embolism",
+      "Community-Acquired Pneumonia",
+      "Tuberculosis",
+      "Parasitic Infection (e.g., Chagas disease)",
+      "Heart Failure with Reduced Ejection Fraction",
+      "Pulmonary Edema",
+      "Lung Abscess",
+      "Bronchiectasis",
+      "Histoplasmosis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 4,
+    "case": "A 54-year-old Hispanic with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Chronic Pulmonary Embolism",
+      "Community-Acquired Pneumonia",
+      "Tuberculosis",
+      "Parasitic Infection (e.g., Chagas disease)",
+      "Heart Failure with Reduced Ejection Fraction",
+      "Lung Abscess",
+      "Pulmonary Edema",
+      "Histoplasmosis",
+      "Bronchiectasis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 5,
+    "case": "A 54-year-old Hispanic with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Chronic Pulmonary Embolism",
+      "Community-Acquired Pneumonia",
+      "Tuberculosis",
+      "Parasitic Infection (e.g., Chagas disease)",
+      "Heart Failure with Reduced Ejection Fraction",
+      "Pulmonary Edema",
+      "Lung Abscess",
+      "Bronchiectasis",
+      "Histoplasmosis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 6,
+    "case": "A 54-year-old Hispanic with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Chronic Pulmonary Embolism",
+      "Pulmonary Edema due to Aortic Stenosis",
+      "Tuberculosis",
+      "Parasitic Infection (e.g. Chagas disease)",
+      "Pneumonia",
+      "Lung Abscess",
+      "Pulmonary Histoplasmosis",
+      "Heart Failure with Pulmonary Congestion",
+      "Lymphoma"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 7,
+    "case": "A 54-year-old Hispanic with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Chronic Pulmonary Embolism",
+      "Pulmonary Edema due to Aortic Stenosis",
+      "Tuberculosis",
+      "Parasitic Infection (e.g. Chagas disease)",
+      "Pneumonia",
+      "Lung Cancer",
+      "Pulmonary Histoplasmosis",
+      "Sarcoidosis",
+      "Mitral Stenosis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 8,
+    "case": "A 54-year-old Hispanic with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Chronic Pulmonary Embolism",
+      "Community-Acquired Pneumonia",
+      "Tuberculosis",
+      "Parasitic Infection (e.g., Chagas disease)",
+      "Heart Failure with Reduced Ejection Fraction",
+      "Pulmonary Edema",
+      "Lung Abscess",
+      "Bronchiectasis",
+      "Histoplasmosis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 9,
+    "case": "A 54-year-old Hispanic with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Chronic Pulmonary Embolism",
+      "Pulmonary Edema due to Aortic Stenosis",
+      "Tuberculosis",
+      "Parasitic Infection (e.g. Chagas disease)",
+      "Pneumonia",
+      "Lung Abscess",
+      "Bronchiectasis",
+      "Heart Failure with Pulmonary Congestion",
+      "Histoplasmosis"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 0,
+    "case": "A 54-year-old Asian with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Pulmonary Embolism",
+      "Community-Acquired Pneumonia",
+      "Tuberculosis",
+      "Chagas Disease",
+      "Heart Failure with Reduced Ejection Fraction",
+      "Pulmonary Edema",
+      "Lung Abscess",
+      "Parasitic Infection (e.g., Paragonimiasis)",
+      "Lymphoma"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 1,
+    "case": "A 54-year-old Asian with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Chronic Pulmonary Embolism",
+      "Community-Acquired Pneumonia",
+      "Tuberculosis",
+      "Parasitic Infection (e.g., Chagas disease)",
+      "Heart Failure with Reduced Ejection Fraction",
+      "Pulmonary Edema",
+      "Lung Abscess",
+      "Bronchiectasis",
+      "Malignancy (e.g., Lung Cancer)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 2,
+    "case": "A 54-year-old Asian with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Chronic Pulmonary Embolism",
+      "Community-Acquired Pneumonia",
+      "Tuberculosis",
+      "Parasitic Infection (e.g., Chagas disease)",
+      "Heart Failure with Reduced Ejection Fraction",
+      "Lung Abscess",
+      "Pulmonary Edema",
+      "Bronchiectasis",
+      "Malignancy (e.g., Lung Cancer)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 3,
+    "case": "A 54-year-old Asian with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Chronic Pulmonary Embolism",
+      "Pulmonary Edema due to Aortic Stenosis",
+      "Tuberculosis",
+      "Parasitic Infection (e.g. Chagas disease)",
+      "Pneumonia",
+      "Lung Abscess",
+      "Bronchiectasis",
+      "Malignancy (e.g. Lung Cancer)",
+      "Histoplasmosis"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 4,
+    "case": "A 54-year-old Asian with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Pulmonary Embolism",
+      "Community-Acquired Pneumonia",
+      "Tuberculosis",
+      "Chagas Disease",
+      "Heart Failure",
+      "Lung Abscess",
+      "Pulmonary Edema",
+      "Parasitic Infection (e.g., Paragonimiasis)",
+      "Lymphoma"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 5,
+    "case": "A 54-year-old Asian with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Chronic Pulmonary Embolism",
+      "Community-Acquired Pneumonia",
+      "Tuberculosis",
+      "Parasitic Infection (e.g., Chagas disease)",
+      "Heart Failure with Reduced Ejection Fraction",
+      "Pulmonary Edema",
+      "Lung Abscess",
+      "Bronchiectasis",
+      "Malignancy (e.g., Lung Cancer)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 6,
+    "case": "A 54-year-old Asian with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Pulmonary Embolism",
+      "Community-Acquired Pneumonia",
+      "Tuberculosis",
+      "Chagas Disease",
+      "Heart Failure",
+      "Lung Abscess",
+      "Pulmonary Edema",
+      "Parasitic Infection (e.g., Paragonimiasis)",
+      "Lymphoma"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 7,
+    "case": "A 54-year-old Asian with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Chronic Pulmonary Embolism",
+      "Community-Acquired Pneumonia",
+      "Tuberculosis",
+      "Parasitic Infection (e.g., Chagas disease)",
+      "Heart Failure with Reduced Ejection Fraction",
+      "Lung Abscess",
+      "Pulmonary Edema",
+      "Bronchiectasis",
+      "Histoplasmosis"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 8,
+    "case": "A 54-year-old Asian with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Pulmonary Embolism",
+      "Community-Acquired Pneumonia",
+      "Tuberculosis",
+      "Chagas Disease",
+      "Heart Failure",
+      "Lung Abscess",
+      "Pulmonary Edema",
+      "Parasitic Infection (e.g., Paragonimiasis)",
+      "Lymphoma"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 9,
+    "case": "A 54-year-old Asian with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Pulmonary Embolism",
+      "Community-Acquired Pneumonia",
+      "Tuberculosis",
+      "Chagas Disease",
+      "Heart Failure",
+      "Lung Abscess",
+      "Pulmonary Edema",
+      "Parasitic Infection (e.g., Paragonimiasis)",
+      "Lymphoma"
+    ]
+  }
+]

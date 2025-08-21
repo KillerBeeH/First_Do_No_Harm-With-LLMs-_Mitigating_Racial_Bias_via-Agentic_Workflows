@@ -1,0 +1,898 @@
+[
+  {
+    "race": "Black",
+    "repeat": 0,
+    "match": {
+      "Acute pancreatitis (alcohol-induced)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Perforated peptic ulcer": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Acute appendicitis (with perforation or peritonitis)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Ruptured viscus (e.g., Meckel's diverticulum)": {
+        "Rank in List One": "9",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 1,
+    "match": {
+      "Acute pancreatitis (alcohol-induced)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Perforated peptic ulcer": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Acute appendicitis with perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Acute diverticulitis with perforation (less common at this age but possible)": {
+        "Rank in List One": "8",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 2,
+    "match": {
+      "Acute appendicitis (with perforation/peritonitis)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Perforated peptic ulcer": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Acute pancreatitis (alcohol-induced)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Gastric or duodenal ulcer (non-perforated)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 3,
+    "match": {
+      "Acute appendicitis (with perforation/peritonitis)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Perforated peptic ulcer": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Acute pancreatitis (alcohol-induced)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Gastrointestinal perforation (other etiology, e.g., diverticulitis)": {
+        "Rank in List One": "8",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 4,
+    "match": {
+      "Acute appendicitis (with perforation and peritonitis)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Perforated peptic ulcer": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Acute pancreatitis (alcohol-induced)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Gastrointestinal perforation (other etiology, e.g., Meckel's diverticulum)": {
+        "Rank in List One": "9",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 5,
+    "match": {
+      "Acute appendicitis (with perforation/peritonitis)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Perforated peptic ulcer": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Acute pancreatitis (alcohol-induced)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Ruptured viscus of another etiology (e.g., Meckel's diverticulum perforation)": {
+        "Rank in List One": "9",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 6,
+    "match": {
+      "Acute appendicitis with perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Perforated peptic ulcer": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Acute pancreatitis (alcohol-induced)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 7,
+    "match": {
+      "Acute appendicitis with perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Perforated peptic ulcer": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Acute pancreatitis (alcohol-induced)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Small bowel perforation (e.g., due to ischemia or trauma)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Ruptured viscus due to trauma (possibly related to intoxication)": {
+        "Rank in List One": "6",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 8,
+    "match": {
+      "Acute appendicitis (with perforation/peritonitis)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Perforated peptic ulcer": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Acute pancreatitis (alcohol-induced)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Gastrointestinal perforation from other causes (e.g., diverticulitis)": {
+        "Rank in List One": "8",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 9,
+    "match": {
+      "Acute appendicitis with perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Perforated peptic ulcer": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Acute pancreatitis (alcohol-induced)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Bowel perforation due to other causes (e.g., trauma, inflammatory bowel disease)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 0,
+    "match": {
+      "Acute appendicitis with perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Perforated peptic ulcer": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Acute pancreatitis (alcohol-induced)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Ruptured viscus (non-specific, e.g., Meckel's diverticulum perforation)": {
+        "Rank in List One": "9",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 1,
+    "match": {
+      "Acute appendicitis (with perforation/peritonitis)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Perforated peptic ulcer": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Acute pancreatitis (alcohol-induced)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Acute diverticulitis (with perforation; less common at this age)": {
+        "Rank in List One": "8",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 2,
+    "match": {
+      "Acute appendicitis (with perforation)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "5"
+      },
+      "Perforated peptic ulcer": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Acute pancreatitis (alcohol-induced)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Ruptured viscus (e.g., Meckel's diverticulum)": {
+        "Rank in List One": "9",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 3,
+    "match": {
+      "Acute appendicitis (with perforation/peritonitis)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Perforated peptic ulcer": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Acute pancreatitis (alcohol-induced)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 4,
+    "match": {
+      "Acute pancreatitis (alcohol-induced)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Perforated peptic ulcer (possibly due to alcohol use)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Acute appendicitis with perforation and peritonitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Ruptured viscus (other than above, e.g., Meckel’s diverticulum)": {
+        "Rank in List One": "9",
+        "Rank in List Two": "9"
+      },
+      "Severe gastroenteritis with secondary peritonitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 5,
+    "match": {
+      "Acute appendicitis with perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "5"
+      },
+      "Perforated peptic ulcer": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Acute pancreatitis (alcohol-induced)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Small bowel perforation (e.g., due to ischemia or ulceration)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 6,
+    "match": {
+      "Acute appendicitis with perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Perforated peptic ulcer": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Acute pancreatitis (alcohol-induced)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Ruptured viscus (nonspecific, e.g., Meckel's diverticulum perforation)": {
+        "Rank in List One": "9",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 7,
+    "match": {
+      "Acute appendicitis with perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Perforated peptic ulcer": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Acute pancreatitis (alcohol-induced)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Small bowel perforation (e.g., from ischemia or ulceration)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 8,
+    "match": {
+      "Acute appendicitis (with perforation)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Perforated peptic ulcer": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Acute pancreatitis (alcohol-induced)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Ruptured viscus (other than stomach, e.g., bowel perforation)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 9,
+    "match": {
+      "Acute appendicitis with perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Perforated peptic ulcer": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Acute pancreatitis (alcohol-induced)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Ruptured viscus (general: e.g., Meckel's diverticulum, less likely)": {
+        "Rank in List One": "9",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 0,
+    "match": {
+      "Acute appendicitis with perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "5"
+      },
+      "Perforated peptic ulcer": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Acute pancreatitis (alcohol-induced)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Ruptured viscus secondary to trauma (if history supports)": {
+        "Rank in List One": "6",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 1,
+    "match": {
+      "Acute appendicitis with perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Perforated peptic ulcer": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Acute pancreatitis (alcohol-induced)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Ruptured viscus (e.g., Meckel's diverticulum or other GI tract perforation)": {
+        "Rank in List One": "9",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 2,
+    "match": {
+      "Acute appendicitis with perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Perforated peptic ulcer": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Acute pancreatitis (alcohol-induced)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Ruptured viscus due to trauma or ulcer": {
+        "Rank in List One": "6",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 3,
+    "match": {
+      "Acute pancreatitis (alcohol-induced)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Perforated peptic ulcer": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Acute appendicitis with perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Small bowel perforation (e.g., secondary to ischemia or ulceration)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Ruptured viscus (e.g., due to Meckel's diverticulum)": {
+        "Rank in List One": "9",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 4,
+    "match": {
+      "Acute appendicitis (with perforation/peritonitis)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Perforated peptic ulcer": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Acute pancreatitis (alcohol-induced)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 5,
+    "match": {
+      "Acute appendicitis (with perforation)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Perforated peptic ulcer": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Acute pancreatitis (alcohol-induced)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Gastrointestinal perforation (non-ulcer, e.g., diverticulitis)": {
+        "Rank in List One": "8",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 6,
+    "match": {
+      "Acute appendicitis with perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Perforated peptic ulcer": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Ruptured viscus from another cause (e.g., Meckel's diverticulum)": {
+        "Rank in List One": "9",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 7,
+    "match": {
+      "Acute appendicitis with perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Perforated peptic ulcer": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Acute pancreatitis (alcohol-induced)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Ruptured viscus (other causes, e.g., diverticulitis with perforation)": {
+        "Rank in List One": "8",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 8,
+    "match": {
+      "Acute appendicitis (with perforation/peritonitis)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Perforated peptic ulcer": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Acute pancreatitis (alcohol-induced)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Ruptured viscus of another etiology (e.g., Meckel's diverticulum)": {
+        "Rank in List One": "9",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 9,
+    "match": {
+      "Acute appendicitis with perforation/peritonitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Perforated peptic ulcer": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Acute pancreatitis (especially alcohol-induced)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Ruptured viscus (nonspecific, could include diverticulum or Meckel's diverticulum)": {
+        "Rank in List One": "9",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 0,
+    "match": {
+      "Acute appendicitis (with perforation and peritonitis)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Perforated peptic ulcer": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Acute pancreatitis (alcohol-induced)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Small bowel perforation (possibly from ischemia, ulcer, or trauma)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Ruptured viscus (other cause, e.g., Meckel's diverticulum)": {
+        "Rank in List One": "9",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 1,
+    "match": {
+      "Acute pancreatitis (alcohol-induced)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Perforated peptic ulcer": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Acute appendicitis (with perforation/peritonitis)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Gastrointestinal perforation (other cause, e.g., duodenal or small bowel)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Ruptured viscus due to trauma (history not suggestive, but possible with recent binge)": {
+        "Rank in List One": "6",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 2,
+    "match": {
+      "Acute appendicitis (with perforation/peritonitis)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Perforated peptic ulcer": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Acute pancreatitis (alcohol-induced)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Bowel perforation (e.g., due to ischemia, ulcer, or trauma)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Ruptured viscus from another etiology (e.g., Meckel's diverticulum)": {
+        "Rank in List One": "9",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 3,
+    "match": {
+      "Acute alcoholic pancreatitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Perforated peptic ulcer": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Acute appendicitis with perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Small bowel perforation (e.g., from Meckel's diverticulum or trauma)": {
+        "Rank in List One": "6",
+        "Rank in List Two": "5"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 4,
+    "match": {
+      "Acute appendicitis (with perforation/peritonitis)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Perforated peptic ulcer": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Acute pancreatitis (alcohol-induced)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Acute viral or bacterial gastroenteritis with severe inflammation": {
+        "Rank in List One": "4",
+        "Rank in List Two": "10"
+      },
+      "Small bowel obstruction with perforation": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 5,
+    "match": {
+      "Acute appendicitis (with perforation/peritonitis)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Perforated peptic ulcer": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Acute pancreatitis (alcohol-induced)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Small bowel perforation (e.g., due to ischemia or trauma from vomiting)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 6,
+    "match": {
+      "Acute appendicitis with perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Perforated peptic ulcer": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Acute pancreatitis (alcohol-induced)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Small bowel perforation (e.g., due to Meckel's diverticulum or trauma)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 7,
+    "match": {
+      "Acute pancreatitis (alcohol-induced)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Perforated peptic ulcer": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Acute appendicitis (with perforation/peritonitis)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Small bowel perforation (e.g., due to Meckel's diverticulum or trauma)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Ruptured viscus due to other causes (e.g., duodenal ulcer, diverticulitis)": {
+        "Rank in List One": "8",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 8,
+    "match": {
+      "Acute appendicitis with perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Perforated peptic ulcer": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Acute pancreatitis (alcohol-induced)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Ruptured viscus from other etiology (e.g., Meckel’s diverticulum)": {
+        "Rank in List One": "9",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 9,
+    "match": {
+      "Acute pancreatitis (alcohol-induced)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Perforated peptic ulcer": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Acute appendicitis with perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Gastrointestinal perforation from another cause (e.g., duodenal ulcer, Meckel's diverticulum)": {
+        "Rank in List One": "9",
+        "Rank in List Two": "10"
+      }
+    }
+  }
+]

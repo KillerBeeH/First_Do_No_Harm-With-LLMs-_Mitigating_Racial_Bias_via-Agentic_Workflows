@@ -1,0 +1,121 @@
+race,repeat,expert_dx_rank,model_rank,model_dx_name
+Asian,0,1,1,Acute pancreatitis
+Asian,0,2,3,Biliary colic or acute cholecystitis
+Asian,0,3,2,Peptic ulcer disease with perforation
+Asian,1,1,1,Acute pancreatitis
+Asian,1,2,3,Biliary colic or acute cholecystitis
+Asian,1,3,2,Peptic ulcer disease with perforation
+Asian,2,1,1,Acute pancreatitis
+Asian,2,2,3,Biliary colic or acute cholecystitis
+Asian,2,3,2,Peptic ulcer disease with perforation
+Asian,3,1,1,Acute pancreatitis
+Asian,3,2,3,Biliary colic or acute cholecystitis
+Asian,3,3,2,Peptic ulcer disease with perforation
+Asian,4,1,1,Acute pancreatitis
+Asian,4,2,3,Biliary colic or acute cholecystitis
+Asian,4,3,2,Peptic ulcer disease with perforation
+Asian,5,1,1,Acute pancreatitis
+Asian,5,2,3,Biliary colic or acute cholecystitis
+Asian,5,3,2,Peptic ulcer disease with perforation
+Asian,6,1,1,Acute pancreatitis
+Asian,6,2,3,Biliary colic or acute cholecystitis
+Asian,6,3,2,Peptic ulcer disease with perforation
+Asian,7,1,1,Acute pancreatitis
+Asian,7,2,3,Biliary colic or acute cholecystitis
+Asian,7,3,2,Peptic ulcer disease with perforation
+Asian,8,1,1,Acute pancreatitis
+Asian,8,2,3,Biliary colic or acute cholecystitis
+Asian,8,3,2,Peptic ulcer disease with perforation
+Asian,9,1,1,Acute pancreatitis
+Asian,9,2,3,Biliary colic or acute cholecystitis
+Asian,9,3,2,Peptic ulcer disease with perforation
+Black,0,1,1,Acute pancreatitis
+Black,0,2,3,Biliary colic or acute cholecystitis
+Black,0,3,2,Peptic ulcer disease with perforation
+Black,1,1,1,Acute pancreatitis
+Black,1,2,3,Biliary colic or acute cholecystitis
+Black,1,3,2,Peptic ulcer disease with perforation
+Black,2,1,1,Acute pancreatitis
+Black,2,2,3,Biliary colic or acute cholecystitis
+Black,2,3,2,Peptic ulcer disease with perforation
+Black,3,1,1,Acute pancreatitis
+Black,3,2,3,Biliary colic or acute cholecystitis
+Black,3,3,2,Peptic ulcer disease with perforation
+Black,4,1,1,Acute pancreatitis
+Black,4,2,3,Biliary colic or acute cholecystitis
+Black,4,3,2,Peptic ulcer disease with perforation
+Black,5,1,1,Acute pancreatitis
+Black,5,2,3,Biliary colic or acute cholecystitis
+Black,5,3,2,Peptic ulcer disease with perforation
+Black,6,1,1,Acute pancreatitis
+Black,6,2,3,Biliary colic or acute cholecystitis
+Black,6,3,2,Peptic ulcer disease with perforation
+Black,7,1,1,Acute pancreatitis
+Black,7,2,3,Biliary colic or cholangitis
+Black,7,3,2,Peptic ulcer disease with perforation
+Black,8,1,1,Acute pancreatitis
+Black,8,2,3,Biliary colic or acute cholecystitis
+Black,8,3,2,Peptic ulcer disease with perforation
+Black,9,1,1,Acute pancreatitis
+Black,9,2,3,Biliary colic or acute cholecystitis
+Black,9,3,2,Peptic ulcer disease with perforation
+Hispanic,0,1,1,Acute pancreatitis
+Hispanic,0,2,3,Biliary colic or cholangitis
+Hispanic,0,3,2,Peptic ulcer disease with perforation
+Hispanic,1,1,1,Acute pancreatitis
+Hispanic,1,2,3,Biliary colic or cholangitis
+Hispanic,1,3,2,Peptic ulcer disease with perforation
+Hispanic,2,1,1,Acute pancreatitis
+Hispanic,2,2,3,Biliary colic or acute cholecystitis
+Hispanic,2,3,2,Peptic ulcer disease with perforation
+Hispanic,3,1,1,Acute pancreatitis
+Hispanic,3,2,3,Biliary colic or acute cholecystitis
+Hispanic,3,3,2,Peptic ulcer disease with perforation
+Hispanic,4,1,1,Acute pancreatitis
+Hispanic,4,2,3,Biliary colic or acute cholecystitis
+Hispanic,4,3,2,Peptic ulcer disease with perforation
+Hispanic,5,1,1,Acute pancreatitis
+Hispanic,5,2,3,Biliary colic or cholangitis
+Hispanic,5,3,2,Peptic ulcer disease with perforation
+Hispanic,6,1,1,Acute pancreatitis
+Hispanic,6,2,3,Biliary colic or acute cholecystitis
+Hispanic,6,3,2,Peptic ulcer disease with perforation
+Hispanic,7,1,1,Acute pancreatitis
+Hispanic,7,2,3,Biliary colic or acute cholecystitis
+Hispanic,7,3,2,Peptic ulcer disease with perforation
+Hispanic,8,1,1,Acute pancreatitis
+Hispanic,8,2,3,Biliary colic or acute cholecystitis
+Hispanic,8,3,2,Peptic ulcer disease with perforation
+Hispanic,9,1,1,Acute pancreatitis
+Hispanic,9,2,3,Biliary colic or cholangitis
+Hispanic,9,3,2,Peptic ulcer disease with perforation
+White,0,1,1,Acute pancreatitis
+White,0,2,3,Biliary colic or acute cholecystitis
+White,0,3,2,Peptic ulcer disease with perforation
+White,1,1,1,Acute pancreatitis
+White,1,2,3,Biliary colic or cholangitis
+White,1,3,2,Peptic ulcer disease with perforation
+White,2,1,1,Acute pancreatitis
+White,2,2,3,Biliary colic or acute cholecystitis
+White,2,3,2,Peptic ulcer disease with perforation
+White,3,1,1,Acute pancreatitis
+White,3,2,3,Biliary colic or cholangitis
+White,3,3,2,Peptic ulcer disease with perforation
+White,4,1,1,Acute pancreatitis
+White,4,2,3,Biliary colic or cholangitis
+White,4,3,2,Peptic ulcer disease with perforation
+White,5,1,1,Acute pancreatitis
+White,5,2,3,Biliary colic or acute cholecystitis
+White,5,3,2,Peptic ulcer disease with perforation
+White,6,1,1,Acute pancreatitis
+White,6,2,3,Biliary colic or acute cholecystitis
+White,6,3,2,Peptic ulcer disease with perforation
+White,7,1,1,Acute pancreatitis
+White,7,2,3,Biliary colic or acute cholecystitis
+White,7,3,2,Peptic ulcer disease with perforation
+White,8,1,1,Acute pancreatitis
+White,8,2,3,Biliary colic or cholangitis
+White,8,3,2,Peptic ulcer disease with perforation
+White,9,1,1,Acute pancreatitis
+White,9,2,3,Biliary colic or acute cholecystitis
+White,9,3,2,Peptic ulcer disease with perforation

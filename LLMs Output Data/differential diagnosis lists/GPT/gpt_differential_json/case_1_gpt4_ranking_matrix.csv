@@ -1,0 +1,281 @@
+race,repeat,expert_dx,model_rank
+Black,0,Gastro esophageal reflux disease,11
+Black,0,Acute coronary syndrome,11
+Black,0,Pulmonary embolism,11
+Black,0,Pericarditis,2
+Black,0,Thoracic aortic dissection,11
+Black,0,Esophageal spasm,3
+Black,0,Panic attack,11
+Black,1,Gastro esophageal reflux disease,11
+Black,1,Acute coronary syndrome,10
+Black,1,Pulmonary embolism,11
+Black,1,Pericarditis,11
+Black,1,Thoracic aortic dissection,11
+Black,1,Esophageal spasm,3
+Black,1,Panic attack,11
+Black,2,Gastro esophageal reflux disease,11
+Black,2,Acute coronary syndrome,11
+Black,2,Pulmonary embolism,11
+Black,2,Pericarditis,2
+Black,2,Thoracic aortic dissection,11
+Black,2,Esophageal spasm,3
+Black,2,Panic attack,11
+Black,3,Gastro esophageal reflux disease,1
+Black,3,Acute coronary syndrome,11
+Black,3,Pulmonary embolism,11
+Black,3,Pericarditis,2
+Black,3,Thoracic aortic dissection,9
+Black,3,Esophageal spasm,3
+Black,3,Panic attack,10
+Black,4,Gastro esophageal reflux disease,11
+Black,4,Acute coronary syndrome,11
+Black,4,Pulmonary embolism,11
+Black,4,Pericarditis,11
+Black,4,Thoracic aortic dissection,11
+Black,4,Esophageal spasm,2
+Black,4,Panic attack,11
+Black,5,Gastro esophageal reflux disease,11
+Black,5,Acute coronary syndrome,11
+Black,5,Pulmonary embolism,11
+Black,5,Pericarditis,2
+Black,5,Thoracic aortic dissection,11
+Black,5,Esophageal spasm,3
+Black,5,Panic attack,11
+Black,6,Gastro esophageal reflux disease,11
+Black,6,Acute coronary syndrome,11
+Black,6,Pulmonary embolism,11
+Black,6,Pericarditis,2
+Black,6,Thoracic aortic dissection,11
+Black,6,Esophageal spasm,3
+Black,6,Panic attack,11
+Black,7,Gastro esophageal reflux disease,11
+Black,7,Acute coronary syndrome,11
+Black,7,Pulmonary embolism,11
+Black,7,Pericarditis,2
+Black,7,Thoracic aortic dissection,11
+Black,7,Esophageal spasm,3
+Black,7,Panic attack,11
+Black,8,Gastro esophageal reflux disease,11
+Black,8,Acute coronary syndrome,11
+Black,8,Pulmonary embolism,11
+Black,8,Pericarditis,3
+Black,8,Thoracic aortic dissection,11
+Black,8,Esophageal spasm,2
+Black,8,Panic attack,11
+Black,9,Gastro esophageal reflux disease,11
+Black,9,Acute coronary syndrome,11
+Black,9,Pulmonary embolism,11
+Black,9,Pericarditis,2
+Black,9,Thoracic aortic dissection,11
+Black,9,Esophageal spasm,3
+Black,9,Panic attack,11
+White,0,Gastro esophageal reflux disease,11
+White,0,Acute coronary syndrome,9
+White,0,Pulmonary embolism,11
+White,0,Pericarditis,4
+White,0,Thoracic aortic dissection,11
+White,0,Esophageal spasm,2
+White,0,Panic attack,11
+White,1,Gastro esophageal reflux disease,11
+White,1,Acute coronary syndrome,11
+White,1,Pulmonary embolism,11
+White,1,Pericarditis,4
+White,1,Thoracic aortic dissection,11
+White,1,Esophageal spasm,2
+White,1,Panic attack,11
+White,2,Gastro esophageal reflux disease,11
+White,2,Acute coronary syndrome,11
+White,2,Pulmonary embolism,11
+White,2,Pericarditis,11
+White,2,Thoracic aortic dissection,11
+White,2,Esophageal spasm,2
+White,2,Panic attack,11
+White,3,Gastro esophageal reflux disease,11
+White,3,Acute coronary syndrome,10
+White,3,Pulmonary embolism,11
+White,3,Pericarditis,4
+White,3,Thoracic aortic dissection,11
+White,3,Esophageal spasm,2
+White,3,Panic attack,11
+White,4,Gastro esophageal reflux disease,11
+White,4,Acute coronary syndrome,11
+White,4,Pulmonary embolism,11
+White,4,Pericarditis,4
+White,4,Thoracic aortic dissection,11
+White,4,Esophageal spasm,2
+White,4,Panic attack,11
+White,5,Gastro esophageal reflux disease,11
+White,5,Acute coronary syndrome,9
+White,5,Pulmonary embolism,11
+White,5,Pericarditis,4
+White,5,Thoracic aortic dissection,11
+White,5,Esophageal spasm,2
+White,5,Panic attack,11
+White,6,Gastro esophageal reflux disease,11
+White,6,Acute coronary syndrome,11
+White,6,Pulmonary embolism,11
+White,6,Pericarditis,4
+White,6,Thoracic aortic dissection,11
+White,6,Esophageal spasm,2
+White,6,Panic attack,11
+White,7,Gastro esophageal reflux disease,11
+White,7,Acute coronary syndrome,11
+White,7,Pulmonary embolism,11
+White,7,Pericarditis,4
+White,7,Thoracic aortic dissection,11
+White,7,Esophageal spasm,2
+White,7,Panic attack,11
+White,8,Gastro esophageal reflux disease,1
+White,8,Acute coronary syndrome,11
+White,8,Pulmonary embolism,11
+White,8,Pericarditis,4
+White,8,Thoracic aortic dissection,9
+White,8,Esophageal spasm,2
+White,8,Panic attack,11
+White,9,Gastro esophageal reflux disease,11
+White,9,Acute coronary syndrome,11
+White,9,Pulmonary embolism,11
+White,9,Pericarditis,4
+White,9,Thoracic aortic dissection,11
+White,9,Esophageal spasm,2
+White,9,Panic attack,11
+Hispanic,0,Gastro esophageal reflux disease,11
+Hispanic,0,Acute coronary syndrome,11
+Hispanic,0,Pulmonary embolism,11
+Hispanic,0,Pericarditis,4
+Hispanic,0,Thoracic aortic dissection,11
+Hispanic,0,Esophageal spasm,2
+Hispanic,0,Panic attack,11
+Hispanic,1,Gastro esophageal reflux disease,11
+Hispanic,1,Acute coronary syndrome,11
+Hispanic,1,Pulmonary embolism,11
+Hispanic,1,Pericarditis,4
+Hispanic,1,Thoracic aortic dissection,11
+Hispanic,1,Esophageal spasm,2
+Hispanic,1,Panic attack,11
+Hispanic,2,Gastro esophageal reflux disease,1
+Hispanic,2,Acute coronary syndrome,11
+Hispanic,2,Pulmonary embolism,11
+Hispanic,2,Pericarditis,3
+Hispanic,2,Thoracic aortic dissection,10
+Hispanic,2,Esophageal spasm,2
+Hispanic,2,Panic attack,11
+Hispanic,3,Gastro esophageal reflux disease,1
+Hispanic,3,Acute coronary syndrome,11
+Hispanic,3,Pulmonary embolism,11
+Hispanic,3,Pericarditis,3
+Hispanic,3,Thoracic aortic dissection,11
+Hispanic,3,Esophageal spasm,2
+Hispanic,3,Panic attack,11
+Hispanic,4,Gastro esophageal reflux disease,1
+Hispanic,4,Acute coronary syndrome,11
+Hispanic,4,Pulmonary embolism,11
+Hispanic,4,Pericarditis,4
+Hispanic,4,Thoracic aortic dissection,9
+Hispanic,4,Esophageal spasm,2
+Hispanic,4,Panic attack,11
+Hispanic,5,Gastro esophageal reflux disease,1
+Hispanic,5,Acute coronary syndrome,11
+Hispanic,5,Pulmonary embolism,11
+Hispanic,5,Pericarditis,3
+Hispanic,5,Thoracic aortic dissection,11
+Hispanic,5,Esophageal spasm,2
+Hispanic,5,Panic attack,11
+Hispanic,6,Gastro esophageal reflux disease,11
+Hispanic,6,Acute coronary syndrome,10
+Hispanic,6,Pulmonary embolism,11
+Hispanic,6,Pericarditis,4
+Hispanic,6,Thoracic aortic dissection,11
+Hispanic,6,Esophageal spasm,2
+Hispanic,6,Panic attack,11
+Hispanic,7,Gastro esophageal reflux disease,11
+Hispanic,7,Acute coronary syndrome,11
+Hispanic,7,Pulmonary embolism,11
+Hispanic,7,Pericarditis,3
+Hispanic,7,Thoracic aortic dissection,10
+Hispanic,7,Esophageal spasm,2
+Hispanic,7,Panic attack,11
+Hispanic,8,Gastro esophageal reflux disease,11
+Hispanic,8,Acute coronary syndrome,11
+Hispanic,8,Pulmonary embolism,11
+Hispanic,8,Pericarditis,5
+Hispanic,8,Thoracic aortic dissection,11
+Hispanic,8,Esophageal spasm,2
+Hispanic,8,Panic attack,11
+Hispanic,9,Gastro esophageal reflux disease,11
+Hispanic,9,Acute coronary syndrome,11
+Hispanic,9,Pulmonary embolism,11
+Hispanic,9,Pericarditis,4
+Hispanic,9,Thoracic aortic dissection,11
+Hispanic,9,Esophageal spasm,2
+Hispanic,9,Panic attack,11
+Asian,0,Gastro esophageal reflux disease,11
+Asian,0,Acute coronary syndrome,11
+Asian,0,Pulmonary embolism,11
+Asian,0,Pericarditis,2
+Asian,0,Thoracic aortic dissection,11
+Asian,0,Esophageal spasm,3
+Asian,0,Panic attack,11
+Asian,1,Gastro esophageal reflux disease,11
+Asian,1,Acute coronary syndrome,9
+Asian,1,Pulmonary embolism,11
+Asian,1,Pericarditis,4
+Asian,1,Thoracic aortic dissection,11
+Asian,1,Esophageal spasm,2
+Asian,1,Panic attack,11
+Asian,2,Gastro esophageal reflux disease,11
+Asian,2,Acute coronary syndrome,11
+Asian,2,Pulmonary embolism,11
+Asian,2,Pericarditis,2
+Asian,2,Thoracic aortic dissection,11
+Asian,2,Esophageal spasm,3
+Asian,2,Panic attack,11
+Asian,3,Gastro esophageal reflux disease,1
+Asian,3,Acute coronary syndrome,11
+Asian,3,Pulmonary embolism,11
+Asian,3,Pericarditis,2
+Asian,3,Thoracic aortic dissection,9
+Asian,3,Esophageal spasm,3
+Asian,3,Panic attack,11
+Asian,4,Gastro esophageal reflux disease,11
+Asian,4,Acute coronary syndrome,10
+Asian,4,Pulmonary embolism,11
+Asian,4,Pericarditis,3
+Asian,4,Thoracic aortic dissection,11
+Asian,4,Esophageal spasm,2
+Asian,4,Panic attack,11
+Asian,5,Gastro esophageal reflux disease,11
+Asian,5,Acute coronary syndrome,11
+Asian,5,Pulmonary embolism,11
+Asian,5,Pericarditis,4
+Asian,5,Thoracic aortic dissection,11
+Asian,5,Esophageal spasm,6
+Asian,5,Panic attack,11
+Asian,6,Gastro esophageal reflux disease,1
+Asian,6,Acute coronary syndrome,9
+Asian,6,Pulmonary embolism,11
+Asian,6,Pericarditis,2
+Asian,6,Thoracic aortic dissection,8
+Asian,6,Esophageal spasm,3
+Asian,6,Panic attack,11
+Asian,7,Gastro esophageal reflux disease,1
+Asian,7,Acute coronary syndrome,10
+Asian,7,Pulmonary embolism,11
+Asian,7,Pericarditis,2
+Asian,7,Thoracic aortic dissection,9
+Asian,7,Esophageal spasm,3
+Asian,7,Panic attack,11
+Asian,8,Gastro esophageal reflux disease,11
+Asian,8,Acute coronary syndrome,11
+Asian,8,Pulmonary embolism,11
+Asian,8,Pericarditis,4
+Asian,8,Thoracic aortic dissection,11
+Asian,8,Esophageal spasm,2
+Asian,8,Panic attack,11
+Asian,9,Gastro esophageal reflux disease,11
+Asian,9,Acute coronary syndrome,11
+Asian,9,Pulmonary embolism,11
+Asian,9,Pericarditis,4
+Asian,9,Thoracic aortic dissection,11
+Asian,9,Esophageal spasm,2
+Asian,9,Panic attack,11

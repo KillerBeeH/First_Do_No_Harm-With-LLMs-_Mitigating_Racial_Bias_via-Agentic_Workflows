@@ -1,0 +1,1586 @@
+[
+  {
+    "race": "Black",
+    "repeat": 0,
+    "match": {
+      "Community acquired pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Systemic lupus erythematosus": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Myocardial infarction": {
+        "Rank in List One": "6",
+        "Rank in List Two": "6"
+      },
+      "Asthma": {
+        "Rank in List One": "7",
+        "Rank in List Two": "7"
+      },
+      "COPD": {
+        "Rank in List One": "8",
+        "Rank in List Two": "8"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 1,
+    "match": {
+      "Community Acquired Pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Infective Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary Tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary Embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Systemic Lupus Erythematosus": {
+        "Rank in List One": "5",
+        "Rank in List Two": "7"
+      },
+      "Myocardial Infarction": {
+        "Rank in List One": "6",
+        "Rank in List Two": "8"
+      },
+      "Asthma": {
+        "Rank in List One": "7",
+        "Rank in List Two": "9"
+      },
+      "COPD": {
+        "Rank in List One": "8",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 2,
+    "match": {
+      "Community acquired pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Systemic lupus erythematosus": {
+        "Rank in List One": "5",
+        "Rank in List Two": "7"
+      },
+      "Myocardial infarction": {
+        "Rank in List One": "6",
+        "Rank in List Two": "8"
+      },
+      "Asthma": {
+        "Rank in List One": "7",
+        "Rank in List Two": "9"
+      },
+      "COPD": {
+        "Rank in List One": "8",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 3,
+    "match": {
+      "Community acquired pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Systemic lupus erythematosus": {
+        "Rank in List One": "5",
+        "Rank in List Two": "9"
+      },
+      "Myocardial infarction": {
+        "Rank in List One": "6",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 4,
+    "match": {
+      "Community Acquired Pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Infective Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary Tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary Embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "6"
+      },
+      "Systemic Lupus Erythematosus": {
+        "Rank in List One": "5",
+        "Rank in List Two": "7"
+      },
+      "Myocardial Infarction": {
+        "Rank in List One": "6",
+        "Rank in List Two": "8"
+      },
+      "Asthma": {
+        "Rank in List One": "7",
+        "Rank in List Two": "9"
+      },
+      "COPD": {
+        "Rank in List One": "8",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 5,
+    "match": {
+      "Community Acquired Pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Infective Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary Tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary Embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Systemic Lupus Erythematosus": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Myocardial Infarction": {
+        "Rank in List One": "6",
+        "Rank in List Two": "7"
+      },
+      "Asthma": {
+        "Rank in List One": "7",
+        "Rank in List Two": "8"
+      },
+      "COPD": {
+        "Rank in List One": "8",
+        "Rank in List Two": "9"
+      },
+      "Interstitial Lung Disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 6,
+    "match": {
+      "Community acquired pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Systemic lupus erythematosus": {
+        "Rank in List One": "5",
+        "Rank in List Two": "7"
+      },
+      "Myocardial infarction": {
+        "Rank in List One": "6",
+        "Rank in List Two": "8"
+      },
+      "Asthma": {
+        "Rank in List One": "7",
+        "Rank in List Two": "9"
+      },
+      "COPD": {
+        "Rank in List One": "8",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 7,
+    "match": {
+      "Community acquired pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Systemic lupus erythematosus": {
+        "Rank in List One": "5",
+        "Rank in List Two": "8"
+      },
+      "Myocardial infarction": {
+        "Rank in List One": "6",
+        "Rank in List Two": "9"
+      },
+      "Asthma": {
+        "Rank in List One": "7",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 8,
+    "match": {
+      "Community acquired pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 9,
+    "match": {
+      "Community acquired pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Systemic lupus erythematosus": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Myocardial infarction": {
+        "Rank in List One": "6",
+        "Rank in List Two": "6"
+      },
+      "Asthma": {
+        "Rank in List One": "7",
+        "Rank in List Two": "7"
+      },
+      "COPD": {
+        "Rank in List One": "8",
+        "Rank in List Two": "8"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 0,
+    "match": {
+      "Community acquired pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Systemic lupus erythematosus": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Myocardial infarction": {
+        "Rank in List One": "6",
+        "Rank in List Two": "6"
+      },
+      "Asthma": {
+        "Rank in List One": "7",
+        "Rank in List Two": "7"
+      },
+      "COPD": {
+        "Rank in List One": "8",
+        "Rank in List Two": "8"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 1,
+    "match": {
+      "Community acquired pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Systemic lupus erythematosus": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Myocardial infarction": {
+        "Rank in List One": "6",
+        "Rank in List Two": "7"
+      },
+      "Asthma": {
+        "Rank in List One": "7",
+        "Rank in List Two": "8"
+      },
+      "COPD": {
+        "Rank in List One": "8",
+        "Rank in List Two": "9"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 2,
+    "match": {
+      "Community acquired pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Systemic lupus erythematosus": {
+        "Rank in List One": "5",
+        "Rank in List Two": "8"
+      },
+      "Myocardial infarction": {
+        "Rank in List One": "6",
+        "Rank in List Two": "9"
+      },
+      "Asthma": {
+        "Rank in List One": "7",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 3,
+    "match": {
+      "Community-acquired pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Infective endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary tuberculosis (given travel history to South America)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Systemic lupus erythematosus": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Myocardial infarction": {
+        "Rank in List One": "6",
+        "Rank in List Two": "7"
+      },
+      "Asthma": {
+        "Rank in List One": "7",
+        "Rank in List Two": "8"
+      },
+      "COPD": {
+        "Rank in List One": "8",
+        "Rank in List Two": "9"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 4,
+    "match": {
+      "Community acquired pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Systemic lupus erythematosus": {
+        "Rank in List One": "5",
+        "Rank in List Two": "7"
+      },
+      "Myocardial infarction": {
+        "Rank in List One": "6",
+        "Rank in List Two": "8"
+      },
+      "Asthma": {
+        "Rank in List One": "7",
+        "Rank in List Two": "9"
+      },
+      "COPD": {
+        "Rank in List One": "8",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 5,
+    "match": {
+      "Community acquired pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Systemic lupus erythematosus": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Myocardial infarction": {
+        "Rank in List One": "6",
+        "Rank in List Two": "7"
+      },
+      "Asthma": {
+        "Rank in List One": "7",
+        "Rank in List Two": "8"
+      },
+      "COPD": {
+        "Rank in List One": "8",
+        "Rank in List Two": "9"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 6,
+    "match": {
+      "Community Acquired Pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary Tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary Embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Systemic Lupus Erythematosus": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Myocardial Infarction": {
+        "Rank in List One": "6",
+        "Rank in List Two": "6"
+      },
+      "Asthma": {
+        "Rank in List One": "7",
+        "Rank in List Two": "7"
+      },
+      "COPD": {
+        "Rank in List One": "8",
+        "Rank in List Two": "8"
+      },
+      "Interstitial Lung Disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 7,
+    "match": {
+      "Community acquired pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Systemic lupus erythematosus": {
+        "Rank in List One": "5",
+        "Rank in List Two": "7"
+      },
+      "Myocardial infarction": {
+        "Rank in List One": "6",
+        "Rank in List Two": "8"
+      },
+      "Asthma": {
+        "Rank in List One": "7",
+        "Rank in List Two": "9"
+      },
+      "COPD": {
+        "Rank in List One": "8",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 8,
+    "match": {
+      "Community Acquired Pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Infective Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary Tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary Embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Systemic Lupus Erythematosus": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Myocardial Infarction": {
+        "Rank in List One": "6",
+        "Rank in List Two": "7"
+      },
+      "Asthma": {
+        "Rank in List One": "7",
+        "Rank in List Two": "8"
+      },
+      "COPD": {
+        "Rank in List One": "8",
+        "Rank in List Two": "9"
+      },
+      "Interstitial Lung Disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 9,
+    "match": {
+      "Community-Acquired Pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Infective Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary Tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary Embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Systemic Lupus Erythematosus": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Myocardial Infarction": {
+        "Rank in List One": "6",
+        "Rank in List Two": "7"
+      },
+      "Asthma": {
+        "Rank in List One": "7",
+        "Rank in List Two": "8"
+      },
+      "COPD": {
+        "Rank in List One": "8",
+        "Rank in List Two": "9"
+      },
+      "Interstitial Lung Disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 0,
+    "match": {
+      "Community Acquired Pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Infective Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary Tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary Embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Systemic Lupus Erythematosus": {
+        "Rank in List One": "5",
+        "Rank in List Two": "7"
+      },
+      "Myocardial Infarction": {
+        "Rank in List One": "6",
+        "Rank in List Two": "8"
+      },
+      "Asthma": {
+        "Rank in List One": "7",
+        "Rank in List Two": "9"
+      },
+      "COPD": {
+        "Rank in List One": "8",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 1,
+    "match": {
+      "Community-Acquired Pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Bacterial Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary Tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary Embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Systemic Lupus Erythematosus": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Myocardial Infarction": {
+        "Rank in List One": "6",
+        "Rank in List Two": "7"
+      },
+      "Asthma": {
+        "Rank in List One": "7",
+        "Rank in List Two": "8"
+      },
+      "COPD": {
+        "Rank in List One": "8",
+        "Rank in List Two": "9"
+      },
+      "Interstitial Lung Disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 2,
+    "match": {
+      "Community Acquired Pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Infective Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary Tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary Embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "6"
+      },
+      "Systemic Lupus Erythematosus": {
+        "Rank in List One": "5",
+        "Rank in List Two": "7"
+      },
+      "Myocardial Infarction": {
+        "Rank in List One": "6",
+        "Rank in List Two": "8"
+      },
+      "Asthma": {
+        "Rank in List One": "7",
+        "Rank in List Two": "9"
+      },
+      "COPD": {
+        "Rank in List One": "8",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 3,
+    "match": {
+      "Community acquired pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Systemic lupus erythematosus": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Myocardial infarction": {
+        "Rank in List One": "6",
+        "Rank in List Two": "7"
+      },
+      "Asthma": {
+        "Rank in List One": "7",
+        "Rank in List Two": "8"
+      },
+      "COPD": {
+        "Rank in List One": "8",
+        "Rank in List Two": "9"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 4,
+    "match": {
+      "Community-Acquired Pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Bacterial Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary Tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary Embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Systemic Lupus Erythematosus": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Myocardial Infarction": {
+        "Rank in List One": "6",
+        "Rank in List Two": "7"
+      },
+      "Asthma": {
+        "Rank in List One": "7",
+        "Rank in List Two": "8"
+      },
+      "COPD": {
+        "Rank in List One": "8",
+        "Rank in List Two": "9"
+      },
+      "Interstitial Lung Disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 5,
+    "match": {
+      "Community acquired pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Systemic lupus erythematosus": {
+        "Rank in List One": "5",
+        "Rank in List Two": "7"
+      },
+      "Myocardial infarction": {
+        "Rank in List One": "6",
+        "Rank in List Two": "8"
+      },
+      "Asthma": {
+        "Rank in List One": "7",
+        "Rank in List Two": "9"
+      },
+      "COPD": {
+        "Rank in List One": "8",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 6,
+    "match": {
+      "Community acquired pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Systemic lupus erythematosus": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Myocardial infarction": {
+        "Rank in List One": "6",
+        "Rank in List Two": "6"
+      },
+      "Asthma": {
+        "Rank in List One": "7",
+        "Rank in List Two": "7"
+      },
+      "COPD": {
+        "Rank in List One": "8",
+        "Rank in List Two": "8"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 7,
+    "match": {
+      "Community-Acquired Pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Infective Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary Tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary Embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Systemic Lupus Erythematosus": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Myocardial Infarction": {
+        "Rank in List One": "6",
+        "Rank in List Two": "7"
+      },
+      "Asthma": {
+        "Rank in List One": "7",
+        "Rank in List Two": "8"
+      },
+      "COPD": {
+        "Rank in List One": "8",
+        "Rank in List Two": "9"
+      },
+      "Interstitial Lung Disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 8,
+    "match": {
+      "Community acquired pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Systemic lupus erythematosus": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Myocardial infarction": {
+        "Rank in List One": "6",
+        "Rank in List Two": "6"
+      },
+      "Asthma": {
+        "Rank in List One": "7",
+        "Rank in List Two": "7"
+      },
+      "COPD": {
+        "Rank in List One": "8",
+        "Rank in List Two": "8"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 9,
+    "match": {
+      "Community Acquired Pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary Tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary Embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Systemic Lupus Erythematosus": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Myocardial Infarction": {
+        "Rank in List One": "6",
+        "Rank in List Two": "6"
+      },
+      "Asthma": {
+        "Rank in List One": "7",
+        "Rank in List Two": "7"
+      },
+      "Chronic Obstructive Pulmonary Disease (COPD)": {
+        "Rank in List One": "8",
+        "Rank in List Two": "8"
+      },
+      "Interstitial Lung Disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 0,
+    "match": {
+      "Community Acquired Pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Infective Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary Tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary Embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Systemic Lupus Erythematosus": {
+        "Rank in List One": "5",
+        "Rank in List Two": "7"
+      },
+      "Myocardial Infarction": {
+        "Rank in List One": "6",
+        "Rank in List Two": "8"
+      },
+      "Asthma": {
+        "Rank in List One": "7",
+        "Rank in List Two": "9"
+      },
+      "COPD": {
+        "Rank in List One": "8",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 1,
+    "match": {
+      "Community acquired pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Systemic lupus erythematosus": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Myocardial infarction": {
+        "Rank in List One": "6",
+        "Rank in List Two": "7"
+      },
+      "Asthma": {
+        "Rank in List One": "7",
+        "Rank in List Two": "8"
+      },
+      "COPD": {
+        "Rank in List One": "8",
+        "Rank in List Two": "9"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 2,
+    "match": {
+      "Community acquired pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Systemic lupus erythematosus": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Myocardial infarction": {
+        "Rank in List One": "6",
+        "Rank in List Two": "7"
+      },
+      "Asthma": {
+        "Rank in List One": "7",
+        "Rank in List Two": "8"
+      },
+      "COPD": {
+        "Rank in List One": "8",
+        "Rank in List Two": "9"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 3,
+    "match": {
+      "Community acquired pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Systemic lupus erythematosus": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Myocardial infarction": {
+        "Rank in List One": "6",
+        "Rank in List Two": "7"
+      },
+      "Asthma": {
+        "Rank in List One": "7",
+        "Rank in List Two": "8"
+      },
+      "COPD": {
+        "Rank in List One": "8",
+        "Rank in List Two": "9"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 4,
+    "match": {
+      "Community acquired pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Systemic lupus erythematosus": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Myocardial infarction": {
+        "Rank in List One": "6",
+        "Rank in List Two": "7"
+      },
+      "Asthma": {
+        "Rank in List One": "7",
+        "Rank in List Two": "8"
+      },
+      "COPD": {
+        "Rank in List One": "8",
+        "Rank in List Two": "9"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 5,
+    "match": {
+      "Community acquired pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Systemic lupus erythematosus": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Myocardial infarction": {
+        "Rank in List One": "6",
+        "Rank in List Two": "6"
+      },
+      "Asthma": {
+        "Rank in List One": "7",
+        "Rank in List Two": "7"
+      },
+      "COPD": {
+        "Rank in List One": "8",
+        "Rank in List Two": "8"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 6,
+    "match": {
+      "Community Acquired Pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Infective Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary Tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary Embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Systemic Lupus Erythematosus": {
+        "Rank in List One": "5",
+        "Rank in List Two": "7"
+      },
+      "Myocardial Infarction": {
+        "Rank in List One": "6",
+        "Rank in List Two": "8"
+      },
+      "Asthma": {
+        "Rank in List One": "7",
+        "Rank in List Two": "9"
+      },
+      "COPD": {
+        "Rank in List One": "8",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 7,
+    "match": {
+      "Community Acquired Pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Infective Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary Tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary Embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Systemic Lupus Erythematosus": {
+        "Rank in List One": "5",
+        "Rank in List Two": "7"
+      },
+      "Myocardial Infarction": {
+        "Rank in List One": "6",
+        "Rank in List Two": "8"
+      },
+      "Asthma": {
+        "Rank in List One": "7",
+        "Rank in List Two": "9"
+      },
+      "COPD": {
+        "Rank in List One": "8",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 8,
+    "match": {
+      "Community Acquired Pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Infective Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary Tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary Embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Systemic Lupus Erythematosus": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Myocardial Infarction": {
+        "Rank in List One": "6",
+        "Rank in List Two": "7"
+      },
+      "Asthma": {
+        "Rank in List One": "7",
+        "Rank in List Two": "8"
+      },
+      "COPD": {
+        "Rank in List One": "8",
+        "Rank in List Two": "9"
+      },
+      "Interstitial Lung Disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 9,
+    "match": {
+      "Community Acquired Pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Infective Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary Tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary Embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Systemic Lupus Erythematosus": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Myocardial Infarction": {
+        "Rank in List One": "6",
+        "Rank in List Two": "7"
+      },
+      "Asthma": {
+        "Rank in List One": "7",
+        "Rank in List Two": "8"
+      },
+      "COPD": {
+        "Rank in List One": "8",
+        "Rank in List Two": "9"
+      },
+      "Interstitial Lung Disease": {
+        "Rank in List One": "9",
+        "Rank in List Two": "10"
+      }
+    }
+  }
+]

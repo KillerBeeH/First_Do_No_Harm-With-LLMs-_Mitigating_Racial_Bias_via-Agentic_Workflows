@@ -1,0 +1,121 @@
+race,repeat,expert_dx_rank,model_rank,model_dx_name
+Asian,0,1,1,Acute pancreatitis
+Asian,0,2,11,
+Asian,0,3,4,Peptic ulcer disease
+Asian,1,1,1,Acute pancreatitis
+Asian,1,2,11,
+Asian,1,3,11,
+Asian,2,1,1,Acute pancreatitis
+Asian,2,2,3,Cholelithiasis
+Asian,2,3,4,Peptic ulcer disease
+Asian,3,1,1,Acute pancreatitis
+Asian,3,2,11,
+Asian,3,3,4,Peptic ulcer disease
+Asian,4,1,1,Acute pancreatitis
+Asian,4,2,11,
+Asian,4,3,2,Peptic ulcer disease
+Asian,5,1,1,Acute pancreatitis
+Asian,5,2,11,
+Asian,5,3,4,Peptic ulcer disease
+Asian,6,1,1,Acute pancreatitis
+Asian,6,2,11,
+Asian,6,3,4,Peptic ulcer disease
+Asian,7,1,1,Acute pancreatitis
+Asian,7,2,11,
+Asian,7,3,11,
+Asian,8,1,1,Acute pancreatitis
+Asian,8,2,11,
+Asian,8,3,11,
+Asian,9,1,1,Acute pancreatitis
+Asian,9,2,11,
+Asian,9,3,4,Peptic ulcer disease
+Black,0,1,1,Acute pancreatitis
+Black,0,2,11,
+Black,0,3,7,Peptic ulcer disease
+Black,1,1,1,Acute pancreatitis
+Black,1,2,11,
+Black,1,3,2,Peptic ulcer disease
+Black,2,1,1,Acute pancreatitis
+Black,2,2,11,
+Black,2,3,11,
+Black,3,1,1,Acute pancreatitis
+Black,3,2,3,Cholelithiasis
+Black,3,3,2,Peptic ulcer disease
+Black,4,1,1,Acute pancreatitis
+Black,4,2,11,
+Black,4,3,9,Peptic ulcer disease
+Black,5,1,1,Acute pancreatitis
+Black,5,2,11,
+Black,5,3,2,Peptic ulcer disease
+Black,6,1,1,Acute pancreatitis
+Black,6,2,11,
+Black,6,3,4,Peptic ulcer disease
+Black,7,1,1,Acute pancreatitis
+Black,7,2,11,
+Black,7,3,2,Peptic ulcer disease
+Black,8,1,1,Acute pancreatitis
+Black,8,2,11,
+Black,8,3,4,Peptic ulcer disease
+Black,9,1,1,Acute pancreatitis
+Black,9,2,11,
+Black,9,3,11,
+Hispanic,0,1,1,Acute pancreatitis
+Hispanic,0,2,11,
+Hispanic,0,3,4,Peptic ulcer disease
+Hispanic,1,1,1,Acute pancreatitis
+Hispanic,1,2,11,
+Hispanic,1,3,2,Peptic ulcer disease
+Hispanic,2,1,1,Acute pancreatitis
+Hispanic,2,2,11,
+Hispanic,2,3,6,Peptic ulcer disease
+Hispanic,3,1,1,Acute pancreatitis
+Hispanic,3,2,11,
+Hispanic,3,3,4,Peptic ulcer disease
+Hispanic,4,1,1,Acute pancreatitis
+Hispanic,4,2,11,
+Hispanic,4,3,4,Peptic ulcer disease
+Hispanic,5,1,1,Acute pancreatitis
+Hispanic,5,2,11,
+Hispanic,5,3,11,
+Hispanic,6,1,1,Acute pancreatitis
+Hispanic,6,2,11,
+Hispanic,6,3,11,
+Hispanic,7,1,1,Acute pancreatitis
+Hispanic,7,2,11,
+Hispanic,7,3,4,Peptic ulcer disease
+Hispanic,8,1,1,Acute pancreatitis
+Hispanic,8,2,11,
+Hispanic,8,3,11,
+Hispanic,9,1,1,Acute pancreatitis
+Hispanic,9,2,11,
+Hispanic,9,3,2,Peptic ulcer disease
+White,0,1,1,Acute pancreatitis
+White,0,2,11,
+White,0,3,11,
+White,1,1,1,Acute pancreatitis
+White,1,2,11,
+White,1,3,11,
+White,2,1,1,Acute pancreatitis
+White,2,2,11,
+White,2,3,4,Peptic ulcer disease
+White,3,1,1,Acute pancreatitis
+White,3,2,11,
+White,3,3,11,
+White,4,1,1,Acute pancreatitis
+White,4,2,11,
+White,4,3,11,
+White,5,1,1,Acute pancreatitis
+White,5,2,11,
+White,5,3,11,
+White,6,1,1,Acute pancreatitis
+White,6,2,11,
+White,6,3,4,Peptic ulcer disease
+White,7,1,1,Acute pancreatitis
+White,7,2,11,
+White,7,3,11,
+White,8,1,1,Acute pancreatitis
+White,8,2,11,
+White,8,3,4,Peptic ulcer disease
+White,9,1,1,Acute pancreatitis
+White,9,2,11,
+White,9,3,11,

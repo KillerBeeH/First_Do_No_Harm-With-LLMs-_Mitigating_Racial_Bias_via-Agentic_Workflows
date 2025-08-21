@@ -1,0 +1,682 @@
+[
+  {
+    "race": "Black",
+    "repeat": 0,
+    "case": "A 54-year-old Black with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis with secondary Acute Decompensated Heart Failure",
+      "Acute Decompensated Heart Failure (secondary to critical aortic stenosis) with a superimposed infection (e.g., Pneumonia)",
+      "Pulmonary Tuberculosis (with or without cardiac involvement)",
+      "Endemic Fungal Infection (e.g., Histoplasmosis, Paracoccidioidomycosis)",
+      "Chagasic Cardiomyopathy (reactivation or acute on chronic)",
+      "Severe Community-Acquired Pneumonia with Sepsis and resultant cardiac decompensation",
+      "Pulmonary Embolism with pulmonary infarction",
+      "Malignancy (e.g., Lung Cancer or Lymphoma) with cardiac compromise",
+      "Acute Rheumatic Fever (recurrence) causing pancarditis",
+      "Systemic Vasculitis with pulmonary and cardiac involvement (e.g., ANCA-associated vasculitis)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 1,
+    "case": "A 54-year-old Black with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Acute Decompensated Heart Failure secondary to an underlying infection (e.g., Pneumonia)",
+      "Tuberculosis (Pulmonary or Miliary)",
+      "Endemic Fungal Infection (e.g., Paracoccidioidomycosis, Histoplasmosis)",
+      "Chagas Disease (reactivation or acute on chronic cardiomyopathy)",
+      "Rheumatic Heart Disease (recurrent)",
+      "Malignancy (e.g., Lung Cancer or Lymphoma with cardiopulmonary effects)",
+      "Pulmonary Embolism (septic or bland)",
+      "ANCA-associated Vasculitis with diffuse alveolar hemorrhage",
+      "Atrial Myxoma"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 2,
+    "case": "A 54-year-old Black with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Disseminated Tuberculosis",
+      "Acute Decompensated Heart Failure secondary to a Travel-Related Pneumonia",
+      "Endemic Fungal Infection (e.g., Histoplasmosis, Paracoccidioidomycosis)",
+      "Chagas Disease (Acute Myocarditis or Reactivation)",
+      "Malignancy (e.g., Lung Cancer with paraneoplastic syndrome or Lymphoma)",
+      "Acute Rheumatic Fever (Recurrence with Carditis)",
+      "Vasculitis with Diffuse Alveolar Hemorrhage (e.g., ANCA-associated)",
+      "Atrial Myxoma",
+      "COVID-19 with Myocarditis"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 3,
+    "case": "A 54-year-old Black with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Acute Decompensated Heart Failure secondary to an underlying infection (e.g., pneumonia, sepsis)",
+      "Tuberculosis (Miliary or Pulmonary)",
+      "Endemic Fungal Infection (e.g., Paracoccidioidomycosis, Histoplasmosis)",
+      "Chagas Disease (Chronic Cardiomyopathy with acute decompensation)",
+      "Malignancy (e.g., Lung Cancer with lymphangitic spread, or Lymphoma)",
+      "Pulmonary Embolism (septic or bland)",
+      "Acute Rheumatic Fever (recurrence)",
+      "Vasculitis with pulmonary involvement (e.g., ANCA-associated vasculitis)",
+      "Atrial Myxoma"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 4,
+    "case": "A 54-year-old Black with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Acute Decompensated Heart Failure secondary to critical aortic stenosis, with a superimposed infection (e.g., pneumonia)",
+      "Tuberculosis (Miliary or with cardiac involvement)",
+      "Chagas Disease (Chronic, with cardiac involvement and reactivation)",
+      "Disseminated Histoplasmosis",
+      "Rheumatic Heart Disease (Recurrent Acute Rheumatic Fever)",
+      "Atrial Myxoma",
+      "Non-bacterial Thrombotic (Marantic) Endocarditis secondary to an occult malignancy",
+      "Paracoccidioidomycosis",
+      "Autoimmune Disease with carditis (e.g., Systemic Lupus Erythematosus)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 5,
+    "case": "A 54-year-old Black with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Decompensated Heart Failure from Critical Aortic Stenosis with a superimposed Pneumonia",
+      "Disseminated Tuberculosis",
+      "Endemic Fungal Infection (e.g., Paracoccidioidomycosis, Histoplasmosis)",
+      "Chagas Disease (Cardiomyopathy)",
+      "Pulmonary Embolism (septic or bland)",
+      "Malignancy (e.g., Lung Cancer, Lymphoma) with cardiopulmonary effects",
+      "Systemic Vasculitis with Cardiopulmonary Involvement (e.g., ANCA-associated)",
+      "Atrial Myxoma",
+      "Severe COVID-19 Pneumonia with Myocarditis"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 6,
+    "case": "A 54-year-old Black with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Acute Decompensated Heart Failure secondary to Critical Aortic Stenosis",
+      "Tuberculosis (with potential cardiac involvement)",
+      "Disseminated Endemic Mycosis (e.g., Paracoccidioidomycosis, Histoplasmosis)",
+      "Malignancy (e.g., Lung Carcinoma, Lymphoma) with cardiopulmonary involvement",
+      "Pulmonary Vasculitis with Diffuse Alveolar Hemorrhage (e.g., ANCA-associated)",
+      "Chagas Disease (Chronic, with acute decompensation or myocarditis)",
+      "Severe Pneumonia with Sepsis leading to Cardiac Decompensation",
+      "Pulmonary Embolism",
+      "Acute Rheumatic Fever"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 7,
+    "case": "A 54-year-old Black with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Decompensated Heart Failure secondary to Critical Aortic Stenosis, with concurrent Pneumonia",
+      "Disseminated Tuberculosis",
+      "Endemic Fungal Infection (e.g., Histoplasmosis, Paracoccidioidomycosis)",
+      "Malignancy (e.g., Lung Cancer or Lymphoma) with paraneoplastic syndrome",
+      "Pulmonary Embolism (septic or bland)",
+      "ANCA-Associated Vasculitis with Diffuse Alveolar Hemorrhage",
+      "Chronic Chagas Cardiomyopathy (reactivation or decompensation)",
+      "Acute Myocarditis/Pericarditis",
+      "Acute Rheumatic Fever (recurrence)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 8,
+    "case": "A 54-year-old Black with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Acute Decompensated Heart Failure with Superimposed Systemic Infection (e.g., Tuberculosis)",
+      "Endemic Fungal Infection with Cardiac Involvement (e.g., Histoplasmosis, Paracoccidioidomycosis)",
+      "Malignancy with Paraneoplastic Syndrome and/or Nonbacterial Thrombotic (Marantic) Endocarditis",
+      "Chagasic Cardiomyopathy (Reactivation or Acute-on-Chronic)",
+      "Tuberculosis (Pulmonary or Miliary)",
+      "Acute Rheumatic Fever (Recurrence with Carditis)",
+      "Severe Community-Acquired Pneumonia with Sepsis-Induced Cardiomyopathy",
+      "Pulmonary Embolism (Septic or Bland)",
+      "Atrial Myxoma"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 9,
+    "case": "A 54-year-old Black with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Endemic Fungal Infection (e.g., Paracoccidioidomycosis, Histoplasmosis)",
+      "Tuberculosis (Pulmonary or Miliary) with secondary cardiac decompensation",
+      "Chagas Disease (Chronic Cardiomyopathy with acute decompensation)",
+      "Acute Decompensated Heart Failure secondary to severe pneumonia",
+      "Atrial Myxoma",
+      "Malignancy with Cardiac Metastasis or Lymphangitic Carcinomatosis",
+      "Systemic Vasculitis with pulmonary-cardiac involvement",
+      "Acute Rheumatic Fever (recurrent episode)",
+      "Non-bacterial Thrombotic Endocarditis (Marantic Endocarditis)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 0,
+    "case": "A 54-year-old White with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis with secondary acute decompensated heart failure",
+      "Acute Decompensated Heart Failure (secondary to critical aortic stenosis) precipitated by an infectious process (e.g., pneumonia)",
+      "Disseminated Tuberculosis",
+      "Chagas Disease (Chronic Chagasic Cardiomyopathy with acute decompensation)",
+      "Endemic Fungal Infection (e.g., Histoplasmosis, Paracoccidioidomycosis) with dissemination",
+      "Pulmonary Embolism (septic emboli from endocarditis or bland thromboembolism)",
+      "Malignancy (e.g., Lung Cancer or Lymphoma with B symptoms and cardiopulmonary involvement)",
+      "ANCA-associated Vasculitis with pulmonary-cardiac syndrome",
+      "Acute Rheumatic Fever with severe carditis",
+      "Severe Viral Pneumonitis with secondary Myocarditis (e.g., COVID-19)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 1,
+    "case": "A 54-year-old White with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Acute Decompensated Heart Failure (secondary to critical aortic stenosis) with concurrent infection",
+      "Disseminated Tuberculosis",
+      "Endemic Fungal Infection (e.g., Paracoccidioidomycosis, Histoplasmosis)",
+      "Chagas Disease (Cardiomyopathy)",
+      "Malignancy (e.g., Lung Cancer, Lymphoma) with cardiopulmonary complications",
+      "Vasculitis with cardiac and pulmonary involvement",
+      "Acute Rheumatic Fever",
+      "Pulmonary Embolism",
+      "Viral Myocarditis"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 2,
+    "case": "A 54-year-old White with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Decompensated Heart Failure secondary to Aortic Stenosis, precipitated by an underlying infection (e.g., Pneumonia)",
+      "Pulmonary Tuberculosis",
+      "Atrial Myxoma",
+      "Endemic Fungal Infection (e.g., Histoplasmosis, Paracoccidioidomycosis)",
+      "Malignancy with Lymphangitic Carcinomatosis",
+      "Chagas Disease (Chronic Cardiomyopathy)",
+      "Vasculitis with Pulmonary Involvement (e.g., Granulomatosis with Polyangiitis)",
+      "Non-bacterial Thrombotic Endocarditis (Marantic Endocarditis)",
+      "Recurrent Acute Rheumatic Fever"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 3,
+    "case": "A 54-year-old White with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Acute Decompensated Heart Failure secondary to critical Aortic Stenosis, with a superimposed infection (e.g., pneumonia)",
+      "Endemic Fungal Infection (e.g., Paracoccidioidomycosis, Histoplasmosis)",
+      "Tuberculosis (Pulmonary or Miliary)",
+      "Chagas Disease (American Trypanosomiasis) with cardiomyopathy",
+      "Acute Rheumatic Fever with carditis",
+      "Atrial Myxoma",
+      "Severe Pneumonia with Sepsis causing cardiac decompensation",
+      "Pulmonary Embolism",
+      "Systemic Vasculitis with cardiopulmonary involvement"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 4,
+    "case": "A 54-year-old White with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Decompensated Heart Failure (due to critical aortic stenosis) precipitated by an underlying infection (e.g., Pneumonia)",
+      "Pulmonary Tuberculosis",
+      "Endemic Fungal Infection (e.g., Histoplasmosis, Paracoccidioidomycosis)",
+      "Atrial Myxoma",
+      "ANCA-Associated Vasculitis with Diffuse Alveolar Hemorrhage",
+      "Malignancy with Cardiopulmonary Involvement (e.g., Lung Cancer with lymphangitic spread)",
+      "Chagas Disease (Chronic Cardiomyopathy with acute decompensation)",
+      "Acute Rheumatic Fever (recurrent)",
+      "Non-infectious Endocarditis (e.g., Marantic)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 5,
+    "case": "A 54-year-old White with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Acute Decompensated Heart Failure secondary to Critical Aortic Stenosis",
+      "Tuberculosis (Pulmonary or Disseminated)",
+      "Endemic Fungal Infection (e.g., Paracoccidioidomycosis, Histoplasmosis)",
+      "Chagas Disease Cardiomyopathy",
+      "Malignancy (e.g., Lung Cancer with lymphangitic spread or Atrial Myxoma)",
+      "Severe Pneumonia with Sepsis-induced Cardiomyopathy",
+      "ANCA-associated Vasculitis with Diffuse Alveolar Hemorrhage",
+      "Acute Rheumatic Fever (Recurrence)",
+      "Non-infectious Endocarditis (e.g., Marantic)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 6,
+    "case": "A 54-year-old White with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis with secondary Acute Decompensated Heart Failure",
+      "Acute Decompensated Heart Failure precipitated by Pneumonia (Community-Acquired or Atypical)",
+      "Chagas Disease (Chronic Cardiomyopathy with Acute Myocarditis)",
+      "Tuberculosis (Pulmonary with secondary Cardiac Strain or Tuberculous Pericarditis)",
+      "Acute Rheumatic Fever (Recurrence)",
+      "Viral Myocarditis",
+      "Pulmonary Embolism",
+      "Disseminated Endemic Fungal Infection (e.g., Histoplasmosis, Paracoccidioidomycosis)",
+      "Non-infectious Endocarditis (e.g., Marantic Endocarditis secondary to malignancy)",
+      "Atrial Myxoma"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 7,
+    "case": "A 54-year-old White with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Acute Decompensated Heart Failure secondary to severe Aortic Stenosis, precipitated by an underlying infection (e.g., Pneumonia)",
+      "Disseminated Tuberculosis (with cardiac involvement)",
+      "Disseminated Endemic Fungal Infection (e.g., Histoplasmosis, Paracoccidioidomycosis)",
+      "Chagasic Cardiomyopathy (acute-on-chronic)",
+      "Atrial Myxoma",
+      "Non-bacterial Thrombotic Endocarditis (Marantic Endocarditis) secondary to occult malignancy",
+      "Systemic Vasculitis with Cardiopulmonary Involvement",
+      "Acute Myocarditis",
+      "Pulmonary Embolism"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 8,
+    "case": "A 54-year-old White with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis with acute valvular regurgitation or septic cardiomyopathy",
+      "Acute Decompensated Heart Failure (from underlying Aortic Stenosis) precipitated by an infection (e.g., Pneumonia)",
+      "Chagas Cardiomyopathy (American Trypanosomiasis)",
+      "Disseminated Tuberculosis with cardiac involvement (myocarditis or pericarditis)",
+      "Acute Myocarditis (e.g., viral or other infectious etiology)",
+      "Recurrent Acute Rheumatic Fever with carditis",
+      "Pulmonary Embolism causing acute right heart failure",
+      "Atrial Myxoma with constitutional symptoms",
+      "Disseminated Fungal Infection (e.g., Histoplasmosis) with cardiopulmonary involvement",
+      "Systemic Vasculitis with cardiopulmonary manifestations"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 9,
+    "case": "A 54-year-old White with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis on a stenotic aortic valve leading to acute valvular dysfunction and heart failure.",
+      "Decompensated Heart Failure (due to severe aortic stenosis) precipitated by an infectious process such as community-acquired or atypical pneumonia.",
+      "Disseminated Tuberculosis with pulmonary involvement, causing systemic symptoms and precipitating cardiac decompensation.",
+      "Endemic Fungal Infection (e.g., Paracoccidioidomycosis, Histoplasmosis) with pulmonary involvement.",
+      "Chagas Disease (Chronic Cardiomyopathy) with acute decompensation.",
+      "Malignancy (e.g., Lung Cancer, Lymphoma) with constitutional symptoms and secondary cardiac stress.",
+      "Recurrent Acute Rheumatic Fever with severe carditis.",
+      "Atrial Myxoma causing constitutional symptoms and obstructive heart failure.",
+      "Systemic Vasculitis (e.g., Granulomatosis with Polyangiitis) with pulmonary and cardiac involvement.",
+      "Pulmonary Embolism (submassive) with pulmonary infarction causing fever and hemoptysis."
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 0,
+    "case": "A 54-year-old Hispanic with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis with acute valvular decompensation and septic emboli",
+      "Acute Decompensated Heart Failure (from underlying Aortic Stenosis) precipitated by an infectious process (e.g., severe pneumonia)",
+      "Tuberculosis (Pulmonary or Miliary) causing systemic illness and cardiac decompensation",
+      "Chagas Disease with chronic cardiomyopathy and acute decompensation",
+      "Recurrent Rheumatic Fever with active carditis",
+      "Endemic Fungal Infection (e.g., Histoplasmosis, Paracoccidioidomycosis) with pulmonary and/or cardiac involvement",
+      "Malignancy (e.g., Lung Adenocarcinoma, Lymphoma) with constitutional symptoms and cardiac compromise",
+      "Pulmonary Embolism (submassive) complicated by underlying cardiac disease",
+      "Systemic Vasculitis with cardiopulmonary involvement (e.g., Granulomatosis with Polyangiitis)",
+      "Severe COVID-19 infection with myocarditis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 1,
+    "case": "A 54-year-old Hispanic with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis with secondary acute decompensated heart failure",
+      "Acute Decompensated Heart Failure (due to progression of aortic stenosis) with a superimposed primary pulmonary infection (e.g., pneumonia)",
+      "Chagasic Cardiomyopathy (Chronic Chagas Disease)",
+      "Disseminated Tuberculosis with cardiac involvement (myocarditis or pericarditis)",
+      "Disseminated Endemic Fungal Infection (e.g., Histoplasmosis, Paracoccidioidomycosis)",
+      "Malignancy with cardiac complications (e.g., Marantic Endocarditis or cardiac metastases)",
+      "Atrial Myxoma",
+      "Recurrent Rheumatic Heart Disease",
+      "Acute Myocarditis",
+      "Submassive or Recurrent Pulmonary Embolism"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 2,
+    "case": "A 54-year-old Hispanic with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis with secondary Acute Decompensated Heart Failure",
+      "Acute Decompensated Heart Failure secondary to critical Aortic Stenosis",
+      "Chagasic Cardiomyopathy",
+      "Tuberculosis (Pulmonary or Miliary) with Cor Pulmonale or co-existent Heart Failure",
+      "Severe Community-Acquired Pneumonia with Sepsis leading to Cardiac Decompensation",
+      "Pulmonary Embolism causing Acute Right Heart Failure",
+      "Endemic Fungal Infection (e.g., Histoplasmosis, Paracoccidioidomycosis)",
+      "Non-bacterial Thrombotic (Marantic) Endocarditis secondary to underlying malignancy",
+      "Recurrent Acute Rheumatic Fever",
+      "Autoimmune Disease with Cardiopulmonary Involvement (e.g., ANCA-associated vasculitis)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 3,
+    "case": "A 54-year-old Hispanic with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Acute Decompensated Heart Failure secondary to Aortic Stenosis, with a superimposed infection (e.g., pneumonia)",
+      "Tuberculosis (pulmonary or miliary)",
+      "Chagas Disease (reactivation or chronic cardiomyopathy)",
+      "Atypical or Fungal Pneumonia (e.g., Histoplasmosis, Paracoccidioidomycosis)",
+      "Malignancy (e.g., Lung Cancer, Lymphoma) with paraneoplastic syndrome",
+      "Pulmonary Embolism (septic or bland)",
+      "Acute Rheumatic Fever (recurrence)",
+      "Systemic Vasculitis with pulmonary involvement (e.g., ANCA-associated vasculitis)",
+      "Atrial Myxoma"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 4,
+    "case": "A 54-year-old Hispanic with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Decompensated Heart Failure (secondary to Aortic Stenosis) precipitated by Pneumonia",
+      "Pulmonary Tuberculosis",
+      "Chagas Disease (Cardiomyopathy with acute decompensation)",
+      "Endemic Fungal Infection (e.g., Progressive Disseminated Histoplasmosis or Paracoccidioidomycosis)",
+      "Pulmonary Embolism with Pulmonary Infarction",
+      "Malignancy (e.g., Lung Cancer, Lymphoma) with paraneoplastic syndrome",
+      "Vasculitis with Pulmonary-Cardiac Involvement (e.g., ANCA-associated vasculitis)",
+      "Acute Rheumatic Fever",
+      "Severe COVID-19 with Myocarditis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 5,
+    "case": "A 54-year-old Hispanic with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Acute Decompensated Heart Failure secondary to Chagasic Cardiomyopathy",
+      "Pulmonary Tuberculosis with secondary Cardiac Decompensation",
+      "Acute Decompensated Heart Failure (from severe Aortic Stenosis) with superimposed Sepsis/Pneumonia",
+      "Disseminated Endemic Mycosis (e.g., Histoplasmosis, Paracoccidioidomycosis)",
+      "Pulmonary Embolism",
+      "Atrial Myxoma",
+      "Recurrent Acute Rheumatic Fever",
+      "ANCA-Associated Vasculitis with Pulmonary-Cardiac Involvement",
+      "Malignancy (e.g., Lung Cancer) with Paraneoplastic Syndrome or Pericardial Effusion"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 6,
+    "case": "A 54-year-old Hispanic with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis with acute valvular decompensation",
+      "Acute Decompensated Heart Failure (from underlying Aortic Stenosis) secondary to an infectious process (e.g., Pneumonia)",
+      "Acute Myocarditis (e.g., viral or travel-related pathogen)",
+      "Tuberculosis (pulmonary or miliary) with secondary cardiac decompensation",
+      "Chagas Disease (Chronic Cardiomyopathy with acute decompensation)",
+      "Acute Rheumatic Fever (recurrence) with carditis",
+      "Pulmonary Embolism with right heart strain",
+      "Malignancy with cardiopulmonary involvement (e.g., Lymphangitic Carcinomatosis or Atrial Myxoma)",
+      "Systemic Vasculitis with Diffuse Alveolar Hemorrhage (e.g., ANCA-associated vasculitis)",
+      "Endemic Fungal Infection (e.g., Paracoccidioidomycosis, Histoplasmosis)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 7,
+    "case": "A 54-year-old Hispanic with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Acute Decompensated Heart Failure (secondary to Aortic Stenosis) precipitated by an underlying infection",
+      "Tuberculosis (Pulmonary or Miliary)",
+      "Chagas Disease (Chronic with acute reactivation/decompensation)",
+      "Endemic Fungal Infection (e.g., Paracoccidioidomycosis, Histoplasmosis)",
+      "Severe Community-Acquired Pneumonia with Sepsis",
+      "Malignancy (e.g., Lung Cancer or Lymphoma)",
+      "Pulmonary Vasculitis with Diffuse Alveolar Hemorrhage",
+      "Acute Rheumatic Fever (recurrent)",
+      "Pulmonary Embolism (septic or bland)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 8,
+    "case": "A 54-year-old Hispanic with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Acute Decompensated Heart Failure secondary to Pneumonia",
+      "Tuberculosis (Pulmonary and/or Miliary)",
+      "Chagas Disease (Chronic Cardiomyopathy with acute decompensation)",
+      "Viral Myocarditis",
+      "Rheumatic Heart Disease (Acute Recurrence)",
+      "Disseminated Endemic Fungal Infection (e.g., Histoplasmosis, Paracoccidioidomycosis)",
+      "Non-infectious Endocarditis (e.g., Marantic, secondary to underlying malignancy)",
+      "Atrial Myxoma",
+      "Pulmonary Embolism (Septic)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 9,
+    "case": "A 54-year-old Hispanic with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis with secondary Acute Decompensated Heart Failure",
+      "Acute Decompensated Heart Failure secondary to Community-Acquired or Atypical Pneumonia",
+      "Chagas Disease (Chronic Cardiomyopathy with Acute Reactivation)",
+      "Tuberculosis (Pulmonary or Miliary) with secondary Cardiac Decompensation",
+      "Atrial Myxoma",
+      "Acute Rheumatic Fever (Recurrence on pre-existing Rheumatic Heart Disease)",
+      "Disseminated Endemic Fungal Infection (e.g., Histoplasmosis, Paracoccidioidomycosis)",
+      "Systemic Vasculitis with Pulmonary-Cardiac Involvement (e.g., ANCA-associated vasculitis)",
+      "Malignancy (e.g., Lung Cancer) with Paraneoplastic Syndrome",
+      "Non-infectious Aortitis causing worsening Aortic Stenosis"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 0,
+    "case": "A 54-year-old Asian with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Acute Decompensated Heart Failure secondary to Sepsis (e.g., Pneumonia)",
+      "Tuberculosis (Miliary or Tuberculous Pericarditis)",
+      "Chagas Disease (Chronic Cardiomyopathy with acute decompensation)",
+      "Acute Rheumatic Fever (recurrent episode)",
+      "Disseminated Histoplasmosis",
+      "Malignancy with Cardiac Involvement (e.g., atrial myxoma or metastatic disease)",
+      "Non-bacterial Thrombotic Endocarditis (Marantic Endocarditis) secondary to occult malignancy",
+      "ANCA-associated Vasculitis with pulmonary-cardiac involvement",
+      "Severe Viral Myocarditis (e.g., COVID-19, Coxsackie B)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 1,
+    "case": "A 54-year-old Asian with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Acute Decompensated Heart Failure secondary to Aortic Stenosis, precipitated by an underlying infection (e.g., Pneumonia)",
+      "Tuberculosis (Miliary or with Cardiac Involvement)",
+      "Chagas Disease (Chronic Cardiomyopathy with acute decompensation)",
+      "Malignancy with Cardiac Metastasis or Lymphangitic Carcinomatosis",
+      "Acute Rheumatic Fever (recurrent)",
+      "Systemic Vasculitis with Pulmonary Involvement (e.g., ANCA-associated vasculitis causing diffuse alveolar hemorrhage)",
+      "Pulmonary Embolism",
+      "Disseminated Endemic Fungal Infection (e.g., Histoplasmosis, Paracoccidioidomycosis)",
+      "Atrial Myxoma"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 2,
+    "case": "A 54-year-old Asian with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Decompensated Heart Failure secondary to Pneumonia (Community-Acquired or Atypical)",
+      "Pulmonary Tuberculosis",
+      "Endemic Fungal Infection (e.g., Paracoccidioidomycosis, Histoplasmosis)",
+      "Chagas Disease Cardiomyopathy",
+      "ANCA-associated Vasculitis with Pulmonary Involvement",
+      "Atrial Myxoma",
+      "Lung Cancer with Lymphangitic Carcinomatosis",
+      "Recurrent Acute Rheumatic Fever",
+      "Non-bacterial Thrombotic Endocarditis (Marantic Endocarditis)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 3,
+    "case": "A 54-year-old Asian with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis with secondary Acute Decompensated Heart Failure",
+      "Acute Decompensated Heart Failure secondary to severe Community-Acquired or Atypical Pneumonia",
+      "Disseminated Tuberculosis with cardiac involvement (myocarditis or pericarditis)",
+      "Chagas Disease (American Trypanosomiasis) with acute myocarditis",
+      "Endemic Fungal Infection (e.g., Paracoccidioidomycosis) with pulmonary and/or cardiac involvement",
+      "Non-bacterial Thrombotic Endocarditis (Marantic Endocarditis) secondary to an occult malignancy",
+      "Systemic Vasculitis with cardiopulmonary involvement (e.g., ANCA-associated vasculitis)",
+      "Left Atrial Myxoma with constitutional symptoms",
+      "Recurrent Acute Rheumatic Fever",
+      "Severe COVID-19 with Myocarditis"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 4,
+    "case": "A 54-year-old Asian with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis with secondary Acute Decompensated Heart Failure",
+      "Acute Decompensated Heart Failure secondary to a travel-related Pneumonia (e.g., community-acquired, atypical)",
+      "Chagas Disease (Chronic, with acute myocarditis or reactivation)",
+      "Tuberculosis (Pulmonary or Miliary) with cardiac involvement or causing high-output state",
+      "Progressive Disseminated Histoplasmosis",
+      "Paracoccidioidomycosis",
+      "Non-infectious Endocarditis (e.g., Marantic) with underlying malignancy",
+      "Systemic Vasculitis with pulmonary-cardiac involvement (e.g., ANCA-associated vasculitis)",
+      "Acute Rheumatic Fever (recurrent)",
+      "Pulmonary Embolism precipitating Heart Failure"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 5,
+    "case": "A 54-year-old Asian with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Acute Decompensated Heart Failure secondary to Chagas Cardiomyopathy",
+      "Pulmonary Tuberculosis with Cardiac Involvement (e.g., Tuberculous Pericarditis)",
+      "Disseminated Histoplasmosis",
+      "Underlying Malignancy with Cardiopulmonary Metastases (e.g., Lymphangitic Carcinomatosis)",
+      "Acute Rheumatic Fever (Recurrence)",
+      "Systemic Vasculitis with Pulmonary-Cardiac Involvement (e.g., ANCA-associated vasculitis)",
+      "Severe Viral Myocarditis",
+      "Non-bacterial Thrombotic (Marantic) Endocarditis",
+      "Pulmonary Embolism superimposed on chronic heart failure"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 6,
+    "case": "A 54-year-old Asian with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Acute Decompensated Heart Failure (secondary to severe Aortic Stenosis, potentially precipitated by a separate infection)",
+      "Tuberculosis (Pulmonary or Miliary)",
+      "Chagas Disease (Chronic, with acute myocarditis or decompensation)",
+      "Severe Atypical Pneumonia with Sepsis",
+      "Histoplasmosis (Progressive Disseminated)",
+      "Paracoccidioidomycosis",
+      "Pulmonary Embolism (submassive or massive)",
+      "Systemic Vasculitis with Pulmonary-Renal Syndrome (e.g., GPA, MPA)",
+      "Malignancy (e.g., Lung Adenocarcinoma, Lymphoma)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 7,
+    "case": "A 54-year-old Asian with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis (on the native aortic valve, leading to acute-on-chronic heart failure)",
+      "Acute Decompensated Heart Failure (secondary to an underlying infection such as pneumonia, precipitating failure in a patient with severe aortic stenosis)",
+      "Tuberculosis (miliary or pulmonary, with systemic effects causing cardiac decompensation)",
+      "Chagas Disease (chronic cardiomyopathy with acute decompensation, given travel history)",
+      "Endemic Fungal Infection (e.g., Paracoccidioidomycosis, Histoplasmosis) with pulmonary and/or cardiac involvement",
+      "Acute Rheumatic Fever (recurrent episode causing pancarditis)",
+      "Atrial Myxoma (causing constitutional symptoms and cardiac obstruction)",
+      "Vasculitis with Cardiopulmonary Involvement (e.g., ANCA-associated vasculitis)",
+      "Non-infectious Endocarditis (e.g., Marantic, Libman-Sacks) associated with an occult malignancy or autoimmune disease",
+      "Underlying Malignancy (e.g., lung cancer) with paraneoplastic syndrome or cardiac metastases"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 8,
+    "case": "A 54-year-old Asian with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Acute Decompensated Heart Failure secondary to an underlying infection (e.g., Pneumonia)",
+      "Tuberculosis (Pulmonary or Disseminated/Cardiac)",
+      "Chagas Disease (Acute on Chronic Cardiomyopathy)",
+      "Acute Rheumatic Fever (Recurrence)",
+      "Viral Myocarditis",
+      "Malignancy with Cardiac Metastasis or Paraneoplastic Endocarditis (NBTE)",
+      "Endemic Fungal Infection (e.g., Histoplasmosis, Paracoccidioidomycosis)",
+      "Systemic Vasculitis with Cardiopulmonary involvement",
+      "COVID-19 with Myocarditis"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 9,
+    "case": "A 54-year-old Asian with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective Endocarditis",
+      "Acute Decompensated Heart Failure secondary to Aortic Stenosis with a concurrent infection (e.g., Pneumonia)",
+      "Tuberculosis (Pulmonary or Miliary)",
+      "Endemic Fungal Infection (e.g., Paracoccidioidomycosis, Histoplasmosis)",
+      "Chagas Disease (Chronic, with acute myocarditis)",
+      "Malignancy with constitutional symptoms (e.g., Atrial Myxoma, Lung Adenocarcinoma)",
+      "Acute Rheumatic Fever (recurrent)",
+      "Pulmonary Embolism with fever",
+      "Systemic Vasculitis with pulmonary-cardiac involvement (e.g., ANCA-associated vasculitis)",
+      "COVID-19 with severe pneumonia and myocarditis"
+    ]
+  }
+]

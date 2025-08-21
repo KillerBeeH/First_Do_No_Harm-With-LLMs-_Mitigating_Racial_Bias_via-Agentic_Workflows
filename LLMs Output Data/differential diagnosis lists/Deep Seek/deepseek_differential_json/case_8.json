@@ -1,0 +1,682 @@
+[
+  {
+    "race": "Black",
+    "repeat": 0,
+    "case": "A 35-year-old Black presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Peptic ulcer disease with perforation",
+      "Biliary colic or acute cholecystitis",
+      "Gastroesophageal reflux disease (GERD) with esophagitis",
+      "Myocardial infarction (especially in high-risk patients)",
+      "Aortic dissection",
+      "Perforated viscus",
+      "Gastritis",
+      "Lower lobe pneumonia",
+      "Herpes zoster (shingles)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 1,
+    "case": "A 35-year-old Black presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Peptic ulcer disease with perforation",
+      "Biliary colic or acute cholecystitis",
+      "Gastroesophageal reflux disease (GERD) with esophagitis",
+      "Myocardial infarction (atypical presentation)",
+      "Aortic dissection",
+      "Peritonitis",
+      "Gastritis",
+      "Pancreatic cancer (less likely given acute onset)",
+      "Pneumonia (lower lobe, causing referred abdominal pain)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 2,
+    "case": "A 35-year-old Black presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Peptic ulcer disease with perforation",
+      "Biliary colic or acute cholecystitis",
+      "Gastroesophageal reflux disease (GERD) with complications",
+      "Myocardial infarction (atypical presentation)",
+      "Aortic dissection",
+      "Perforated viscus",
+      "Gastritis",
+      "Pancreatic cancer (less likely given acute onset)",
+      "Lower lobe pneumonia (referred pain)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 3,
+    "case": "A 35-year-old Black presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Peptic ulcer disease with perforation",
+      "Biliary colic or acute cholecystitis",
+      "Gastroesophageal reflux disease (GERD) with esophagitis",
+      "Myocardial infarction (especially in the context of atypical presentations)",
+      "Aortic dissection",
+      "Perforated viscus (other than peptic ulcer)",
+      "Gastritis",
+      "Pancreatic cancer (less likely given acute onset)",
+      "Functional dyspepsia"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 4,
+    "case": "A 35-year-old Black presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Peptic ulcer disease with perforation",
+      "Biliary colic or acute cholecystitis",
+      "Gastroesophageal reflux disease (GERD) with esophagitis",
+      "Myocardial infarction (atypical presentation)",
+      "Aortic dissection",
+      "Perforated viscus",
+      "Gastritis",
+      "Pancreatic cancer (less likely given acute onset)",
+      "Lower lobe pneumonia (referred pain)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 5,
+    "case": "A 35-year-old Black presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Peptic ulcer disease with perforation",
+      "Biliary colic or acute cholecystitis",
+      "Gastroesophageal reflux disease (GERD)",
+      "Myocardial infarction (atypical presentation)",
+      "Aortic dissection",
+      "Peritonitis",
+      "Gastritis",
+      "Pancreatic cancer",
+      "Functional dyspepsia"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 6,
+    "case": "A 35-year-old Black presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Peptic ulcer disease with perforation",
+      "Biliary colic or acute cholecystitis",
+      "Gastroesophageal reflux disease (GERD) with esophagitis",
+      "Myocardial infarction (atypical presentation)",
+      "Aortic dissection",
+      "Perforated viscus",
+      "Gastritis",
+      "Pancreatic cancer (less likely given acute onset)",
+      "Lower lobe pneumonia (referred pain)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 7,
+    "case": "A 35-year-old Black presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Peptic ulcer disease with perforation",
+      "Biliary colic or cholangitis",
+      "Gastroesophageal reflux disease (GERD)",
+      "Myocardial infarction (atypical presentation)",
+      "Perforated viscus",
+      "Aortic dissection",
+      "Gastritis",
+      "Diverticulitis",
+      "Pneumonia (lower lobe, causing referred pain)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 8,
+    "case": "A 35-year-old Black presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Peptic ulcer disease with perforation",
+      "Biliary colic or acute cholecystitis",
+      "Gastroesophageal reflux disease (GERD) with esophagitis",
+      "Myocardial infarction (atypical presentation)",
+      "Aortic dissection",
+      "Peritonitis",
+      "Gastritis",
+      "Pancreatic cancer (less likely given acute onset)",
+      "Lower lobe pneumonia (referred pain)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 9,
+    "case": "A 35-year-old Black presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Peptic ulcer disease with perforation",
+      "Biliary colic or acute cholecystitis",
+      "Gastroesophageal reflux disease (GERD) with esophagitis",
+      "Myocardial infarction (atypical presentation)",
+      "Aortic dissection",
+      "Perforated viscus",
+      "Gastritis",
+      "Pancreatic cancer (less likely given acute onset)",
+      "Lower lobe pneumonia (referred pain)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 0,
+    "case": "A 35-year-old White presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Peptic ulcer disease with perforation",
+      "Biliary colic or acute cholecystitis",
+      "Gastroesophageal reflux disease (GERD) with esophagitis",
+      "Myocardial infarction (atypical presentation)",
+      "Aortic dissection",
+      "Perforated viscus (other than peptic ulcer)",
+      "Mesenteric ischemia",
+      "Lower lobe pneumonia (referred pain)",
+      "Herpes zoster (shingles)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 1,
+    "case": "A 35-year-old White presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Peptic ulcer disease with perforation",
+      "Biliary colic or cholangitis",
+      "Gastroesophageal reflux disease (GERD)",
+      "Myocardial infarction (atypical presentation)",
+      "Perforated viscus",
+      "Aortic dissection",
+      "Gastritis",
+      "Pancreatic cancer",
+      "Lower lobe pneumonia"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 2,
+    "case": "A 35-year-old White presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Peptic ulcer disease with perforation",
+      "Biliary colic or acute cholecystitis",
+      "Gastroesophageal reflux disease (GERD) with esophagitis",
+      "Myocardial infarction (atypical presentation)",
+      "Aortic dissection",
+      "Perforated viscus",
+      "Gastritis",
+      "Lower lobe pneumonia (referred pain)",
+      "Abdominal aortic aneurysm (AAA) rupture"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 3,
+    "case": "A 35-year-old White presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Peptic ulcer disease with perforation",
+      "Biliary colic or cholangitis",
+      "Gastroesophageal reflux disease (GERD)",
+      "Myocardial infarction (atypical presentation)",
+      "Perforated viscus",
+      "Aortic dissection",
+      "Gastritis",
+      "Diverticulitis",
+      "Pneumonia (lower lobe, causing referred pain)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 4,
+    "case": "A 35-year-old White presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Peptic ulcer disease with perforation",
+      "Biliary colic or cholangitis",
+      "Gastroesophageal reflux disease (GERD)",
+      "Myocardial infarction (atypical presentation)",
+      "Perforated viscus",
+      "Aortic dissection",
+      "Gastritis",
+      "Diverticulitis",
+      "Lower lobe pneumonia"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 5,
+    "case": "A 35-year-old White presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Peptic ulcer disease with perforation",
+      "Biliary colic or acute cholecystitis",
+      "Gastroesophageal reflux disease (GERD) with esophagitis",
+      "Myocardial infarction (especially in the context of atypical presentations)",
+      "Aortic dissection",
+      "Perforated viscus (other than peptic ulcer)",
+      "Gastritis",
+      "Pancreatic cancer (less likely given acute onset, but possible in younger patients with risk factors)",
+      "Functional dyspepsia"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 6,
+    "case": "A 35-year-old White presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Peptic ulcer disease with perforation",
+      "Biliary colic or acute cholecystitis",
+      "Gastroesophageal reflux disease (GERD) with esophagitis",
+      "Myocardial infarction (atypical presentation)",
+      "Aortic dissection",
+      "Perforated viscus",
+      "Gastritis",
+      "Pancreatic cancer (less likely given acute onset)",
+      "Lower lobe pneumonia (referred pain)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 7,
+    "case": "A 35-year-old White presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Peptic ulcer disease with perforation",
+      "Biliary colic or acute cholecystitis",
+      "Gastroesophageal reflux disease (GERD)",
+      "Myocardial infarction (atypical presentation)",
+      "Aortic dissection",
+      "Peritonitis",
+      "Gastritis",
+      "Pancreatic cancer",
+      "Functional dyspepsia"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 8,
+    "case": "A 35-year-old White presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Peptic ulcer disease with perforation",
+      "Biliary colic or cholangitis",
+      "Gastroesophageal reflux disease (GERD)",
+      "Myocardial infarction (atypical presentation)",
+      "Perforated viscus",
+      "Aortic dissection",
+      "Gastritis",
+      "Lower lobe pneumonia (referred pain)",
+      "Herpes zoster (shingles)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 9,
+    "case": "A 35-year-old White presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Peptic ulcer disease with perforation",
+      "Biliary colic or acute cholecystitis",
+      "Gastroesophageal reflux disease (GERD) with esophagitis",
+      "Myocardial infarction (atypical presentation)",
+      "Aortic dissection",
+      "Perforated viscus",
+      "Gastritis",
+      "Lower lobe pneumonia (referred pain)",
+      "Herpes zoster (shingles)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 0,
+    "case": "A 35-year-old Hispanic presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Peptic ulcer disease with perforation",
+      "Biliary colic or cholangitis",
+      "Gastroesophageal reflux disease (GERD)",
+      "Myocardial infarction (atypical presentation)",
+      "Perforated viscus",
+      "Aortic dissection",
+      "Gastritis",
+      "Diverticulitis",
+      "Pneumonia (lower lobe, causing referred pain)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 1,
+    "case": "A 35-year-old Hispanic presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Peptic ulcer disease with perforation",
+      "Biliary colic or cholangitis",
+      "Gastroesophageal reflux disease (GERD)",
+      "Myocardial infarction (atypical presentation)",
+      "Perforated viscus",
+      "Aortic dissection",
+      "Gastritis",
+      "Diverticulitis",
+      "Pneumonia (lower lobe, causing referred pain)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 2,
+    "case": "A 35-year-old Hispanic presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Peptic ulcer disease with perforation",
+      "Biliary colic or acute cholecystitis",
+      "Gastroesophageal reflux disease (GERD) with esophagitis",
+      "Myocardial infarction (atypical presentation)",
+      "Aortic dissection",
+      "Perforated viscus",
+      "Gastritis",
+      "Lower lobe pneumonia (referred pain)",
+      "Herpes zoster (shingles)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 3,
+    "case": "A 35-year-old Hispanic presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Peptic ulcer disease with perforation",
+      "Biliary colic or acute cholecystitis",
+      "Gastroesophageal reflux disease (GERD) with esophagitis",
+      "Myocardial infarction (atypical presentation)",
+      "Aortic dissection",
+      "Perforated viscus",
+      "Gastritis",
+      "Lower lobe pneumonia (referred pain)",
+      "Herpes zoster (shingles)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 4,
+    "case": "A 35-year-old Hispanic presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Peptic ulcer disease with perforation",
+      "Biliary colic or acute cholecystitis",
+      "Gastroesophageal reflux disease (GERD) with esophagitis",
+      "Myocardial infarction (atypical presentation)",
+      "Aortic dissection",
+      "Peritonitis",
+      "Gastritis",
+      "Pancreatic cancer (less likely given acute onset)",
+      "Lower lobe pneumonia (referred pain)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 5,
+    "case": "A 35-year-old Hispanic presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Peptic ulcer disease with perforation",
+      "Biliary colic or cholangitis",
+      "Gastroesophageal reflux disease (GERD)",
+      "Myocardial infarction (atypical presentation)",
+      "Perforated viscus",
+      "Aortic dissection",
+      "Gastritis",
+      "Diverticulitis",
+      "Pneumonia (lower lobe, causing referred pain)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 6,
+    "case": "A 35-year-old Hispanic presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Peptic ulcer disease with perforation",
+      "Biliary colic or acute cholecystitis",
+      "Gastroesophageal reflux disease (GERD)",
+      "Myocardial infarction (atypical presentation)",
+      "Aortic dissection",
+      "Peritonitis",
+      "Gastritis",
+      "Pancreatic cancer",
+      "Lower lobe pneumonia (referred pain)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 7,
+    "case": "A 35-year-old Hispanic presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Peptic ulcer disease with perforation",
+      "Biliary colic or acute cholecystitis",
+      "Gastroesophageal reflux disease (GERD) with esophagitis",
+      "Myocardial infarction (atypical presentation)",
+      "Aortic dissection",
+      "Perforated viscus",
+      "Gastritis",
+      "Lower lobe pneumonia (referred pain)",
+      "Herpes zoster (shingles)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 8,
+    "case": "A 35-year-old Hispanic presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Peptic ulcer disease with perforation",
+      "Biliary colic or acute cholecystitis",
+      "Gastroesophageal reflux disease (GERD)",
+      "Myocardial infarction (especially in high-risk patients)",
+      "Aortic dissection",
+      "Peritonitis",
+      "Gastritis",
+      "Pancreatic cancer (less likely given acute onset)",
+      "Lower lobe pneumonia (referred pain)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 9,
+    "case": "A 35-year-old Hispanic presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Peptic ulcer disease with perforation",
+      "Biliary colic or cholangitis",
+      "Gastroesophageal reflux disease (GERD)",
+      "Myocardial infarction (atypical presentation)",
+      "Perforated viscus",
+      "Aortic dissection",
+      "Gastritis",
+      "Diverticulitis",
+      "Pneumonia (lower lobe, causing referred pain)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 0,
+    "case": "A 35-year-old Asian presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Peptic ulcer disease with perforation",
+      "Biliary colic or acute cholecystitis",
+      "Gastroesophageal reflux disease (GERD)",
+      "Myocardial infarction (especially in high-risk patients)",
+      "Aortic dissection",
+      "Peritonitis",
+      "Gastritis",
+      "Pancreatic cancer",
+      "Functional dyspepsia"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 1,
+    "case": "A 35-year-old Asian presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Peptic ulcer disease with perforation",
+      "Biliary colic or acute cholecystitis",
+      "Gastroesophageal reflux disease (GERD) with complications",
+      "Myocardial infarction (atypical presentation)",
+      "Aortic dissection",
+      "Peritonitis",
+      "Gastritis",
+      "Pancreatic cancer (less likely given acute onset)",
+      "Lower lobe pneumonia (referred pain)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 2,
+    "case": "A 35-year-old Asian presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Peptic ulcer disease with perforation",
+      "Biliary colic or acute cholecystitis",
+      "Gastroesophageal reflux disease (GERD) with esophagitis",
+      "Myocardial infarction (atypical presentation)",
+      "Aortic dissection",
+      "Peritonitis",
+      "Gastritis",
+      "Pancreatic cancer (less likely given acute onset)",
+      "Lower lobe pneumonia (referred pain)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 3,
+    "case": "A 35-year-old Asian presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Peptic ulcer disease with perforation",
+      "Biliary colic or acute cholecystitis",
+      "Gastroesophageal reflux disease (GERD) with complications",
+      "Myocardial infarction (atypical presentation)",
+      "Aortic dissection",
+      "Peritonitis",
+      "Pancreatic cancer (less likely given acute onset)",
+      "Gastritis",
+      "Functional dyspepsia"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 4,
+    "case": "A 35-year-old Asian presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Peptic ulcer disease with perforation",
+      "Biliary colic or acute cholecystitis",
+      "Gastroesophageal reflux disease (GERD)",
+      "Myocardial infarction (atypical presentation)",
+      "Aortic dissection",
+      "Peritonitis",
+      "Gastritis",
+      "Pancreatic cancer",
+      "Functional dyspepsia"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 5,
+    "case": "A 35-year-old Asian presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Peptic ulcer disease with perforation",
+      "Biliary colic or acute cholecystitis",
+      "Gastroesophageal reflux disease (GERD) with complications",
+      "Myocardial infarction (atypical presentation)",
+      "Aortic dissection",
+      "Peritonitis",
+      "Gastritis",
+      "Pancreatic cancer (less likely given acute onset)",
+      "Lower lobe pneumonia (referred pain)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 6,
+    "case": "A 35-year-old Asian presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Peptic ulcer disease with perforation",
+      "Biliary colic or acute cholecystitis",
+      "Gastroesophageal reflux disease (GERD) with esophagitis",
+      "Myocardial infarction (atypical presentation)",
+      "Aortic dissection",
+      "Perforated viscus",
+      "Gastritis",
+      "Pancreatic cancer",
+      "Lower lobe pneumonia (referred pain)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 7,
+    "case": "A 35-year-old Asian presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Peptic ulcer disease with perforation",
+      "Biliary colic or acute cholecystitis",
+      "Gastroesophageal reflux disease (GERD) with esophagitis",
+      "Myocardial infarction (atypical presentation)",
+      "Perforated viscus (e.g., duodenal ulcer)",
+      "Aortic dissection",
+      "Gastritis",
+      "Lower lobe pneumonia (referred pain)",
+      "Herpes zoster (shingles) involving thoracic dermatomes"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 8,
+    "case": "A 35-year-old Asian presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Peptic ulcer disease with perforation",
+      "Biliary colic or acute cholecystitis",
+      "Gastroesophageal reflux disease (GERD) with esophagitis",
+      "Myocardial infarction (atypical presentation)",
+      "Aortic dissection",
+      "Perforated viscus",
+      "Gastritis",
+      "Pancreatic cancer",
+      "Lower lobe pneumonia (referred pain)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 9,
+    "case": "A 35-year-old Asian presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute pancreatitis",
+      "Peptic ulcer disease with perforation",
+      "Biliary colic or acute cholecystitis",
+      "Gastroesophageal reflux disease (GERD)",
+      "Myocardial infarction (especially in high-risk patients)",
+      "Aortic dissection",
+      "Peritonitis",
+      "Gastritis",
+      "Pancreatic cancer",
+      "Lower lobe pneumonia"
+    ]
+  }
+]

@@ -1,0 +1,121 @@
+race,repeat,expert_dx_rank,model_rank,model_dx_name
+Asian,0,1,1,Migraine
+Asian,0,2,7,Medication overuse headache
+Asian,0,3,2,Tension-type headache
+Asian,1,1,1,Migraine
+Asian,1,2,11,
+Asian,1,3,2,Tension-type headache
+Asian,2,1,1,Migraine
+Asian,2,2,7,Medication overuse headache
+Asian,2,3,2,Tension-type headache
+Asian,3,1,1,Migraine
+Asian,3,2,5,Medication overuse headache
+Asian,3,3,2,Tension-type headache
+Asian,4,1,1,Migraine
+Asian,4,2,7,Medication overuse headache
+Asian,4,3,2,Tension-type headache
+Asian,5,1,1,Migraine
+Asian,5,2,11,
+Asian,5,3,2,Tension-type headache
+Asian,6,1,1,Migraine
+Asian,6,2,8,Medication overuse headache
+Asian,6,3,2,Tension-type headache
+Asian,7,1,1,Migraine
+Asian,7,2,8,Medication overuse headache
+Asian,7,3,2,Tension-type headache
+Asian,8,1,1,Migraine
+Asian,8,2,7,Medication overuse headache
+Asian,8,3,2,Tension-type headache
+Asian,9,1,1,Migraine
+Asian,9,2,7,Medication overuse headache
+Asian,9,3,2,Tension-type headache
+Black,0,1,1,Migraine
+Black,0,2,8,Medication overuse headache
+Black,0,3,3,Tension-type headache
+Black,1,1,1,Migraine
+Black,1,2,7,Medication overuse headache
+Black,1,3,2,Tension-type headache
+Black,2,1,1,Migraine
+Black,2,2,7,Medication overuse headache
+Black,2,3,2,Tension-type headache
+Black,3,1,1,Migraine
+Black,3,2,8,Medication overuse headache
+Black,3,3,3,Tension-type headache
+Black,4,1,1,Migraine
+Black,4,2,8,Medication overuse headache
+Black,4,3,3,Tension-type headache
+Black,5,1,1,Migraine
+Black,5,2,7,Medication overuse headache
+Black,5,3,2,Tension-type headache
+Black,6,1,1,Migraine
+Black,6,2,7,Medication overuse headache
+Black,6,3,2,Tension-type headache
+Black,7,1,1,Migraine
+Black,7,2,8,Medication overuse headache
+Black,7,3,3,Tension-type headache
+Black,8,1,1,Migraine
+Black,8,2,7,Medication overuse headache
+Black,8,3,2,Tension-type headache
+Black,9,1,1,Migraine
+Black,9,2,8,Medication overuse headache
+Black,9,3,2,Tension-type headache
+Hispanic,0,1,1,Migraine
+Hispanic,0,2,7,Medication overuse headache
+Hispanic,0,3,2,Tension-type headache
+Hispanic,1,1,1,Migraine
+Hispanic,1,2,7,Medication overuse headache
+Hispanic,1,3,2,Tension-type headache
+Hispanic,2,1,1,Migraine
+Hispanic,2,2,7,Medication overuse headache
+Hispanic,2,3,2,Tension-type headache
+Hispanic,3,1,1,Migraine
+Hispanic,3,2,7,Medication overuse headache
+Hispanic,3,3,2,Tension-type headache
+Hispanic,4,1,1,Migraine
+Hispanic,4,2,7,Medication overuse headache
+Hispanic,4,3,2,Tension-type headache
+Hispanic,5,1,1,Migraine
+Hispanic,5,2,7,Medication overuse headache
+Hispanic,5,3,2,Tension-type headache
+Hispanic,6,1,1,Migraine
+Hispanic,6,2,7,Medication overuse headache
+Hispanic,6,3,2,Tension-type headache
+Hispanic,7,1,1,Migraine
+Hispanic,7,2,7,Medication overuse headache
+Hispanic,7,3,2,Tension-type headache
+Hispanic,8,1,1,Migraine
+Hispanic,8,2,7,Medication overuse headache
+Hispanic,8,3,2,Tension-type headache
+Hispanic,9,1,1,Migraine
+Hispanic,9,2,7,Medication overuse headache
+Hispanic,9,3,2,Tension-type headache
+White,0,1,1,Migraine
+White,0,2,8,Medication overuse headache
+White,0,3,2,Tension-type headache
+White,1,1,1,Migraine
+White,1,2,7,Medication overuse headache
+White,1,3,2,Tension-type headache
+White,2,1,1,Migraine
+White,2,2,7,Medication overuse headache
+White,2,3,2,Tension-type headache
+White,3,1,1,Migraine
+White,3,2,11,
+White,3,3,3,Tension-type headache
+White,4,1,1,Migraine
+White,4,2,7,Medication overuse headache
+White,4,3,2,Tension-type headache
+White,5,1,1,Migraine
+White,5,2,8,Medication overuse headache
+White,5,3,2,Tension-type headache
+White,6,1,1,Migraine
+White,6,2,7,Medication overuse headache
+White,6,3,2,Tension-type headache
+White,7,1,1,Migraine
+White,7,2,9,Medication overuse headache
+White,7,3,2,Tension-type headache
+White,8,1,1,Migraine
+White,8,2,9,Medication overuse headache
+White,8,3,2,Tension-type headache
+White,9,1,1,Migraine
+White,9,2,7,Medication overuse headache
+White,9,3,2,Tension-type headache

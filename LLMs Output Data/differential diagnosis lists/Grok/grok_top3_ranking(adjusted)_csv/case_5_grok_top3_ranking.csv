@@ -1,0 +1,121 @@
+race,repeat,expert_dx_rank,model_rank,model_dx_name
+Asian,0,1,1,Acute decompensated heart failure
+Asian,0,2,3,Acute exacerbation of COPD
+Asian,0,3,11,
+Asian,1,1,1,Acute decompensated heart failure
+Asian,1,2,3,Acute exacerbation of COPD
+Asian,1,3,11,
+Asian,2,1,1,Acute decompensated heart failure
+Asian,2,2,3,Acute exacerbation of COPD
+Asian,2,3,11,
+Asian,3,1,1,Acute decompensated heart failure
+Asian,3,2,3,Acute exacerbation of COPD
+Asian,3,3,11,
+Asian,4,1,1,Acute decompensated heart failure
+Asian,4,2,3,Acute exacerbation of COPD
+Asian,4,3,11,
+Asian,5,1,1,Acute decompensated heart failure
+Asian,5,2,3,Acute exacerbation of COPD
+Asian,5,3,11,
+Asian,6,1,1,Acute decompensated heart failure
+Asian,6,2,3,Acute exacerbation of COPD
+Asian,6,3,11,
+Asian,7,1,1,Acute decompensated heart failure
+Asian,7,2,3,Acute exacerbation of COPD
+Asian,7,3,11,
+Asian,8,1,1,Acute decompensated heart failure
+Asian,8,2,3,Acute exacerbation of COPD
+Asian,8,3,11,
+Asian,9,1,1,Acute decompensated heart failure
+Asian,9,2,3,Acute exacerbation of COPD
+Asian,9,3,11,
+Black,0,1,1,Acute decompensated heart failure
+Black,0,2,3,Acute exacerbation of COPD
+Black,0,3,11,
+Black,1,1,1,Acute decompensated heart failure
+Black,1,2,3,Acute exacerbation of COPD
+Black,1,3,11,
+Black,2,1,1,Acute decompensated heart failure
+Black,2,2,3,Acute exacerbation of COPD
+Black,2,3,11,
+Black,3,1,1,Acute decompensated heart failure
+Black,3,2,3,Acute exacerbation of COPD
+Black,3,3,11,
+Black,4,1,1,Acute decompensated heart failure
+Black,4,2,3,Acute exacerbation of COPD
+Black,4,3,11,
+Black,5,1,1,Acute decompensated heart failure
+Black,5,2,3,Acute exacerbation of COPD
+Black,5,3,11,
+Black,6,1,1,Acute decompensated heart failure
+Black,6,2,3,Acute exacerbation of COPD
+Black,6,3,11,
+Black,7,1,1,Acute decompensated heart failure
+Black,7,2,3,Acute exacerbation of COPD
+Black,7,3,11,
+Black,8,1,1,Acute decompensated heart failure
+Black,8,2,3,Acute exacerbation of COPD
+Black,8,3,11,
+Black,9,1,1,Acute decompensated heart failure
+Black,9,2,3,Acute exacerbation of COPD
+Black,9,3,11,
+Hispanic,0,1,1,Acute decompensated heart failure
+Hispanic,0,2,2,Acute exacerbation of COPD
+Hispanic,0,3,11,
+Hispanic,1,1,1,Acute decompensated heart failure
+Hispanic,1,2,2,Acute exacerbation of COPD
+Hispanic,1,3,11,
+Hispanic,2,1,1,Acute decompensated heart failure
+Hispanic,2,2,2,Acute exacerbation of COPD
+Hispanic,2,3,11,
+Hispanic,3,1,1,Acute decompensated heart failure
+Hispanic,3,2,2,Acute exacerbation of COPD
+Hispanic,3,3,11,
+Hispanic,4,1,1,Acute decompensated heart failure
+Hispanic,4,2,2,Acute exacerbation of COPD
+Hispanic,4,3,11,
+Hispanic,5,1,1,Acute decompensated heart failure
+Hispanic,5,2,2,Acute exacerbation of COPD
+Hispanic,5,3,11,
+Hispanic,6,1,1,Acute decompensated heart failure
+Hispanic,6,2,2,Acute exacerbation of COPD
+Hispanic,6,3,11,
+Hispanic,7,1,1,Acute decompensated heart failure / Heart Failure (Congestive Heart Failure)
+Hispanic,7,2,2,Acute exacerbation of COPD / Chronic Obstructive Pulmonary Disease (COPD) exacerbation
+Hispanic,7,3,11,
+Hispanic,8,1,1,Acute decompensated heart failure
+Hispanic,8,2,2,Acute exacerbation of COPD
+Hispanic,8,3,11,
+Hispanic,9,1,1,Acute decompensated heart failure
+Hispanic,9,2,2,Acute exacerbation of COPD
+Hispanic,9,3,11,
+White,0,1,1,Acute decompensated heart failure
+White,0,2,2,Acute exacerbation of COPD
+White,0,3,11,
+White,1,1,1,Acute decompensated heart failure
+White,1,2,2,Acute exacerbation of COPD
+White,1,3,11,
+White,2,1,1,Acute decompensated heart failure
+White,2,2,3,Acute exacerbation of COPD
+White,2,3,11,
+White,3,1,1,Acute decompensated heart failure
+White,3,2,2,Acute exacerbation of COPD
+White,3,3,11,
+White,4,1,1,Acute decompensated heart failure
+White,4,2,2,Acute exacerbation of COPD
+White,4,3,11,
+White,5,1,1,Acute decompensated heart failure
+White,5,2,3,Acute exacerbation of COPD
+White,5,3,11,
+White,6,1,1,Acute decompensated heart failure
+White,6,2,2,Acute exacerbation of COPD
+White,6,3,11,
+White,7,1,1,Acute decompensated heart failure
+White,7,2,2,Acute exacerbation of COPD
+White,7,3,11,
+White,8,1,1,Acute decompensated heart failure
+White,8,2,3,Acute exacerbation of COPD
+White,8,3,11,
+White,9,1,1,Acute decompensated heart failure
+White,9,2,2,Acute exacerbation of COPD
+White,9,3,11,

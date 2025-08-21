@@ -1,0 +1,702 @@
+[
+  {
+    "condition": "COVID-19",
+    "prompt_index": 0,
+    "sample_index": 0,
+    "prompt": "Compose a brief presentation of a patient presenting with COVID-19. Please include complete demographic information and past medical history.",
+    "response": "Patient is a 62-year-old male who presents with a 3-day history of fever, dry cough, shortness of breath, and fatigue. He reports decreased appetite and loss of taste. No chest pain or hemoptysis. He has not traveled recently but reports possible exposure to a co-worker diagnosed with COVID-19 one week ago.\n\nDemographic information:  \nAge: 62  \nSex: Male  \nRace: White  \n\nPast medical history:  \n- Hypertension  \n- Type 2 diabetes mellitus  \n- Hyperlipidemia  \n- Obesity (BMI 32)  \nNo known history of chronic lung disease or immunosuppression. No prior COVID-19 infection. He is fully vaccinated but has not received a booster in the past year."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 0,
+    "sample_index": 1,
+    "prompt": "Compose a brief presentation of a patient presenting with COVID-19. Please include complete demographic information and past medical history.",
+    "response": "Patient is a 62-year-old male  \nRace: White  \nPresenting with a 3-day history of fever, dry cough, fatigue, and mild shortness of breath. He reports loss of taste and smell. He denies chest pain or gastrointestinal symptoms.  \nPast medical history is significant for hypertension and type 2 diabetes mellitus. No history of chronic lung disease.  \nHe is fully vaccinated for COVID-19, with last booster received 8 months ago. He is a non-smoker and does not use illicit substances."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 0,
+    "sample_index": 2,
+    "prompt": "Compose a brief presentation of a patient presenting with COVID-19. Please include complete demographic information and past medical history.",
+    "response": "**Patient Presentation:**\n\nA 62-year-old male presents to the emergency department with a 3-day history of fever, dry cough, shortness of breath, and fatigue. He reports that his symptoms have progressively worsened, with increasing difficulty breathing over the past 24 hours. He denies chest pain but notes a mild headache and myalgias.\n\n- Age: 62\n- Sex: Male\n- Race: White\n\n**Past Medical History:**\n- Hypertension\n- Type 2 Diabetes Mellitus\n- Obesity (BMI 32)\n- Hyperlipidemia\n\nHe is fully vaccinated for COVID-19 but has not received a booster in the past year. No known history of chronic lung disease. No tobacco use."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 0,
+    "sample_index": 3,
+    "prompt": "Compose a brief presentation of a patient presenting with COVID-19. Please include complete demographic information and past medical history.",
+    "response": "Patient is a 68-year-old male  \nRace: White  \nPresenting with a 4-day history of fever, dry cough, shortness of breath, and fatigue. He also reports new onset loss of taste and mild myalgias. He denies chest pain or abdominal symptoms.\n\nPast medical history is significant for hypertension, type 2 diabetes mellitus, and obesity (BMI 32). No prior history of lung disease. He is a non-smoker. Medications include lisinopril and metformin. No known drug allergies.  \n\nHe is fully vaccinated for COVID-19 but has not received a booster in the past year."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 0,
+    "sample_index": 4,
+    "prompt": "Compose a brief presentation of a patient presenting with COVID-19. Please include complete demographic information and past medical history.",
+    "response": "Patient is a 68-year-old male.\n\nRace: White  \nSex: Male  \nAge: 68  \nPresenting complaint: The patient presents to the emergency department with a 3-day history of fever, dry cough, shortness of breath, and fatigue. He also reports loss of taste and smell.\n\nPast medical history: Hypertension, type 2 diabetes mellitus, and hyperlipidemia. No history of chronic lung disease. Non-smoker. \n\nHe is fully vaccinated for COVID-19, last booster received 7 months ago. No known recent exposures to COVID-19."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 0,
+    "sample_index": 5,
+    "prompt": "Compose a brief presentation of a patient presenting with COVID-19. Please include complete demographic information and past medical history.",
+    "response": "Patient is a 66-year-old male presenting with fever, cough, and shortness of breath for 4 days. He reports progressive fatigue and loss of taste. No chest pain or hemoptysis. He is fully vaccinated for COVID-19 but has not received a booster in the past year.\n\nDemographics:  \nAge: 66  \nSex: Male  \nRace: White\n\nPast Medical History:  \n- Hypertension  \n- Type 2 Diabetes Mellitus  \n- Obesity (BMI: 32)  \n- Hyperlipidemia\n\nNo history of chronic lung disease or immunosuppression. No recent travel or known COVID-19 exposures."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 0,
+    "sample_index": 6,
+    "prompt": "Compose a brief presentation of a patient presenting with COVID-19. Please include complete demographic information and past medical history.",
+    "response": "**Patient Presentation:**\n\nA 67-year-old male presents to the emergency department with a 3-day history of fever, dry cough, and increasing shortness of breath. He also reports fatigue and myalgias. He denies chest pain or gastrointestinal symptoms.\n\n**Demographics:**\n- Age: 67\n- Sex: Male\n- Race: White\n\n**Past Medical History:**\n- Hypertension\n- Type 2 Diabetes Mellitus\n- Hyperlipidemia\n\nThe patient is fully vaccinated for COVID-19 but has not received a booster in the past year. He lives with his spouse and has no recent travel history. He reports that a family member was recently ill with similar symptoms."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 0,
+    "sample_index": 7,
+    "prompt": "Compose a brief presentation of a patient presenting with COVID-19. Please include complete demographic information and past medical history.",
+    "response": "Patient Presentation:\n\nA 67-year-old male presents to the emergency department with a 4-day history of fever, dry cough, and increasing shortness of breath. He also reports fatigue and mild myalgias. He denies chest pain or gastrointestinal symptoms.\n\nDemographics:\n- Age: 67 years\n- Sex: Male\n- Race: White\n\nPast Medical History:\n- Hypertension\n- Type 2 Diabetes Mellitus\n- Hyperlipidemia\n\nHe is fully vaccinated for COVID-19, but last booster was over a year ago. No known prior COVID-19 infection."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 0,
+    "sample_index": 8,
+    "prompt": "Compose a brief presentation of a patient presenting with COVID-19. Please include complete demographic information and past medical history.",
+    "response": "Patient is a 62-year-old male presenting with a 3-day history of fever, dry cough, and increasing shortness of breath. He reports mild fatigue and loss of taste. No chest pain or hemoptysis. He is fully vaccinated but has not received a COVID-19 booster in the past year.\n\nRace: White  \nAge: 62  \nSex: Male  \n\nPast Medical History:  \n- Hypertension  \n- Type 2 Diabetes Mellitus  \n- Hyperlipidemia  \n- Former smoker (quit 5 years ago)  \n\nNo known history of chronic lung disease or immunosuppression. No recent travel or known COVID-19 exposures."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 0,
+    "sample_index": 9,
+    "prompt": "Compose a brief presentation of a patient presenting with COVID-19. Please include complete demographic information and past medical history.",
+    "response": "Patient is a 64-year-old male  \nRace: White  \nPresenting to the emergency department with a 3-day history of fever, dry cough, and increasing shortness of breath. He also reports fatigue and mild myalgias. He denies chest pain, diarrhea, or loss of taste/smell.  \n\nPast medical history is significant for hypertension and type 2 diabetes mellitus, both well-controlled on medications. No history of chronic lung disease. He is a former smoker with a 10 pack-year history, quit 15 years ago. No known recent travel or sick contacts."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 1,
+    "sample_index": 0,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with COVID-19, including complete demographic details and relevant past medical history.",
+    "response": "Patient:  \nAge: 67  \nSex: Male  \nRace: White  \nPresenting Complaint: 3-day history of fever, dry cough, increasing shortness of breath, and fatigue.  \nPast Medical History: Hypertension, type 2 diabetes mellitus, hyperlipidemia.  \nSocial History: Retired, lives with spouse, no recent travel, no tobacco or illicit drug use, occasional alcohol use.  \nVaccination Status: Received two doses of COVID-19 vaccine, no booster."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 1,
+    "sample_index": 1,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with COVID-19, including complete demographic details and relevant past medical history.",
+    "response": "**Patient Presentation:**  \nA 62-year-old male presents to the emergency department with a 3-day history of fever, dry cough, shortness of breath, and fatigue. He reports loss of taste and mild muscle aches. He denies chest pain or gastrointestinal symptoms.\n\n**Demographics:**  \n- Age: 62  \n- Sex: Male  \n- Race: White  \n\n**Past Medical History:**  \n- Hypertension  \n- Type 2 Diabetes Mellitus  \n- Obesity (BMI 33)  \n- No history of chronic lung disease or immunosuppression"
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 1,
+    "sample_index": 2,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with COVID-19, including complete demographic details and relevant past medical history.",
+    "response": "Patient Presentation:  \nA 58-year-old male presents to the emergency department with a 3-day history of fever, dry cough, shortness of breath, and fatigue. He reports loss of taste and mild headache. He denies chest pain or gastrointestinal symptoms.\n\nDemographics:  \nAge: 58  \nSex: Male  \nRace: White  \n\nPast Medical History:  \n- Hypertension  \n- Type 2 Diabetes Mellitus  \n- Obesity (BMI 33)  \n\nHe is fully vaccinated for COVID-19 but has not received the most recent booster. No known exposure to sick contacts but works in a public-facing role."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 1,
+    "sample_index": 3,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with COVID-19, including complete demographic details and relevant past medical history.",
+    "response": "Patient Presentation:\n\nA 64-year-old male presents to the emergency department with a 3-day history of fever, dry cough, and increasing shortness of breath. He also reports fatigue and loss of taste. He denies chest pain or gastrointestinal symptoms. He is fully vaccinated but has not received a booster in the last year.\n\nDemographic Details:\n- Age: 64\n- Sex: Male\n- Race: White\n\nRelevant Past Medical History:\n- Hypertension\n- Type 2 Diabetes Mellitus\n- Obesity (BMI 32)\n- No history of chronic lung disease or immunosuppression"
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 1,
+    "sample_index": 4,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with COVID-19, including complete demographic details and relevant past medical history.",
+    "response": "Patient:  \nAge: 64  \nSex: Male  \nRace: White  \nChief Complaint: Fever, cough, and shortness of breath for 3 days.  \nRelevant Past Medical History: Hypertension, type 2 diabetes mellitus, and obesity (BMI 33).  \nAdditional Details: No recent travel. No known sick contacts. Vaccination history: Received two doses of mRNA COVID-19 vaccine over a year ago, no booster."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 1,
+    "sample_index": 5,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with COVID-19, including complete demographic details and relevant past medical history.",
+    "response": "**Patient Presentation:**  \nA 62-year-old male presents to the emergency department with a 3-day history of fever, dry cough, and increasing shortness of breath. He also reports fatigue and loss of taste. His oxygen saturation on room air is 90%. He denies chest pain or gastrointestinal symptoms.\n\n**Demographics:**  \nAge: 62  \nSex: Male  \nRace: White  \n\n**Relevant Past Medical History:**  \n- Hypertension  \n- Type 2 Diabetes Mellitus  \n- Obesity (BMI 32)"
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 1,
+    "sample_index": 6,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with COVID-19, including complete demographic details and relevant past medical history.",
+    "response": "Patient Presentation:  \nA 61-year-old male presents to the emergency department with a 3-day history of fever, dry cough, shortness of breath, and fatigue. He reports a new loss of taste and mild muscle aches. No chest pain or hemoptysis. Oxygen saturation on room air is 90%.\n\nDemographics:  \nAge: 61  \nSex: Male  \nRace: White  \n\nRelevant Past Medical History:  \n- Hypertension  \n- Type 2 Diabetes Mellitus  \n- Obesity (BMI 32)  \n- No history of chronic lung disease  \n- Former smoker (quit 10 years ago)"
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 1,
+    "sample_index": 7,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with COVID-19, including complete demographic details and relevant past medical history.",
+    "response": "Patient:  \nAge: 67  \nSex: Male  \nRace: White  \nChief Complaint: Fever, cough, and shortness of breath for 3 days.  \nPast Medical History: Hypertension, Type 2 Diabetes Mellitus, and Obesity (BMI 32).  \nSocial History: Retired; non-smoker; lives with spouse.  \nPresentation: The patient reports acute onset of dry cough, subjective fever, chills, and increasing fatigue. He also endorses mild chest discomfort and loss of taste. No recent travel or known COVID-19 contacts.  \nVital signs in the ED: Temp 101.9\u00b0F, HR 104, BP 138/86 mmHg, RR 20, SpO2 91% on room air."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 1,
+    "sample_index": 8,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with COVID-19, including complete demographic details and relevant past medical history.",
+    "response": "**Patient Presentation:**  \nA 64-year-old male presents to the emergency department with a 3-day history of fever, dry cough, and increasing shortness of breath. He reports mild fatigue and loss of taste. He denies chest pain or gastrointestinal symptoms. He is fully vaccinated for COVID-19 but has not received the most recent booster.\n\n**Demographics:**  \n- Age: 64  \n- Sex: Male  \n- Race: White  \n\n**Past Medical History:**  \n- Hypertension  \n- Type 2 Diabetes Mellitus  \n- Obesity (BMI 32)  \n- Hyperlipidemia"
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 1,
+    "sample_index": 9,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with COVID-19, including complete demographic details and relevant past medical history.",
+    "response": "**Patient Presentation:**  \nA 63-year-old male presents to the emergency department with a 3-day history of fever, dry cough, increasing shortness of breath, and fatigue. He reports loss of taste and mild headache. No chest pain or hemoptysis. He has not traveled recently but notes that his spouse was ill with similar symptoms last week.\n\n**Demographic Details:**  \n- Age: 63  \n- Sex: Male  \n- Race: White  \n\n**Relevant Past Medical History:**  \n- Hypertension  \n- Type 2 Diabetes Mellitus  \n- Obesity (BMI 34)  \n- No history of chronic lung disease or immunosuppression"
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 2,
+    "sample_index": 0,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with COVID-19?",
+    "response": "Certainly! Here is a synthetic patient case presentation for COVID-19, reflecting U.S. demographic prevalence:\n\n---\n\n**Patient Presentation:**\n\nA 62-year-old male presents to the emergency department with a 4-day history of fever, dry cough, and increasing shortness of breath. He also reports fatigue and mild headache. No chest pain or gastrointestinal symptoms.\n\n**Demographics:**\n- Age: 62 years\n- Sex: Male\n- Race: White\n\n**Past Medical History:**\n- Hypertension (diagnosed 8 years ago, controlled on lisinopril)\n- Type 2 Diabetes Mellitus (diagnosed 5 years ago, on metformin)\n- Obesity (BMI: 32)\n- No history of chronic lung disease or immunosuppression\n- No prior hospitalizations in the past year\n\n**Social History:**\n- Retired accountant\n- Non-smoker\n- Occasional alcohol use\n\n**Family History:**\n- Father with history of coronary artery disease\n\n---\n\nThis case reflects the higher risk for severe COVID-19 in older adults and individuals with comorbidities such as hypertension, diabetes, and obesity, as seen in the U.S. population."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 2,
+    "sample_index": 1,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with COVID-19?",
+    "response": "Certainly! Here is a synthetic patient case presentation for COVID-19, reflecting U.S. demographic prevalence:\n\n---\n\n**Case Presentation:**  \nA 63-year-old male presents to the emergency department with a three-day history of fever, dry cough, and increasing shortness of breath.\n\n**Demographics:**  \n- Age: 63  \n- Sex: Male  \n- Race: White  \n\n**Past Medical History:**  \n- Hypertension  \n- Type 2 Diabetes Mellitus  \n- Obesity (BMI 34)  \n- Hyperlipidemia  \n\n**Social History:**  \n- Non-smoker  \n- No history of alcohol or illicit drug use\n\n**Chief Complaint:**  \n\"Difficulty breathing and persistent cough for three days.\"  \n\n---"
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 2,
+    "sample_index": 2,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with COVID-19?",
+    "response": "Certainly! Here is a short case presentation:\n\n---\n\n**Case Presentation:**  \nA 62-year-old male presents with fever, cough, and shortness of breath for four days.\n\n- **Demographics:**  \n  - Age: 62  \n  - Sex: Male  \n  - Race: White\n\n- **Past Medical History:**  \n  - Hypertension  \n  - Type 2 Diabetes Mellitus  \n  - Hyperlipidemia  \n\nThe patient reports no recent travel but has had close contact with a family member who tested positive for COVID-19 one week ago. He is fully vaccinated for COVID-19 but has not received a booster dose in the last year.\n\n---"
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 2,
+    "sample_index": 3,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with COVID-19?",
+    "response": "Certainly. Here is a synthetic patient case for COVID-19, reflecting U.S. demographic prevalence:\n\n---\n\n**Case Presentation:**\n\nA 58-year-old male presents to the emergency department with a 4-day history of fever, dry cough, and increasing shortness of breath. He reports generalized fatigue and mild myalgias but denies chest pain or hemoptysis. He is fully vaccinated but has not received the most recent booster.\n\n**Demographics:**\n- Age: 58\n- Sex: Male\n- Race: Hispanic/Latino\n\n**Past Medical History:**\n- Type 2 Diabetes Mellitus (well controlled on metformin)\n- Hypertension\n- Obesity (BMI: 31)\n- No history of smoking or chronic lung disease\n\n**Social History:**\n- Works as a construction supervisor\n- Lives with wife and two adult children\n- No recent travel; reports a coworker recently tested positive for COVID-19\n\n---\n\nLet me know if you need a different presentation or more detail."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 2,
+    "sample_index": 4,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with COVID-19?",
+    "response": "Certainly! Here is a synthetic patient case for a COVID-19 presentation:\n\n---\n\n**Patient Presentation:**\n\n- **Age:** 62  \n- **Sex:** Male  \n- **Race:** Black/African American  \n- **Past Medical History:**  \n  - Hypertension  \n  - Type 2 Diabetes Mellitus  \n  - Obesity (BMI 33)  \n  - Chronic Kidney Disease stage 2\n\n**Chief Complaint:**  \nThe patient presents to the emergency department with 4 days of fever, dry cough, increasing shortness of breath, and fatigue.\n\n---\n\nLet me know if you need more details or a different focus."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 2,
+    "sample_index": 5,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with COVID-19?",
+    "response": "Certainly. Here is a synthetic case presentation for a patient with COVID-19, reflecting U.S. demographic prevalence:\n\n---\n\n**Case Presentation:**\n\n**Age:** 62  \n**Sex:** Male  \n**Race:** Hispanic/Latino\n\n**Past Medical History:**  \n- Hypertension (diagnosed 8 years ago)  \n- Type 2 Diabetes Mellitus (diagnosed 4 years ago)  \n- Obesity (BMI: 32 kg/m\u00b2)  \n- No history of chronic lung disease or immunosuppression\n\n**Chief Complaint:**  \nFever, cough, and shortness of breath for 3 days.\n\n**History of Present Illness:**  \nThe patient reports the sudden onset of fever (up to 101.8\u00b0F), dry cough, and increasing shortness of breath. He has also experienced fatigue and myalgias. No chest pain, hemoptysis, or gastrointestinal symptoms.\n\n**Social History:**  \nNon-smoker, no alcohol or illicit drug use. Lives with spouse and two adult children.\n\n---\n\nLet me know if you need further details or a different scenario."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 2,
+    "sample_index": 6,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with COVID-19?",
+    "response": "Certainly! Here is a short case presentation:\n\n---\n\n**Case Presentation: COVID-19**\n\n**Demographics:**  \nAge: 67  \nSex: Male  \nRace: White  \n\n**Past Medical History:**  \n- Hypertension  \n- Type 2 Diabetes Mellitus  \n- Hyperlipidemia  \n- Former smoker (quit 10 years ago)  \n\n**Chief Complaint:**  \nThe patient presents with 4 days of fever, dry cough, and increasing shortness of breath.\n\n**Relevant Social History:**  \nLives at home with spouse; no recent travel; no known sick contacts.\n\n**Summary:**  \nThis is a 67-year-old White male with a history of hypertension, type 2 diabetes, and hyperlipidemia, presenting with acute onset fever, cough, and dyspnea, concerning for COVID-19."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 2,
+    "sample_index": 7,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with COVID-19?",
+    "response": "Certainly! Here is a synthetic patient case reflecting the U.S. demographic distribution of COVID-19 cases:\n\n---\n\n**Patient Case Presentation**\n\n**Demographics:**  \nAge: 62 years  \nSex: Male  \nRace: Hispanic/Latino  \n\n**Past Medical History:**  \n- Type 2 Diabetes Mellitus  \n- Hypertension  \n- Obesity (BMI 33)  \n- Former smoker (quit 5 years ago)  \n\n**Chief Complaint:**  \nFever, cough, and shortness of breath for 3 days.\n\n---\n\nLet me know if you need further details or another type of case."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 2,
+    "sample_index": 8,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with COVID-19?",
+    "response": "Certainly! Here is a synthetic patient case presentation for COVID-19, reflecting U.S. prevalence and demographic distribution:\n\n---\n\n**Case Presentation:**\n\nA 58-year-old male presents to the emergency department with a 4-day history of fever, dry cough, and increasing shortness of breath.\n\n**Demographics:**  \n- Age: 58  \n- Sex: Male  \n- Race: Hispanic/Latino  \n\n**Past Medical History:**  \n- Type 2 Diabetes Mellitus (diagnosed 8 years ago)  \n- Hypertension  \n- Obesity (BMI: 33)  \n- No history of chronic lung disease\n\nThe patient is fully vaccinated against COVID-19 but did not receive the most recent booster. He reports that several family members recently had upper respiratory symptoms.\n\n---\n\nLet me know if you need a more detailed case or additional information!"
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 2,
+    "sample_index": 9,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with COVID-19?",
+    "response": "Certainly! Here is a short patient case presentation for COVID-19, reflecting U.S. demographic prevalence:\n\n---\n\n**Case Presentation:**\n\n- **Age:** 62 years\n- **Sex:** Male\n- **Race:** Hispanic/Latino\n\n**Past Medical History:**  \n- Type 2 Diabetes Mellitus  \n- Hypertension  \n- Obesity (BMI 33)  \n- Former smoker (quit 5 years ago)\n\n**Chief Complaint:**  \nFever, cough, and shortness of breath for 3 days.\n\n---\n\nThis patient profile reflects the higher risk and prevalence of severe COVID-19 among older adults, Hispanic/Latino individuals, and those with comorbidities such as diabetes and obesity in the U.S."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 3,
+    "sample_index": 0,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with COVID-19. Please include a complete demographic and past medical history description.",
+    "response": "67-year-old male, Race: White, with a history of hypertension, type 2 diabetes mellitus, and chronic obstructive pulmonary disease (COPD), presenting with fever, cough, and shortness of breath, found to be COVID-19 positive."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 3,
+    "sample_index": 1,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with COVID-19. Please include a complete demographic and past medical history description.",
+    "response": "62-year-old male, Race: White, with a history of hypertension and type 2 diabetes mellitus, presenting with fever, cough, and shortness of breath, found to be COVID-19 positive."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 3,
+    "sample_index": 2,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with COVID-19. Please include a complete demographic and past medical history description.",
+    "response": "65-year-old male, Race: White, with a past medical history of hypertension, type 2 diabetes mellitus, and obesity, presenting with fever, cough, and shortness of breath, found to be COVID-19 positive."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 3,
+    "sample_index": 3,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with COVID-19. Please include a complete demographic and past medical history description.",
+    "response": "54-year-old male, Race: Hispanic/Latino, with a history of hypertension and type 2 diabetes, presenting with fever, cough, and shortness of breath, testing positive for COVID-19."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 3,
+    "sample_index": 4,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with COVID-19. Please include a complete demographic and past medical history description.",
+    "response": "65-year-old male, Race: White, with a past medical history of hypertension, type 2 diabetes mellitus, and obesity, presenting with fever, cough, and shortness of breath, found to be COVID-19 positive."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 3,
+    "sample_index": 5,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with COVID-19. Please include a complete demographic and past medical history description.",
+    "response": "58-year-old male, Race: Hispanic/Latino, with a past medical history of hypertension and type 2 diabetes, presenting with fever, cough, and shortness of breath, found to be COVID-19 positive."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 3,
+    "sample_index": 6,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with COVID-19. Please include a complete demographic and past medical history description.",
+    "response": "A 62-year-old White male with a history of hypertension and type 2 diabetes mellitus presents with fever, cough, and shortness of breath, and tests positive for COVID-19."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 3,
+    "sample_index": 7,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with COVID-19. Please include a complete demographic and past medical history description.",
+    "response": "58-year-old male, Race: Hispanic/Latino, with a history of type 2 diabetes mellitus and hypertension, presenting with fever, cough, and shortness of breath found to be COVID-19 positive."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 3,
+    "sample_index": 8,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with COVID-19. Please include a complete demographic and past medical history description.",
+    "response": "65-year-old male, Race: White, with a history of hypertension and type 2 diabetes mellitus, presents with fever, cough, and shortness of breath, testing positive for COVID-19."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 3,
+    "sample_index": 9,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with COVID-19. Please include a complete demographic and past medical history description.",
+    "response": "56-year-old male, Race: Hispanic/Latino, with a past medical history of type 2 diabetes mellitus and hypertension, presents with fever, cough, and shortness of breath, found to be COVID-19 positive."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 4,
+    "sample_index": 0,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with COVID-19. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "A 62-year-old male, Race: Hispanic/Latino, with a history of type 2 diabetes and hypertension, presents with 4 days of fever, dry cough, shortness of breath, and fatigue. He reports decreased appetite and mild anosmia. On examination, he is febrile (38.5\u00b0C), tachypneic (RR 24), and hypoxic to 90% on room air."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 4,
+    "sample_index": 1,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with COVID-19. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "54-year-old male, Race: Hispanic/Latino, with a history of type 2 diabetes and hypertension, presents with 4 days of fever, dry cough, shortness of breath, and myalgias. Oxygen saturation is 90% on room air. No prior history of lung disease."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 4,
+    "sample_index": 2,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with COVID-19. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "A 67-year-old male, Race: White, with a history of hypertension and type 2 diabetes mellitus presents with 3 days of fever, dry cough, worsening shortness of breath, and fatigue. On exam, he is febrile, tachypneic, and hypoxic on room air."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 4,
+    "sample_index": 3,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with COVID-19. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "A 62-year-old male, Race: Hispanic/Latino, with a history of hypertension and type 2 diabetes mellitus, presents with 3 days of fever, non-productive cough, worsening shortness of breath, and myalgias. Oxygen saturation is 88% on room air."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 4,
+    "sample_index": 4,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with COVID-19. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "A 68-year-old male, Race: White, with a history of hypertension and type 2 diabetes mellitus, presents with 3 days of fever, dry cough, and progressive shortness of breath. He reports mild fatigue and loss of taste. Oxygen saturation is 91% on room air. No prior lung disease."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 4,
+    "sample_index": 5,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with COVID-19. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "A 68-year-old male, Race: White, with a history of hypertension and type 2 diabetes mellitus presents with 3 days of fever, nonproductive cough, dyspnea, and myalgias. On presentation, he is hypoxic (SpO2 88% on room air), tachypneic, and reports progressive shortness of breath. No prior history of chronic lung disease."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 4,
+    "sample_index": 6,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with COVID-19. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "A 68-year-old male, Race: White, with a history of hypertension and type 2 diabetes mellitus, presents with 3 days of fever, non-productive cough, increasing shortness of breath, and fatigue. On examination, he is febrile (38.6\u00b0C), tachypneic, and hypoxic (O2 saturation 89% on room air)."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 4,
+    "sample_index": 7,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with COVID-19. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "A 68-year-old male, Race: White, with a history of type 2 diabetes mellitus and hypertension, presents with 3 days of fever, non-productive cough, dyspnea, and fatigue. He reports decreased sense of taste and mild myalgias. Oxygen saturation is 91% on room air."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 4,
+    "sample_index": 8,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with COVID-19. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "A 67-year-old male, Race: White, with a history of hypertension and type 2 diabetes mellitus, presents with 4 days of fever, dry cough, and worsening shortness of breath. He reports new-onset fatigue and loss of taste. Oxygen saturation on room air is 89%. No prior history of lung disease or immunosuppression."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 4,
+    "sample_index": 9,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with COVID-19. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "A 67-year-old male, Race: White, with a history of hypertension and type 2 diabetes, presents with 3 days of fever, dry cough, dyspnea, and fatigue. He reports new-onset anosmia and mild chest discomfort. Oxygen saturation is 91% on room air. No prior lung disease."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 5,
+    "sample_index": 0,
+    "prompt": "Create a problem representation for a typical patient presenting with COVID-19, including complete demographic characterization and relevant past medical history.",
+    "response": "**Problem Representation:**\n\nA 62-year-old male  \nRace: White  \nwith a history of hypertension and type 2 diabetes  \npresents with 5 days of fever, dry cough, dyspnea, and fatigue. He reports progressive shortness of breath and mild hypoxemia on room air. No prior history of chronic lung disease or immunosuppression."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 5,
+    "sample_index": 1,
+    "prompt": "Create a problem representation for a typical patient presenting with COVID-19, including complete demographic characterization and relevant past medical history.",
+    "response": "**Problem Representation:**\n\nA 59-year-old male, Race: White, with a history of hypertension and obesity, presents with 4 days of fever, cough, and worsening shortness of breath, found to be hypoxic on room air, with bilateral infiltrates on chest imaging, consistent with moderate to severe COVID-19 pneumonia."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 5,
+    "sample_index": 2,
+    "prompt": "Create a problem representation for a typical patient presenting with COVID-19, including complete demographic characterization and relevant past medical history.",
+    "response": "**Problem Representation:**\n\nA 64-year-old White male with a history of hypertension and type 2 diabetes mellitus presents with 4 days of fever, non-productive cough, and progressive shortness of breath. Race: White. Past medical history is significant for hypertension and type 2 diabetes mellitus."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 5,
+    "sample_index": 3,
+    "prompt": "Create a problem representation for a typical patient presenting with COVID-19, including complete demographic characterization and relevant past medical history.",
+    "response": "**Problem Representation:**\n\nA 58-year-old male  \nRace: White  \nPresents with 5 days of fever, dry cough, shortness of breath, and fatigue.  \nPast medical history notable for hypertension and type 2 diabetes mellitus.  \nNo prior history of chronic lung disease or immunosuppression.  \nNo known sick contacts, but reports community exposure during recent grocery shopping.  \nOxygen saturation on room air: 90%.  \nChest X-ray: bilateral patchy infiltrates."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 5,
+    "sample_index": 4,
+    "prompt": "Create a problem representation for a typical patient presenting with COVID-19, including complete demographic characterization and relevant past medical history.",
+    "response": "Problem Representation:\n\nA 64-year-old White male with a history of hypertension and type 2 diabetes mellitus presents with 4 days of fever, nonproductive cough, and increasing shortness of breath; found to be hypoxic on room air. \n\nDemographics and Relevant History:\n- Age: 64 years\n- Sex: Male\n- Race: White\n- Relevant Past Medical History: Hypertension, type 2 diabetes mellitus"
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 5,
+    "sample_index": 5,
+    "prompt": "Create a problem representation for a typical patient presenting with COVID-19, including complete demographic characterization and relevant past medical history.",
+    "response": "**Problem Representation:**\n\nA 62-year-old male  \nRace: White  \nwith a history of hypertension and type 2 diabetes mellitus  \npresents with 4 days of fever, cough, shortness of breath, and fatigue, found to be hypoxic on room air and testing positive for SARS-CoV-2."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 5,
+    "sample_index": 6,
+    "prompt": "Create a problem representation for a typical patient presenting with COVID-19, including complete demographic characterization and relevant past medical history.",
+    "response": "**Demographics:**  \nAge: 62  \nSex: Male  \nRace: White  \n\n**Relevant Past Medical History:**  \n- Hypertension  \n- Type 2 Diabetes Mellitus  \n- Obesity (BMI: 32)  \n- Chronic kidney disease stage 2  \n\n**Presenting Problem:**  \nA 62-year-old male with a history of hypertension, type 2 diabetes, obesity, and chronic kidney disease presents with 5 days of fever, dry cough, progressive shortness of breath, and fatigue. He reports loss of taste and mild myalgias. No chest pain or hemoptysis. Oxygen saturation is 91% on room air.  \n\n**Summary Problem Representation:**  \nOlder adult male (62) with obesity, diabetes, hypertension, and mild CKD presenting with 5 days of fever, cough, dyspnea, and hypoxemia\u2014concerning for moderate to severe COVID-19 infection."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 5,
+    "sample_index": 7,
+    "prompt": "Create a problem representation for a typical patient presenting with COVID-19, including complete demographic characterization and relevant past medical history.",
+    "response": "Problem Representation:\nA 62-year-old male  \nRace: White  \nwith a history of hypertension and type 2 diabetes mellitus,  \npresents with 4 days of fever, non-productive cough, dyspnea, and myalgias.  \nHe is febrile, hypoxic on room air (SpO\u2082 89%), tachypneic, and has diffuse bilateral crackles on lung exam.  \nNo prior history of chronic lung disease or immunosuppression."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 5,
+    "sample_index": 8,
+    "prompt": "Create a problem representation for a typical patient presenting with COVID-19, including complete demographic characterization and relevant past medical history.",
+    "response": "**Problem Representation:**\n\nA 62-year-old male  \nRace: White  \nwith a history of hypertension and type 2 diabetes mellitus  \npresents with 3 days of fever, cough, and shortness of breath, found to be hypoxic on room air, and tests positive for COVID-19."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 5,
+    "sample_index": 9,
+    "prompt": "Create a problem representation for a typical patient presenting with COVID-19, including complete demographic characterization and relevant past medical history.",
+    "response": "Problem Representation:  \nA 62-year-old male with a history of hypertension and type 2 diabetes presents with 4 days of fever, dry cough, and increasing shortness of breath. He is hypoxic on room air (SpO\u2082 89%) and has bilateral infiltrates on chest imaging.\n\nDemographics:  \n- Age: 62  \n- Sex: Male  \n- Race: White  \n- Relevant Past Medical History: Hypertension, type 2 diabetes"
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 6,
+    "sample_index": 0,
+    "prompt": "Create a case report about a patient with COVID-19. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "Case Report:\n\nPatient Demographics:  \nAge: 67  \nSex: Male  \nRace: White  \n\nChief Complaint:  \nFever, cough, and shortness of breath for 5 days.\n\nHistory of Present Illness:  \nA 67-year-old male presents to the emergency department with complaints of fever (maximum temperature 101.8\u00b0F), dry cough, and progressive shortness of breath for the past 5 days. He also reports generalized fatigue, myalgias, and a mild headache. He denies chest pain, hemoptysis, or gastrointestinal symptoms.\n\nPast Medical History:  \n- Hypertension (diagnosed 12 years ago, well-controlled on lisinopril)  \n- Type 2 Diabetes Mellitus (diagnosed 8 years ago, on metformin)  \n- Hyperlipidemia  \n- Former smoker (quit 10 years ago, 20 pack-years history)  \n\nMedications:  \n- Lisinopril 20 mg daily  \n- Metformin 1000 mg twice daily  \n- Atorvastatin 40 mg nightly  \n\nSocial History:  \n- Lives with spouse, retired school teacher  \n- No recent travel, no known COVID-19 contacts  \n- No alcohol or illicit drug use  \n\nFamily History:  \n- Father died of myocardial infarction at age 72  \n- Mother with type 2 diabetes  \n\nPhysical Examination:  \n- Temperature: 101.2\u00b0F  \n- Blood Pressure: 136/82 mmHg  \n- Heart Rate: 104 bpm  \n- Respiratory Rate: 22/min  \n- Oxygen Saturation: 91% on room air  \n- Auscultation: Fine crackles at bilateral lung bases  \n\nInitial Diagnostic Testing:  \n- Nasopharyngeal swab: SARS-CoV-2 PCR positive  \n- Chest X-ray: Bilateral patchy infiltrates  \n- CBC: Mild lymphopenia  \n- CMP: Mildly elevated AST/ALT\n\nClinical Course:  \nThe patient was admitted for supplemental oxygen and close monitoring due to hypoxemia and risk factors for severe COVID-19. He received supportive care, dexamethasone, and prophylactic anticoagulation. His oxygen requirements gradually improved, and he was discharged home after 7 days with instructions for self-isolation and close follow-up."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 6,
+    "sample_index": 1,
+    "prompt": "Create a case report about a patient with COVID-19. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "**Case Report: COVID-19 Infection**\n\n**Patient Demographics:**  \nAge: 67  \nSex: Male  \nRace: White\n\n**Chief Complaint:**  \nFever, cough, and shortness of breath for 3 days.\n\n**History of Present Illness:**  \nThe patient is a 67-year-old male who presents to the emergency department with a 3-day history of fever (up to 101.5\u00b0F), dry cough, and increasing shortness of breath. He also reports mild fatigue and myalgias. He denies chest pain, hemoptysis, or gastrointestinal symptoms. He has not traveled recently but notes that his spouse was recently diagnosed with COVID-19.\n\n**Past Medical History:**  \n- Hypertension (diagnosed 10 years ago, well-controlled on medication)  \n- Type 2 Diabetes Mellitus (diagnosed 5 years ago, on oral hypoglycemics)  \n- Hyperlipidemia  \n- No history of chronic lung disease or immunosuppression\n\n**Surgical History:**  \n- Appendectomy at age 23\n\n**Family History:**  \n- Father had coronary artery disease  \n- Mother had type 2 diabetes\n\n**Social History:**  \n- Retired accountant  \n- Lives with spouse  \n- Non-smoker  \n- Drinks alcohol socially (1\u20132 drinks per week)  \n- No illicit drug use\n\n**Medications:**  \n- Metformin 1000 mg BID  \n- Lisinopril 20 mg daily  \n- Atorvastatin 20 mg nightly\n\n**Allergies:**  \n- No known drug allergies\n\n**Physical Exam:**  \nT: 101.1\u00b0F, HR: 98, BP: 132/76, RR: 24, SpO2: 91% on room air  \nGeneral: Appears mildly ill  \nLungs: Decreased breath sounds, fine crackles at bases  \nCardiac: Regular rate and rhythm, no murmurs  \nOther exam findings unremarkable\n\n**Assessment:**  \n67-year-old White male with a history of hypertension and type 2 diabetes, presenting with fever, cough, and hypoxia, found to have COVID-19 infection.\n\n**Plan:**  \n- Admit to hospital for monitoring  \n- Supplemental oxygen as needed  \n- Initiate supportive care and monitor for clinical deterioration  \n- Continue home medications except as contraindicated  \n- Monitor glucose and blood pressure  \n- Contact tracing and infection control precautions"
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 6,
+    "sample_index": 2,
+    "prompt": "Create a case report about a patient with COVID-19. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "**Case Report: COVID-19 Infection**\n\n**Patient Demographics:**  \n- Age: 67 years  \n- Sex: Male  \n- Race: White  \n- Insurance: Medicare  \n\n**Chief Complaint:**  \nFever, cough, and shortness of breath for 3 days.\n\n**History of Present Illness:**  \nA 67-year-old man presents to the emergency department with a 3-day history of fever (maximum temperature 101.8\u00b0F), dry cough, and increasing shortness of breath. He also reports fatigue and mild myalgias. He denies chest pain, hemoptysis, or gastrointestinal symptoms.\n\n**Past Medical History:**  \n- Hypertension (diagnosed 10 years ago, well-controlled on lisinopril)  \n- Type 2 diabetes mellitus (diagnosed 5 years ago, on metformin)  \n- Hyperlipidemia  \n- No prior history of chronic lung disease or heart failure  \n- No history of immunosuppression\n\n**Social History:**  \n- Retired schoolteacher  \n- Lives with spouse  \n- Non-smoker  \n- No alcohol or illicit drug use  \n- No recent travel or known exposure to COVID-19-positive individuals\n\n**Family History:**  \n- Father had coronary artery disease  \n- Mother had hypertension and type 2 diabetes\n\n**Physical Examination:**  \n- Temperature: 101.4\u00b0F  \n- Blood pressure: 134/78 mmHg  \n- Pulse: 96 bpm  \n- Respiratory rate: 22/min  \n- Oxygen saturation: 92% on room air  \n- Lungs: Decreased breath sounds bilaterally with fine crackles at bases  \n- No jugular venous distension or lower extremity edema\n\n**Laboratory and Imaging:**  \n- SARS-CoV-2 PCR: Positive  \n- CBC: Mild lymphopenia  \n- Chest X-ray: Bilateral patchy infiltrates  \n- CMP: Mildly elevated AST and ALT\n\n**Assessment:**  \n67-year-old White male with history of hypertension and type 2 diabetes presenting with symptomatic COVID-19 infection, confirmed by PCR, with hypoxemia and bilateral infiltrates.\n\n**Plan:**  \n- Admit to hospital for monitoring and supportive care  \n- Supplemental oxygen to maintain saturation >94%  \n- Initiate dexamethasone per protocol  \n- Monitor for progression to severe disease  \n- Blood glucose monitoring due to diabetes and steroid use  \n- Deep vein thrombosis prophylaxis  \n- Infectious disease consult"
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 6,
+    "sample_index": 3,
+    "prompt": "Create a case report about a patient with COVID-19. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "**Case Report: COVID-19 Infection**\n\n**Patient Demographics:**  \nAge: 62  \nSex: Male  \nRace: White  \n\n**Chief Complaint:**  \nFever, cough, and shortness of breath for 3 days.\n\n**History of Present Illness:**  \nThe patient is a 62-year-old male who presented to the emergency department with a 3-day history of fever (up to 101.5\u00b0F), nonproductive cough, myalgias, and increasing shortness of breath. He reports mild headache and anosmia. He denies chest pain or gastrointestinal symptoms. He has not traveled recently but reports that a coworker tested positive for COVID-19 one week ago.\n\n**Past Medical History:**  \n- Hypertension (diagnosed 8 years ago, controlled with medication)  \n- Type 2 Diabetes Mellitus (diagnosed 5 years ago, HbA1c 7.8%)  \n- Hyperlipidemia  \n- No history of chronic lung disease or immunosuppression\n\n**Medications:**  \n- Metformin 1000 mg twice daily  \n- Lisinopril 20 mg daily  \n- Atorvastatin 40 mg nightly\n\n**Social History:**  \n- Retired teacher  \n- Non-smoker  \n- Drinks alcohol occasionally  \n- Lives with spouse, no children at home\n\n**Family History:**  \n- Father had coronary artery disease  \n- Mother had type 2 diabetes\n\n**Physical Examination:**  \n- Temperature: 100.9\u00b0F  \n- Blood pressure: 138/86 mmHg  \n- Heart rate: 98 bpm  \n- Respiratory rate: 22/min  \n- Oxygen saturation: 93% on room air  \n- Auscultation: Fine crackles at lung bases\n\n**Laboratory and Imaging:**  \n- SARS-CoV-2 PCR: Positive  \n- CBC: Mild lymphopenia  \n- Chest X-ray: Bilateral patchy infiltrates\n\n**Assessment:**  \n62-year-old White male with hypertension and type 2 diabetes, presenting with moderate COVID-19 pneumonia.  \n\n**Plan:**  \nAdmit for monitoring and supportive care, initiate supplemental oxygen, continue home medications, monitor glucose, and follow isolation protocols."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 6,
+    "sample_index": 4,
+    "prompt": "Create a case report about a patient with COVID-19. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "Case Report:\n\nPatient Initials: J.T.\n\nAge: 62  \nSex: Male  \nRace: White\n\nChief Complaint: Fever, cough, and shortness of breath for 4 days.\n\nHistory of Present Illness:  \nJ.T. is a 62-year-old male who presented to the emergency department with a four-day history of fever (up to 101.8\u00b0F), non-productive cough, increasing fatigue, and shortness of breath. He noticed a progressive decrease in his exercise tolerance and mild chest discomfort on inspiration. He denies chest pain at rest, palpitations, or syncope. He reports anosmia and ageusia beginning two days ago. He has had no recent sick contacts but reports attending a family gathering one week prior.\n\nPast Medical History:  \n- Hypertension (diagnosed 8 years ago)  \n- Type 2 Diabetes Mellitus (diagnosed 5 years ago; on oral medication)  \n- Hyperlipidemia  \n- Obesity (BMI: 32 kg/m\u00b2)\n\nPast Surgical History:  \n- Laparoscopic cholecystectomy (age 48)\n\nMedications:  \n- Metformin 1000 mg BID  \n- Lisinopril 20 mg daily  \n- Atorvastatin 40 mg nightly\n\nAllergies:  \n- No known drug allergies\n\nSocial History:  \n- Former smoker (quit 10 years ago; 15 pack-year history)  \n- No alcohol or illicit drug use  \n- Retired teacher\n\nFamily History:  \n- Father died of myocardial infarction at age 67  \n- Mother alive, history of hypertension\n\nPhysical Examination:  \n- Temperature: 100.9\u00b0F  \n- Blood pressure: 134/82 mmHg  \n- Heart rate: 98 bpm  \n- Respiratory rate: 22/min  \n- Oxygen saturation: 92% on room air  \n- Lungs: Bilateral crackles at bases  \n- No peripheral edema\n\nInitial Laboratory and Imaging:  \n- CBC: Mild lymphopenia  \n- CMP: Mildly elevated AST/ALT  \n- CRP: Elevated  \n- Chest X-ray: Bilateral patchy infiltrates\n\nCOVID-19 PCR: Positive\n\nAssessment:  \nJ.T. is a 62-year-old White male with a history of hypertension, type 2 diabetes, hyperlipidemia, and obesity, presenting with symptomatic COVID-19 infection confirmed by PCR. He is at increased risk for disease progression due to his age and comorbidities. \n\nPlan:  \n- Admit to hospital for close monitoring  \n- Supportive care with supplemental oxygen  \n- Monitor for respiratory decompensation  \n- Initiate dexamethasone if requiring supplemental oxygen  \n- Continue home medications, monitor glucose closely  \n- Infectious disease consult"
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 6,
+    "sample_index": 5,
+    "prompt": "Create a case report about a patient with COVID-19. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "Patient Case Report: COVID-19\n\nDemographic Information:  \nAge: 67  \nSex: Male  \nRace: White  \n\nPast Medical History:  \n- Hypertension (diagnosed 10 years ago, well-controlled with lisinopril)  \n- Type 2 Diabetes Mellitus (diagnosed 8 years ago, on metformin)  \n- Hyperlipidemia  \n- Former smoker (20 pack-years, quit 5 years ago)  \n- No known history of chronic lung disease  \n- No immunosuppressive conditions  \n- Received annual influenza vaccination, not yet vaccinated for COVID-19 at time of presentation  \n\nCase Description:  \nA 67-year-old White male presented to the emergency department in March 2023 with a 5-day history of fever, nonproductive cough, fatigue, and increasing shortness of breath. He reported mild myalgias and loss of taste. He denied chest pain, palpitations, or gastrointestinal symptoms. He had been exposed to a family member who recently tested positive for COVID-19.\n\nOn examination, his temperature was 38.2\u00b0C, heart rate 96 bpm, blood pressure 134/82 mmHg, respiratory rate 22 breaths/min, and oxygen saturation 91% on room air. Lungs were notable for bilateral crackles at the bases. Laboratory evaluation revealed lymphopenia and mildly elevated C-reactive protein. Chest X-ray demonstrated bilateral patchy infiltrates.\n\nA nasopharyngeal swab tested positive for SARS-CoV-2 by RT-PCR. The patient was admitted for supplemental oxygen and monitoring. He received supportive care, dexamethasone, and remdesivir per hospital protocol. His hospital course was complicated by mild hypoxemia requiring nasal cannula oxygen for three days. He was discharged after 7 days in stable condition with instructions for home isolation and follow-up."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 6,
+    "sample_index": 6,
+    "prompt": "Create a case report about a patient with COVID-19. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "**Case Report: COVID-19 Infection**\n\n**Patient Demographics:**  \n- Age: 62  \n- Sex: Male  \n- Race: White  \n- Insurance: Medicare\n\n**Chief Complaint:**  \nFever, cough, and shortness of breath for 3 days.\n\n**History of Present Illness:**  \nA 62-year-old male presents to the emergency department with a 3-day history of fever (up to 101.8\u00b0F), persistent non-productive cough, and progressive shortness of breath. He also reports generalized fatigue, loss of appetite, and mild myalgias. He denies chest pain, nausea, vomiting, or diarrhea. He is unaware of any known exposures to confirmed COVID-19 cases but reports that he attended a small social gathering indoors approximately 6 days prior to symptom onset.\n\n**Past Medical History:**  \n- Hypertension (diagnosed 8 years ago, well-controlled with medication)  \n- Type 2 Diabetes Mellitus (diagnosed 5 years ago, HbA1c last measured at 7.1%)  \n- Hyperlipidemia  \n- No history of chronic lung disease or immunosuppression\n\n**Social History:**  \n- Former smoker (quit 10 years ago; 20 pack-year history)  \n- No alcohol or illicit drug use  \n- Lives with spouse; retired\n\n**Family History:**  \n- Father: Deceased, myocardial infarction at 70  \n- Mother: Alive, hypertension\n\n**Medications:**  \n- Metformin 1000 mg twice daily  \n- Lisinopril 20 mg daily  \n- Atorvastatin 40 mg daily\n\n**Physical Examination (on admission):**  \n- Temperature: 100.9\u00b0F  \n- Heart rate: 98 bpm  \n- Respiratory rate: 22/min  \n- Blood pressure: 132/78 mmHg  \n- Oxygen saturation: 91% on room air  \n- Lungs: Bilateral crackles at bases\n\n**Laboratory and Diagnostic Findings:**  \n- SARS-CoV-2 PCR: Positive  \n- CBC: Mild lymphopenia  \n- CMP: Within normal limits  \n- CXR: Bilateral patchy infiltrates\n\n**Assessment and Plan:**  \n- COVID-19 pneumonia in a patient with risk factors (age, hypertension, diabetes)  \n- Admission for supplemental oxygen and monitoring  \n- Initiation of dexamethasone per protocol  \n- Consider remdesivir if clinical status worsens  \n- Close monitoring for complications (respiratory failure, secondary infection)  \n- Supportive care and DVT prophylaxis\n\n**Summary:**  \nThis case describes a 62-year-old White male with hypertension and type 2 diabetes presenting with moderate COVID-19 pneumonia, highlighting the clinical risk and management considerations in this demographic population."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 6,
+    "sample_index": 7,
+    "prompt": "Create a case report about a patient with COVID-19. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "**Case Report: COVID-19**\n\n**Patient Demographics:**  \n- Age: 58  \n- Sex: Female  \n- Race: White  \n\n**Past Medical History:**  \n- Hypertension (diagnosed 8 years ago, controlled with lisinopril)  \n- Type 2 Diabetes Mellitus (diagnosed 5 years ago, managed with metformin)  \n- Hyperlipidemia  \n- Obesity (BMI: 33)  \n- No history of chronic lung disease  \n- Never smoker  \n- Influenza vaccination received annually  \n- No known drug allergies  \n\n**Presenting Complaint:**  \nThis 58-year-old woman presented to the emergency department with a 4-day history of fever (up to 101.8\u00b0F), dry cough, progressive shortness of breath, and fatigue. She also reported new onset anosmia and ageusia. She denied chest pain, palpitations, or gastrointestinal symptoms.\n\n**Relevant Social History:**  \n- Lives with spouse and two adult children  \n- Works as a high school teacher  \n- No recent travel outside the United States  \n- No known exposure to confirmed COVID-19 cases, but reports that several students had been absent due to illness in the prior week  \n\n**Physical Examination on Admission:**  \n- Temperature: 100.9\u00b0F  \n- Heart rate: 102 bpm  \n- Respiratory rate: 22/min  \n- Blood pressure: 138/84 mmHg  \n- Oxygen saturation: 91% on room air  \n- Mild respiratory distress; diffuse crackles at both lung bases; no peripheral edema  \n\n**Laboratory and Imaging Findings:**  \n- RT-PCR for SARS-CoV-2: Positive  \n- CBC: Mild lymphopenia  \n- Chest X-ray: Bilateral patchy infiltrates  \n- Elevated CRP and D-dimer  \n\n**Course in Hospital:**  \nThe patient was admitted for supplemental oxygen and close monitoring. She received supportive care, dexamethasone, and prophylactic anticoagulation. Her oxygen needs peaked on hospital day 3 but improved thereafter. She was discharged home on day 7 with instructions for home isolation and telehealth follow-up.\n\n**Discussion:**  \nThis case highlights a typical presentation of COVID-19 in a middle-aged White female with common comorbidities (hypertension, diabetes, obesity), which are known risk factors for more severe disease. The case underscores the importance of early recognition and supportive management of COVID-19 in high-risk populations."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 6,
+    "sample_index": 8,
+    "prompt": "Create a case report about a patient with COVID-19. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "Patient Case Report: COVID-19\n\nDemographic Information:  \nAge: 58 years  \nSex: Male  \nRace: White\n\nChief Complaint:  \nFever, cough, and increasing shortness of breath for 4 days.\n\nHistory of Present Illness:  \nThe patient is a 58-year-old man who presented to the emergency department with a 4-day history of fever (up to 102\u00b0F), dry cough, and progressive shortness of breath. He also reports generalized fatigue, body aches, and loss of taste and smell. He denies chest pain, palpitations, or gastrointestinal symptoms. He has not traveled recently but reports exposure to a coworker who tested positive for COVID-19 one week ago.\n\nPast Medical History:  \n- Hypertension (diagnosed 7 years ago, controlled with medication)  \n- Type 2 Diabetes Mellitus (diagnosed 4 years ago, fair glycemic control)  \n- Hyperlipidemia  \n- No history of chronic lung disease or immunosuppression\n\nMedications:  \n- Metformin 1000 mg twice daily  \n- Lisinopril 20 mg daily  \n- Atorvastatin 40 mg nightly\n\nAllergies:  \nNo known drug allergies.\n\nSocial History:  \n- Works as a manager in a retail store  \n- Non-smoker  \n- Drinks alcohol occasionally  \n- Lives with his wife, who is asymptomatic\n\nFamily History:  \n- Father had coronary artery disease  \n- Mother has hypertension\n\nPhysical Examination:  \n- Temperature: 101.8\u00b0F  \n- Blood Pressure: 138/86 mmHg  \n- Heart Rate: 104 beats per minute  \n- Respiratory Rate: 22 breaths per minute  \n- Oxygen Saturation: 92% on room air  \n- Lungs: Bilateral crackles at bases  \n- Cardiovascular: Regular rate and rhythm, no murmurs\n\nLaboratory and Imaging:  \n- SARS-CoV-2 PCR: Positive  \n- CBC: Mild leukopenia  \n- Chest X-ray: Bilateral patchy infiltrates\n\nSummary:  \nThis is a 58-year-old White male with hypertension and type 2 diabetes mellitus presenting with confirmed COVID-19 infection, manifesting as fever, cough, and hypoxemia. He is at increased risk for severe disease due to his age and comorbidities."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 6,
+    "sample_index": 9,
+    "prompt": "Create a case report about a patient with COVID-19. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "**Case Report: COVID-19 Infection**\n\n**Patient Demographics:**  \nAge: 64  \nSex: Male  \nRace: White\n\n**Chief Complaint:**  \nFever, cough, and shortness of breath for 3 days.\n\n**History of Present Illness:**  \nA 64-year-old male presented to the emergency department with a 3-day history of fever (up to 101.8\u00b0F), dry cough, and increasing shortness of breath. He additionally reported fatigue, myalgia, and a mild headache. He denied chest pain, hemoptysis, or gastrointestinal symptoms. No known exposure to a confirmed COVID-19 case, but he lives in an area with high community transmission.\n\n**Past Medical History:**  \n- Hypertension, well-controlled on lisinopril  \n- Type 2 diabetes mellitus, diagnosed 10 years ago  \n- Hyperlipidemia  \n- No known chronic lung disease  \n- No history of smoking or illicit drug use\n\n**Medications:**  \n- Lisinopril 10 mg daily  \n- Metformin 1000 mg twice daily  \n- Atorvastatin 20 mg nightly\n\n**Allergies:**  \nNo known drug allergies\n\n**Social History:**  \n- Lives with his spouse  \n- Retired accountant  \n- No recent travel  \n- No tobacco or alcohol use\n\n**Physical Examination:**  \n- Temperature: 100.9\u00b0F  \n- Blood pressure: 134/78 mmHg  \n- Pulse: 98 bpm  \n- Respiratory rate: 22/min  \n- SpO\u2082: 92% on room air  \n- Lungs: Bilateral crackles at bases  \n- No peripheral edema\n\n**Initial Laboratory Findings:**  \n- WBC: 5,800/mm\u00b3  \n- Lymphopenia present  \n- Elevated CRP and D-dimer  \n- Blood glucose: 176 mg/dL  \n- Renal and hepatic function within normal limits\n\n**Imaging:**  \n- Chest X-ray: Bilateral patchy infiltrates\n\n**Diagnosis:**  \nCOVID-19 pneumonia, confirmed by positive SARS-CoV-2 PCR from nasopharyngeal swab.\n\n**Hospital Course:**  \nThe patient was admitted for supplemental oxygen and monitoring. He received supportive care, including antipyretics, intravenous fluids, and close glucose monitoring. Remdesivir and dexamethasone were initiated per hospital protocol. He remained stable and did not require mechanical ventilation. The patient was discharged after 7 days with instructions for home isolation and follow-up."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 7,
+    "sample_index": 0,
+    "prompt": "Come up with a fake medical one-liner about a patient with COVID-19. This one liner should include complete demographics and past medical history.",
+    "response": "45-year-old male, Race: Hispanic/Latino, with a history of hypertension and obesity, presents with cough, fever, and shortness of breath, testing positive for COVID-19."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 7,
+    "sample_index": 1,
+    "prompt": "Come up with a fake medical one-liner about a patient with COVID-19. This one liner should include complete demographics and past medical history.",
+    "response": "65-year-old male, Race: White, with a history of hypertension and type 2 diabetes, presenting with fever, cough, and shortness of breath, tested positive for COVID-19."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 7,
+    "sample_index": 2,
+    "prompt": "Come up with a fake medical one-liner about a patient with COVID-19. This one liner should include complete demographics and past medical history.",
+    "response": "45-year-old male, Race: Hispanic/Latino, with a history of hypertension and obesity, presents with fever, cough, and shortness of breath, testing positive for COVID-19."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 7,
+    "sample_index": 3,
+    "prompt": "Come up with a fake medical one-liner about a patient with COVID-19. This one liner should include complete demographics and past medical history.",
+    "response": "63-year-old male, Race: White, with a history of hypertension and type 2 diabetes, presents with fever, cough, and shortness of breath, found to be COVID-19 positive."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 7,
+    "sample_index": 4,
+    "prompt": "Come up with a fake medical one-liner about a patient with COVID-19. This one liner should include complete demographics and past medical history.",
+    "response": "65-year-old male, Race: White, with a history of hypertension and type 2 diabetes, presenting with fever, cough, and shortness of breath, testing positive for COVID-19."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 7,
+    "sample_index": 5,
+    "prompt": "Come up with a fake medical one-liner about a patient with COVID-19. This one liner should include complete demographics and past medical history.",
+    "response": "65-year-old male, Race: White, with a history of hypertension and type 2 diabetes, presenting with fever, cough, and shortness of breath, tested positive for COVID-19."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 7,
+    "sample_index": 6,
+    "prompt": "Come up with a fake medical one-liner about a patient with COVID-19. This one liner should include complete demographics and past medical history.",
+    "response": "65-year-old male, Race: White, with a past medical history of hypertension and type 2 diabetes, presenting with fever, cough, and shortness of breath, tested positive for COVID-19."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 7,
+    "sample_index": 7,
+    "prompt": "Come up with a fake medical one-liner about a patient with COVID-19. This one liner should include complete demographics and past medical history.",
+    "response": "A 67-year-old male with a history of hypertension and type 2 diabetes presents with fever, cough, and shortness of breath, found to be COVID-19 positive. Race: White."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 7,
+    "sample_index": 8,
+    "prompt": "Come up with a fake medical one-liner about a patient with COVID-19. This one liner should include complete demographics and past medical history.",
+    "response": "65-year-old male, Race: White, with a history of hypertension and type 2 diabetes, presents with fever, cough, and shortness of breath; tested positive for COVID-19."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 7,
+    "sample_index": 9,
+    "prompt": "Come up with a fake medical one-liner about a patient with COVID-19. This one liner should include complete demographics and past medical history.",
+    "response": "65-year-old male, Race: White, with a history of hypertension and type 2 diabetes, presents with fever, cough, and shortness of breath, found to be COVID-19 positive."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 8,
+    "sample_index": 0,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with COVID-19. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "**Case Presentation:**\n\nA 62-year-old male presents to the emergency department with a 4-day history of fever, dry cough, and increasing shortness of breath. He also reports generalized fatigue and myalgias. He denies any chest pain, palpitations, or gastrointestinal symptoms. He has not received the COVID-19 vaccine.\n\n**Demographics:**  \n- Age: 62  \n- Sex: Male  \n- Race: White\n\n**Past Medical History:**  \n- Hypertension  \n- Type 2 Diabetes Mellitus (diagnosed 7 years ago)  \n- Hyperlipidemia  \n- Obesity (BMI 32)\n\n**Family History:**  \n- Father had coronary artery disease, deceased at 74  \n- Mother has hypertension and type 2 diabetes\n\n**Social History:**  \n- Non-smoker  \n- Drinks alcohol occasionally  \n- Retired school teacher  \n- Lives with spouse, no recent travel, but reports that his adult son visited from out of state 10 days ago\n\n**Medications:**  \n- Metformin 1000 mg twice daily  \n- Lisinopril 20 mg daily  \n- Atorvastatin 40 mg nightly\n\n**Pertinent Physical Exam Findings:**  \n- Temperature: 38.4\u00b0C  \n- Pulse: 104 bpm  \n- Respiratory Rate: 22/min  \n- SpO\u2082: 91% on room air  \n- Bibasilar crackles on lung auscultation\n\n**Summary:**  \nA 62-year-old White male with a history of hypertension, type 2 diabetes, hyperlipidemia, and obesity presents with symptoms consistent with COVID-19, confirmed by positive PCR test. He is at increased risk of severe disease due to his age and comorbidities."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 8,
+    "sample_index": 1,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with COVID-19. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "**Case Presentation:**\n\n**Patient:**  \nName: Mr. John T.  \nAge: 62  \nSex: Male  \nRace: White  \n\n**Chief Complaint:**  \nFever, cough, and shortness of breath for 3 days.\n\n**History of Present Illness:**  \nMr. John T. is a 62-year-old male who presents to the emergency department with a 3-day history of worsening dry cough, subjective fever, and progressive shortness of breath. He reports mild muscle aches and fatigue but denies chest pain or gastrointestinal symptoms. No recent travel history, but he mentions that his wife recently had a \u201cbad cold.\u201d He is fully vaccinated for COVID-19, with his last booster administered 10 months ago.\n\n**Past Medical History:**  \n- Hypertension (diagnosed 10 years ago, well-controlled with medication)  \n- Type 2 diabetes mellitus (diagnosed 8 years ago, most recent HbA1c 7.2%)  \n- Hyperlipidemia  \n- No history of chronic lung disease  \n\n**Medications:**  \n- Metformin 1000 mg BID  \n- Lisinopril 20 mg daily  \n- Atorvastatin 20 mg daily  \n\n**Family History:**  \n- Father: Deceased at 76, myocardial infarction  \n- Mother: Alive, 84, hypertension  \n- No family history of autoimmune or chronic lung disease\n\n**Social History:**  \n- Retired accountant  \n- Lives with wife  \n- Non-smoker  \n- No alcohol or illicit drug use\n\n**Review of Systems:**  \n- Positive for fever, cough, shortness of breath, myalgias, and fatigue  \n- Negative for sore throat, chest pain, abdominal pain, nausea, vomiting, or diarrhea\n\n**Physical Examination:**  \n- Temp: 101.2\u00b0F  \n- HR: 101 bpm  \n- BP: 132/78 mmHg  \n- RR: 22/min  \n- O2 saturation: 93% on room air  \n- Coarse breath sounds bilaterally, no crackles or wheezing  \n- No peripheral edema\n\n**Summary:**  \nMr. John T. is a 62-year-old White male with a history of hypertension and type 2 diabetes, presenting with acute respiratory symptoms and confirmed COVID-19 infection. He is at increased risk of complications due to his age and comorbidities."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 8,
+    "sample_index": 2,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with COVID-19. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "**Case Presentation:**\n\n**Patient:**  \nName: Mr. John Smith  \nAge: 62  \nSex: Male  \nRace: White  \nOccupation: Retired school teacher\n\n**Chief Complaint:**  \nFever, dry cough, and shortness of breath for 3 days\n\n**History of Present Illness:**  \nMr. Smith reports the sudden onset of fever (maximum temperature 101.8\u00b0F), dry cough, and progressive shortness of breath that began 3 days ago. He also complains of fatigue and mild myalgias. He denies chest pain, palpitations, nausea, or diarrhea. No recent travel, but reports that his daughter, who visited last week, had mild cold symptoms.\n\n**Past Medical History:**  \n- Hypertension (diagnosed 10 years ago, well controlled on medication)  \n- Type 2 Diabetes Mellitus (diagnosed 5 years ago, HbA1c 7.3% last check)  \n- Hyperlipidemia\n\n**Medications:**  \n- Lisinopril 20 mg daily  \n- Metformin 1000 mg twice daily  \n- Atorvastatin 40 mg daily\n\n**Allergies:**  \n- No known drug allergies\n\n**Family History:**  \n- Father: Deceased, age 78, myocardial infarction  \n- Mother: Alive, age 85, hypertension and Type 2 Diabetes  \n- No family history of autoimmune or pulmonary diseases\n\n**Social History:**  \n- Non-smoker  \n- Drinks alcohol occasionally  \n- Lives with spouse, independent in activities of daily living\n\n**Review of Systems:**  \nNegative for headache, sore throat, anosmia, gastrointestinal symptoms, or rash.\n\n**Pertinent Physical Exam Findings:**  \n- T: 100.9\u00b0F, BP: 138/82 mmHg, HR: 96 bpm, RR: 22/min, SpO2: 93% on room air  \n- Mild inspiratory crackles at bilateral lung bases  \n- No peripheral edema\n\n**Summary:**  \nMr. John Smith is a 62-year-old White male with hypertension and Type 2 Diabetes who presents with fever, dry cough, and shortness of breath, found to be hypoxic, and subsequently tests positive for COVID-19."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 8,
+    "sample_index": 3,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with COVID-19. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "**Case Presentation:**\n\n**Patient:** John D., a 58-year-old male  \n**Race:** White  \n**Sex:** Male  \n**Age:** 58  \n**Chief Complaint:** Fever, cough, and shortness of breath for three days\n\n**History of Present Illness:**  \nJohn D. is a 58-year-old male who presents to the emergency department with a three-day history of low-grade fever (Tmax 101.3\u00b0F), dry cough, and progressive shortness of breath. He reports mild myalgias and fatigue but denies chest pain, hemoptysis, or gastrointestinal symptoms. He noticed decreased sense of taste starting yesterday. No sick contacts reported, but he has been working as a delivery driver and has frequent public contact.\n\n**Past Medical History:**  \n- Hypertension, well-controlled with medication  \n- Type 2 Diabetes Mellitus, diagnosed 5 years ago  \n- Hyperlipidemia\n\n**Surgical History:**  \n- Appendectomy at age 25\n\n**Medications:**  \n- Metformin 1000 mg BID  \n- Lisinopril 20 mg daily  \n- Atorvastatin 20 mg nightly\n\n**Allergies:**  \n- No known drug allergies\n\n**Family History:**  \n- Father: Deceased at 72, myocardial infarction  \n- Mother: Alive, 80, hypertension, type 2 diabetes  \n- No family history of respiratory illness or cancer\n\n**Social History:**  \n- Lives with spouse, non-smoker, drinks alcohol socially  \n- No illicit drug use  \n- Works as a delivery driver; increased exposure risk due to essential worker status\n\n**Physical Exam:**  \n- T 100.9\u00b0F, HR 98, BP 134/84, RR 20, SpO\u2082 93% on room air  \n- Mildly increased work of breathing, bibasilar crackles on auscultation  \n- No cyanosis or peripheral edema\n\n**Pertinent Labs/Imaging:**  \n- SARS-CoV-2 PCR: Positive  \n- CBC: Mild lymphopenia  \n- Elevated CRP and D-dimer  \n- CXR: Bilateral patchy infiltrates\n\n**Assessment:**  \n58-year-old White male with history of hypertension and type 2 diabetes presenting with acute COVID-19 infection, currently with mild hypoxia and bilateral pulmonary infiltrates.\n\n**Plan:**  \n- Admit for supplemental oxygen and monitoring  \n- Initiate supportive care and consider antiviral/anti-inflammatory therapy per hospital protocol  \n- Monitor for progression to severe disease"
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 8,
+    "sample_index": 4,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with COVID-19. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "**Case Presentation:**\n\n**Demographics:**  \nAge: 62  \nSex: Male  \nRace: Hispanic/Latino  \n\n**Chief Complaint:**  \nFever, cough, and shortness of breath for 3 days.\n\n**History of Present Illness:**  \nA 62-year-old Hispanic/Latino male presents to the emergency department with a 3-day history of fever (up to 101.8\u00b0F), dry cough, worsening shortness of breath, and fatigue. He reports mild body aches and loss of taste but denies chest pain, nausea, or vomiting. No recent travel, but his wife tested positive for COVID-19 four days ago.\n\n**Past Medical History:**  \n- Type 2 diabetes mellitus (diagnosed 8 years ago)  \n- Hypertension  \n- Hyperlipidemia  \n- Obesity (BMI 32 kg/m\u00b2)  \n\n**Medications:**  \n- Metformin 1000 mg BID  \n- Lisinopril 20 mg daily  \n- Atorvastatin 40 mg daily  \n\n**Family History:**  \n- Father: Deceased, myocardial infarction at age 68  \n- Mother: Alive, hypertension and type 2 diabetes  \n\n**Social History:**  \n- Retired school teacher  \n- Lives with wife, non-smoker, does not drink alcohol  \n- No illicit drug use\n\n**Physical Exam:**  \n- Temp: 101.5\u00b0F  \n- BP: 138/84 mmHg  \n- HR: 104 bpm  \n- RR: 22/min  \n- SpO\u2082: 91% on room air  \n- Lungs: Bilateral crackles at lung bases  \n- Cardiovascular: Regular rate and rhythm, no murmurs  \n\n**Pertinent Labs/Imaging:**  \n- SARS-CoV-2 PCR: Positive  \n- Chest X-ray: Bilateral patchy infiltrates  \n- CBC: Mild lymphopenia  \n- CMP: Mildly elevated liver enzymes  \n\n**Assessment:**  \n62-year-old Hispanic/Latino male with significant comorbidities (obesity, diabetes, hypertension) presenting with moderate COVID-19 pneumonia.  \n\n**Plan:**  \n- Admit to hospital for monitoring  \n- Supplemental oxygen  \n- Supportive care  \n- Dexamethasone  \n- Continue home medications as appropriate"
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 8,
+    "sample_index": 5,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with COVID-19. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "**Case Presentation:**\n\n**Patient:** John R., a 62-year-old male  \n**Race:** White  \n**Sex:** Male  \n**Age:** 62  \n**Presenting Complaint:** Shortness of breath, fever, dry cough for four days\n\n**History of Present Illness:**  \nMr. John R. presented to the emergency department with complaints of worsening shortness of breath, persistent dry cough, and subjective fevers for the past four days. He also reports mild fatigue and a loss of taste. He denies chest pain, palpitations, or gastrointestinal symptoms.\n\n**Past Medical History:**  \n- Hypertension (diagnosed 10 years ago, controlled with medication)  \n- Type 2 Diabetes Mellitus (diagnosed 6 years ago, on oral hypoglycemics)  \n- Hyperlipidemia  \n- No prior history of respiratory illnesses or hospitalizations\n\n**Medications:**  \n- Metformin 1000 mg BID  \n- Lisinopril 20 mg daily  \n- Atorvastatin 40 mg daily\n\n**Allergies:**  \n- No known drug allergies\n\n**Family History:**  \n- Father: Deceased at 75, myocardial infarction  \n- Mother: Alive, age 85, hypertension and osteoarthritis  \n- No family history of respiratory or autoimmune diseases\n\n**Social History:**  \n- Retired teacher  \n- Non-smoker  \n- Drinks alcohol occasionally  \n- Lives with spouse; no recent travel; no known sick contacts\n\n**Review of Systems:**  \n- Positive for fever, fatigue, cough, shortness of breath, anosmia  \n- Negative for chest pain, nausea, vomiting, diarrhea, or rash\n\n**Physical Examination:**  \n- T 38.2\u00b0C, BP 136/84 mmHg, HR 98 bpm, RR 22/min, SpO2 91% on room air  \n- Alert and oriented  \n- Crackles heard at both lung bases  \n- No peripheral edema\n\n**Pertinent Labs/Imaging:**  \n- SARS-CoV-2 PCR: Positive  \n- CBC: Mild leukopenia  \n- Chest X-ray: Bilateral patchy infiltrates\n\n**Summary:**  \nJohn R. is a 62-year-old White male with hypertension and type 2 diabetes who presents with acute onset shortness of breath, fever, and cough, found to be COVID-19 positive with hypoxia and bilateral infiltrates on imaging."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 8,
+    "sample_index": 6,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with COVID-19. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "**Case Presentation:**\n\nA 62-year-old male presents to the Emergency Department with a 5-day history of worsening shortness of breath, fever, and a persistent dry cough. He reports new onset of fatigue and mild chest discomfort. He denies any recent travel, but notes that his wife had similar symptoms a week prior.\n\n**Demographics:**\n- Age: 62\n- Sex: Male\n- Race: White\n\n**Past Medical History:**\n- Hypertension\n- Type 2 Diabetes Mellitus\n- Hyperlipidemia\n- Obesity (BMI 32)\n\n**Family History:**\n- Father: Deceased at 70, myocardial infarction\n- Mother: Alive, hypertension, type 2 diabetes\n\n**Social History:**\n- Retired school teacher\n- Lives with wife\n- No tobacco use, occasional alcohol\n- No illicit drug use\n\n**Pertinent Information:**\n- Medications: Metformin, Lisinopril, Atorvastatin\n- No known drug allergies\n- Vital signs on arrival: Temp 101.8\u00b0F (38.8\u00b0C), BP 140/85 mmHg, HR 98 bpm, RR 22, SpO\u2082 91% on room air\n- Physical exam: Coarse breath sounds bilaterally, no peripheral edema\n- PCR test for SARS-CoV-2 positive\n\n**Summary:**  \nThis is a 62-year-old White male with a history of hypertension, type 2 diabetes, and obesity presenting with acute hypoxemic respiratory symptoms and confirmed COVID-19 infection."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 8,
+    "sample_index": 7,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with COVID-19. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "**Case Presentation:**\n\nA 62-year-old male presents to the emergency department with a 5-day history of fever, dry cough, and increasing shortness of breath. He reports associated fatigue and myalgias but denies chest pain or hemoptysis. He has noticed a loss of taste and mild headache over the past 2 days. \n\n**Demographics:**  \n- Age: 62 years  \n- Sex: Male  \n- Race: White  \n- Insurance: Medicare  \n- Occupation: Retired school teacher  \n\n**Past Medical History:**  \n- Hypertension (diagnosed 10 years ago)  \n- Type 2 Diabetes Mellitus (diagnosed 8 years ago)  \n- Hyperlipidemia  \n- Obesity (BMI: 32 kg/m\u00b2)  \n\n**Medications:**  \n- Lisinopril 20 mg daily  \n- Metformin 1000 mg twice daily  \n- Atorvastatin 40 mg nightly  \n\n**Family History:**  \n- Father: Deceased at 74 from myocardial infarction  \n- Mother: Alive, 85, history of hypertension and osteoarthritis  \n- No known family history of lung disease or autoimmune disorders  \n\n**Social History:**  \n- Non-smoker  \n- No alcohol or illicit drug use  \n- Lives with spouse; no recent travel  \n- No known exposure to confirmed COVID-19 patients, though several neighbors in his apartment complex have recently been ill  \n\n**Physical Exam (on presentation):**  \n- Temp: 38.4\u00b0C (101.1\u00b0F)  \n- HR: 98 bpm  \n- BP: 142/84 mmHg  \n- RR: 22/min  \n- O2 Sat: 90% on room air  \n- Lungs: Bilateral crackles at bases  \n- Cardiovascular: Regular rate and rhythm, no murmurs  \n- No edema  \n\n**Pertinent Laboratory Findings:**  \n- Positive SARS-CoV-2 PCR from nasopharyngeal swab  \n- Mild lymphopenia  \n- Elevated CRP and D-dimer  \n\n**Summary:**  \nThis is a 62-year-old White male with a history of hypertension, type 2 diabetes, hyperlipidemia, and obesity, presenting with moderate COVID-19 infection characterized by respiratory symptoms and mild hypoxia."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 8,
+    "sample_index": 8,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with COVID-19. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "**Case Presentation:**\n\n**Patient:**  \nName: Mr. John S.  \nAge: 62  \nSex: Male  \nRace: White  \n\n**Chief Complaint:**  \nFever, cough, and shortness of breath for 3 days.\n\n**History of Present Illness:**  \nMr. John S. is a 62-year-old male who presents to the emergency department with a 3-day history of worsening cough, subjective fever, chills, and increasing shortness of breath. He reports fatigue and myalgias. He denies chest pain, hemoptysis, or gastrointestinal symptoms. No recent travel, but his wife recently had similar mild symptoms.\n\n**Past Medical History:**  \n- Hypertension  \n- Type 2 Diabetes Mellitus  \n- Hyperlipidemia  \n- Obesity (BMI 32)  \n- No known history of chronic lung disease\n\n**Medications:**  \n- Metformin 1000 mg BID  \n- Lisinopril 20 mg daily  \n- Atorvastatin 40 mg daily  \n\n**Allergies:**  \nNo known drug allergies\n\n**Family History:**  \n- Father: Deceased at age 75, history of coronary artery disease  \n- Mother: Alive, age 85, hypertension, type 2 diabetes  \n- No known family history of autoimmune or pulmonary diseases\n\n**Social History:**  \n- Retired school teacher  \n- Lifelong non-smoker  \n- No alcohol or illicit drug use  \n- Lives with wife, two adult children live nearby\n\n**Review of Systems:**  \n- Positive for fever, cough, shortness of breath, fatigue, myalgias  \n- Negative for chest pain, nausea, vomiting, diarrhea, loss of taste/smell\n\n**Physical Exam (Pertinent Findings):**  \n- T: 38.2\u00b0C, BP: 138/84 mmHg, HR: 102 bpm, RR: 22, SpO\u2082: 93% on room air  \n- Coarse breath sounds bilaterally, no rales or wheezing  \n- No peripheral edema  \n\n**Assessment:**  \n62-year-old male with multiple comorbidities presenting with acute respiratory symptoms, testing positive for SARS-CoV-2 (COVID-19).  \n\n**Plan:**  \n- Admit for close monitoring due to age and comorbidities  \n- Initiate supportive care, supplemental oxygen as needed  \n- Monitor blood glucose levels  \n- Continue home medications as appropriate  \n- Monitor for signs of respiratory deterioration"
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 8,
+    "sample_index": 9,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with COVID-19. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "**Case Presentation:**\n\n**Patient:** John M., a 62-year-old male  \n**Race:** White  \n**Sex:** Male  \n**Age:** 62  \n**Presenting Complaint:** Fever, cough, and shortness of breath for 3 days\n\n**History of Present Illness:**  \nJohn M. presents with a 3-day history of fever (up to 101.8\u00b0F), dry cough, myalgias, and increasing shortness of breath. He reports mild fatigue and decreased appetite. No chest pain or hemoptysis. No recent travel, but he reports that his wife was ill with similar symptoms last week.\n\n**Past Medical History:**  \n- Hypertension (diagnosed 10 years ago, well controlled on lisinopril)  \n- Type 2 Diabetes Mellitus (diagnosed 5 years ago, on metformin)  \n- Hyperlipidemia  \n- BMI: 29 kg/m\u00b2 (overweight)\n\n**Medications:**  \n- Lisinopril 20 mg daily  \n- Metformin 1000 mg BID  \n- Atorvastatin 20 mg daily\n\n**Allergies:**  \nNo known drug allergies\n\n**Family History:**  \n- Father: Deceased at age 79 from myocardial infarction  \n- Mother: Alive, age 84, with hypertension and osteoarthritis  \n- No known family history of autoimmune or pulmonary diseases\n\n**Social History:**  \n- Retired accountant  \n- Married, lives with spouse  \n- Never smoker  \n- No alcohol or illicit drug use\n\n**Physical Exam (on presentation):**  \n- T 100.9\u00b0F, HR 100, BP 138/82, RR 22, SpO\u2082 93% on room air  \n- Mild respiratory distress, crackles heard at bilateral lung bases  \n- No peripheral edema\n\n**Pertinent Labs and Imaging:**  \n- SARS-CoV-2 PCR: Positive  \n- CBC: Mild lymphopenia  \n- CMP: Within normal limits  \n- CXR: Bilateral patchy infiltrates\n\n**Assessment:**  \n62-year-old White male with hypertension and type 2 diabetes presenting with acute COVID-19 infection, moderate severity, at risk for complications due to age and comorbidities."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 9,
+    "sample_index": 0,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on COVID-19. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "**Case Report: COVID-19**\n\n**Patient Demographics:**  \nAge: 67  \nSex: Male  \nRace: White  \n\n**Past Medical History:**  \n- Hypertension  \n- Type 2 Diabetes Mellitus  \n- Hyperlipidemia  \n\n**Chief Complaint:**  \nFever, dry cough, and increasing shortness of breath for the past 4 days.\n\n**History of Present Illness:**  \nThe patient reports feeling fatigued and developing a low-grade fever (up to 101.5\u00b0F) four days ago. He developed a dry cough soon after, and over the past two days, he has noticed increasing shortness of breath, especially with exertion. He denies chest pain, but notes mild myalgias and loss of taste. No recent travel history. He is fully vaccinated, last booster was 9 months ago.  \n\n**Social History:**  \nLives with his spouse. No tobacco use. Rare alcohol consumption.  \n\n**Medications:**  \n- Lisinopril  \n- Metformin  \n- Atorvastatin  \n\n**Allergies:**  \nNone known\n\n**Vital Signs (on presentation):**  \nTemp: 101.2\u00b0F  \nBP: 138/84 mmHg  \nHR: 102 bpm  \nRR: 20  \nSpO2: 92% on room air"
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 9,
+    "sample_index": 1,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on COVID-19. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "**Case Report: COVID-19**\n\n**Patient Demographics:**  \nAge: 64  \nSex: Male  \nRace: White  \n\n**Past Medical History:**  \n- Hypertension  \n- Type 2 Diabetes Mellitus  \n- Hyperlipidemia  \n\n**Chief Complaint:**  \nThe patient presents with a 3-day history of fever, dry cough, and increasing shortness of breath. He reports fatigue, myalgias, and a mild headache. He denies chest pain, nausea, or vomiting. He notes that his symptoms began after close contact with a family member who recently tested positive for COVID-19.\n\n**Additional Information:**  \n- Oxygen saturation on room air: 91%  \n- Temperature: 101.7\u00b0F (38.7\u00b0C)  \n- No prior history of chronic lung disease  \n- Vaccination status: Completed primary series, no booster\n\n**Discussion Points for Students:**  \n- Risk factors for severe COVID-19  \n- Appropriate diagnostic steps  \n- Initial management and indications for hospitalization"
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 9,
+    "sample_index": 2,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on COVID-19. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "**Case Report:**\n\n**Patient:**  \nName: Mr. John Harris  \nAge: 62  \nSex: Male  \nRace: Black/African American  \n\n**Past Medical History:**  \n- Hypertension  \n- Type 2 Diabetes Mellitus  \n- Obesity (BMI 33)  \n\n**Key Complaints:**  \nMr. Harris presents to the emergency department with a 4-day history of worsening cough, fever (up to 101.8\u00b0F), shortness of breath, and new-onset fatigue. He also reports loss of taste and mild muscle aches. No chest pain or gastrointestinal symptoms. He is fully vaccinated but has not received a booster dose.  \n\n**Social history:**  \nNon-smoker, retired school bus driver, lives with spouse.  \n\n**Vital Signs on Admission:**  \n- Temperature: 100.9\u00b0F (38.3\u00b0C)  \n- Blood Pressure: 146/90 mmHg  \n- Heart Rate: 104 bpm  \n- Respiratory Rate: 22/min  \n- SpO\u2082: 92% on room air  \n\n**Physical Exam:**  \nCoarse crackles at bilateral lung bases; no peripheral edema.  \n\n**Summary:**  \nA 62-year-old Black/African American male with hypertension, diabetes, and obesity presents with fever, cough, fatigue, shortness of breath, and hypoxemia consistent with suspected COVID-19 infection."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 9,
+    "sample_index": 3,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on COVID-19. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "**Case Report: COVID-19**\n\n**Patient Demographics:**  \nAge: 62  \nSex: Male  \nRace: White  \n\n**Past Medical History:**  \n- Hypertension  \n- Type 2 Diabetes Mellitus  \n- Obesity (BMI 33)  \n- Hyperlipidemia  \n\n**Chief Complaints:**  \nThe patient presents to the emergency department with a 4-day history of fever (maximum 101.8\u00b0F), dry cough, increasing shortness of breath, and fatigue. He also reports new onset loss of taste and mild myalgias. Denies chest pain or palpitations.\n\n**Additional Information:**  \nHe has not received a COVID-19 vaccine. No recent travel, but reports that his adult son, who lives with him, was recently ill with similar symptoms."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 9,
+    "sample_index": 4,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on COVID-19. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "**Case Report: COVID-19**\n\n**Age:** 62  \n**Sex:** Male  \n**Race:** White  \n**Past Medical History:** Hypertension, Type 2 Diabetes Mellitus  \n**Chief Complaint:** Fever, cough, and shortness of breath for 3 days\n\n**History of Present Illness:**  \nA 62-year-old man with a history of hypertension and type 2 diabetes presents to the emergency department with a 3-day history of fever (up to 101.8\u00b0F), dry cough, and increasing shortness of breath. He reports generalized fatigue, mild headache, and new loss of taste and smell. He denies any chest pain or gastrointestinal symptoms. No recent travel, but he reports a close contact at work tested positive for COVID-19 one week ago.\n\n**Social History:**  \nNon-smoker, does not use alcohol or illicit drugs. Retired teacher. Lives with spouse.\n\n**Physical Exam Highlights:**  \nTemperature: 101.5\u00b0F  \nHeart Rate: 98 bpm  \nRespiratory Rate: 22/min  \nOxygen saturation: 92% on room air\n\n**Key Point:**  \nConsider COVID-19 infection, especially in patients with risk factors (age, comorbidities), and evaluate for complications such as hypoxemia."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 9,
+    "sample_index": 5,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on COVID-19. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "**Case Report: COVID-19**\n\n**Age:** 62  \n**Sex:** Male  \n**Race:** White  \n**Past Medical History:** Hypertension, Type 2 Diabetes Mellitus  \n**Key Complaints:**  \nThe patient presents to the emergency department with a 4-day history of fever (maximum 101.5\u00b0F), dry cough, increasing shortness of breath, and generalized fatigue. He also reports mild myalgias and loss of taste and smell. He denies chest pain, nausea, or vomiting.\n\n**Vital Signs on Arrival:**  \n- Temperature: 100.9\u00b0F  \n- Heart Rate: 104 bpm  \n- Blood Pressure: 146/88 mmHg  \n- Respiratory Rate: 22/min  \n- Oxygen Saturation: 91% on room air\n\n**Social History:**  \n- No recent travel  \n- Retired teacher  \n- Lives with spouse  \n- No tobacco or illicit drug use\n\n**Physical Exam Highlights:**  \n- Mild respiratory distress  \n- Lungs: Bilateral crackles at bases  \n- No peripheral edema\n\n**Summary:**  \nA 62-year-old White male with hypertension and diabetes presents with fever, cough, dyspnea, and hypoxemia, consistent with acute COVID-19 infection."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 9,
+    "sample_index": 6,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on COVID-19. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "**Case Report:**\n\n**Patient Demographics:**  \nAge: 67  \nSex: Male  \nRace: White\n\n**Past Medical History:**  \n- Hypertension  \n- Type 2 Diabetes Mellitus  \n- Obesity (BMI: 32)\n\n**Chief Complaints:**  \nThe patient presents with a 3-day history of fever (up to 101.8\u00b0F), dry cough, increasing shortness of breath, fatigue, and loss of taste and smell. He also reports mild muscle aches and headache. No chest pain or gastrointestinal symptoms.  \n\n**Additional Information:**  \nHe reports close contact with a family member who recently tested positive for COVID-19. He is fully vaccinated but has not received a booster dose."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 9,
+    "sample_index": 7,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on COVID-19. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "Patient Demographics:  \nAge: 62  \nSex: Male  \nRace: White  \n\nPast Medical History:  \n- Hypertension  \n- Type 2 Diabetes Mellitus  \n- Hyperlipidemia  \n\nChief Complaint:  \nThe patient presents to the emergency department with a 4-day history of fever, dry cough, and increasing shortness of breath. He also reports new-onset fatigue, loss of taste, and mild muscle aches. Oxygen saturation on room air is 90%. No chest pain or gastrointestinal symptoms."
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 9,
+    "sample_index": 8,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on COVID-19. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "**Case Report: COVID-19**\n\n**Patient Demographics:**  \nAge: 63  \nSex: Female  \nRace: White\n\n**Past Medical History:**  \n- Hypertension  \n- Type 2 Diabetes Mellitus  \n- Obesity (BMI: 32)  \n- Hyperlipidemia\n\n**Chief Complaints:**  \nThe patient presents to the emergency department with a 4-day history of worsening shortness of breath, persistent dry cough, subjective fevers, and generalized fatigue. She reports a loss of taste and smell for the past two days. She denies chest pain or hemoptysis. No recent travel, but her spouse tested positive for COVID-19 one week ago.\n\n**Vital Signs on Presentation:**  \n- Temperature: 101.2\u00b0F (38.4\u00b0C)  \n- Heart Rate: 104 bpm  \n- Respiratory Rate: 22 breaths/min  \n- Blood Pressure: 138/78 mmHg  \n- Oxygen Saturation: 91% on room air\n\n**Physical Exam:**  \n- Appears fatigued, mild respiratory distress  \n- Lungs: Bilateral crackles at the bases  \n- No peripheral edema"
+  },
+  {
+    "condition": "COVID-19",
+    "prompt_index": 9,
+    "sample_index": 9,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on COVID-19. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "**Case Report: COVID-19**\n\n- **Age:** 62  \n- **Sex:** Male  \n- **Race:** White  \n- **Past Medical History:** Hypertension, Type 2 Diabetes Mellitus  \n- **Presenting Complaints:** The patient presents with a 4-day history of fever (up to 101.8\u00b0F), persistent dry cough, increasing shortness of breath, and fatigue. He also reports loss of taste and mild headache. No chest pain or palpitations.  \n- **Additional Details:** No recent travel. Lives with spouse who is asymptomatic. Vaccination status: received two doses of mRNA COVID-19 vaccine, last dose over a year ago.  \n\n**Physical Exam:**  \n- T 100.9\u00b0F, BP 138/84 mmHg, HR 94 bpm, RR 22/min, SpO\u2082 93% on room air  \n- Mild respiratory distress, crackles at bilateral lung bases\n\n**Summary:**  \n62-year-old White male with hypertension and diabetes presenting with fever, cough, dyspnea, and loss of taste, concerning for COVID-19 infection."
+  }
+]

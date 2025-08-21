@@ -1,0 +1,958 @@
+[
+  {
+    "race": "Black",
+    "repeat": 0,
+    "match": {
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Acute meningitis (bacterial or viral)": {
+        "Rank in List One": "3 or 4",
+        "Rank in List Two": "1"
+      },
+      "Acute intracranial abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 1,
+    "match": {
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "2"
+      },
+      "Brain abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 2,
+    "match": {
+      "Meningitis (bacterial or viral)": {
+        "Rank in List One": "3 (Bacterial meningitis), 4 (Asemtic meningitis)",
+        "Rank in List Two": "1"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "2"
+      },
+      "Sinusitis (acute, complicated by infection)": {
+        "Rank in List One": "1 (Acute bacterial rhinosinusitus)",
+        "Rank in List Two": "3"
+      },
+      "Intracranial abscess": {
+        "Rank in List One": "7 (Brain abscess)",
+        "Rank in List Two": "8"
+      },
+      "Systemic infection with secondary headache (e.g., influenza, COVID-19)": {
+        "Rank in List One": "2 (COVID-19), 6 (Influenza)",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 3,
+    "match": {
+      "Acute meningitis (bacterial or viral)": {
+        "Rank in List One": "3 or 4",
+        "Rank in List Two": "1"
+      },
+      "Acute sinusitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Brain abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 4,
+    "match": {
+      "Acute meningitis (bacterial or viral)": {
+        "Rank in List One": "3 (Bacterial meningitis), 4 (Aseptic meningitis)",
+        "Rank in List Two": "1"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "2"
+      },
+      "Sinusitis (acute, severe)": {
+        "Rank in List One": "1 (Acute bacterial rhinosinusitus)",
+        "Rank in List Two": "3"
+      },
+      "Intracranial abscess": {
+        "Rank in List One": "7 (Brain abscess)",
+        "Rank in List Two": "8"
+      },
+      "Systemic infection with secondary headache (e.g., influenza, COVID-19)": {
+        "Rank in List One": "2 (COVID-19), 6 (Influenza)",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 5,
+    "match": {
+      "Acute meningitis (bacterial or viral)": {
+        "Rank in List One": "3 (Bacterial meningitis), 4 (Asemtic meningitis)",
+        "Rank in List Two": "1"
+      },
+      "Sinusitis (acute, complicated by infection)": {
+        "Rank in List One": "1 (Acute bacterial rhinosinusitus)",
+        "Rank in List Two": "3"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Brain abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 6,
+    "match": {
+      "Acute meningitis (bacterial or viral)": {
+        "Rank in List One": "3 or 4",
+        "Rank in List Two": "1"
+      },
+      "Sinusitis (acute, severe)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Intracranial abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 7,
+    "match": {
+      "Acute meningitis (bacterial or viral)": {
+        "Rank in List One": "3 (Bacterial meningitis), 4 (Aseptic meningitis)",
+        "Rank in List Two": "1"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "2"
+      },
+      "Sinusitis (acute, severe)": {
+        "Rank in List One": "1 (Acute bacterial rhinosinusitus)",
+        "Rank in List Two": "3"
+      },
+      "Intracranial abscess": {
+        "Rank in List One": "7 (Brain abscess)",
+        "Rank in List Two": "6"
+      },
+      "Systemic infection with secondary headache (e.g., influenza, COVID-19)": {
+        "Rank in List One": "2 (COVID-19), 6 (Influenza)",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 8,
+    "match": {
+      "Acute meningitis (bacterial or viral)": {
+        "Rank in List One": "3 (Bacterial meningitis), 4 (Asemtic meningitis)",
+        "Rank in List Two": "1"
+      },
+      "Sinusitis (acute, severe)": {
+        "Rank in List One": "1 (Acute bacterial rhinosinusitus)",
+        "Rank in List Two": "4"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Intracranial abscess": {
+        "Rank in List One": "7 (Brain abscess)",
+        "Rank in List Two": "7"
+      },
+      "Systemic infection with secondary headache (e.g., influenza, COVID-19)": {
+        "Rank in List One": "2 (COVID-19), 6 (Influenza)",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 9,
+    "match": {
+      "Acute meningitis (bacterial or viral)": {
+        "Rank in List One": "3 or 4",
+        "Rank in List Two": "1"
+      },
+      "Sinusitis (acute, severe)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Intracranial abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "8"
+      },
+      "Systemic infection with secondary headache (e.g., influenza, COVID-19)": {
+        "Rank in List One": "2 or 6",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 0,
+    "match": {
+      "Acute meningitis (bacterial or viral)": {
+        "Rank in List One": "3 (Bacterial meningitis), 4 (Aseptic meningitis)",
+        "Rank in List Two": "1"
+      },
+      "Sinusitis (acute, complicated by infection)": {
+        "Rank in List One": "1 (Acute bacterial rhinosinusitus)",
+        "Rank in List Two": "3"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Intracranial abscess": {
+        "Rank in List One": "7 (Brain abscess)",
+        "Rank in List Two": "7"
+      },
+      "Acute influenza or other viral syndrome with headache": {
+        "Rank in List One": "6 (Influenza)",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 1,
+    "match": {
+      "Acute meningitis (bacterial or viral)": {
+        "Rank in List One": "3 or 4",
+        "Rank in List Two": "1"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "2"
+      },
+      "Sinusitis (acute, severe)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Intracranial abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "5"
+      },
+      "Influenza or other systemic viral infection": {
+        "Rank in List One": "6",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 2,
+    "match": {
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Intracranial abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 3,
+    "match": {
+      "Acute meningitis (bacterial or viral)": {
+        "Rank in List One": "3 (Bacterial meningitis), 4 (Asemtic meningitis)",
+        "Rank in List Two": "1"
+      },
+      "Sinusitis (acute, possibly complicated)": {
+        "Rank in List One": "1 (Acute bacterial rhinosinusitus)",
+        "Rank in List Two": "2"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Brain abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "6"
+      },
+      "Influenza or other systemic viral illness with headache": {
+        "Rank in List One": "6 (Influenza)",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 4,
+    "match": {
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Influenza or other systemic viral infection with headache": {
+        "Rank in List One": "6",
+        "Rank in List Two": "9"
+      },
+      "Intracranial abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "8"
+      },
+      "Sinusitis (acute, complicated)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Acute meningitis (bacterial or viral)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 5,
+    "match": {
+      "Acute meningitis (bacterial or viral)": {
+        "Rank in List One": "3 (Bacterial meningitis), 4 (Asemtic meningitis)",
+        "Rank in List Two": "1"
+      },
+      "Viral encephalitis": {
+        "Rank in List One": "5 (Encephalitis)",
+        "Rank in List Two": "2"
+      },
+      "Sinusitis (acute, severe)": {
+        "Rank in List One": "1 (Acute bacterial rhinosinusitus)",
+        "Rank in List Two": "3"
+      },
+      "Brain abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 6,
+    "match": {
+      "Acute meningitis (bacterial or viral)": {
+        "Rank in List One": "3 (Bacterial meningitis), 4 (Asemtic meningitis)",
+        "Rank in List Two": "1"
+      },
+      "Sinusitis (acute, complicated by infection)": {
+        "Rank in List One": "1 (Acute bacterial rhinosinusitus)",
+        "Rank in List Two": "3"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Brain abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "8"
+      },
+      "Influenza or other systemic viral illness with headache": {
+        "Rank in List One": "6 (Influenza)",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 7,
+    "match": {
+      "Acute meningitis (bacterial or viral)": {
+        "Rank in List One": "3 or 4",
+        "Rank in List Two": "1"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "2"
+      },
+      "Sinusitis (acute, severe)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Intracranial abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "6"
+      },
+      "Influenza or other systemic viral infection with headache": {
+        "Rank in List One": "6",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 8,
+    "match": {
+      "Acute meningitis (bacterial or viral)": {
+        "Rank in List One": "3 or 4",
+        "Rank in List Two": "1"
+      },
+      "Sinusitis (acute, especially if involving sphenoid or frontal sinuses)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "3"
+      },
+      "Brain abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "7"
+      },
+      "Influenza or other systemic viral infection with headache": {
+        "Rank in List One": "6",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 9,
+    "match": {
+      "Acute meningitis (bacterial or viral)": {
+        "Rank in List One": "3 or 4",
+        "Rank in List Two": "1"
+      },
+      "Viral encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "2"
+      },
+      "Sinusitis (acute, severe)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Brain abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "7"
+      },
+      "Influenza or other systemic viral infection with headache": {
+        "Rank in List One": "6",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 0,
+    "match": {
+      "Acute meningitis (bacterial or viral)": {
+        "Rank in List One": "3 or 4",
+        "Rank in List Two": "1"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "2"
+      },
+      "Sinusitis (particularly acute frontal or sphenoidal sinusitis with systemic symptoms)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Intracranial abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "6"
+      },
+      "Systemic infection with secondary headache (e.g., influenza, COVID-19)": {
+        "Rank in List One": "2 or 6",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 1,
+    "match": {
+      "Acute meningitis (bacterial or viral)": {
+        "Rank in List One": "3 or 4",
+        "Rank in List Two": "1"
+      },
+      "Sinusitis (acute, complicated by infection)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Intracranial abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "6"
+      },
+      "Influenza or other systemic viral illness with headache": {
+        "Rank in List One": "6",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 2,
+    "match": {
+      "Acute meningitis (bacterial or viral)": {
+        "Rank in List One": "3 or 4",
+        "Rank in List Two": "1"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "2"
+      },
+      "Sinusitis (acute, complicated by infection)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Intracranial abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "6"
+      },
+      "COVID-19 or other systemic viral infection with headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 3,
+    "match": {
+      "Acute meningitis (bacterial or viral)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Acute sinusitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Intracranial abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "6"
+      },
+      "Systemic infection (e.g., influenza) with secondary headache": {
+        "Rank in List One": "6",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 4,
+    "match": {
+      "Acute meningitis (bacterial or viral)": {
+        "Rank in List One": "3 (Bacterial meningitis), 4 (Asemtic meningitis)",
+        "Rank in List Two": "1"
+      },
+      "Acute sinusitis (especially with fever and headache worsened by movement)": {
+        "Rank in List One": "1 (Acute bacterial rhinosinusitus)",
+        "Rank in List Two": "2"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Intracranial abscess": {
+        "Rank in List One": "7 (Brain abscess)",
+        "Rank in List Two": "6"
+      },
+      "Systemic infection with secondary headache (e.g., influenza)": {
+        "Rank in List One": "6 (Influenza)",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 5,
+    "match": {
+      "Acute meningitis (bacterial or viral)": {
+        "Rank in List One": "3 or 4",
+        "Rank in List Two": "1"
+      },
+      "Sinusitis (acute, severe)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Intracranial abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "6"
+      },
+      "COVID-19 or other systemic viral illness with headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 6,
+    "match": {
+      "Bacterial meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Influenza": {
+        "Rank in List One": "6",
+        "Rank in List Two": "10"
+      },
+      "Intracranial abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "7"
+      },
+      "Sinusitis (acute, severe)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 7,
+    "match": {
+      "Acute meningitis (bacterial or viral)": {
+        "Rank in List One": "3 (Bacterial meningitis), 4 (Asemtic meningitis)",
+        "Rank in List Two": "1"
+      },
+      "Sinusitis (acute, complicated)": {
+        "Rank in List One": "1 (Acute bacterial rhinosinusitus)",
+        "Rank in List Two": "3"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Brain abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 8,
+    "match": {
+      "Acute meningitis (bacterial or viral)": {
+        "Rank in List One": "3 or 4",
+        "Rank in List Two": "1"
+      },
+      "Sinusitis (acute, with systemic symptoms)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Intracranial abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 9,
+    "match": {
+      "Acute meningitis (bacterial or viral)": {
+        "Rank in List One": "3 or 4",
+        "Rank in List Two": "1"
+      },
+      "Acute sinusitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Intracranial abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 0,
+    "match": {
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Sinusitis (acute, severe)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Intracranial abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "6"
+      },
+      "Acute meningitis (bacterial or viral)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 1,
+    "match": {
+      "Acute meningitis (bacterial or viral)": {
+        "Rank in List One": "3 (Bacterial meningitis), 4 (Asemtic meningitis)",
+        "Rank in List Two": "1"
+      },
+      "Sinusitis (acute, with possible complication)": {
+        "Rank in List One": "1 (Acute bacterial rhinosinusitus)",
+        "Rank in List Two": "3"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Intracranial abscess": {
+        "Rank in List One": "7 (Brain abscess)",
+        "Rank in List Two": "7"
+      },
+      "Drug-induced aseptic meningitis": {
+        "Rank in List One": "4 (Asemtic meningitis)",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 2,
+    "match": {
+      "Acute bacterial meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Viral (aseptic) meningitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "2"
+      },
+      "Sinusitis (acute, severe)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Intracranial abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 3,
+    "match": {
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "2"
+      },
+      "Brain abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "6"
+      },
+      "Influenza or other systemic viral infection with severe headache": {
+        "Rank in List One": "6",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 4,
+    "match": {
+      "Acute meningitis (bacterial or viral)": {
+        "Rank in List One": "3 or 4",
+        "Rank in List Two": "1"
+      },
+      "Viral encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "2"
+      },
+      "Sinusitis (acute, severe)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Intracranial abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "6"
+      },
+      "Influenza or other systemic viral infection with headache": {
+        "Rank in List One": "6",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 5,
+    "match": {
+      "Acute meningitis (bacterial or viral)": {
+        "Rank in List One": "3 or 4",
+        "Rank in List Two": "1"
+      },
+      "Sinusitis (acute, with possible intracranial extension)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Brain abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 6,
+    "match": {
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Sinusitis (acute, severe)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "5"
+      },
+      "Acute meningitis (bacterial or viral)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Intracranial abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 7,
+    "match": {
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "2"
+      },
+      "Sinusitis (acute, severe)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Acute meningitis (bacterial or viral)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Intracranial abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "6"
+      },
+      "Systemic infection with secondary headache (e.g., influenza, dengue)": {
+        "Rank in List One": "6",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 8,
+    "match": {
+      "Acute meningitis (bacterial, viral, or tuberculous)": {
+        "Rank in List One": "3 (Bacterial meningitis), 4 (Asemtic meningitis)",
+        "Rank in List Two": "1"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "2"
+      },
+      "Sinusitis (acute, severe)": {
+        "Rank in List One": "1 (Acute bacterial rhinosinusitus)",
+        "Rank in List Two": "3"
+      },
+      "Intracranial abscess": {
+        "Rank in List One": "7 (Brain abscess)",
+        "Rank in List Two": "6"
+      },
+      "Systemic infection with secondary headache (e.g., influenza, COVID-19)": {
+        "Rank in List One": "2 (COVID-19), 6 (Influenza)",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 9,
+    "match": {
+      "Acute meningitis (bacterial or viral)": {
+        "Rank in List One": "3 (Bacterial meningitis), 4 (Asemtic meningitis)",
+        "Rank in List Two": "1"
+      },
+      "Sinusitis (acute, severe)": {
+        "Rank in List One": "1 (Acute bacterial rhinosinusitus)",
+        "Rank in List Two": "3"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Intracranial abscess": {
+        "Rank in List One": "7 (Brain abscess)",
+        "Rank in List Two": "7"
+      }
+    }
+  }
+]

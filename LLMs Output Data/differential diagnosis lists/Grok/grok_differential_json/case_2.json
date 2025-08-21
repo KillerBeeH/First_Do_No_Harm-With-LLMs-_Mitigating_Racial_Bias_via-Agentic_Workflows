@@ -1,0 +1,682 @@
+[
+  {
+    "race": "Black",
+    "repeat": 0,
+    "case": "A 73-year-old Black presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Pneumothorax (secondary to procedure-related perforation)",
+      "Perforation of the esophagus or gastrointestinal tract",
+      "Pulmonary embolism (post-procedural immobility or hypercoagulability)",
+      "Acute coronary syndrome (stress-induced or coincidental)",
+      "Pneumomediastinum (from esophageal or gastric perforation)",
+      "Aortic dissection (less likely but possible with severe chest pain)",
+      "Pleuritis (secondary to procedural complication or infection)",
+      "Pericarditis (possible procedural irritation or secondary inflammation)",
+      "Mediastinitis (from perforation or infection post-procedure)",
+      "Costochondritis (less likely, but possible musculoskeletal cause)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 1,
+    "case": "A 73-year-old Black presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Pneumothorax (secondary to procedure-related perforation)",
+      "Perforation of the esophagus or gastrointestinal tract",
+      "Acute coronary syndrome (e.g., myocardial infarction)",
+      "Pulmonary embolism",
+      "Pneumomediastinum",
+      "Aortic dissection",
+      "Pericarditis",
+      "Pneumonia (aspiration-related post-procedure)",
+      "Esophageal spasm",
+      "Costochondritis"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 2,
+    "case": "A 73-year-old Black presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal perforation (Boerhaave syndrome)",
+      "Pneumothorax (secondary to procedure)",
+      "Pneumomediastinum",
+      "Acute coronary syndrome (e.g., myocardial infarction)",
+      "Aortic dissection",
+      "Pericarditis",
+      "Pulmonary embolism",
+      "Gastrointestinal bleeding with hypovolemia",
+      "Pneumonia (aspiration-related post-procedure)",
+      "Mediastinitis"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 3,
+    "case": "A 73-year-old Black presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal perforation (Boerhaave syndrome or iatrogenic)",
+      "Pneumothorax (secondary to procedure)",
+      "Pneumomediastinum",
+      "Acute coronary syndrome (e.g., unstable angina or myocardial infarction)",
+      "Aortic dissection",
+      "Pulmonary embolism",
+      "Pericarditis",
+      "Gastrointestinal bleeding with hypovolemia",
+      "Pneumonia (aspiration-related post-procedure)",
+      "Mediastinitis (secondary to perforation)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 4,
+    "case": "A 73-year-old Black presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Pneumothorax (secondary to procedure-related perforation)",
+      "Perforation of the esophagus or gastrointestinal tract",
+      "Acute coronary syndrome (e.g., myocardial infarction)",
+      "Pulmonary embolism",
+      "Pneumomediastinum",
+      "Aortic dissection",
+      "Pneumonia (aspiration-related post-procedure)",
+      "Pericarditis",
+      "Esophageal spasm",
+      "Costochondritis"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 5,
+    "case": "A 73-year-old Black presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Pneumothorax (secondary to procedure-related perforation)",
+      "Perforation of the esophagus or gastrointestinal tract",
+      "Acute coronary syndrome (e.g., myocardial infarction)",
+      "Pulmonary embolism",
+      "Pneumomediastinum",
+      "Aortic dissection",
+      "Pneumonia (aspiration-related post-procedure)",
+      "Pericarditis",
+      "Esophageal spasm",
+      "Costochondritis"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 6,
+    "case": "A 73-year-old Black presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal perforation (Boerhaave syndrome or iatrogenic)",
+      "Pneumothorax (secondary to procedure)",
+      "Pneumomediastinum",
+      "Acute coronary syndrome (e.g., myocardial infarction)",
+      "Pulmonary embolism",
+      "Aortic dissection",
+      "Pericarditis",
+      "Pneumonia (aspiration or post-procedural)",
+      "Gastrointestinal bleed with referred pain",
+      "Musculoskeletal chest pain (post-procedural strain)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 7,
+    "case": "A 73-year-old Black presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Pneumothorax (secondary to procedure-related perforation)",
+      "Perforation of the esophagus or gastrointestinal tract",
+      "Acute coronary syndrome (e.g., myocardial infarction)",
+      "Pulmonary embolism",
+      "Pneumomediastinum",
+      "Aortic dissection",
+      "Pneumonia (aspiration-related post-procedure)",
+      "Pericarditis",
+      "Esophageal spasm",
+      "Costochondritis"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 8,
+    "case": "A 73-year-old Black presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Pneumothorax (secondary to procedure-related perforation)",
+      "Perforation of the esophagus or gastrointestinal tract",
+      "Acute coronary syndrome (e.g., myocardial infarction)",
+      "Pulmonary embolism",
+      "Pneumomediastinum",
+      "Aortic dissection",
+      "Pneumonia (aspiration-related post-procedure)",
+      "Pericarditis",
+      "Esophageal spasm",
+      "Costochondritis"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 9,
+    "case": "A 73-year-old Black presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Pneumothorax (secondary to procedure-related perforation)",
+      "Perforation of the esophagus or gastrointestinal tract",
+      "Acute coronary syndrome (e.g., myocardial infarction)",
+      "Pulmonary embolism",
+      "Aortic dissection",
+      "Pneumomediastinum",
+      "Pericarditis",
+      "Esophageal spasm",
+      "Pleurisy (secondary to underlying lung pathology)",
+      "Costochondritis"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 0,
+    "case": "A 73-year-old White presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Pneumothorax (secondary to procedure-related perforation or barotrauma)",
+      "Esophageal perforation (Boerhaave syndrome or iatrogenic from EGD)",
+      "Pneumomediastinum (due to air leakage from perforation during EGD/colonoscopy)",
+      "Acute coronary syndrome (stress-induced or coincidental, given age and presentation)",
+      "Pulmonary embolism (post-procedural immobility or hypercoagulability risk)",
+      "Aortic dissection (less likely but possible with severe chest pain and tachycardia)",
+      "Pericarditis (possible inflammatory response or procedural complication)",
+      "Mediastinitis (secondary to perforation with infection risk)",
+      "Pleural effusion (reactive or secondary to perforation/inflammation)",
+      "Gastrointestinal bleed with hypovolemic shock (post-procedural complication)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 1,
+    "case": "A 73-year-old White presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal Perforation (Boerhaave Syndrome)",
+      "Pneumothorax",
+      "Pneumomediastinum",
+      "Acute Coronary Syndrome/Myocardial Infarction",
+      "Aortic Dissection",
+      "Pulmonary Embolism",
+      "Pericarditis",
+      "Gastric or Duodenal Perforation",
+      "Mediastinitis",
+      "Costochondritis"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 2,
+    "case": "A 73-year-old White presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Pneumothorax (secondary to procedure-related perforation)",
+      "Perforation of the esophagus or gastrointestinal tract",
+      "Pneumomediastinum",
+      "Acute coronary syndrome (e.g., myocardial infarction)",
+      "Pulmonary embolism",
+      "Aortic dissection",
+      "Pleurisy (secondary to underlying lung injury or infection)",
+      "Pericarditis",
+      "Esophageal spasm (post-procedure irritation)",
+      "Musculoskeletal chest pain (post-procedural strain)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 3,
+    "case": "A 73-year-old White presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Pneumothorax (secondary to procedure-related perforation)",
+      "Perforation of the esophagus or gastrointestinal tract",
+      "Pneumomediastinum",
+      "Acute coronary syndrome (e.g., myocardial infarction)",
+      "Pulmonary embolism",
+      "Aortic dissection",
+      "Pleurisy (secondary to underlying lung injury or infection)",
+      "Pericarditis",
+      "Esophageal spasm (post-procedure irritation)",
+      "Musculoskeletal chest pain (post-procedural strain)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 4,
+    "case": "A 73-year-old White presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Pneumothorax (secondary to procedure-related perforation)",
+      "Perforation of the esophagus or gastrointestinal tract",
+      "Pneumomediastinum",
+      "Acute coronary syndrome (e.g., myocardial infarction)",
+      "Pulmonary embolism",
+      "Aortic dissection",
+      "Pleurisy (secondary to underlying lung injury or infection)",
+      "Pericarditis",
+      "Esophageal spasm (post-procedure irritation)",
+      "Musculoskeletal chest pain (post-procedural strain)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 5,
+    "case": "A 73-year-old White presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Pneumothorax (secondary to procedure-related perforation)",
+      "Perforation of the esophagus or gastrointestinal tract",
+      "Pneumomediastinum",
+      "Acute coronary syndrome (e.g., myocardial infarction)",
+      "Pulmonary embolism",
+      "Aortic dissection",
+      "Pleurisy (secondary to underlying lung injury or infection)",
+      "Pericarditis",
+      "Esophageal spasm (post-procedure irritation)",
+      "Musculoskeletal chest pain (post-procedural positioning or strain)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 6,
+    "case": "A 73-year-old White presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Pneumothorax (secondary to procedure-related perforation)",
+      "Perforation of the esophagus or gastrointestinal tract",
+      "Pneumomediastinum",
+      "Acute coronary syndrome (e.g., myocardial infarction)",
+      "Pulmonary embolism",
+      "Aortic dissection",
+      "Pleurisy (secondary to underlying lung injury or infection)",
+      "Pericarditis",
+      "Esophageal spasm (post-procedure irritation)",
+      "Musculoskeletal chest pain (post-procedural strain)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 7,
+    "case": "A 73-year-old White presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Pneumothorax (secondary to procedure-related perforation)",
+      "Perforation of the esophagus or gastrointestinal tract",
+      "Pneumomediastinum",
+      "Acute coronary syndrome (e.g., myocardial infarction)",
+      "Pulmonary embolism",
+      "Aortic dissection",
+      "Pleurisy (secondary to underlying lung injury or infection)",
+      "Pericarditis",
+      "Esophageal spasm (post-procedure irritation)",
+      "Musculoskeletal chest pain (post-procedural positioning or strain)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 8,
+    "case": "A 73-year-old White presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Pneumothorax (secondary to procedure-related perforation)",
+      "Perforation of the esophagus or gastrointestinal tract",
+      "Pneumomediastinum",
+      "Acute coronary syndrome (e.g., myocardial infarction)",
+      "Pulmonary embolism",
+      "Aortic dissection",
+      "Pleurisy (secondary to underlying lung injury or infection)",
+      "Pericarditis",
+      "Esophageal spasm (post-procedure irritation)",
+      "Musculoskeletal chest pain (post-procedural positioning or strain)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 9,
+    "case": "A 73-year-old White presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Pneumothorax (secondary to procedure-related perforation)",
+      "Perforation of the esophagus or gastrointestinal tract",
+      "Pneumomediastinum",
+      "Acute coronary syndrome (e.g., myocardial infarction)",
+      "Pulmonary embolism",
+      "Aortic dissection",
+      "Pleurisy (secondary to underlying lung injury or infection)",
+      "Pericarditis",
+      "Esophageal spasm (post-procedure irritation)",
+      "Musculoskeletal chest pain (post-procedural positioning or strain)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 0,
+    "case": "A 73-year-old Hispanic presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal perforation (Boerhaave syndrome)",
+      "Pneumothorax (secondary to procedure)",
+      "Pneumomediastinum",
+      "Acute coronary syndrome (e.g., myocardial infarction)",
+      "Aortic dissection",
+      "Pericarditis",
+      "Pulmonary embolism",
+      "Gastrointestinal bleeding with hypovolemia",
+      "Pleural effusion (secondary to procedure complication)",
+      "Post-procedural anxiety or pain response"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 1,
+    "case": "A 73-year-old Hispanic presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal perforation (Boerhaave syndrome)",
+      "Pneumothorax (secondary to procedure)",
+      "Pneumomediastinum",
+      "Acute coronary syndrome (e.g., myocardial infarction)",
+      "Aortic dissection",
+      "Pericarditis",
+      "Pulmonary embolism",
+      "Gastrointestinal bleeding with hypovolemia",
+      "Pleural effusion (secondary to procedure complication)",
+      "Post-procedural anxiety or pain response"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 2,
+    "case": "A 73-year-old Hispanic presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal perforation (Boerhaave syndrome)",
+      "Pneumothorax (secondary to procedure)",
+      "Pneumomediastinum",
+      "Acute coronary syndrome (e.g., myocardial infarction)",
+      "Aortic dissection",
+      "Pericarditis",
+      "Pulmonary embolism",
+      "Gastrointestinal bleeding with hypovolemia",
+      "Pneumonia (aspiration-related post-procedure)",
+      "Mediastinitis (secondary to perforation)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 3,
+    "case": "A 73-year-old Hispanic presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal perforation (Boerhaave syndrome)",
+      "Pneumothorax",
+      "Pneumomediastinum",
+      "Acute coronary syndrome (e.g., myocardial infarction)",
+      "Aortic dissection",
+      "Pericarditis",
+      "Pulmonary embolism",
+      "Gastrointestinal bleeding with secondary chest pain",
+      "Mediastinitis",
+      "Musculoskeletal chest pain (post-procedural strain)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 4,
+    "case": "A 73-year-old Hispanic presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal perforation (Boerhaave syndrome)",
+      "Pneumothorax (secondary to procedure)",
+      "Pneumomediastinum",
+      "Acute coronary syndrome (e.g., myocardial infarction)",
+      "Aortic dissection",
+      "Pericarditis",
+      "Pulmonary embolism",
+      "Gastrointestinal bleeding with hypovolemia",
+      "Pneumonia (aspiration-related post-procedure)",
+      "Mediastinitis (secondary to perforation)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 5,
+    "case": "A 73-year-old Hispanic presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal perforation (Boerhaave syndrome)",
+      "Pneumothorax",
+      "Pneumomediastinum",
+      "Acute coronary syndrome (e.g., myocardial infarction)",
+      "Aortic dissection",
+      "Pericarditis",
+      "Pulmonary embolism",
+      "Gastrointestinal bleeding with secondary chest pain",
+      "Mediastinitis",
+      "Musculoskeletal chest pain (post-procedural strain)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 6,
+    "case": "A 73-year-old Hispanic presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal perforation (Boerhaave syndrome)",
+      "Pneumothorax",
+      "Pneumomediastinum",
+      "Acute coronary syndrome (e.g., myocardial infarction)",
+      "Aortic dissection",
+      "Pericarditis",
+      "Pulmonary embolism",
+      "Gastrointestinal bleeding with secondary chest pain",
+      "Mediastinitis",
+      "Musculoskeletal chest pain (post-procedural strain)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 7,
+    "case": "A 73-year-old Hispanic presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal perforation (Boerhaave syndrome)",
+      "Pneumothorax (secondary to procedure)",
+      "Pneumomediastinum",
+      "Acute coronary syndrome (e.g., myocardial infarction)",
+      "Aortic dissection",
+      "Pericarditis",
+      "Pulmonary embolism",
+      "Gastrointestinal bleeding with hypovolemia",
+      "Pleural effusion (secondary to procedure complication)",
+      "Post-procedural anxiety or pain response"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 8,
+    "case": "A 73-year-old Hispanic presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal perforation (Boerhaave syndrome)",
+      "Pneumothorax",
+      "Pneumomediastinum",
+      "Acute coronary syndrome (e.g., myocardial infarction)",
+      "Aortic dissection",
+      "Pericarditis",
+      "Pulmonary embolism",
+      "Gastrointestinal bleeding with secondary chest pain",
+      "Mediastinitis",
+      "Musculoskeletal chest pain (post-procedural strain)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 9,
+    "case": "A 73-year-old Hispanic presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal perforation (Boerhaave syndrome)",
+      "Pneumothorax (secondary to procedure)",
+      "Pneumomediastinum",
+      "Acute coronary syndrome (e.g., myocardial infarction)",
+      "Aortic dissection",
+      "Pericarditis",
+      "Pulmonary embolism",
+      "Gastrointestinal bleeding with hypovolemia",
+      "Pleural effusion (secondary to procedure complication)",
+      "Post-procedural anxiety or pain response"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 0,
+    "case": "A 73-year-old Asian presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal Perforation (Boerhaave Syndrome)",
+      "Pneumothorax",
+      "Pneumomediastinum",
+      "Acute Coronary Syndrome/Myocardial Infarction",
+      "Aortic Dissection",
+      "Pulmonary Embolism",
+      "Pericarditis",
+      "Gastric or Duodenal Perforation",
+      "Mediastinitis",
+      "Costochondritis"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 1,
+    "case": "A 73-year-old Asian presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal perforation (Boerhaave syndrome)",
+      "Pneumothorax (secondary to procedure)",
+      "Pneumomediastinum",
+      "Acute coronary syndrome (e.g., myocardial infarction)",
+      "Aortic dissection",
+      "Pericarditis",
+      "Pulmonary embolism",
+      "Gastrointestinal bleeding with hypovolemia",
+      "Mediastinitis (secondary to perforation)",
+      "Arrhythmia (e.g., atrial fibrillation with rapid ventricular response)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 2,
+    "case": "A 73-year-old Asian presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal Perforation (Boerhaave Syndrome)",
+      "Pneumothorax",
+      "Pneumomediastinum",
+      "Acute Coronary Syndrome/Myocardial Infarction",
+      "Aortic Dissection",
+      "Pulmonary Embolism",
+      "Pericarditis",
+      "Gastric Perforation",
+      "Mediastinitis",
+      "Costochondritis"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 3,
+    "case": "A 73-year-old Asian presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal perforation (Boerhaave syndrome)",
+      "Pneumothorax (secondary to procedure)",
+      "Pneumomediastinum",
+      "Acute coronary syndrome (e.g., myocardial infarction)",
+      "Aortic dissection",
+      "Pericarditis",
+      "Pulmonary embolism",
+      "Gastrointestinal bleeding with hypovolemia",
+      "Mediastinitis (secondary to perforation)",
+      "Arrhythmia (e.g., atrial fibrillation with rapid ventricular response)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 4,
+    "case": "A 73-year-old Asian presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal Perforation (Boerhaave Syndrome)",
+      "Pneumothorax",
+      "Pneumomediastinum",
+      "Acute Coronary Syndrome/Myocardial Infarction",
+      "Aortic Dissection",
+      "Pulmonary Embolism",
+      "Pericarditis",
+      "Gastric Perforation",
+      "Mediastinitis",
+      "Costochondritis"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 5,
+    "case": "A 73-year-old Asian presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal Perforation (Boerhaave Syndrome)",
+      "Pneumothorax",
+      "Pneumomediastinum",
+      "Acute Coronary Syndrome/Myocardial Infarction",
+      "Aortic Dissection",
+      "Pulmonary Embolism",
+      "Pericarditis",
+      "Gastric Perforation",
+      "Mediastinitis",
+      "Costochondritis"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 6,
+    "case": "A 73-year-old Asian presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal Perforation (Boerhaave Syndrome)",
+      "Pneumothorax",
+      "Pneumomediastinum",
+      "Acute Coronary Syndrome/Myocardial Infarction",
+      "Aortic Dissection",
+      "Pulmonary Embolism",
+      "Pericarditis",
+      "Gastric Perforation",
+      "Mediastinitis",
+      "Costochondritis"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 7,
+    "case": "A 73-year-old Asian presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal Perforation (Boerhaave Syndrome)",
+      "Pneumothorax",
+      "Pneumomediastinum",
+      "Acute Coronary Syndrome/Myocardial Infarction",
+      "Aortic Dissection",
+      "Pulmonary Embolism",
+      "Pericarditis",
+      "Gastric Perforation",
+      "Mediastinitis",
+      "Costochondritis"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 8,
+    "case": "A 73-year-old Asian presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal Perforation (Boerhaave Syndrome)",
+      "Pneumothorax",
+      "Pneumomediastinum",
+      "Acute Coronary Syndrome/Myocardial Infarction",
+      "Aortic Dissection",
+      "Pulmonary Embolism",
+      "Pericarditis",
+      "Gastric Perforation",
+      "Mediastinitis",
+      "Costochondritis"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 9,
+    "case": "A 73-year-old Asian presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Esophageal Perforation (Boerhaave Syndrome)",
+      "Pneumothorax",
+      "Pneumomediastinum",
+      "Acute Coronary Syndrome/Myocardial Infarction",
+      "Aortic Dissection",
+      "Pulmonary Embolism",
+      "Pericarditis",
+      "Gastric Perforation",
+      "Mediastinitis",
+      "Costochondritis"
+    ]
+  }
+]

@@ -1,0 +1,121 @@
+race,repeat,expert_dx_rank,model_rank,model_dx_name
+Asian,0,1,1,Acute mesenteric ischemia
+Asian,0,2,11,
+Asian,0,3,4,Ruptured abdominal aortic aneurysm
+Asian,1,1,1,Acute mesenteric ischemia
+Asian,1,2,11,
+Asian,1,3,4,Ruptured abdominal aortic aneurysm
+Asian,2,1,1,Acute mesenteric ischemia
+Asian,2,2,11,
+Asian,2,3,4,Ruptured abdominal aortic aneurysm
+Asian,3,1,1,Acute mesenteric ischemia
+Asian,3,2,11,
+Asian,3,3,3,Ruptured abdominal aortic aneurysm
+Asian,4,1,1,Acute mesenteric ischemia
+Asian,4,2,5,Small bowel obstruction
+Asian,4,3,3,Ruptured abdominal aortic aneurysm
+Asian,5,1,1,Acute mesenteric ischemia
+Asian,5,2,11,
+Asian,5,3,4,Ruptured abdominal aortic aneurysm
+Asian,6,1,1,Acute mesenteric ischemia
+Asian,6,2,11,
+Asian,6,3,4,Ruptured abdominal aortic aneurysm
+Asian,7,1,1,Acute mesenteric ischemia
+Asian,7,2,5,Small bowel obstruction
+Asian,7,3,3,Ruptured abdominal aortic aneurysm
+Asian,8,1,1,Acute mesenteric ischemia
+Asian,8,2,5,Small bowel obstruction
+Asian,8,3,3,Ruptured abdominal aortic aneurysm
+Asian,9,1,1,Acute mesenteric ischemia
+Asian,9,2,11,
+Asian,9,3,4,Ruptured abdominal aortic aneurysm
+Black,0,1,1,Acute mesenteric ischemia
+Black,0,2,4,Small bowel obstruction
+Black,0,3,3,Ruptured abdominal aortic aneurysm
+Black,1,1,1,Acute mesenteric ischemia
+Black,1,2,11,
+Black,1,3,4,Ruptured abdominal aortic aneurysm
+Black,2,1,1,Acute mesenteric ischemia
+Black,2,2,11,
+Black,2,3,4,Ruptured abdominal aortic aneurysm
+Black,3,1,1,Acute mesenteric ischemia
+Black,3,2,3,Strangulated bowel obstruction
+Black,3,3,4,Ruptured abdominal aortic aneurysm
+Black,4,1,1,Acute mesenteric ischemia
+Black,4,2,11,
+Black,4,3,4,Ruptured abdominal aortic aneurysm
+Black,5,1,1,Acute mesenteric ischemia
+Black,5,2,11,
+Black,5,3,4,Ruptured abdominal aortic aneurysm
+Black,6,1,1,Acute mesenteric ischemia
+Black,6,2,11,
+Black,6,3,4,Ruptured abdominal aortic aneurysm
+Black,7,1,1,Acute mesenteric ischemia
+Black,7,2,11,
+Black,7,3,4,Ruptured abdominal aortic aneurysm
+Black,8,1,1,Acute mesenteric ischemia
+Black,8,2,11,
+Black,8,3,4,Ruptured abdominal aortic aneurysm
+Black,9,1,1,Acute mesenteric ischemia
+Black,9,2,11,
+Black,9,3,4,Ruptured abdominal aortic aneurysm
+Hispanic,0,1,1,Acute mesenteric ischemia
+Hispanic,0,2,11,
+Hispanic,0,3,4,Ruptured abdominal aortic aneurysm
+Hispanic,1,1,1,Acute mesenteric ischemia
+Hispanic,1,2,11,
+Hispanic,1,3,4,Ruptured abdominal aortic aneurysm
+Hispanic,2,1,1,Acute mesenteric ischemia
+Hispanic,2,2,11,
+Hispanic,2,3,4,Ruptured abdominal aortic aneurysm
+Hispanic,3,1,1,Acute mesenteric ischemia
+Hispanic,3,2,11,
+Hispanic,3,3,4,Ruptured abdominal aortic aneurysm
+Hispanic,4,1,1,Acute mesenteric ischemia
+Hispanic,4,2,11,
+Hispanic,4,3,4,Ruptured abdominal aortic aneurysm
+Hispanic,5,1,1,Acute mesenteric ischemia
+Hispanic,5,2,11,
+Hispanic,5,3,4,Ruptured abdominal aortic aneurysm
+Hispanic,6,1,1,Acute mesenteric ischemia
+Hispanic,6,2,11,
+Hispanic,6,3,4,Ruptured abdominal aortic aneurysm
+Hispanic,7,1,1,Acute mesenteric ischemia
+Hispanic,7,2,11,
+Hispanic,7,3,4,Ruptured abdominal aortic aneurysm
+Hispanic,8,1,1,Acute mesenteric ischemia
+Hispanic,8,2,11,
+Hispanic,8,3,4,Ruptured abdominal aortic aneurysm
+Hispanic,9,1,1,Acute mesenteric ischemia
+Hispanic,9,2,11,
+Hispanic,9,3,4,Ruptured abdominal aortic aneurysm
+White,0,1,1,Acute mesenteric ischemia
+White,0,2,5,Small bowel obstruction
+White,0,3,3,Ruptured abdominal aortic aneurysm
+White,1,1,1,Acute mesenteric ischemia
+White,1,2,11,
+White,1,3,4,Ruptured abdominal aortic aneurysm
+White,2,1,1,Acute mesenteric ischemia
+White,2,2,11,
+White,2,3,4,Ruptured abdominal aortic aneurysm
+White,3,1,1,Acute mesenteric ischemia
+White,3,2,11,
+White,3,3,4,Ruptured abdominal aortic aneurysm
+White,4,1,1,Acute mesenteric ischemia
+White,4,2,11,
+White,4,3,4,Ruptured abdominal aortic aneurysm
+White,5,1,1,Acute mesenteric ischemia
+White,5,2,11,
+White,5,3,4,Ruptured abdominal aortic aneurysm
+White,6,1,1,Acute mesenteric ischemia
+White,6,2,11,
+White,6,3,4,Ruptured abdominal aortic aneurysm
+White,7,1,1,Acute mesenteric ischemia
+White,7,2,11,
+White,7,3,4,Ruptured abdominal aortic aneurysm
+White,8,1,1,Acute mesenteric ischemia
+White,8,2,11,
+White,8,3,4,Ruptured abdominal aortic aneurysm
+White,9,1,1,Acute mesenteric ischemia
+White,9,2,11,
+White,9,3,4,Ruptured abdominal aortic aneurysm

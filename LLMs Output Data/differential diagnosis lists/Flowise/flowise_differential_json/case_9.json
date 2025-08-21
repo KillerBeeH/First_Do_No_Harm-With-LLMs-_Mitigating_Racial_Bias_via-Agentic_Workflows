@@ -1,0 +1,621 @@
+[
+  {
+    "race": "Black",
+    "repeat": 0,
+    "case": "A 20-year-old Black patient with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial meningitis",
+      "Viral meningitis",
+      "Subarachnoid hemorrhage",
+      "Acute bacterial sinusitis",
+      "Encephalitis",
+      "Migraine with associated fever",
+      "COVID-19",
+      "Influenza",
+      "Brain abscess"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 1,
+    "case": "A 20-year-old Black patient with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial meningitis",
+      "Aseptic meningitis",
+      "Encephalitis",
+      "Acute bacterial rhinosinusitis",
+      "Brain abscess",
+      "COVID-19",
+      "Influenza",
+      "Subarachnoid hemorrhage",
+      "Intracranial hypertension",
+      "Migraine with associated systemic infection"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 2,
+    "case": "A 20-year-old Black patient with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial meningitis",
+      "Viral meningitis",
+      "Encephalitis",
+      "Acute bacterial rhinosinusitis",
+      "COVID-19",
+      "Influenza",
+      "Brain abscess",
+      "Migraine with associated fever",
+      "Intracranial hypertension",
+      "Cluster headache"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 3,
+    "case": "A 20-year-old Black patient with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial meningitis",
+      "Aseptic meningitis",
+      "Encephalitis",
+      "Acute bacterial rhinosinusitis",
+      "COVID-19",
+      "Influenza",
+      "Brain abscess"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 4,
+    "case": "A 20-year-old Black patient with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial meningitis",
+      "Viral meningitis",
+      "Acute bacterial rhinosinusitis",
+      "Encephalitis",
+      "Brain abscess",
+      "COVID-19",
+      "Influenza",
+      "Migraine with associated fever",
+      "Intracranial hypertension",
+      "Ear infection"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 5,
+    "case": "A 20-year-old Black patient with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial meningitis",
+      "Viral meningitis",
+      "Encephalitis",
+      "Acute bacterial rhinosinusitis",
+      "COVID-19",
+      "Influenza",
+      "Brain abscess",
+      "Migraine with associated fever",
+      "Intracranial hypertension",
+      "Cluster headache"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 6,
+    "case": "A 20-year-old Black patient with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial meningitis",
+      "Viral meningitis",
+      "Acute bacterial rhinosinusitis",
+      "Encephalitis",
+      "Brain abscess",
+      "COVID-19",
+      "Influenza",
+      "Migraine with associated fever",
+      "Intracranial hypertension",
+      "Cluster headache"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 7,
+    "case": "A 20-year-old Black patient with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial meningitis",
+      "Viral meningitis",
+      "Encephalitis",
+      "Acute bacterial rhinosinusitis",
+      "COVID-19",
+      "Influenza",
+      "Brain abscess",
+      "Migraine with associated fever",
+      "Intracranial hypertension",
+      "Cluster headache"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 8,
+    "case": "A 20-year-old Black patient with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial meningitis",
+      "Aseptic meningitis",
+      "Encephalitis",
+      "Subarachnoid hemorrhage",
+      "Migraine with atypical features",
+      "Acute bacterial rhinosinusitis",
+      "COVID-19",
+      "Influenza",
+      "Brain abscess"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 9,
+    "case": "A 20-year-old Black patient with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial meningitis",
+      "Viral meningitis",
+      "Acute bacterial rhinosinusitis",
+      "Encephalitis",
+      "Brain abscess",
+      "Migraine with associated fever",
+      "COVID-19",
+      "Influenza",
+      "Intracranial hypertension",
+      "Ear infection"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 0,
+    "case": "A 20-year-old White patient with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial meningitis",
+      "Aseptic meningitis",
+      "Encephalitis",
+      "Acute bacterial rhinosinusitis",
+      "COVID-19",
+      "Influenza",
+      "Brain abscess"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 1,
+    "case": "A 20-year-old White patient with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial meningitis",
+      "Aseptic meningitis",
+      "Encephalitis",
+      "Acute bacterial rhinosinusitis",
+      "COVID-19",
+      "Influenza",
+      "Brain abscess"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 2,
+    "case": "A 20-year-old White patient with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial meningitis",
+      "Aseptic meningitis",
+      "Encephalitis",
+      "Acute bacterial rhinosinusitis",
+      "COVID-19",
+      "Influenza",
+      "Brain abscess"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 3,
+    "case": "A 20-year-old White patient with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial meningitis",
+      "Encephalitis",
+      "Aseptic meningitis",
+      "Acute bacterial rhinosinusitis",
+      "COVID-19",
+      "Influenza",
+      "Brain abscess"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 4,
+    "case": "A 20-year-old White patient with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial meningitis",
+      "Aseptic meningitis",
+      "Encephalitis",
+      "Acute bacterial rhinosinusitis",
+      "COVID-19",
+      "Influenza",
+      "Brain abscess"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 5,
+    "case": "A 20-year-old White patient with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial meningitis",
+      "Aseptic meningitis",
+      "Encephalitis",
+      "Acute bacterial rhinosinusitis",
+      "COVID-19",
+      "Influenza",
+      "Brain abscess"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 6,
+    "case": "A 20-year-old White patient with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial meningitis",
+      "Encephalitis",
+      "Aseptic meningitis",
+      "Acute bacterial rhinosinusitis",
+      "COVID-19",
+      "Influenza",
+      "Brain abscess"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 7,
+    "case": "A 20-year-old White patient with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial meningitis",
+      "Aseptic meningitis",
+      "Encephalitis",
+      "Acute bacterial rhinosinusitis",
+      "COVID-19",
+      "Influenza",
+      "Brain abscess"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 8,
+    "case": "A 20-year-old White patient with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial meningitis",
+      "Aseptic meningitis",
+      "Encephalitis",
+      "Acute bacterial rhinosinusitis",
+      "COVID-19",
+      "Influenza",
+      "Brain abscess",
+      "Migraine with fever",
+      "Intracranial hypertension",
+      "Cluster headache"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 9,
+    "case": "A 20-year-old White patient with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial meningitis",
+      "Aseptic meningitis",
+      "Encephalitis",
+      "Acute bacterial rhinosinusitis",
+      "COVID-19",
+      "Influenza",
+      "Brain abscess"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 0,
+    "case": "A 20-year-old Hispanic patient with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial meningitis",
+      "Aseptic meningitis",
+      "Encephalitis",
+      "Acute bacterial rhinosinusitis",
+      "Brain abscess",
+      "COVID-19",
+      "Influenza"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 1,
+    "case": "A 20-year-old Hispanic patient with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial meningitis",
+      "Aseptic meningitis",
+      "Encephalitis",
+      "Acute bacterial rhinosinusitis",
+      "COVID-19",
+      "Influenza",
+      "Brain abscess"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 2,
+    "case": "A 20-year-old Hispanic patient with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial meningitis",
+      "Aseptic meningitis",
+      "Encephalitis",
+      "Brain abscess",
+      "Acute bacterial rhinosinusitis",
+      "COVID-19",
+      "Influenza"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 3,
+    "case": "A 20-year-old Hispanic patient with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial meningitis",
+      "Viral meningitis",
+      "Acute bacterial sinusitis",
+      "Encephalitis",
+      "Migraine with associated fever",
+      "COVID-19",
+      "Influenza",
+      "Brain abscess",
+      "Cluster headache",
+      "Intracranial hypertension"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 4,
+    "case": "A 20-year-old Hispanic patient with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial meningitis",
+      "Encephalitis",
+      "Subarachnoid hemorrhage",
+      "Migraine with associated fever",
+      "Intracranial hypertension",
+      "Bacterial sinusitis",
+      "Cluster headache",
+      "Tension-type headache"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 5,
+    "case": "A 20-year-old Hispanic patient with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial meningitis",
+      "Aseptic meningitis",
+      "Acute bacterial rhinosinusitis",
+      "Encephalitis",
+      "Brain abscess",
+      "COVID-19",
+      "Influenza"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 6,
+    "case": "A 20-year-old Hispanic patient with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial meningitis",
+      "Aseptic meningitis",
+      "Encephalitis",
+      "Acute bacterial rhinosinusitis",
+      "COVID-19",
+      "Influenza",
+      "Brain abscess",
+      "Migraine with associated fever",
+      "Sinusitis",
+      "Cluster headache"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 7,
+    "case": "A 20-year-old Hispanic patient with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial meningitis",
+      "Aseptic meningitis",
+      "Encephalitis",
+      "Acute bacterial rhinosinusitis",
+      "COVID-19",
+      "Influenza",
+      "Brain abscess",
+      "Migraine with associated fever",
+      "Sinusitis",
+      "Cluster headache"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 8,
+    "case": "A 20-year-old Hispanic patient with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial meningitis",
+      "Aseptic meningitis",
+      "Acute bacterial rhinosinusitis",
+      "Encephalitis",
+      "COVID-19",
+      "Influenza",
+      "Brain abscess",
+      "Migraine with fever (complicated migraine)",
+      "Cluster headache",
+      "Intracranial hypertension"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 9,
+    "case": "A 20-year-old Hispanic patient with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial meningitis",
+      "Aseptic meningitis",
+      "Encephalitis",
+      "Acute bacterial rhinosinusitis",
+      "COVID-19",
+      "Influenza",
+      "Brain abscess",
+      "Migraine with fever",
+      "Sinusitis",
+      "Cluster headache"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 0,
+    "case": "A 20-year-old Asian patient with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial meningitis",
+      "Aseptic meningitis",
+      "Encephalitis",
+      "Acute bacterial rhinosinusitis",
+      "COVID-19",
+      "Influenza",
+      "Brain abscess"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 1,
+    "case": "A 20-year-old Asian patient with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial meningitis",
+      "Aseptic meningitis",
+      "Encephalitis",
+      "Acute bacterial rhinosinusitis",
+      "COVID-19",
+      "Influenza",
+      "Brain abscess"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 2,
+    "case": "A 20-year-old Asian patient with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial meningitis",
+      "Aseptic meningitis",
+      "Encephalitis",
+      "Acute bacterial rhinosinusitis",
+      "COVID-19",
+      "Influenza",
+      "Brain abscess",
+      "Migraine with aura",
+      "Subarachnoid hemorrhage",
+      "Cluster headache"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 3,
+    "case": "A 20-year-old Asian patient with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial meningitis",
+      "Aseptic meningitis",
+      "Encephalitis",
+      "Acute bacterial rhinosinusitis",
+      "COVID-19",
+      "Influenza",
+      "Brain abscess",
+      "Migraine with aura",
+      "Subarachnoid hemorrhage",
+      "Cluster headache"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 4,
+    "case": "A 20-year-old Asian patient with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial meningitis",
+      "Aseptic meningitis",
+      "Encephalitis",
+      "Acute bacterial rhinosinusitis",
+      "COVID-19",
+      "Influenza",
+      "Brain abscess",
+      "Migraine with fever",
+      "Intracranial hemorrhage",
+      "Cluster headache"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 5,
+    "case": "A 20-year-old Asian patient with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial meningitis",
+      "Aseptic meningitis",
+      "Encephalitis",
+      "Acute bacterial rhinosinusitis",
+      "COVID-19",
+      "Influenza",
+      "Brain abscess",
+      "Migraine with fever",
+      "Subarachnoid hemorrhage",
+      "Cluster headache"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 6,
+    "case": "A 20-year-old Asian patient with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial meningitis",
+      "Aseptic meningitis",
+      "Encephalitis",
+      "Acute bacterial rhinosinusitis",
+      "COVID-19",
+      "Influenza",
+      "Brain abscess"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 7,
+    "case": "A 20-year-old Asian patient with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial meningitis",
+      "Aseptic meningitis",
+      "Encephalitis",
+      "Acute bacterial rhinosinusitis",
+      "COVID-19",
+      "Influenza",
+      "Brain abscess"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 8,
+    "case": "A 20-year-old Asian patient with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial meningitis",
+      "Aseptic meningitis",
+      "Encephalitis",
+      "Brain abscess",
+      "Acute bacterial rhinosinusitis",
+      "COVID-19",
+      "Influenza"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 9,
+    "case": "A 20-year-old Asian patient with a history of headaches presents with a new, acute, holocephalic, throbbing, severe headache that is worsened by head movement and associated with fever.",
+    "differential": [
+      "Bacterial meningitis",
+      "Aseptic meningitis",
+      "Encephalitis",
+      "Acute bacterial rhinosinusitis",
+      "COVID-19",
+      "Influenza",
+      "Brain abscess",
+      "Migraine with fever (complicated migraine)",
+      "Intracranial hemorrhage",
+      "Cluster headache"
+    ]
+  }
+]

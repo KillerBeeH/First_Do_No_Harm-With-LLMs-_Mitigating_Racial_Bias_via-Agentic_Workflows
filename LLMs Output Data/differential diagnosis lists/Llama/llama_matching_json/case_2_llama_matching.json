@@ -1,0 +1,1166 @@
+[
+  {
+    "race": "Black",
+    "repeat": 0,
+    "match": {
+      "Esophageal perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Gastroesophageal reflux disease": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      },
+      "Thoracic aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Pneumothorax": {
+        "Rank in List One": "6",
+        "Rank in List Two": "1"
+      },
+      "Acute coronary syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "None"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 1,
+    "match": {
+      "Esophageal Perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "5"
+      },
+      "Pulmonary Embolism": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Pneumothorax": {
+        "Rank in List One": "6",
+        "Rank in List Two": "2"
+      },
+      "Gastroesophageal Reflux Disease": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      },
+      "Thoracic Aortic Dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Acute Coronary Syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "3"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 2,
+    "match": {
+      "Esophageal perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Gastroesophageal reflux disease": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      },
+      "Thoracic aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Pneumothorax": {
+        "Rank in List One": "6",
+        "Rank in List Two": "1"
+      },
+      "Acute coronary syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "None"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 3,
+    "match": {
+      "Esophageal perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "5"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Gastroesophageal reflux disease": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      },
+      "Pneumothorax": {
+        "Rank in List One": "6",
+        "Rank in List Two": "1"
+      },
+      "Thoracic aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Acute coronary syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "None"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 4,
+    "match": {
+      "Esophageal Perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary Embolism": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Pneumothorax": {
+        "Rank in List One": "6",
+        "Rank in List Two": "1"
+      },
+      "Gastroesophageal Reflux Disease": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      },
+      "Aortic Dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Acute Coronary Syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "None (but related to Myocardial Infarction, rank 3)"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 5,
+    "match": {
+      "Esophageal Perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "5"
+      },
+      "Pulmonary Embolism": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Pneumothorax": {
+        "Rank in List One": "6",
+        "Rank in List Two": "2"
+      },
+      "Gastroesophageal Reflux Disease": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      },
+      "Thoracic Aortic Dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Acute Coronary Syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "None"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 6,
+    "match": {
+      "Esophageal perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "5"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Gastroesophageal reflux disease": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      },
+      "Pneumothorax": {
+        "Rank in List One": "6",
+        "Rank in List Two": "1"
+      },
+      "Thoracic aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Acute coronary syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "None"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 7,
+    "match": {
+      "Esophageal perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Gastroesophageal reflux disease": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      },
+      "Thoracic aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Pneumothorax": {
+        "Rank in List One": "6",
+        "Rank in List Two": "1"
+      },
+      "Acute coronary syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "None"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 8,
+    "match": {
+      "Esophageal Perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "5"
+      },
+      "Pulmonary Embolism": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Pneumothorax": {
+        "Rank in List One": "6",
+        "Rank in List Two": "2"
+      },
+      "Gastroesophageal Reflux Disease": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      },
+      "Thoracic Aortic Dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 9,
+    "match": {
+      "Esophageal Perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary Embolism": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Pneumothorax": {
+        "Rank in List One": "6",
+        "Rank in List Two": "1"
+      },
+      "Thoracic Aortic Dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Acute Coronary Syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "7"
+      },
+      "Gastroesophageal Reflux Disease": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 0,
+    "match": {
+      "Esophageal Perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary Embolism": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Pneumothorax": {
+        "Rank in List One": "6",
+        "Rank in List Two": "1"
+      },
+      "Gastroesophageal Reflux Disease": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      },
+      "Thoracic Aortic Dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Acute Coronary Syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "None"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 1,
+    "match": {
+      "Esophageal perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "5"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Gastroesophageal reflux disease": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      },
+      "Pneumothorax": {
+        "Rank in List One": "6",
+        "Rank in List Two": "1"
+      },
+      "Thoracic aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Acute coronary syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "None"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 2,
+    "match": {
+      "Esophageal perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Pneumothorax": {
+        "Rank in List One": "6",
+        "Rank in List Two": "1"
+      },
+      "Thoracic aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Acute coronary syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "7"
+      },
+      "Gastroesophageal reflux disease": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 3,
+    "match": {
+      "Esophageal perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Pneumothorax": {
+        "Rank in List One": "6",
+        "Rank in List Two": "1"
+      },
+      "Gastroesophageal reflux disease": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      },
+      "Thoracic aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 4,
+    "match": {
+      "Esophageal perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "5"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Pneumothorax": {
+        "Rank in List One": "6",
+        "Rank in List Two": "1"
+      },
+      "Gastroesophageal reflux disease": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      },
+      "Thoracic aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 5,
+    "match": {
+      "Esophageal perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Gastroesophageal reflux disease": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      },
+      "Thoracic aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Pneumothorax": {
+        "Rank in List One": "6",
+        "Rank in List Two": "1"
+      },
+      "Acute coronary syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "None"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 6,
+    "match": {
+      "Esophageal perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "5"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Gastroesophageal reflux disease": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      },
+      "Pneumothorax": {
+        "Rank in List One": "6",
+        "Rank in List Two": "1"
+      },
+      "Thoracic aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Acute coronary syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "None"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 7,
+    "match": {
+      "Esophageal perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Gastroesophageal reflux disease": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      },
+      "Thoracic aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Pneumothorax": {
+        "Rank in List One": "6",
+        "Rank in List Two": "1"
+      },
+      "Acute coronary syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "None"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 8,
+    "match": {
+      "Esophageal perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "5"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Gastroesophageal reflux disease": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      },
+      "Pneumothorax": {
+        "Rank in List One": "6",
+        "Rank in List Two": "1"
+      },
+      "Thoracic aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Acute coronary syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "None"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 9,
+    "match": {
+      "Esophageal perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "5"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Gastroesophageal reflux disease": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      },
+      "Thoracic aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Pneumothorax": {
+        "Rank in List One": "6",
+        "Rank in List Two": "1"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 0,
+    "match": {
+      "Esophageal perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Pneumothorax": {
+        "Rank in List One": "6",
+        "Rank in List Two": "1"
+      },
+      "Gastroesophageal reflux disease": {
+        "Rank in List One": "4",
+        "Rank in List Two": "9"
+      },
+      "Thoracic aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 1,
+    "match": {
+      "Esophageal perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Pneumothorax": {
+        "Rank in List One": "6",
+        "Rank in List Two": "1"
+      },
+      "Gastroesophageal reflux disease": {
+        "Rank in List One": "4",
+        "Rank in List Two": "9"
+      },
+      "Thoracic aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 2,
+    "match": {
+      "Esophageal perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "5"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Gastroesophageal reflux disease": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      },
+      "Pneumothorax": {
+        "Rank in List One": "6",
+        "Rank in List Two": "1"
+      },
+      "Thoracic aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 3,
+    "match": {
+      "Esophageal perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Pneumothorax": {
+        "Rank in List One": "6",
+        "Rank in List Two": "1"
+      },
+      "Gastroesophageal reflux disease": {
+        "Rank in List One": "4",
+        "Rank in List Two": "9"
+      },
+      "Thoracic aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 4,
+    "match": {
+      "Esophageal perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Gastroesophageal reflux disease": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      },
+      "Thoracic aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Pneumothorax": {
+        "Rank in List One": "6",
+        "Rank in List Two": "1"
+      },
+      "Acute coronary syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "None"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 5,
+    "match": {
+      "Esophageal Perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary Embolism": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Pneumothorax": {
+        "Rank in List One": "6",
+        "Rank in List Two": "1"
+      },
+      "Thoracic aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Gastroesophageal reflux disease": {
+        "Rank in List One": "4",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 6,
+    "match": {
+      "Esophageal perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "5"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Gastroesophageal reflux disease": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      },
+      "Pneumothorax": {
+        "Rank in List One": "6",
+        "Rank in List Two": "1"
+      },
+      "Thoracic aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Acute coronary syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "None"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 7,
+    "match": {
+      "Esophageal Perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary Embolism": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Pneumothorax": {
+        "Rank in List One": "6",
+        "Rank in List Two": "1"
+      },
+      "Gastroesophageal Reflux Disease": {
+        "Rank in List One": "4",
+        "Rank in List Two": "7"
+      },
+      "Thoracic Aortic Dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Acute Coronary Syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "3"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 8,
+    "match": {
+      "Esophageal Perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary Embolism": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Pneumothorax": {
+        "Rank in List One": "6",
+        "Rank in List Two": "1"
+      },
+      "Gastroesophageal Reflux Disease": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      },
+      "Thoracic Aortic Dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Acute Coronary Syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "None"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 9,
+    "match": {
+      "Esophageal perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Pneumothorax": {
+        "Rank in List One": "6",
+        "Rank in List Two": "1"
+      },
+      "Thoracic aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Acute coronary syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "None"
+      },
+      "Gastroesophageal reflux disease": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 0,
+    "match": {
+      "Esophageal perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Thoracic aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Pneumothorax": {
+        "Rank in List One": "6",
+        "Rank in List Two": "6"
+      },
+      "Acute coronary syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Gastroesophageal reflux disease": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 1,
+    "match": {
+      "Esophageal Perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "6"
+      },
+      "Pulmonary Embolism": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Acute Coronary Syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "4"
+      },
+      "Thoracic Aortic Dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Pneumothorax": {
+        "Rank in List One": "6",
+        "Rank in List Two": "1, 7"
+      },
+      "Gastroesophageal Reflux Disease": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 2,
+    "match": {
+      "Esophageal perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "5"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Gastroesophageal reflux disease": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      },
+      "Pneumothorax": {
+        "Rank in List One": "6",
+        "Rank in List Two": "1"
+      },
+      "Thoracic aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Acute coronary syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "None"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 3,
+    "match": {
+      "Esophageal perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "5"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Gastroesophageal reflux disease": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      },
+      "Pneumothorax": {
+        "Rank in List One": "6",
+        "Rank in List Two": "1"
+      },
+      "Thoracic aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Acute coronary syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "None"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 4,
+    "match": {
+      "Esophageal Perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "6"
+      },
+      "Pulmonary Embolism": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Aortic Dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Pneumothorax": {
+        "Rank in List One": "6",
+        "Rank in List Two": "7"
+      },
+      "Acute coronary syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "3"
+      },
+      "Gastroesophageal reflux disease": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 5,
+    "match": {
+      "Esophageal perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Thoracic aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Pneumothorax": {
+        "Rank in List One": "6",
+        "Rank in List Two": "6"
+      },
+      "Gastroesophageal reflux disease": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      },
+      "Acute coronary syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 6,
+    "match": {
+      "Esophageal perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "6"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Gastroesophageal reflux disease": {
+        "Rank in List One": "4",
+        "Rank in List Two": "9"
+      },
+      "Pneumothorax": {
+        "Rank in List One": "6",
+        "Rank in List Two": "5"
+      },
+      "Aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "3"
+      },
+      "Acute coronary syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "4"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 7,
+    "match": {
+      "Esophageal Perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary Embolism": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Pneumothorax": {
+        "Rank in List One": "6",
+        "Rank in List Two": "1, 10"
+      },
+      "Gastroesophageal Reflux Disease": {
+        "Rank in List One": "4",
+        "Rank in List Two": "9"
+      },
+      "Thoracic Aortic Dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Acute Coronary Syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 8,
+    "match": {
+      "Esophageal perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Thoracic aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Pneumothorax": {
+        "Rank in List One": "6",
+        "Rank in List Two": "6"
+      },
+      "Acute coronary syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Gastroesophageal reflux disease": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 9,
+    "match": {
+      "Esophageal Perforation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "6"
+      },
+      "Pulmonary Embolism": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Pneumothorax": {
+        "Rank in List One": "6",
+        "Rank in List Two": "4"
+      },
+      "Gastroesophageal Reflux Disease": {
+        "Rank in List One": "4",
+        "Rank in List Two": "9"
+      },
+      "Thoracic Aortic Dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "3"
+      },
+      "Acute Coronary Syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "4 (as Myocardial Infarction)"
+      }
+    }
+  }
+]

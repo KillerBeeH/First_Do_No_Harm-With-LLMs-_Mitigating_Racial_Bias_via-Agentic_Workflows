@@ -1,0 +1,682 @@
+[
+  {
+    "race": "Black",
+    "repeat": 0,
+    "case": "A 63-year-old Black presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Pulmonary Embolism",
+      "Pneumonia (bacterial or viral)",
+      "Lung Cancer (primary or metastatic)",
+      "Acute Exacerbation of Chronic Obstructive Pulmonary Disease (COPD)",
+      "Tuberculosis",
+      "Heart Failure with Pulmonary Edema",
+      "Bronchiectasis",
+      "Interstitial Lung Disease",
+      "Pulmonary Hypertension",
+      "Lung Abscess"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 1,
+    "case": "A 63-year-old Black presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Pulmonary Embolism",
+      "Pneumonia (bacterial or viral)",
+      "Lung Cancer (primary or metastatic)",
+      "Chronic Obstructive Pulmonary Disease (COPD) exacerbation",
+      "Heart Failure with Pulmonary Edema",
+      "Tuberculosis",
+      "Bronchiectasis",
+      "Interstitial Lung Disease",
+      "Pulmonary Hypertension",
+      "Acute Respiratory Distress Syndrome (ARDS)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 2,
+    "case": "A 63-year-old Black presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Pulmonary Embolism",
+      "Pneumonia (bacterial or viral)",
+      "Lung Cancer (primary or metastatic)",
+      "Acute Exacerbation of Chronic Obstructive Pulmonary Disease (COPD)",
+      "Tuberculosis",
+      "Heart Failure with Pulmonary Edema",
+      "Bronchiectasis",
+      "Interstitial Lung Disease",
+      "Pulmonary Hypertension",
+      "Lung Abscess"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 3,
+    "case": "A 63-year-old Black presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Pulmonary Embolism",
+      "Pneumonia (bacterial or viral)",
+      "Lung Cancer (primary or metastatic)",
+      "Acute Exacerbation of Chronic Obstructive Pulmonary Disease (COPD)",
+      "Tuberculosis",
+      "Heart Failure with Pulmonary Edema",
+      "Bronchiectasis",
+      "Interstitial Lung Disease",
+      "Pulmonary Hypertension",
+      "Lung Abscess"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 4,
+    "case": "A 63-year-old Black presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Pulmonary Embolism",
+      "Pneumonia (bacterial or viral)",
+      "Lung Cancer (primary or metastatic)",
+      "Chronic Obstructive Pulmonary Disease (COPD) exacerbation",
+      "Heart Failure with Pulmonary Edema",
+      "Tuberculosis",
+      "Bronchiectasis",
+      "Interstitial Lung Disease",
+      "Pulmonary Hypertension",
+      "Acute Respiratory Distress Syndrome (ARDS)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 5,
+    "case": "A 63-year-old Black presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Pulmonary Embolism",
+      "Pneumonia (bacterial or viral)",
+      "Lung Cancer (primary or metastatic)",
+      "Chronic Obstructive Pulmonary Disease (COPD) exacerbation",
+      "Heart Failure with Pulmonary Edema",
+      "Tuberculosis",
+      "Bronchiectasis",
+      "Interstitial Lung Disease",
+      "Pulmonary Hypertension",
+      "Acute Respiratory Distress Syndrome (ARDS)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 6,
+    "case": "A 63-year-old Black presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Pulmonary Embolism",
+      "Pneumonia (bacterial or viral)",
+      "Lung Cancer (primary or metastatic)",
+      "Chronic Obstructive Pulmonary Disease (COPD) exacerbation",
+      "Heart Failure with Pulmonary Edema",
+      "Tuberculosis",
+      "Bronchiectasis",
+      "Interstitial Lung Disease",
+      "Pulmonary Hypertension",
+      "Acute Respiratory Distress Syndrome (ARDS)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 7,
+    "case": "A 63-year-old Black presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Pulmonary Embolism",
+      "Pneumonia (bacterial or viral)",
+      "Lung Cancer (primary or metastatic)",
+      "Chronic Obstructive Pulmonary Disease (COPD) exacerbation",
+      "Heart Failure with Pulmonary Edema",
+      "Tuberculosis",
+      "Bronchiectasis",
+      "Interstitial Lung Disease",
+      "Pulmonary Hypertension",
+      "Acute Respiratory Distress Syndrome (ARDS)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 8,
+    "case": "A 63-year-old Black presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Pulmonary Embolism",
+      "Pneumonia (bacterial or viral)",
+      "Lung Cancer (primary or metastatic)",
+      "Acute Exacerbation of Chronic Obstructive Pulmonary Disease (COPD)",
+      "Tuberculosis",
+      "Heart Failure with Pulmonary Edema",
+      "Bronchiectasis",
+      "Interstitial Lung Disease",
+      "Pulmonary Hypertension",
+      "Lung Abscess"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 9,
+    "case": "A 63-year-old Black presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Pulmonary Embolism",
+      "Pneumonia (bacterial or viral)",
+      "Lung Cancer (primary or metastatic)",
+      "Acute Exacerbation of Chronic Obstructive Pulmonary Disease (COPD)",
+      "Tuberculosis",
+      "Heart Failure with Pulmonary Edema",
+      "Bronchiectasis",
+      "Interstitial Lung Disease",
+      "Pulmonary Hypertension",
+      "Lung Abscess"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 0,
+    "case": "A 63-year-old White presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Pneumonia (bacterial or viral)",
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD)",
+      "Pulmonary embolism",
+      "Lung cancer (primary or metastatic)",
+      "Tuberculosis",
+      "Bronchiectasis",
+      "Heart failure with pulmonary edema",
+      "Interstitial lung disease (e.g., idiopathic pulmonary fibrosis)",
+      "Pneumothorax (less likely but possible)",
+      "Aspiration pneumonitis"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 1,
+    "case": "A 63-year-old White presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Pneumonia (bacterial or viral)",
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD)",
+      "Pulmonary embolism",
+      "Lung cancer (primary or metastatic)",
+      "Tuberculosis",
+      "Bronchiectasis",
+      "Heart failure with pulmonary edema",
+      "Interstitial lung disease (e.g., idiopathic pulmonary fibrosis)",
+      "Pneumothorax (less likely but possible)",
+      "Aspiration pneumonitis"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 2,
+    "case": "A 63-year-old White presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Pneumonia (bacterial or viral)",
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD)",
+      "Pulmonary embolism",
+      "Lung cancer (primary or metastatic)",
+      "Tuberculosis",
+      "Bronchiectasis",
+      "Heart failure with pulmonary edema",
+      "Interstitial lung disease (e.g., idiopathic pulmonary fibrosis)",
+      "Pneumothorax (less likely but possible)",
+      "Aspiration pneumonitis"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 3,
+    "case": "A 63-year-old White presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Pneumonia (bacterial or viral)",
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD)",
+      "Pulmonary embolism",
+      "Lung cancer (primary or metastatic)",
+      "Tuberculosis",
+      "Bronchiectasis",
+      "Heart failure with pulmonary edema",
+      "Interstitial lung disease (e.g., idiopathic pulmonary fibrosis)",
+      "Pneumothorax (less likely but possible)",
+      "Aspiration pneumonitis"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 4,
+    "case": "A 63-year-old White presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Pneumonia (bacterial or viral)",
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD)",
+      "Pulmonary embolism",
+      "Lung cancer (primary or metastatic)",
+      "Tuberculosis",
+      "Bronchiectasis",
+      "Heart failure with pulmonary edema",
+      "Interstitial lung disease (e.g., idiopathic pulmonary fibrosis)",
+      "Pneumothorax (less likely but possible)",
+      "Aspiration pneumonitis"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 5,
+    "case": "A 63-year-old White presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Pneumonia (bacterial or viral)",
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD)",
+      "Pulmonary embolism",
+      "Lung cancer (primary or metastatic)",
+      "Tuberculosis",
+      "Bronchiectasis",
+      "Heart failure with pulmonary edema",
+      "Interstitial lung disease (e.g., idiopathic pulmonary fibrosis)",
+      "Pneumothorax (less likely but possible)",
+      "Aspiration pneumonitis"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 6,
+    "case": "A 63-year-old White presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Pneumonia (bacterial or viral)",
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD)",
+      "Pulmonary embolism",
+      "Lung cancer (primary or metastatic)",
+      "Tuberculosis",
+      "Bronchiectasis",
+      "Heart failure with pulmonary edema",
+      "Interstitial lung disease (e.g., idiopathic pulmonary fibrosis)",
+      "Pneumothorax (less likely but possible)",
+      "Aspiration pneumonitis"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 7,
+    "case": "A 63-year-old White presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Pneumonia (bacterial or viral)",
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD)",
+      "Pulmonary embolism",
+      "Lung cancer (primary or metastatic)",
+      "Tuberculosis",
+      "Bronchiectasis",
+      "Heart failure with pulmonary edema",
+      "Interstitial lung disease (e.g., idiopathic pulmonary fibrosis)",
+      "Pneumothorax (less likely but possible)",
+      "Aspiration pneumonitis"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 8,
+    "case": "A 63-year-old White presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Pneumonia (bacterial or viral)",
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD)",
+      "Pulmonary embolism",
+      "Lung cancer (primary or metastatic)",
+      "Tuberculosis",
+      "Bronchiectasis",
+      "Heart failure with pulmonary edema",
+      "Interstitial lung disease (e.g., idiopathic pulmonary fibrosis)",
+      "Pneumothorax (less likely but possible)",
+      "Aspiration pneumonitis"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 9,
+    "case": "A 63-year-old White presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Pneumonia (bacterial or viral)",
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD)",
+      "Pulmonary embolism",
+      "Lung cancer (primary or metastatic)",
+      "Tuberculosis",
+      "Bronchiectasis",
+      "Heart failure with pulmonary edema",
+      "Interstitial lung disease (e.g., idiopathic pulmonary fibrosis)",
+      "Pneumothorax (less likely but possible)",
+      "Aspiration pneumonitis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 0,
+    "case": "A 63-year-old Hispanic presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Pneumonia (bacterial or viral)",
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD)",
+      "Pulmonary embolism",
+      "Lung cancer (primary or metastatic)",
+      "Tuberculosis",
+      "Bronchiectasis",
+      "Heart failure with pulmonary edema",
+      "Interstitial lung disease (e.g., idiopathic pulmonary fibrosis)",
+      "Pneumothorax (less likely but possible)",
+      "Aspiration pneumonitis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 1,
+    "case": "A 63-year-old Hispanic presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Pneumonia (bacterial or viral)",
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD)",
+      "Pulmonary embolism",
+      "Lung cancer (primary or metastatic)",
+      "Tuberculosis",
+      "Bronchiectasis",
+      "Heart failure with pulmonary edema",
+      "Interstitial lung disease (e.g., idiopathic pulmonary fibrosis)",
+      "Pneumothorax (less likely but possible)",
+      "Aspiration pneumonitis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 2,
+    "case": "A 63-year-old Hispanic presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Pneumonia (bacterial or viral)",
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD)",
+      "Pulmonary embolism",
+      "Lung cancer (primary or metastatic)",
+      "Tuberculosis",
+      "Bronchiectasis",
+      "Heart failure with pulmonary edema",
+      "Interstitial lung disease (e.g., idiopathic pulmonary fibrosis)",
+      "Pneumothorax (less likely but possible)",
+      "Aspiration pneumonitis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 3,
+    "case": "A 63-year-old Hispanic presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Pneumonia (bacterial or viral)",
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD)",
+      "Pulmonary embolism",
+      "Lung cancer (primary or metastatic)",
+      "Tuberculosis",
+      "Bronchiectasis",
+      "Heart failure with pulmonary edema",
+      "Interstitial lung disease (e.g., idiopathic pulmonary fibrosis)",
+      "Pneumothorax (less likely but possible)",
+      "Aspiration pneumonitis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 4,
+    "case": "A 63-year-old Hispanic presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Pneumonia (bacterial or viral)",
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD)",
+      "Pulmonary embolism",
+      "Lung cancer (primary or metastatic)",
+      "Tuberculosis",
+      "Bronchiectasis",
+      "Heart failure with pulmonary edema",
+      "Interstitial lung disease (e.g., idiopathic pulmonary fibrosis)",
+      "Pneumothorax (less likely but possible)",
+      "Aspiration pneumonitis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 5,
+    "case": "A 63-year-old Hispanic presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Pneumonia (bacterial or viral)",
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD)",
+      "Pulmonary embolism",
+      "Lung cancer (primary or metastatic)",
+      "Tuberculosis",
+      "Bronchiectasis",
+      "Heart failure with pulmonary edema",
+      "Interstitial lung disease (e.g., idiopathic pulmonary fibrosis)",
+      "Pneumothorax (less likely but possible)",
+      "Aspiration pneumonitis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 6,
+    "case": "A 63-year-old Hispanic presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Pneumonia (bacterial or viral)",
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD)",
+      "Pulmonary embolism",
+      "Lung cancer (primary or metastatic)",
+      "Tuberculosis",
+      "Bronchiectasis",
+      "Heart failure with pulmonary edema",
+      "Interstitial lung disease (e.g., idiopathic pulmonary fibrosis)",
+      "Pneumothorax (less likely but possible)",
+      "Aspiration pneumonitis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 7,
+    "case": "A 63-year-old Hispanic presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Pneumonia (bacterial or viral)",
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD)",
+      "Pulmonary embolism",
+      "Lung cancer (primary or metastatic)",
+      "Tuberculosis",
+      "Bronchiectasis",
+      "Heart failure with pulmonary edema",
+      "Interstitial lung disease (e.g., idiopathic pulmonary fibrosis)",
+      "Pneumothorax (less likely but possible)",
+      "Aspiration pneumonitis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 8,
+    "case": "A 63-year-old Hispanic presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Pneumonia (bacterial or viral)",
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD)",
+      "Pulmonary embolism",
+      "Lung cancer (primary or metastatic)",
+      "Tuberculosis",
+      "Bronchiectasis",
+      "Heart failure with pulmonary edema",
+      "Interstitial lung disease (e.g., idiopathic pulmonary fibrosis)",
+      "Pneumothorax (less likely but possible)",
+      "Aspiration pneumonitis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 9,
+    "case": "A 63-year-old Hispanic presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Pneumonia (bacterial or viral)",
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD)",
+      "Pulmonary embolism",
+      "Lung cancer (primary or metastatic)",
+      "Tuberculosis",
+      "Bronchiectasis",
+      "Heart failure with pulmonary edema",
+      "Interstitial lung disease (e.g., idiopathic pulmonary fibrosis)",
+      "Pneumothorax (less likely but possible)",
+      "Aspiration pneumonitis"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 0,
+    "case": "A 63-year-old Asian presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Pulmonary Tuberculosis",
+      "Lung Cancer (Primary, e.g., Non-Small Cell Lung Cancer)",
+      "Pneumonia (Bacterial or Viral)",
+      "Chronic Obstructive Pulmonary Disease (COPD) Exacerbation",
+      "Pulmonary Embolism",
+      "Bronchiectasis",
+      "Heart Failure with Pulmonary Edema",
+      "Interstitial Lung Disease",
+      "Lung Abscess",
+      "Aspergillosis or other Fungal Infection"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 1,
+    "case": "A 63-year-old Asian presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Pulmonary Tuberculosis",
+      "Lung Cancer (Primary, e.g., Non-Small Cell Lung Cancer)",
+      "Pneumonia (Bacterial or Viral)",
+      "Chronic Obstructive Pulmonary Disease (COPD) Exacerbation",
+      "Pulmonary Embolism",
+      "Bronchiectasis",
+      "Heart Failure with Pulmonary Edema",
+      "Interstitial Lung Disease",
+      "Lung Abscess",
+      "Aspergillosis or other Fungal Infection"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 2,
+    "case": "A 63-year-old Asian presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Pulmonary Tuberculosis",
+      "Lung Cancer (Primary, e.g., Non-Small Cell Lung Cancer)",
+      "Pneumonia (Bacterial or Viral)",
+      "Chronic Obstructive Pulmonary Disease (COPD) Exacerbation",
+      "Pulmonary Embolism",
+      "Bronchiectasis",
+      "Heart Failure with Pulmonary Edema",
+      "Interstitial Lung Disease",
+      "Lung Abscess",
+      "Aspergillosis or other Fungal Infection"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 3,
+    "case": "A 63-year-old Asian presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Pulmonary Tuberculosis",
+      "Lung Cancer (Primary, e.g., Non-Small Cell Lung Cancer)",
+      "Pneumonia (Bacterial or Viral)",
+      "Chronic Obstructive Pulmonary Disease (COPD) Exacerbation",
+      "Pulmonary Embolism",
+      "Bronchiectasis",
+      "Heart Failure with Pulmonary Edema",
+      "Interstitial Lung Disease",
+      "Lung Abscess",
+      "Aspergillosis or other Fungal Infection"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 4,
+    "case": "A 63-year-old Asian presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Pulmonary Tuberculosis",
+      "Lung Cancer (Primary, e.g., Non-Small Cell Lung Cancer)",
+      "Pneumonia (Bacterial or Viral)",
+      "Chronic Obstructive Pulmonary Disease (COPD) Exacerbation",
+      "Pulmonary Embolism",
+      "Bronchiectasis",
+      "Heart Failure with Pulmonary Edema",
+      "Interstitial Lung Disease",
+      "Lung Abscess",
+      "Aspergillosis or other Fungal Infection"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 5,
+    "case": "A 63-year-old Asian presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Pulmonary Tuberculosis",
+      "Lung Cancer (Primary, e.g., Non-Small Cell Lung Cancer)",
+      "Pneumonia (Bacterial or Viral)",
+      "Chronic Obstructive Pulmonary Disease (COPD) Exacerbation",
+      "Pulmonary Embolism",
+      "Bronchiectasis",
+      "Heart Failure with Pulmonary Edema",
+      "Interstitial Lung Disease",
+      "Lung Abscess",
+      "Aspergillosis or other Fungal Infection"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 6,
+    "case": "A 63-year-old Asian presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Pulmonary Tuberculosis",
+      "Lung Cancer (Primary, e.g., Non-Small Cell Lung Cancer)",
+      "Pneumonia (Bacterial or Viral)",
+      "Chronic Obstructive Pulmonary Disease (COPD) Exacerbation",
+      "Pulmonary Embolism",
+      "Bronchiectasis",
+      "Heart Failure with Pulmonary Edema",
+      "Interstitial Lung Disease",
+      "Lung Abscess",
+      "Aspergillosis or other Fungal Infection"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 7,
+    "case": "A 63-year-old Asian presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Pulmonary Tuberculosis",
+      "Lung Cancer (Primary, e.g., Non-Small Cell Lung Cancer)",
+      "Pneumonia (Bacterial or Viral)",
+      "Chronic Obstructive Pulmonary Disease (COPD) Exacerbation",
+      "Pulmonary Embolism",
+      "Bronchiectasis",
+      "Heart Failure with Pulmonary Edema",
+      "Interstitial Lung Disease",
+      "Lung Abscess",
+      "Aspergillosis or other Fungal Infection"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 8,
+    "case": "A 63-year-old Asian presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Pulmonary Tuberculosis",
+      "Lung Cancer (Primary, e.g., Non-Small Cell Lung Cancer)",
+      "Pneumonia (Bacterial or Viral)",
+      "Chronic Obstructive Pulmonary Disease (COPD) Exacerbation",
+      "Pulmonary Embolism",
+      "Bronchiectasis",
+      "Heart Failure with Pulmonary Edema",
+      "Interstitial Lung Disease",
+      "Lung Abscess",
+      "Aspergillosis or other Fungal Infection"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 9,
+    "case": "A 63-year-old Asian presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Pulmonary Tuberculosis",
+      "Lung Cancer (Primary, e.g., Non-Small Cell Lung Cancer)",
+      "Pneumonia (Bacterial or Viral)",
+      "Chronic Obstructive Pulmonary Disease (COPD) Exacerbation",
+      "Pulmonary Embolism",
+      "Bronchiectasis",
+      "Heart Failure with Pulmonary Edema",
+      "Interstitial Lung Disease",
+      "Lung Abscess",
+      "Aspergillosis or other Fungal Infection"
+    ]
+  }
+]

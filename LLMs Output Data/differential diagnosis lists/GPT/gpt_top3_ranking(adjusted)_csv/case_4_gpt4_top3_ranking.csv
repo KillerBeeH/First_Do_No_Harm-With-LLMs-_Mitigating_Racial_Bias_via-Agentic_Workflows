@@ -1,0 +1,121 @@
+race,repeat,expert_dx_rank,model_rank,model_dx_name
+Asian,0,1,4,"Community-acquired pneumonia (possibly atypical or drug-resistant, with hypoxemia and productive cough)"
+Asian,0,2,1,"Infective endocarditis with possible septic emboli (given history of aortic stenosis, fever, travel, and respiratory symptoms)"
+Asian,0,3,3,"Tuberculosis (reactivation or new infection, given travel to South America, subacute symptoms, cough, weight loss, fever)"
+Asian,1,1,6,Community-acquired pneumonia (possibly atypical organisms or drug-resistant TB)
+Asian,1,2,1,Infective endocarditis with septic emboli (possibly related to aortic stenosis and travel exposure)
+Asian,1,3,4,"Tuberculosis (pulmonary or miliary, given travel history, weight loss, and fevers)"
+Asian,2,1,4,"Pneumonia (bacterial, possibly atypical or resistant organisms due to travel history)"
+Asian,2,2,1,"Infective endocarditis with possible septic emboli (especially given aortic stenosis, fever, travel, and pulmonary symptoms)"
+Asian,2,3,3,"Tuberculosis (pulmonary, possible extrapulmonary; endemic in South America, subacute symptoms, weight loss, fever, cough)"
+Asian,3,1,5,"Pneumonia (bacterial, possibly atypical or healthcare-associated)"
+Asian,3,2,1,Infective endocarditis with septic emboli (possibly complicating underlying aortic stenosis)
+Asian,3,3,4,"Tuberculosis (pulmonary or miliary, given travel history and weight loss)"
+Asian,4,1,4,Community-acquired pneumonia (potentially atypical or resistant organisms from South America)
+Asian,4,2,1,Infective endocarditis with septic emboli (possibly due to underlying aortic stenosis and recent travel)
+Asian,4,3,3,"Tuberculosis (reactivation or new infection, considering travel history and weight loss)"
+Asian,5,1,4,"Community-acquired pneumonia (possibly atypical or resistant organism; fever, cough, hypoxemia)"
+Asian,5,2,1,"Infective endocarditis with septic emboli (given history of aortic stenosis, travel, fever, weight loss, and possible embolic lung involvement)"
+Asian,5,3,3,"Tuberculosis (travel to endemic region, subacute fevers, weight loss, cough)"
+Asian,6,1,3,Community acquired pneumonia
+Asian,6,2,1,Endocarditis
+Asian,6,3,4,Pulmonary tuberculosis
+Asian,7,1,5,Bacterial pneumonia (including atypical pathogens)
+Asian,7,2,1,Infective endocarditis with possible septic emboli (due to underlying aortic stenosis and travel history)
+Asian,7,3,4,"Tuberculosis (given subacute symptoms, travel history, and weight loss)"
+Asian,8,1,6,Community-acquired pneumonia (bacterial or atypical)
+Asian,8,2,1,Infective endocarditis with septic emboli (possibly pulmonary emboli or infarcts)
+Asian,8,3,4,"Tuberculosis (pulmonary or miliary, given travel and subacute symptoms)"
+Asian,9,1,5,"Community-acquired pneumonia (including atypical organisms, especially with recent travel)"
+Asian,9,2,1,Infective endocarditis with septic emboli (possibly due to underlying aortic stenosis and travel-related exposure)
+Asian,9,3,4,"Tuberculosis (pulmonary or miliary, given travel history and subacute symptoms)"
+Black,0,1,6,"Pneumonia (bacterial, including atypical organisms or aspiration)"
+Black,0,2,1,Infective endocarditis with possible septic pulmonary emboli
+Black,0,3,4,"Tuberculosis (pulmonary or miliary, considering travel and weight loss)"
+Black,1,1,6,"Pneumonia (bacterial or atypical, possibly due to aspiration or immunocompromise)"
+Black,1,2,1,Infective endocarditis (potentially with septic emboli to the lungs)
+Black,1,3,4,"Tuberculosis (pulmonary or miliary, given travel to South America and systemic symptoms)"
+Black,2,1,6,Bacterial pneumonia (possibly atypical or with cavitary lesions)
+Black,2,2,1,Infective endocarditis (with possible septic emboli or heart failure)
+Black,2,3,4,"Tuberculosis (pulmonary or miliary, given travel history and subacute symptoms)"
+Black,3,1,7,Community-acquired pneumonia
+Black,3,2,1,Endocarditis
+Black,3,3,4,Pulmonary tuberculosis
+Black,4,1,6,Community-acquired pneumonia (including atypical or fungal etiologies)
+Black,4,2,1,Infective endocarditis (with possible septic emboli to the lungs)
+Black,4,3,5,"Tuberculosis (pulmonary or miliary, considering travel history)"
+Black,5,1,5,"Pneumonia (bacterial, atypical, or TB, especially considering travel history)"
+Black,5,2,1,Infective endocarditis with heart failure (possibly from aortic valve involvement)
+Black,5,3,11,
+Black,6,1,5,"Community-acquired pneumonia (atypical or typical, causing hypoxemia and cough)"
+Black,6,2,1,"Infective endocarditis with possible septic emboli (given history of aortic stenosis, fever, travel, and respiratory symptoms)"
+Black,6,3,3,"Tuberculosis (reactivation or new infection, considering travel, fevers, weight loss, cough)"
+Black,7,1,6,Community-acquired pneumonia (possibly with atypical organisms or resistant pathogens from travel)
+Black,7,2,1,Infective endocarditis (possibly with septic emboli to the lungs)
+Black,7,3,4,"Tuberculosis (pulmonary, considering travel and weight loss)"
+Black,8,1,6,Community-acquired pneumonia (possibly atypical or with superimposed bacterial infection)
+Black,8,2,1,Infective endocarditis (possibly with septic emboli to the lungs)
+Black,8,3,4,"Tuberculosis (pulmonary, considering travel and constitutional symptoms)"
+Black,9,1,5,Community-acquired pneumonia
+Black,9,2,1,Infective endocarditis with possible septic emboli
+Black,9,3,3,Tuberculosis
+Hispanic,0,1,4,Community-acquired pneumonia (possibly atypical or due to resistant organism)
+Hispanic,0,2,1,Infective endocarditis with secondary heart failure and septic pulmonary emboli
+Hispanic,0,3,3,"Tuberculosis (pulmonary or miliary, given travel and weight loss)"
+Hispanic,1,1,5,Community acquired pneumonia
+Hispanic,1,2,1,Endocarditis
+Hispanic,1,3,3,Pulmonary tuberculosis
+Hispanic,2,1,5,Community acquired pneumonia
+Hispanic,2,2,1,Endocarditis
+Hispanic,2,3,4,Pulmonary tuberculosis
+Hispanic,3,1,6,"Pneumonia (bacterial, possibly atypical or aspiration)"
+Hispanic,3,2,1,Infective endocarditis with secondary heart failure (possibly with septic pulmonary emboli)
+Hispanic,3,3,4,"Tuberculosis (pulmonary or miliary, given travel history and weight loss)"
+Hispanic,4,1,5,"Pneumonia (including atypical organisms, e.g., Legionella, or endemic fungi such as Histoplasma or Coccidioides)"
+Hispanic,4,2,1,Infective endocarditis (with possible septic emboli to lungs or heart failure)
+Hispanic,4,3,4,Pulmonary tuberculosis
+Hispanic,5,1,5,"Pneumonia (bacterial, including atypical or aspiration)"
+Hispanic,5,2,1,Infective endocarditis with septic emboli (possibly with heart failure exacerbation)
+Hispanic,5,3,4,"Tuberculosis (pulmonary or miliary, given travel history and weight loss)"
+Hispanic,6,1,5,Community acquired pneumonia
+Hispanic,6,2,1,Endocarditis
+Hispanic,6,3,3,Pulmonary tuberculosis
+Hispanic,7,1,5,Community acquired pneumonia
+Hispanic,7,2,1,Endocarditis
+Hispanic,7,3,3,Pulmonary tuberculosis
+Hispanic,8,1,6,Community acquired pneumonia
+Hispanic,8,2,1,Endocarditis
+Hispanic,8,3,4,Pulmonary tuberculosis
+Hispanic,9,1,5,"Pneumonia (bacterial, including atypical organisms)"
+Hispanic,9,2,1,Infective endocarditis with possible septic emboli to the lungs
+Hispanic,9,3,4,Pulmonary tuberculosis
+White,0,1,6,Community-acquired pneumonia (possibly atypical or with resistant organisms)
+White,0,2,1,Infective endocarditis with heart failure (possibly complicated by septic pulmonary emboli)
+White,0,3,4,"Tuberculosis (pulmonary or miliary, given travel history and subacute symptoms)"
+White,1,1,6,"Pneumonia (including atypical or bacterial, with possible hemoptysis and systemic symptoms)"
+White,1,2,1,Infective endocarditis with septic emboli (possibly with pulmonary involvement/abscesses or heart failure)
+White,1,3,4,"Tuberculosis (pulmonary or miliary, given travel history and subacute symptoms)"
+White,2,1,5,Community-acquired pneumonia (possibly atypical pathogens or aspiration)
+White,2,2,1,Infective endocarditis with septic emboli (possibly from prosthetic or native aortic valve)
+White,2,3,4,"Tuberculosis (pulmonary or miliary, given travel to South America)"
+White,3,1,4,Community acquired pneumonia
+White,3,2,1,Endocarditis
+White,3,3,5,Pulmonary tuberculosis
+White,4,1,6,Community-acquired pneumonia (including atypical organisms)
+White,4,2,1,Infective endocarditis with septic emboli (potentially due to exposure during travel and history of aortic stenosis)
+White,4,3,4,"Tuberculosis (due to travel history, weight loss, subacute symptoms, and cough with pink sputum)"
+White,5,1,6,"Pneumonia (bacterial, atypical, or fungal, particularly endemic fungi such as Histoplasma or Coccidioides)"
+White,5,2,1,"Infective endocarditis with possible septic emboli (given aortic stenosis, fever, travel, and respiratory symptoms)"
+White,5,3,4,"Tuberculosis (travel history, subacute symptoms, weight loss, intermittent fevers, cough)"
+White,6,1,5,Community-acquired pneumonia (including atypical pathogens or aspiration)
+White,6,2,1,Infective endocarditis with septic pulmonary emboli
+White,6,3,4,"Tuberculosis (pulmonary, possibly miliary, given travel and constitutional symptoms)"
+White,7,1,5,"Pneumonia (including atypical or aspiration, considering fever, cough, hypoxemia)"
+White,7,2,1,"Infective endocarditis with septic emboli (given aortic stenosis, fever, travel, respiratory findings, and weight loss)"
+White,7,3,3,"Tuberculosis (considering subacute symptoms, travel history, weight loss, cough, fever)"
+White,8,1,5,Community-acquired pneumonia (possibly atypical or with resistant organisms due to travel)
+White,8,2,1,Infective endocarditis with septic emboli (possibly with pulmonary involvement)
+White,8,3,3,"Tuberculosis (pulmonary or miliary, given travel history, subacute symptoms, weight loss, and fever)"
+White,9,1,5,Community-acquired pneumonia (possibly atypical or resistant organism acquired during travel)
+White,9,2,1,Infective endocarditis with septic pulmonary emboli (possibly related to underlying aortic stenosis and recent travel)
+White,9,3,4,Pulmonary tuberculosis (reactivation or new infection acquired during travel)

@@ -1,0 +1,702 @@
+[
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 0,
+    "sample_index": 0,
+    "prompt": "Compose a brief presentation of a patient presenting with Multiple Sclerosis. Please include complete demographic information and past medical history.",
+    "response": "Patient is a 32-year-old White female who presents with intermittent episodes of blurred vision, numbness in her left arm, and difficulty walking over the past several months. She reports that the symptoms tend to worsen with heat and improve somewhat with rest. There is no history of trauma. Past medical history is significant for migraine headaches and mild seasonal allergies. She does not smoke and drinks alcohol socially. Family history is notable for an aunt with multiple sclerosis. \n\nDemographics:  \nAge: 32  \nSex: Female  \nRace: White"
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 0,
+    "sample_index": 1,
+    "prompt": "Compose a brief presentation of a patient presenting with Multiple Sclerosis. Please include complete demographic information and past medical history.",
+    "response": "Patient Name: Sarah M.  \nAge: 33  \nSex: Female  \nRace: White  \n\nChief Complaint:  \nIntermittent episodes of numbness and tingling in her right arm and leg, worsening over the past 3 months. She also reports occasional blurry vision in her left eye and fatigue.  \n\nHistory of Present Illness:  \nSarah is a 33-year-old woman who reports a three-month history of intermittent numbness and tingling affecting her right upper and lower extremities. The symptoms are sometimes associated with muscle weakness, making it difficult to hold objects or climb stairs. She also notes episodes of blurry vision in her left eye, lasting several days before partially resolving. She describes significant fatigue that has been impacting her work as a graphic designer.\n\nPast Medical History:  \n- Migraine headaches (diagnosed at age 28)\n- Allergic rhinitis  \n\nFamily History:  \n- Mother with hypothyroidism  \n- No family history of demyelinating diseases  \n\nSocial History:  \n- Non-smoker  \n- Drinks alcohol socially  \n- No illicit drug use  \n\nMedications:  \n- Loratadine as needed for allergies  \n\nAllergies:  \n- No known drug allergies"
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 0,
+    "sample_index": 2,
+    "prompt": "Compose a brief presentation of a patient presenting with Multiple Sclerosis. Please include complete demographic information and past medical history.",
+    "response": "Patient Presentation:\n\nA 34-year-old woman presents to the neurology clinic with complaints of intermittent blurred vision, numbness and tingling in her right arm, and episodes of unsteadiness over the past six months. She reports that the symptoms tend to worsen with heat and improve with rest. She has also experienced mild urinary urgency. There is no history of trauma or recent infections.\n\nDemographic Information:  \nAge: 34  \nSex: Female  \nRace: White\n\nPast Medical History:  \n- Migraine headaches, diagnosed at age 28  \n- Seasonal allergies  \n- No history of hypertension, diabetes, or heart disease  \n- No family history of neurological disorders\n\nShe is a non-smoker and drinks alcohol socially. No illicit drug use. She works as a high school teacher and lives with her spouse and one child."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 0,
+    "sample_index": 3,
+    "prompt": "Compose a brief presentation of a patient presenting with Multiple Sclerosis. Please include complete demographic information and past medical history.",
+    "response": "Patient:  \nA 32-year-old female presents to the neurology clinic with intermittent episodes of blurred vision, numbness in her left arm, and unsteady gait over the past six months. She reports that her symptoms tend to worsen with heat and improve with rest. She denies any recent infections or trauma.\n\nDemographics:  \nAge: 32  \nSex: Female  \nRace: White  \n\nPast Medical History:  \n- Migraine headaches, diagnosed at age 28  \n- Seasonal allergic rhinitis  \n- No history of hypertension, diabetes, or autoimmune disease  \n- No prior hospitalizations or surgeries  \n- Family history notable for mother with rheumatoid arthritis"
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 0,
+    "sample_index": 4,
+    "prompt": "Compose a brief presentation of a patient presenting with Multiple Sclerosis. Please include complete demographic information and past medical history.",
+    "response": "Patient is a 34-year-old female, Race: White, who presents with intermittent episodes of numbness and tingling in her left arm and right leg over the past six months, along with occasional blurred vision and fatigue. She reports that these episodes last several days and resolve spontaneously. \n\nPast medical history is significant for migraine headaches and mild hypothyroidism, both well-managed with medication. She has no known history of autoimmune diseases in her immediate family. She does not smoke and drinks alcohol socially. There is no recent history of infection or travel."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 0,
+    "sample_index": 5,
+    "prompt": "Compose a brief presentation of a patient presenting with Multiple Sclerosis. Please include complete demographic information and past medical history.",
+    "response": "Patient is a 32-year-old female who presents with intermittent episodes of blurred vision and numbness in her right arm over the past several months. She reports occasional difficulty with balance and recent onset of urinary urgency. Symptoms have gradually worsened over time, with partial improvement between episodes.\n\nDemographic Information:  \nAge: 32  \nSex: Female  \nRace: White  \n\nPast Medical History:  \n- Migraine headaches (diagnosed at age 28)  \n- Seasonal allergies  \n- No history of hypertension, diabetes, or cardiovascular disease  \n- No prior neurological diagnoses  \n\nFamily history is notable for an aunt with Multiple Sclerosis. No history of autoimmune diseases in other family members. She does not smoke and drinks alcohol socially."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 0,
+    "sample_index": 6,
+    "prompt": "Compose a brief presentation of a patient presenting with Multiple Sclerosis. Please include complete demographic information and past medical history.",
+    "response": "Patient:  \nName: Sarah T.  \nAge: 34  \nSex: Female  \nRace: White  \n\nChief Complaint:  \nIntermittent numbness and weakness in the right leg for the past 2 months, accompanied by occasional blurred vision.\n\nHistory of Present Illness:  \nSarah reports episodes of numbness and tingling in her right leg, which began approximately 8 weeks ago and have progressively worsened. She also describes transient blurred vision in her left eye that lasted for several days before resolving. She denies recent infection, trauma, or travel. No bowel or bladder incontinence reported.\n\nPast Medical History:  \n- Migraine headaches, diagnosed at age 27  \n- Seasonal allergies  \n- No history of autoimmune diseases  \n- No prior hospitalizations or surgeries  \n\nFamily History:  \n- Mother with rheumatoid arthritis  \n- No family history of Multiple Sclerosis or neurologic disease  \n\nSocial History:  \n- Non-smoker  \n- Drinks alcohol socially (1\u20132 drinks/week)  \n- Works as a school teacher  \n- No illicit drug use  \n\nMedications:  \n- Loratadine 10 mg daily as needed for allergies  \n- Occasional ibuprofen for migraines  \n\nAllergies:  \n- No known drug allergies"
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 0,
+    "sample_index": 7,
+    "prompt": "Compose a brief presentation of a patient presenting with Multiple Sclerosis. Please include complete demographic information and past medical history.",
+    "response": "Patient is a 34-year-old White female presenting to clinic with complaints of intermittent blurry vision, numbness and tingling in her right arm, and episodes of unsteady gait over the past three months. She reports that the symptoms tend to come and go, with partial improvement in between episodes.\n\nDemographics:  \nAge: 34  \nSex: Female  \nRace: White  \n\nPast Medical History:  \n- Migraine headaches since age 18  \n- Mild depression, managed with sertraline  \n- No history of hypertension, diabetes, or cardiovascular disease  \n- No family history of neurologic disorders  \n\nShe does not smoke, drinks alcohol socially, and works as a graphic designer. No recent travel or infections reported."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 0,
+    "sample_index": 8,
+    "prompt": "Compose a brief presentation of a patient presenting with Multiple Sclerosis. Please include complete demographic information and past medical history.",
+    "response": "Patient is a 34-year-old White female who presents with intermittent episodes of blurred vision, numbness and tingling in her right arm, and fatigue for the past 6 months. She reports that the neurological symptoms tend to worsen with heat and partially improve with rest. \n\nDemographics:  \nAge: 34  \nSex: Female  \nRace: White  \n\nPast Medical History:  \n- No significant past medical history  \n- No history of autoimmune disorders  \n- No history of hypertension, diabetes, or heart disease  \n- Family history is notable for a maternal aunt with Multiple Sclerosis  \n\nShe does not smoke and drinks alcohol socially. She is employed as a graphic designer and lives with her partner."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 0,
+    "sample_index": 9,
+    "prompt": "Compose a brief presentation of a patient presenting with Multiple Sclerosis. Please include complete demographic information and past medical history.",
+    "response": "Patient:  \nA 32-year-old female presents to the neurology clinic with complaints of intermittent numbness and tingling in her right arm and blurred vision in her left eye over the past two weeks. She also reports episodes of fatigue and difficulty with balance that started several months ago but have recently worsened.  \n\nDemographics:  \nAge: 32  \nSex: Female  \nRace: White  \n\nPast Medical History:  \n- Migraine headaches, diagnosed at age 25  \n- Seasonal allergic rhinitis  \n- No history of hypertension, diabetes, or cardiovascular disease  \n- No prior hospitalizations or surgeries  \n- Family history notable for mother with rheumatoid arthritis  \n\nSocial History:  \n- Non-smoker  \n- Drinks alcohol occasionally  \n- Works as a school teacher  \n- No illicit drug use"
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 1,
+    "sample_index": 0,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with Multiple Sclerosis, including complete demographic details and relevant past medical history.",
+    "response": "Patient Presentation:  \nA 32-year-old woman presents with intermittent blurry vision in her right eye and numbness in her left leg for the past two weeks. She describes tingling sensations and occasional weakness in the affected limb. She reports fatigue and difficulty with balance over the last month. There is no history of trauma or recent illness.\n\nDemographic Details:  \nAge: 32  \nSex: Female  \nRace: White  \n\nRelevant Past Medical History:  \n- No significant past medical history  \n- No family history of neurological disorders  \n- Non-smoker, occasional alcohol use"
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 1,
+    "sample_index": 1,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with Multiple Sclerosis, including complete demographic details and relevant past medical history.",
+    "response": "Patient Presentation:  \nA 32-year-old woman presents with intermittent numbness and tingling in her right arm and blurred vision in her left eye over the past two weeks. She notes that the symptoms worsen with heat and improve slightly with rest. She reports occasional fatigue and difficulty with balance. No recent infections or trauma. Past medical history is significant for migraine headaches. No family history of neurologic disorders.  \n\nDemographic Details:  \nAge: 32  \nSex: Female  \nRace: White  \nPast Medical History: Migraine headaches"
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 1,
+    "sample_index": 2,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with Multiple Sclerosis, including complete demographic details and relevant past medical history.",
+    "response": "Patient Presentation:\n\nA 34-year-old woman presents with intermittent episodes of blurred vision and numbness in her right arm and leg over the past 6 months. She reports transient double vision and difficulty with balance that lasted for a few days and resolved spontaneously. She denies recent infections or trauma.\n\nDemographics:  \nAge: 34  \nSex: Female  \nRace: White  \n\nRelevant Past Medical History:  \n- No significant past medical history  \n- No family history of neurological disorders  \n- Non-smoker, no illicit drug use"
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 1,
+    "sample_index": 3,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with Multiple Sclerosis, including complete demographic details and relevant past medical history.",
+    "response": "Patient Presentation:  \nA 32-year-old woman presents to the neurology clinic with a 2-week history of intermittent blurry vision in her right eye and numbness and tingling in her left leg. She reports occasional fatigue and mild difficulty with balance over the past several months. She has no significant headaches, fever, or recent infections. Past medical history is notable for mild hypothyroidism, well controlled on levothyroxine. No history of autoimmune disease in the family.\n\nDemographics:  \nAge: 32  \nSex: Female  \nRace: White\n\nRelevant Past Medical History:  \n- Hypothyroidism (on levothyroxine)  \n- No known history of hypertension, diabetes, or cardiovascular disease"
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 1,
+    "sample_index": 4,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with Multiple Sclerosis, including complete demographic details and relevant past medical history.",
+    "response": "Patient Presentation:  \nA 32-year-old female presents to the neurology clinic with complaints of intermittent numbness and tingling in her right arm and left leg for the past three weeks. She also reports episodes of blurred vision in her left eye and increasing fatigue. She denies recent infections or trauma. On examination, there is decreased sensation to light touch in the right forearm and mild weakness (4/5) in the left lower extremity. Fundoscopic exam reveals optic disc pallor in the left eye.\n\nDemographic Details:  \nAge: 32  \nSex: Female  \nRace: White  \n\nRelevant Past Medical History:  \n- Migraine headaches, diagnosed at age 25  \n- No history of hypertension, diabetes, or autoimmune disease  \n- No family history of neurological disorders"
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 1,
+    "sample_index": 5,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with Multiple Sclerosis, including complete demographic details and relevant past medical history.",
+    "response": "Patient Presentation:  \nA 34-year-old female presents with intermittent numbness and tingling in her right arm and blurred vision in her left eye for the past two weeks. She reports episodes of fatigue and muscle weakness that have gradually worsened over several months. She denies recent infections or trauma.\n\nDemographics:  \nAge: 34  \nSex: Female  \nRace: White  \n\nRelevant Past Medical History:  \n- History of migraine headaches  \n- Smoker, quit 2 years ago  \n- No family history of autoimmune diseases  \n- No prior hospitalizations"
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 1,
+    "sample_index": 6,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with Multiple Sclerosis, including complete demographic details and relevant past medical history.",
+    "response": "Patient Presentation:  \nA 34-year-old woman presents to the neurology clinic with complaints of intermittent blurry vision in her right eye and numbness in her left leg for the past two weeks. She reports occasional muscle weakness and fatigue over the past several months. She denies any recent infections or trauma. On examination, she has decreased visual acuity in the right eye and hyperreflexia in the left lower extremity.\n\nDemographics:  \nAge: 34  \nSex: Female  \nRace: White  \n\nRelevant Past Medical History:  \n- History of mild depression, managed with cognitive behavioral therapy  \n- No history of hypertension, diabetes, or autoimmune diseases  \n- Family history notable for an aunt with Multiple Sclerosis"
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 1,
+    "sample_index": 7,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with Multiple Sclerosis, including complete demographic details and relevant past medical history.",
+    "response": "Patient Presentation:  \nA 33-year-old female presents with intermittent episodes of numbness and tingling in her left arm and blurred vision in her right eye over the past two weeks. She reports occasional muscle weakness and fatigue but denies recent infections or trauma. On examination, she has decreased sensation to light touch in her left forearm and mild right-sided optic disc pallor.\n\nDemographic Details:  \nAge: 33  \nSex: Female  \nRace: White  \n\nRelevant Past Medical History:  \n- No previous neurologic disorders  \n- History of migraine headaches  \n- No family history of autoimmune disease  \n- Non-smoker, no history of substance use"
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 1,
+    "sample_index": 8,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with Multiple Sclerosis, including complete demographic details and relevant past medical history.",
+    "response": "Patient:  \nAge: 32  \nSex: Female  \nRace: White  \n\nChief Complaint:  \nIntermittent blurred vision and numbness in the right arm for the past two weeks.\n\nHistory of Present Illness:  \nThe patient reports sudden onset of blurred vision in her left eye associated with pain on eye movement, which improved over several days. She also notes episodes of numbness and tingling in her right arm and hand, lasting for several days and then resolving. She denies fever, recent illness, or trauma.\n\nPast Medical History:  \n- Migraine headaches  \n- No history of hypertension, diabetes, or other chronic illnesses\n\nFamily History:  \n- Mother with rheumatoid arthritis\n\nSocial History:  \n- Non-smoker  \n- Drinks alcohol socially  \n- Works as a high school teacher\n\nMedications:  \n- Occasional ibuprofen for headaches\n\nAllergies:  \n- No known drug allergies\n\nPhysical Exam (pertinent findings):  \n- Decreased visual acuity in left eye  \n- Decreased sensation to light touch in right arm  \n- Mild hyperreflexia in lower extremities\n\nSummary:  \nA 32-year-old White female presents with episodic neurological symptoms (optic neuritis and sensory changes), raising suspicion for Multiple Sclerosis."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 1,
+    "sample_index": 9,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with Multiple Sclerosis, including complete demographic details and relevant past medical history.",
+    "response": "Patient Presentation:  \nA 34-year-old female presents to the neurology clinic with complaints of intermittent blurry vision in her right eye, numbness and tingling in her left arm, and episodes of unsteadiness while walking over the past two months. She reports that the symptoms tend to worsen with heat and partially improve with rest. No history of recent infection or trauma.\n\nDemographics:  \nAge: 34  \nSex: Female  \nRace: White  \n\nRelevant Past Medical History:  \n- Migraines (diagnosed at age 29)  \n- No history of diabetes, hypertension, or autoimmune disorders  \n- Family history: Mother diagnosed with rheumatoid arthritis  \n- Non-smoker, occasional alcohol use"
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 2,
+    "sample_index": 0,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with Multiple Sclerosis?",
+    "response": "Certainly! Here is a synthetic case presentation for a patient with Multiple Sclerosis, reflecting demographic prevalence in the United States:\n\n---\n\n**Case Presentation: Multiple Sclerosis**\n\n**Demographics:**  \n- Age: 32 years  \n- Sex: Female  \n- Race: White  \n\n**Past Medical History:**  \n- Migraine headaches (diagnosed at age 25)  \n- Seasonal allergic rhinitis  \n- No history of hypertension, diabetes, or cardiac disease  \n- Family history: Mother with hypothyroidism, no family history of neurologic or autoimmune diseases  \n- No history of tobacco or illicit drug use; occasional alcohol use  \n\n**Chief Complaint:**  \n- Intermittent numbness and tingling in the right arm and leg for the past 3 weeks, with occasional blurry vision in the left eye.\n\n---\n\nLet me know if you would like additional details or a different patient scenario."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 2,
+    "sample_index": 1,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with Multiple Sclerosis?",
+    "response": "Certainly. Here is a synthetic patient case for Multiple Sclerosis, designed according to U.S. demographic prevalence data:\n\n---\n\n**Patient Presentation: Multiple Sclerosis**\n\n**Demographics:**  \n- Age: 34  \n- Sex: Female  \n- Race: White  \n\n**Past Medical History:**  \n- Migraines (diagnosed age 27)  \n- Vitamin D deficiency  \n- No history of hypertension, diabetes, or cardiac disease  \n- Family history: Mother with hypothyroidism; no family history of neurological disease  \n\n**Chief Complaint:**  \nThe patient presents with intermittent numbness and tingling in the right arm and leg for the past three weeks, as well as occasional blurred vision in the right eye. She reports increased fatigue and episodes of imbalance that have worsened over the past month.\n\n**Additional Information:**  \nShe does not smoke or use illicit drugs. She drinks alcohol socially. She is employed as a graphic designer and lives with her partner. \n\n---\n\nLet me know if you\u2019d like additional details or physical exam findings!"
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 2,
+    "sample_index": 2,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with Multiple Sclerosis?",
+    "response": "Certainly! Here is a synthetic patient case presentation for Multiple Sclerosis:\n\n---\n\n**Case Presentation: Multiple Sclerosis**\n\n**Demographics:**\n- Age: 34 years\n- Sex: Female\n- Race: White\n\n**Chief Complaint:**  \nIntermittent numbness and tingling in the left arm and blurred vision in the right eye for the past two weeks.\n\n**History of Present Illness:**  \nThe patient reports two weeks of numbness and tingling in her left arm, which worsens with heat exposure. She also notes blurred vision in her right eye with associated mild pain on eye movement. She denies recent infections or trauma. Symptoms have partially improved but have not fully resolved.\n\n**Past Medical History:**\n- Migraine headaches, diagnosed 5 years ago\n- Hypothyroidism, diagnosed 2 years ago\n- No prior history of autoimmune disease\n\n**Family History:**  \nMother with rheumatoid arthritis\n\n**Social History:**  \nNon-smoker. Social alcohol use. Works as a school teacher. No illicit drug use.\n\n---\n\nLet me know if you need more details or a different case!"
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 2,
+    "sample_index": 3,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with Multiple Sclerosis?",
+    "response": "Certainly! Here is a synthetic patient case for Multiple Sclerosis, reflecting U.S. demographic prevalence:\n\n---\n\n**Patient Case Presentation: Multiple Sclerosis**\n\n**Demographics:**  \n- Age: 32 years  \n- Sex: Female  \n- Race: White  \n\n**Presenting Complaint:**  \nThe patient presents with intermittent visual disturbances in the right eye, numbness and tingling in the left arm, and episodes of fatigue for the past 3 months.\n\n**Past Medical History:**  \n- Migraine headaches, diagnosed at age 25  \n- No history of hypertension, diabetes, or heart disease  \n- No prior autoimmune diseases reported  \n\n**Family History:**  \n- Mother with rheumatoid arthritis  \n- No family history of Multiple Sclerosis\n\n**Social History:**  \n- Non-smoker  \n- Drinks alcohol occasionally  \n- Works as a high school teacher  \n- No recent travel or infections\n\n**Medications:**  \n- Occasional ibuprofen for migraines\n\n**Summary:**  \nThis is a 32-year-old White female with a past medical history of migraines, presenting with neurological symptoms suggestive of a demyelinating process such as Multiple Sclerosis.\n\n---"
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 2,
+    "sample_index": 4,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with Multiple Sclerosis?",
+    "response": "Certainly! Here is a synthetic patient case reflecting the U.S. demographic prevalence of Multiple Sclerosis (MS):\n\n---\n\n**Patient Case Presentation: Multiple Sclerosis**\n\n**Demographics:**  \n- Age: 34  \n- Sex: Female  \n- Race: White  \n\n**Past Medical History:**  \n- Migraines, well controlled with sumatriptan  \n- Vitamin D deficiency, on supplementation  \n- No history of hypertension, diabetes, or cardiovascular disease  \n- No history of autoimmune disorders in immediate family  \n\n**Chief Complaint:**  \nIntermittent numbness and tingling in both legs for the past three weeks, associated with occasional blurred vision in the right eye and increased fatigue.\n\n---\n\nLet me know if you need more details or a different presentation style!"
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 2,
+    "sample_index": 5,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with Multiple Sclerosis?",
+    "response": "Certainly! Here is a synthetic case presentation for a patient with Multiple Sclerosis, reflecting U.S. epidemiology:\n\n---\n\n**Case Presentation:**\n\n**Demographics:**  \nAge: 33  \nSex: Female  \nRace: White  \n\n**Past Medical History:**  \n- No history of hypertension, diabetes, or hyperlipidemia  \n- History of migraine headaches since her early 20s  \n- No prior autoimmune conditions  \n- Family history notable for a mother with hypothyroidism  \n- No tobacco use, occasional alcohol consumption  \n\n**Chief Complaint:**  \nThe patient presents with intermittent episodes of blurred vision in her right eye and numbness in her left leg, both lasting several days and resolving spontaneously. She also reports increasing fatigue over the past several months.\n\n---"
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 2,
+    "sample_index": 6,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with Multiple Sclerosis?",
+    "response": "Certainly. Here is a synthetic case presentation for Multiple Sclerosis, following U.S.-based demographic prevalence:\n\n---\n\n**Case Presentation: Multiple Sclerosis**\n\n**Demographics:**  \n- Age: 32  \n- Sex: Female  \n- Race: White  \n\n**Past Medical History:**  \n- History of mild depression, well controlled with SSRIs  \n- No history of hypertension, diabetes, or heart disease  \n- No history of autoimmune diseases  \n- Up to date on vaccinations  \n- Non-smoker, occasional alcohol use  \n- Family history: Mother with rheumatoid arthritis\n\n---\n\n**Chief Complaint:**  \nPatient presents with intermittent episodes of numbness and tingling in her right arm and left leg over the past 6 months. She also reports occasional blurred vision and increased fatigue.\n\n---\n\nLet me know if you need additional details (exam findings, imaging, lab results, etc.)."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 2,
+    "sample_index": 7,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with Multiple Sclerosis?",
+    "response": "Certainly! Here is a synthetic case presentation for a patient with Multiple Sclerosis, reflecting U.S. demographic prevalence:\n\n---\n\n**Case Presentation:**\n\nA 32-year-old White female presents to clinic with a history of intermittent numbness and tingling in her right arm and leg for the past 6 months, accompanied by occasional episodes of blurred vision and fatigue. She reports that her symptoms tend to worsen with heat and improve with rest. She denies recent infections or trauma.\n\n**Demographics:**\n- Age: 32\n- Sex: Female\n- Race: White\n\n**Past Medical History:**\n- Migraine headaches, diagnosed at age 27\n- Seasonal allergic rhinitis\n- No history of hypertension, diabetes, or cardiac disease\n- No significant family history of autoimmune disorders\n\n**Social History:**\n- Non-smoker\n- Drinks alcohol socially\n- Works as a graphic designer\n\n**Medications:**\n- Cetirizine as needed for allergies\n- Occasional ibuprofen for headaches\n\n---\n\nLet me know if you need more details or a different demographic profile!"
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 2,
+    "sample_index": 8,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with Multiple Sclerosis?",
+    "response": "Certainly. Here\u2019s a concise case presentation:\n\n**Case Presentation: Multiple Sclerosis**\n\n- **Patient:** 32-year-old female  \n- **Race:** White  \n- **Presenting Complaint:** Intermittent episodes of blurred vision, numbness in the left arm, and difficulty with balance over the past 6 months.\n- **Past Medical History:**  \n  - Migraine headaches since age 20  \n  - No history of hypertension, diabetes, or cardiac disease  \n  - No previous neurological diagnoses\n- **Family History:** Mother with rheumatoid arthritis\n- **Social History:** Non-smoker, occasional alcohol use, works as a schoolteacher\n- **Medications:** Occasional ibuprofen for migraines\n\n**Summary:**  \nA 32-year-old White female with a history of migraines presents with recurrent neurological symptoms over several months, raising concern for a demyelinating process such as Multiple Sclerosis."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 2,
+    "sample_index": 9,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with Multiple Sclerosis?",
+    "response": "Certainly! Here is a synthetic patient case for Multiple Sclerosis, taking into account U.S. prevalence by demographic group:\n\n---\n\n**Case Presentation:**\n\nA 29-year-old woman presents to the neurology clinic with a 4-week history of intermittent numbness and tingling in her left arm and right leg, along with occasional blurred vision in her right eye. She reports that her symptoms tend to worsen with heat and improve with rest. She denies fever, headache, or recent infections.\n\n**Demographics:**\n- Age: 29\n- Sex: Female\n- Race: White\n\n**Past Medical History:**\n- Migraine headaches, diagnosed at age 22\n- Allergic rhinitis\n- No history of hypertension, diabetes, or cardiovascular disease\n- Family history significant for an aunt with Multiple Sclerosis\n\n**Social History:**\n- Non-smoker\n- Occasional alcohol use\n- Works as a school teacher\n\n**Summary:**  \nThis is a 29-year-old White woman with a personal history of migraine and a family history of MS, presenting with new-onset sensory changes and visual disturbance, suggestive of a demyelinating process such as Multiple Sclerosis.\n\n---"
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 3,
+    "sample_index": 0,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with Multiple Sclerosis. Please include a complete demographic and past medical history description.",
+    "response": "A 34-year-old White woman with a past medical history of migraine headaches presents with new-onset right-sided limb weakness and blurred vision, found to have demyelinating lesions on brain MRI consistent with Multiple Sclerosis."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 3,
+    "sample_index": 1,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with Multiple Sclerosis. Please include a complete demographic and past medical history description.",
+    "response": "45-year-old White woman with a past medical history of hypothyroidism and migraine headaches presents with progressive lower extremity weakness and intermittent visual disturbances, found to have Multiple Sclerosis."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 3,
+    "sample_index": 2,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with Multiple Sclerosis. Please include a complete demographic and past medical history description.",
+    "response": "A 34-year-old White woman with a past medical history of migraine headaches presents with new-onset left-sided weakness and blurry vision; MRI shows multiple demyelinating lesions consistent with Multiple Sclerosis."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 3,
+    "sample_index": 3,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with Multiple Sclerosis. Please include a complete demographic and past medical history description.",
+    "response": "A 35-year-old White woman with a past medical history of migraine headaches presents with new-onset blurry vision, limb weakness, and numbness, found to have Multiple Sclerosis."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 3,
+    "sample_index": 4,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with Multiple Sclerosis. Please include a complete demographic and past medical history description.",
+    "response": "45-year-old White female with a past medical history of hypertension and migraine headaches presents with progressive lower extremity weakness, numbness, and episodes of vision changes, consistent with relapsing-remitting Multiple Sclerosis."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 3,
+    "sample_index": 5,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with Multiple Sclerosis. Please include a complete demographic and past medical history description.",
+    "response": "A 34-year-old White woman with a past medical history of migraine headaches presents with intermittent episodes of right-sided weakness and vision changes, consistent with relapsing-remitting Multiple Sclerosis."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 3,
+    "sample_index": 6,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with Multiple Sclerosis. Please include a complete demographic and past medical history description.",
+    "response": "42-year-old White woman with a past medical history of migraine and depression presents with new-onset left-sided weakness and blurred vision, found to have Multiple Sclerosis."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 3,
+    "sample_index": 7,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with Multiple Sclerosis. Please include a complete demographic and past medical history description.",
+    "response": "45-year-old White female with a past medical history of migraine headaches and hypothyroidism presents with progressive lower extremity weakness, numbness, and intermittent vision changes, found to have Multiple Sclerosis.  \nRace: White"
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 3,
+    "sample_index": 8,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with Multiple Sclerosis. Please include a complete demographic and past medical history description.",
+    "response": "45-year-old White female with a past medical history of hypertension and migraine headaches presents with progressive lower extremity weakness, intermittent numbness, and episodes of blurry vision, consistent with a diagnosis of Multiple Sclerosis. Race: White."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 3,
+    "sample_index": 9,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with Multiple Sclerosis. Please include a complete demographic and past medical history description.",
+    "response": "45-year-old White female with a history of hypothyroidism and migraine headaches presents with new-onset right lower extremity weakness and intermittent blurry vision; MRI reveals multiple demyelinating lesions consistent with Multiple Sclerosis.  \nRace: White"
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 4,
+    "sample_index": 0,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with Multiple Sclerosis. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "45-year-old White female with a history of intermittent optic neuritis and prior paresthesias who presents with two weeks of progressive right lower extremity weakness, gait instability, and urinary urgency. No history of diabetes or hypertension. No recent infections or trauma. Race: White"
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 4,
+    "sample_index": 1,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with Multiple Sclerosis. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "A 33-year-old White woman with no significant past medical history presents with 2 weeks of progressive right arm weakness, numbness in her left leg, and intermittent blurry vision in her right eye. She reports fatigue and difficulty walking but denies fever or recent infections. On exam, she has decreased strength in the right upper extremity and decreased sensation in the left lower extremity. No family history of neurologic disorders.\n\nRace: White  \nSex: Female  \nAge: 33"
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 4,
+    "sample_index": 2,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with Multiple Sclerosis. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "35-year-old White woman with history of episodic optic neuritis and numbness in her right leg presents with 3 weeks of progressive left arm weakness, blurry vision, and new onset urinary urgency; no prior autoimmune diseases or family history of neurological disorders."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 4,
+    "sample_index": 3,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with Multiple Sclerosis. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "A 32-year-old White woman with a history of mild depression presents with three weeks of progressive right lower extremity weakness, numbness, and intermittent blurry vision. She reports episodes of fatigue and urinary urgency. There is no history of diabetes, hypertension, or recent infections. Examination reveals decreased strength (4/5) and diminished sensation in the right leg, with a positive Babinski sign on the right. Race: White."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 4,
+    "sample_index": 4,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with Multiple Sclerosis. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "Patient is a 32-year-old White woman with a history of intermittent numbness and weakness in her left leg over the past year, now presenting with acute onset of right eye pain and decreased vision over two days. She reports prior episodes of urinary urgency and mild gait instability. No significant past medical history. No family history of autoimmune disease. Race: White."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 4,
+    "sample_index": 5,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with Multiple Sclerosis. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "35-year-old White woman with a history of episodic optic neuritis presents with new onset right lower extremity weakness and numbness, gait instability, and urinary urgency over the past week. No prior history of hypertension, diabetes, or vascular disease. Examination reveals decreased strength and sensation in the right leg and hyperreflexia."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 4,
+    "sample_index": 6,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with Multiple Sclerosis. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "35-year-old White woman with a history of intermittent visual disturbances and prior episode of right-sided numbness, now presenting with 2 weeks of progressive left leg weakness, gait instability, and urinary urgency. No history of hypertension, diabetes, or cardiovascular disease. Race: White."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 4,
+    "sample_index": 7,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with Multiple Sclerosis. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "45-year-old White woman with a history of mild hypothyroidism presents with several weeks of intermittent right-sided limb weakness, numbness, and blurred vision in her left eye, accompanied by fatigue and unsteady gait. Symptoms are episodic and partially improve between episodes. No history of recent infection or trauma."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 4,
+    "sample_index": 8,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with Multiple Sclerosis. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "34-year-old White woman with history of migraine presents with 2 weeks of progressive right lower extremity weakness, numbness, and urinary urgency. Examination reveals mild spastic paraparesis and hyperreflexia. No prior similar episodes reported."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 4,
+    "sample_index": 9,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with Multiple Sclerosis. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "45-year-old White woman with a history of migraine headaches presents with two weeks of progressive right leg weakness, numbness, and urinary urgency. On exam, she has decreased sensation in the right lower extremity and mild spasticity. No prior neurologic deficits reported. Race: White."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 5,
+    "sample_index": 0,
+    "prompt": "Create a problem representation for a typical patient presenting with Multiple Sclerosis, including complete demographic characterization and relevant past medical history.",
+    "response": "**Patient Problem Representation \u2013 Multiple Sclerosis**\n\n- **Age:** 32 years  \n- **Sex:** Female  \n- **Race:** White  \n- **Presenting Complaint:** Acute onset of right-sided visual loss and eye pain over several days, associated with intermittent left arm numbness and tingling over the past few months.  \n- **Past Medical History:** Migraines  \n- **Family History:** No known neurological disorders  \n- **Social History:** Non-smoker, occasional alcohol use  \n- **Relevant Additional Information:** No history of hypertension, diabetes, or cardiovascular disease; no recent infections or trauma.  \n\n**Problem Representation:**  \nA 32-year-old White female with a history of migraines presents with subacute, painful right eye vision loss and intermittent left arm paresthesia over several months, without significant vascular risk factors or recent illness."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 5,
+    "sample_index": 1,
+    "prompt": "Create a problem representation for a typical patient presenting with Multiple Sclerosis, including complete demographic characterization and relevant past medical history.",
+    "response": "**Problem Representation:**\n\nA 32-year-old White woman with a past medical history of migraine headaches presents with recurrent episodes of unilateral visual loss, limb weakness, and sensory disturbances over the past year. Episodes are separated by periods of partial recovery. No significant cardiovascular risk factors. Family history is negative for autoimmune diseases.\n\n**Demographic Characterization:**\n- Age: 32 years\n- Sex: Female\n- Race: White\n\n**Relevant Past Medical History:**\n- Migraine headaches\n- No diabetes, hypertension, or prior autoimmune disease\n- No history of smoking or substance use\n\n**Summary:**  \nThis is a young adult White woman with a history of migraines presenting with relapsing neurological deficits (optic neuritis, limb weakness, sensory changes), characteristic of Multiple Sclerosis."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 5,
+    "sample_index": 2,
+    "prompt": "Create a problem representation for a typical patient presenting with Multiple Sclerosis, including complete demographic characterization and relevant past medical history.",
+    "response": "**Problem Representation:**\n\nA 33-year-old White woman with no significant past medical history presents with several weeks of intermittent visual disturbances, limb numbness, and muscle weakness. She has experienced two separate episodes of neurologic symptoms over the past year, each lasting more than 24 hours and partially resolving. MRI reveals multiple demyelinating lesions in the periventricular white matter. No prior autoimmune or chronic medical conditions are reported.\n\n**Demographic Characterization:**\n- Age: 33 years\n- Sex: Female\n- Race: White\n\n**Relevant Past Medical History:**\n- No significant past medical history\n- No history of autoimmune disease\n- No known family history of neurologic disorders"
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 5,
+    "sample_index": 3,
+    "prompt": "Create a problem representation for a typical patient presenting with Multiple Sclerosis, including complete demographic characterization and relevant past medical history.",
+    "response": "**Problem Representation:**\n\nA 32-year-old White woman with no significant past medical history presents with intermittent episodes of limb numbness, muscle weakness, and blurred vision over the past 6 months. Symptoms have partially improved between episodes. Neurologic examination reveals mild right leg weakness and decreased sensation to pinprick in the left arm. MRI of the brain demonstrates multiple periventricular white matter lesions suggestive of demyelination. \n\n**Demographics:**\n- Age: 32 years\n- Sex: Female\n- Race: White\n\n**Relevant Past Medical History:**\n- No significant past medical history\n- No family history of autoimmune or neurologic disorders"
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 5,
+    "sample_index": 4,
+    "prompt": "Create a problem representation for a typical patient presenting with Multiple Sclerosis, including complete demographic characterization and relevant past medical history.",
+    "response": "**Problem Representation:**\n\nA 32-year-old White woman with a history of migraine headaches presents with intermittent episodes of right-sided weakness and blurred vision over several weeks, accompanied by sensory disturbances and mild balance difficulties. No significant cardiovascular risk factors. No family history of autoimmune disease. Race: White."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 5,
+    "sample_index": 5,
+    "prompt": "Create a problem representation for a typical patient presenting with Multiple Sclerosis, including complete demographic characterization and relevant past medical history.",
+    "response": "**Problem Representation (Multiple Sclerosis):**\n\nA 31-year-old White woman presents with intermittent episodes of visual disturbances, limb weakness, and sensory changes over the past 8 months, with partial improvement between episodes. Past medical history is significant for migraine headaches. No history of autoimmune diseases or recent infections. No family history of neurological disorders. Race: White."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 5,
+    "sample_index": 6,
+    "prompt": "Create a problem representation for a typical patient presenting with Multiple Sclerosis, including complete demographic characterization and relevant past medical history.",
+    "response": "**Problem Representation:**\n\nA 29-year-old White woman with no significant past medical history presents with several weeks of intermittent numbness and tingling in her left lower extremity, accompanied by new-onset blurry vision in her right eye and mild fatigue. She has no prior neurological diagnoses. Family history is notable for an aunt with Multiple Sclerosis. On examination, she demonstrates decreased sensation in the left leg and a mild right afferent pupillary defect. MRI brain reveals multiple periventricular white matter lesions consistent with demyelination.\n\n- **Age:** 29  \n- **Sex:** Female  \n- **Race:** White  \n- **Past Medical History:** No significant past medical history  \n- **Family History:** Aunt with Multiple Sclerosis  \n- **Presenting Symptoms:** Intermittent left leg numbness/tingling, right eye blurry vision, fatigue  \n- **Exam Findings:** Decreased sensation (left leg), right afferent pupillary defect  \n- **Imaging:** Multiple periventricular demyelinating lesions on brain MRI"
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 5,
+    "sample_index": 7,
+    "prompt": "Create a problem representation for a typical patient presenting with Multiple Sclerosis, including complete demographic characterization and relevant past medical history.",
+    "response": "**Problem Representation:**\n\nA 33-year-old White woman with a past medical history of migraine headaches presents with subacute onset of right-sided visual loss and eye pain, along with intermittent numbness and tingling in her left arm. She reports a prior episode of left leg weakness that resolved spontaneously six months ago. No significant family history of neurologic disorders. No history of diabetes, hypertension, or cardiovascular disease.\n\n**Demographics:**\n- Age: 33 years\n- Sex: Female\n- Race: White\n\n**Relevant Past Medical History:**\n- Migraine headaches\n- No diabetes, hypertension, or cardiovascular disease\n- No known autoimmune disorders\n\n**Key Features:**\n- Young adult woman\n- Recurrent, multifocal neurologic deficits separated by time and space (optic neuritis, sensory disturbance, prior motor deficit)\n- Typical demographic for Multiple Sclerosis in the United States"
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 5,
+    "sample_index": 8,
+    "prompt": "Create a problem representation for a typical patient presenting with Multiple Sclerosis, including complete demographic characterization and relevant past medical history.",
+    "response": "**Problem Representation:**\n\nA 32-year-old White woman with no significant past medical history presents with intermittent episodes of blurred vision and right arm numbness over several months, associated with fatigue and mild gait instability. Symptoms have partially improved between episodes. MRI reveals multiple demyelinating lesions in the periventricular white matter. No prior history of autoimmune disease or recent infections.\n\n**Demographic Characterization:**\n- Age: 32\n- Sex: Female\n- Race: White\n\n**Relevant Past Medical History:**\n- No significant past medical history\n- No prior autoimmune conditions\n- No recent infections or trauma"
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 5,
+    "sample_index": 9,
+    "prompt": "Create a problem representation for a typical patient presenting with Multiple Sclerosis, including complete demographic characterization and relevant past medical history.",
+    "response": "**Problem Representation:**\n\nA 34-year-old White woman with no significant past medical history presents with intermittent episodes of limb numbness and visual disturbances over the past year; neurological examination reveals mild right lower extremity weakness and hyperreflexia. MRI brain shows multiple periventricular white matter lesions consistent with demyelination. No history of diabetes, hypertension, or autoimmune diseases.\n\n**Demographics:**\n- Age: 34\n- Sex: Female\n- Race: White\n\n**Relevant Past Medical History:**\n- No prior neurologic or autoimmune diseases\n- No significant comorbidities"
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 6,
+    "sample_index": 0,
+    "prompt": "Create a case report about a patient with Multiple Sclerosis. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "**Case Report: Multiple Sclerosis**\n\n**Patient Demographics:**  \nAge: 34 years  \nSex: Female  \nRace: White  \n\n**Chief Complaint:**  \nIntermittent numbness and tingling in the right arm and leg for the past two weeks.\n\n**History of Present Illness:**  \nThe patient reports experiencing episodes of numbness and tingling in her right arm and leg over the past two weeks, each episode lasting several hours. She also describes intermittent blurred vision in her right eye and increased fatigue. She denies fevers, headaches, or recent infections. She reports a similar episode of leg weakness approximately six months ago that resolved spontaneously after a few days.\n\n**Past Medical History:**  \n- Migraines (diagnosed age 28)\n- Seasonal allergies\n\n**Surgical History:**  \n- Tonsillectomy (childhood)\n\n**Family History:**  \n- Mother with rheumatoid arthritis\n- Father with hypertension\n\n**Social History:**  \n- Works as a graphic designer\n- Non-smoker\n- Rare alcohol use\n- No recreational drug use\n\n**Medications:**  \n- Loratadine as needed for allergies\n- Ibuprofen as needed for migraines\n\n**Allergies:**  \nNo known drug allergies\n\n**Physical Examination:**  \n- Vital signs: Stable\n- Neurological exam: Decreased sensation to light touch in right arm and leg; mild weakness (4/5) in right leg; mild ataxia on heel-to-shin testing; decreased visual acuity in right eye\n- No other significant findings\n\n**Assessment and Plan:**  \nThe patient\u2019s presentation of relapsing neurological symptoms, sensory changes, and optic neuritis is concerning for Multiple Sclerosis. MRI brain and cervical spine, as well as lumbar puncture for oligoclonal bands, were ordered. The patient was started on a short course of corticosteroids for acute symptom management and referred to neurology for further evaluation and disease-modifying therapy discussion."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 6,
+    "sample_index": 1,
+    "prompt": "Create a case report about a patient with Multiple Sclerosis. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "**Case Report: Multiple Sclerosis**\n\n**Patient Demographics:**  \nAge: 34  \nSex: Female  \nRace: White  \n\n**Chief Complaint:**  \nIntermittent numbness and tingling in the left arm and leg, worsening over the past three months.\n\n**History of Present Illness:**  \nThe patient is a 34-year-old White female who presents with a three-month history of intermittent numbness and tingling affecting her left arm and leg. She reports that the symptoms are often worse in the mornings and after periods of physical exertion. She has also noticed occasional blurry vision in her right eye and increased fatigue. There is no history of trauma, recent infections, or similar symptoms in the past.\n\n**Past Medical History:**  \n- Migraine headaches, diagnosed at age 28  \n- Seasonal allergies  \n- No history of autoimmune diseases or prior neurological deficits\n\n**Family History:**  \n- Mother with hypothyroidism  \n- No family history of neurological diseases\n\n**Social History:**  \n- Non-smoker  \n- Drinks alcohol socially  \n- Works as a high school teacher  \n- No illicit drug use\n\n**Review of Systems:**  \n- Positive for fatigue and blurry vision  \n- Negative for bowel or bladder dysfunction  \n- No recent weight loss, fever, or night sweats\n\n**Physical Examination:**  \n- Vital signs within normal limits  \n- Neurological exam: Decreased sensation to light touch and pinprick on the left upper and lower extremities, mild weakness (4/5) in the left leg, positive Babinski sign on the left, mild ataxia when walking  \n- Cranial nerves II-XII grossly intact except for mild decreased visual acuity in the right eye\n\n**Laboratory and Imaging Findings:**  \n- Brain MRI: Multiple periventricular white matter lesions, some with enhancement  \n- Lumbar puncture: Oligoclonal bands present in CSF\n\n**Diagnosis:**  \nRelapsing-remitting Multiple Sclerosis\n\n**Summary:**  \nThis is a 34-year-old White female with a past medical history significant for migraines and seasonal allergies, presenting with new-onset neurological symptoms. MRI and CSF analysis confirm the diagnosis of relapsing-remitting Multiple Sclerosis."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 6,
+    "sample_index": 2,
+    "prompt": "Create a case report about a patient with Multiple Sclerosis. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "**Case Report: Relapsing-Remitting Multiple Sclerosis**\n\n**Patient Demographics:**  \nAge: 34  \nSex: Female  \nRace: White\n\n**Chief Complaint:**  \nIntermittent numbness and tingling in the right arm and visual disturbances over the past three weeks.\n\n**History of Present Illness:**  \nThe patient reports a three-week history of intermittent numbness and tingling involving her right arm, accompanied by episodes of blurred vision in her left eye. She describes the numbness as a \"pins and needles\" sensation that lasts for several hours before resolving. She also reports fatigue and occasional unsteadiness when walking. No recent infections or vaccinations. There is no history of trauma.\n\n**Past Medical History:**  \n- Migraine headaches, diagnosed at age 28  \n- Vitamin D deficiency  \n- No history of hypertension, diabetes, or cardiac disease\n\n**Family History:**  \n- Mother diagnosed with hypothyroidism  \n- No family history of multiple sclerosis or other autoimmune diseases\n\n**Social History:**  \n- Non-smoker  \n- Drinks alcohol occasionally (1-2 drinks per week)  \n- Works as a graphic designer  \n- No illicit drug use\n\n**Review of Systems:**  \n- Denies fever, night sweats, or weight loss  \n- No bowel or bladder dysfunction  \n- No joint pain or rashes\n\n**Physical Examination:**  \n- Vital signs within normal limits  \n- Neurological exam: decreased sensation to light touch and pinprick over the right forearm; mild weakness (4+/5) in right upper extremity; positive Lhermitte's sign  \n- Visual acuity: decreased in left eye (20/60); afferent pupillary defect present  \n- Gait: mildly unsteady\n\n**Laboratory and Imaging:**  \n- MRI brain and cervical spine: multiple periventricular and juxtacortical T2 hyperintense lesions, some with enhancement  \n- Lumbar puncture: oligoclonal bands present in CSF, absent in serum  \n- Serum vitamin D: low\n\n**Assessment:**  \n34-year-old White female presenting with neurological symptoms and MRI findings consistent with relapsing-remitting multiple sclerosis.\n\n**Plan:**  \n- Initiate disease-modifying therapy (e.g., interferon beta-1a)  \n- High-dose corticosteroids for acute exacerbation  \n- Vitamin D supplementation  \n- Refer to physical therapy for gait instability  \n- Schedule regular neurology follow-up and MRI monitoring"
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 6,
+    "sample_index": 3,
+    "prompt": "Create a case report about a patient with Multiple Sclerosis. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "**Case Report: Multiple Sclerosis**\n\n**Demographic Information:**  \n- Age: 34 years  \n- Sex: Female  \n- Race: White  \n\n**Chief Complaint:**  \nIntermittent numbness and tingling in her right arm and leg over the past six months, associated with occasional blurred vision.\n\n**History of Present Illness:**  \nThe patient reports experiencing episodes of numbness and tingling in the right upper and lower extremities that last several days and then partially resolve. She also describes two episodes of blurred vision in her left eye, each lasting for several days and improving without intervention. She denies weakness, bowel or bladder changes, or cognitive difficulties.\n\n**Past Medical History:**  \n- Migraine headaches, well-controlled with sumatriptan as needed  \n- Seasonal allergic rhinitis  \n- No history of hypertension, diabetes, or cardiovascular disease\n\n**Family History:**  \n- Mother with hypothyroidism  \n- No family history of multiple sclerosis or other autoimmune diseases\n\n**Social History:**  \n- Works as an elementary school teacher  \n- Non-smoker  \n- Drinks alcohol socially (1-2 drinks per week)  \n- No illicit drug use\n\n**Medications:**  \n- Sumatriptan 50 mg as needed for migraines  \n- Loratadine 10 mg daily during allergy season\n\n**Physical Examination:**  \n- Vital signs within normal limits  \n- Neurological exam revealed decreased sensation to light touch in the right arm and leg, mild hyperreflexia in the right lower extremity, and a left afferent pupillary defect. No motor weakness observed.\n\n**Imaging and Laboratory Studies:**  \n- MRI brain and cervical spine: Multiple periventricular and juxtacortical T2 hyperintense lesions, some with contrast enhancement  \n- CSF analysis: Oligoclonal bands present  \n- Negative for infectious or metabolic causes\n\n**Summary:**  \nThis is a 34-year-old White female with a history of migraines and seasonal allergies, presenting with relapsing neurological symptoms and MRI findings consistent with Multiple Sclerosis."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 6,
+    "sample_index": 4,
+    "prompt": "Create a case report about a patient with Multiple Sclerosis. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "**Case Report: Multiple Sclerosis**\n\n**Demographics:**  \nAge: 34  \nSex: Female  \nRace: White  \n\n**Presenting Complaint:**  \nThe patient presents with intermittent episodes of numbness and tingling in her right arm and leg, which have persisted for two weeks. She also reports episodes of blurred vision in her left eye and mild fatigue.\n\n**History of Present Illness:**  \nThe patient first noticed numbness in her right arm three months ago, which resolved spontaneously after five days. Two weeks ago, she experienced similar symptoms in her right leg, accompanied by mild weakness. One week prior to presentation, she developed blurred vision in her left eye, described as a gray patch in the central visual field, which lasted for three days and has partially improved. She denies fever, headache, or recent infections.\n\n**Past Medical History:**  \n- Migraine headaches, diagnosed at age 29, well-controlled with sumatriptan as needed.\n- No history of hypertension, diabetes, or cardiovascular disease.\n- No prior hospitalizations or surgeries.\n\n**Family History:**  \n- Mother diagnosed with rheumatoid arthritis.\n- No family history of neurological disorders.\n\n**Social History:**  \n- Non-smoker.\n- Occasional alcohol consumption.\n- Works as a high school teacher.\n- No illicit drug use.\n\n**Review of Systems:**  \n- No urinary or bowel incontinence.\n- No recent weight loss or night sweats.\n- Reports mild fatigue over the past two months.\n\n**Physical Examination:**  \n- Vital signs stable, afebrile.\n- Neurological exam: decreased sensation to light touch and pinprick in the right upper and lower extremities; mild right-sided weakness (4+/5); left optic disc pallor on fundoscopic exam; gait mildly unsteady.\n\n**Laboratory and Imaging:**  \n- MRI brain and cervical spine: multiple periventricular and juxtacortical T2 hyperintense lesions, some enhancing with gadolinium.\n- Lumbar puncture: oligoclonal bands present in CSF, not in serum.\n\n**Diagnosis:**  \nRelapsing-remitting Multiple Sclerosis (RRMS)\n\n**Discussion:**  \nThis case demonstrates classic features of relapsing-remitting multiple sclerosis in a young White female, which reflects the higher prevalence of MS in this demographic group in the United States. The patient\u2019s history of transient neurological deficits, optic neuritis, and characteristic MRI and CSF findings support the diagnosis. Early identification and management are crucial to minimize long-term disability."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 6,
+    "sample_index": 5,
+    "prompt": "Create a case report about a patient with Multiple Sclerosis. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "**Case Report: Multiple Sclerosis**\n\n**Patient Demographics:**  \n- Age: 32  \n- Sex: Female  \n- Race: White  \n\n**Chief Complaint:**  \nIntermittent numbness and tingling in the left arm and leg, and episodes of blurred vision over the past two months.\n\n**History of Present Illness:**  \nThe patient is a 32-year-old woman who presents with a two-month history of intermittent numbness and tingling affecting her left arm and leg. She describes the sensation as \"pins and needles\" that comes and goes, usually lasting for several hours at a time. She also reports episodes of blurred vision in her right eye, which have occurred twice in the past month, each lasting for several days and resolving spontaneously. She denies headaches, fever, or recent infections. She has noticed increased fatigue and occasional muscle weakness, particularly in the left leg, making it difficult to walk long distances.\n\n**Past Medical History:**  \n- Migraines, diagnosed at age 28, managed with sumatriptan as needed  \n- No history of hypertension, diabetes, or cardiovascular disease  \n- No previous hospitalizations or surgeries\n\n**Family History:**  \n- Mother diagnosed with rheumatoid arthritis  \n- No family history of multiple sclerosis or other neurological diseases\n\n**Social History:**  \n- Non-smoker  \n- Drinks alcohol occasionally (1-2 drinks per week)  \n- Works as a graphic designer  \n- No history of illicit drug use\n\n**Medications:**  \n- Sumatriptan 50 mg as needed for migraines  \n- Daily multivitamin\n\n**Allergies:**  \n- No known drug allergies\n\n**Review of Systems:**  \n- Constitutional: Reports fatigue  \n- Neurological: Intermittent numbness/tingling, blurred vision, left leg weakness  \n- Ophthalmologic: Blurred vision, no eye pain or redness  \n- Cardiovascular, Respiratory, Gastrointestinal, Genitourinary: Negative\n\n**Physical Examination:**  \n- Vital signs: Stable  \n- Neurological: Decreased sensation to light touch on the left arm and leg, mildly reduced strength (4/5) in the left lower extremity, hyperreflexia in the left patellar reflex, positive Babinski sign on the left  \n- Ophthalmologic: Decreased visual acuity in the right eye, afferent pupillary defect present  \n\n**Summary:**  \nThis case describes a 32-year-old White female with a two-month history of intermittent left-sided numbness and tingling, episodes of monocular blurred vision, and mild left leg weakness. Her neurological examination reveals sensory and motor deficits, as well as visual changes, raising suspicion for demyelinating disease, most likely multiple sclerosis."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 6,
+    "sample_index": 6,
+    "prompt": "Create a case report about a patient with Multiple Sclerosis. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "**Case Report: Relapsing-Remitting Multiple Sclerosis**\n\n**Demographic Information:**  \n- Age: 32  \n- Sex: Female  \n- Race: White  \n- Occupation: High school teacher  \n- Residence: Suburban area in the Midwest, United States  \n\n**Past Medical History:**  \n- No history of autoimmune disease  \n- Migraine headaches diagnosed at age 27 (well controlled with propranolol)  \n- No known drug allergies  \n- Never smoked; occasional social alcohol use  \n- Up-to-date on routine vaccinations  \n- Family history: Mother with rheumatoid arthritis; father with hypertension  \n- BMI: 24  \n\n**Presenting Complaint:**  \nThe patient presented to the neurology clinic with a 3-week history of intermittent numbness and tingling in her right arm and leg, accompanied by mild weakness. She also reported blurred vision in her left eye that lasted for several days and resolved spontaneously. She noted increased fatigue over the past month, which she initially attributed to work stress.  \n\n**Course and Management:**  \nNeurological examination revealed decreased sensation in the right upper and lower extremities, mild weakness (4+/5 strength), and hyperreflexia in the right leg. An MRI of the brain and cervical spine showed multiple demyelinating lesions, some of which enhanced with gadolinium. Oligoclonal bands were detected in the cerebrospinal fluid.  \n\nBased on the clinical presentation, imaging, and laboratory findings, the patient was diagnosed with relapsing-remitting Multiple Sclerosis (RRMS). She was started on disease-modifying therapy (dimethyl fumarate), counseled on symptom management, and referred to physical therapy for gait and balance training.  \n\n**Summary:**  \nThis case highlights a young White female presenting with relapsing-remitting Multiple Sclerosis, reflecting the higher prevalence of the condition in women of Northern European descent in the United States. Her initial symptoms were sensory disturbances and optic neuritis, common presentations in MS. Early diagnosis and initiation of therapy were emphasized to prevent further disease progression."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 6,
+    "sample_index": 7,
+    "prompt": "Create a case report about a patient with Multiple Sclerosis. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "**Case Report: Multiple Sclerosis**\n\n**Patient Demographics:**  \nAge: 34  \nSex: Female  \nRace: White  \n\n**Chief Complaint:**  \nRecurrent episodes of numbness and weakness in the right arm and blurred vision in the left eye for the past two weeks.\n\n**History of Present Illness:**  \nThe patient reports that two weeks ago, she began experiencing intermittent numbness and tingling in her right arm, which progressed to mild weakness over several days. She also noticed blurred vision in her left eye, accompanied by pain with eye movement. Symptoms partially improved after a few days, but the numbness and vision changes persist. No history of trauma, headache, fever, or recent infections.\n\n**Past Medical History:**  \n- Migraine headaches since her early 20s  \n- Seasonal allergies  \n- No prior neurological conditions  \n- No known autoimmune diseases  \n\n**Family History:**  \n- Mother with rheumatoid arthritis  \n- Father with hypertension  \n- No family history of neurological diseases\n\n**Social History:**  \n- Non-smoker  \n- Occasional alcohol use  \n- Works as a graphic designer  \n- No illicit drug use\n\n**Review of Systems:**  \n- No bowel or bladder incontinence  \n- No recent weight changes  \n- Denies palpitations, chest pain, or dyspnea\n\n**Physical Exam:**  \n- Vital signs within normal limits  \n- Neurological exam: decreased sensation to light touch in right arm, 4/5 muscle strength in right upper extremity, left afferent pupillary defect, mild dysmetria on finger-to-nose testing on right side  \n- Cranial nerves otherwise intact  \n- Gait normal\n\n**Summary:**  \nThis 34-year-old White female with a past medical history of migraines presents with subacute onset of right arm numbness and weakness and left-sided optic neuritis, raising suspicion for a demyelinating disorder. Given her age, sex, and clinical presentation, Multiple Sclerosis is highly suspected. Further workup with MRI brain and spine and lumbar puncture is planned for confirmation."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 6,
+    "sample_index": 8,
+    "prompt": "Create a case report about a patient with Multiple Sclerosis. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "**Case Report: Relapsing-Remitting Multiple Sclerosis**\n\n**Patient Initials:** A.L.  \n**Age:** 33 years  \n**Sex:** Female  \n**Race:** White  \n**Presenting Complaint:** Intermittent numbness and tingling in left arm and vision changes\n\n**History of Present Illness:**  \nA 33-year-old woman presents to the neurology clinic with a 2-month history of intermittent numbness and tingling in her left arm and hand, which lasts for several days at a time before partially resolving. One week prior to presentation, she experienced sudden onset of blurred vision and pain with movement in her right eye, which improved over several days. She reports mild fatigue but denies weakness, incontinence, or difficulty walking.\n\n**Past Medical History:**\n- Migraine headaches, diagnosed at age 27\n- Seasonal allergic rhinitis\n\n**Family History:**\n- Mother with hypothyroidism\n- No family history of neurological diseases\n\n**Social History:**\n- Non-smoker, drinks alcohol occasionally\n- Works as an elementary school teacher\n- Exercises regularly\n\n**Review of Systems:**\n- Denies fevers, weight loss, or night sweats\n- No bowel or bladder dysfunction\n\n**Medications:**\n- Loratadine 10 mg daily for allergies\n- Ibuprofen as needed for headaches\n\n**Physical Examination:**\n- Vital signs within normal limits\n- Neurological exam notable for decreased sensation to light touch in the left forearm and diminished visual acuity in the right eye; optic disc pallor seen on fundoscopy\n- Motor strength, reflexes, and gait normal\n\n**Initial Workup:**\n- MRI brain and cervical spine: Multiple T2 hyperintense lesions in periventricular and juxtacortical regions, one enhancing lesion in cervical cord\n- Lumbar puncture: Oligoclonal bands present in CSF\n\n**Diagnosis:**  \nRelapsing-Remitting Multiple Sclerosis\n\n**Summary:**  \nThis is a 33-year-old White female with no significant family history of neurological disease, presenting with intermittent sensory symptoms and optic neuritis. MRI and CSF findings support a diagnosis of relapsing-remitting multiple sclerosis."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 6,
+    "sample_index": 9,
+    "prompt": "Create a case report about a patient with Multiple Sclerosis. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "**Case Report: Multiple Sclerosis**\n\n**Patient Demographics:**  \n- Age: 34  \n- Sex: Female  \n- Race: White  \n- Insurance: Private  \n- Occupation: High school teacher\n\n**Chief Complaint:**  \nIntermittent numbness and tingling in the right arm and blurred vision in the left eye for the past six weeks.\n\n**History of Present Illness:**  \nThe patient reports the onset of intermittent numbness and tingling in her right arm approximately six weeks ago. The symptoms initially resolved spontaneously but have recurred several times, each episode lasting from several hours up to one day. Two weeks ago, she developed blurred vision in her left eye associated with mild ocular pain, especially with movement. She denies double vision, diplopia, or loss of consciousness. She reports increased fatigue over the past month but attributes it to work-related stress.\n\n**Past Medical History:**  \n- Migraine headaches, diagnosed at age 22, treated with sumatriptan as needed  \n- Seasonal allergies  \n- No history of autoimmune diseases or major illnesses\n\n**Family History:**  \n- Mother with hypothyroidism  \n- No family history of demyelinating diseases or neurological disorders\n\n**Social History:**  \n- Non-smoker  \n- Consumes alcohol socially (1-2 drinks per week)  \n- No illicit drug use  \n- Lives with spouse and two children\n\n**Review of Systems:**  \n- Denies fever, weight loss, night sweats  \n- No bowel or bladder incontinence  \n- No recent travel or infectious illnesses\n\n**Physical Examination:**  \n- Vital signs within normal limits  \n- Neurological examination notable for decreased sensation to light touch in right upper extremity, mild left optic disc pallor on fundoscopy, and a positive Lhermitte\u2019s sign  \n- No motor weakness or cerebellar deficits\n\n**Summary:**  \nThis 34-year-old White female presents with intermittent sensory symptoms and optic neuritis, concerning for a demyelinating process such as multiple sclerosis. Her past medical history is notable for migraines and allergies, without prior autoimmune disease. Family history is non-contributory for demyelinating conditions. Further workup, including MRI of the brain and spine with and without contrast and lumbar puncture, is indicated for definitive diagnosis."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 7,
+    "sample_index": 0,
+    "prompt": "Come up with a fake medical one-liner about a patient with Multiple Sclerosis. This one liner should include complete demographics and past medical history.",
+    "response": "45-year-old White female with a past medical history of hypertension and migraines presents with progressive lower extremity weakness and intermittent visual disturbances, found to have Multiple Sclerosis."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 7,
+    "sample_index": 1,
+    "prompt": "Come up with a fake medical one-liner about a patient with Multiple Sclerosis. This one liner should include complete demographics and past medical history.",
+    "response": "42-year-old White female with a past medical history of migraine and hypothyroidism presents with new onset right leg weakness and blurry vision, found to have Multiple Sclerosis."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 7,
+    "sample_index": 2,
+    "prompt": "Come up with a fake medical one-liner about a patient with Multiple Sclerosis. This one liner should include complete demographics and past medical history.",
+    "response": "38-year-old White female with a past medical history of migraine and hypothyroidism presents with new-onset left lower extremity weakness and numbness, found to have Multiple Sclerosis on MRI."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 7,
+    "sample_index": 3,
+    "prompt": "Come up with a fake medical one-liner about a patient with Multiple Sclerosis. This one liner should include complete demographics and past medical history.",
+    "response": "45-year-old White female with a history of hypertension and migraine presents with progressive lower extremity weakness and urinary urgency, found to have relapsing-remitting Multiple Sclerosis."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 7,
+    "sample_index": 4,
+    "prompt": "Come up with a fake medical one-liner about a patient with Multiple Sclerosis. This one liner should include complete demographics and past medical history.",
+    "response": "45-year-old female, Race: White, with a history of migraine and hypothyroidism, presents with progressive lower extremity weakness and intermittent visual disturbances, found to have Multiple Sclerosis."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 7,
+    "sample_index": 5,
+    "prompt": "Come up with a fake medical one-liner about a patient with Multiple Sclerosis. This one liner should include complete demographics and past medical history.",
+    "response": "35-year-old female, Race: White, with a past medical history of migraine and hypothyroidism, presents with new-onset right lower extremity weakness and intermittent visual disturbances."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 7,
+    "sample_index": 6,
+    "prompt": "Come up with a fake medical one-liner about a patient with Multiple Sclerosis. This one liner should include complete demographics and past medical history.",
+    "response": "45-year-old female, Race: White, with a past medical history of hypertension and migraine, presents with progressive lower extremity weakness and episodes of blurred vision, found to have Multiple Sclerosis."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 7,
+    "sample_index": 7,
+    "prompt": "Come up with a fake medical one-liner about a patient with Multiple Sclerosis. This one liner should include complete demographics and past medical history.",
+    "response": "32-year-old female, Race: White, with a history of migraine headaches and hypothyroidism, presents with progressive lower extremity weakness and intermittent visual disturbances, found to have Multiple Sclerosis."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 7,
+    "sample_index": 8,
+    "prompt": "Come up with a fake medical one-liner about a patient with Multiple Sclerosis. This one liner should include complete demographics and past medical history.",
+    "response": "45-year-old female, Race: White, with a history of hypertension and migraine, presents with new onset right-sided weakness and intermittent visual disturbances, found to have relapsing-remitting Multiple Sclerosis."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 7,
+    "sample_index": 9,
+    "prompt": "Come up with a fake medical one-liner about a patient with Multiple Sclerosis. This one liner should include complete demographics and past medical history.",
+    "response": "45-year-old White female with a history of hypertension and migraine headaches presents with progressive numbness and weakness in her right leg, recently diagnosed with multiple sclerosis."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 8,
+    "sample_index": 0,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with Multiple Sclerosis. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "**Case Presentation:**\n\n**Name:** Sarah K.  \n**Age:** 34  \n**Sex:** Female  \n**Race:** White  \n\n**Presenting Complaint:**  \nSarah presents with intermittent episodes of blurred vision in her right eye, numbness and tingling in her left arm and leg, and episodes of fatigue over the past 6 months. She reports two separate episodes of neurological symptoms, each lasting several days and partially resolving.\n\n**History of Present Illness:**  \nThe first episode occurred 6 months ago with blurred vision (optic neuritis) in the right eye, which improved spontaneously over 2 weeks. The second episode, 2 months ago, involved numbness and tingling in the left arm and leg, associated with mild weakness and imbalance. Fatigue has been persistent but worsens during episodes.\n\n**Past Medical History:**  \n- Mild asthma, well controlled  \n- No prior history of autoimmune disease  \n- No prior hospitalizations or surgeries\n\n**Family History:**  \n- Mother: Diagnosed with rheumatoid arthritis  \n- Father: Hypertension  \n- No known family history of Multiple Sclerosis\n\n**Social History:**  \n- Non-smoker  \n- Drinks alcohol socially  \n- Works as a graphic designer  \n- No recreational drug use\n\n**Medications:**  \n- Albuterol inhaler as needed\n\n**Physical Examination:**  \n- Vital signs stable  \n- Visual acuity decreased in the right eye  \n- Decreased sensation to light touch in left upper and lower extremities  \n- Mild weakness (4/5) in left upper and lower extremities  \n- Hyperreflexia in left arm and leg  \n- Gait: Mild unsteadiness\n\n**Pertinent Laboratory/Imaging Findings:**  \n- MRI brain and cervical spine: Multiple periventricular and juxtacortical white matter lesions, some enhancing  \n- CSF: Oligoclonal bands present\n\n**Summary:**  \nSarah K. is a 34-year-old White female with a relapsing course of neurological symptoms (optic neuritis, sensory/motor deficits) and MRI findings consistent with Multiple Sclerosis, with a family history of autoimmune disease."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 8,
+    "sample_index": 1,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with Multiple Sclerosis. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "**Case Presentation:**\n\n**Name:** Sarah M.  \n**Age:** 34  \n**Sex:** Female  \n**Race:** White  \n**Presenting Complaint:** Intermittent numbness and tingling in the right arm and left leg, along with occasional blurry vision over the past 3 months.\n\n**History of Present Illness:**  \nSarah reports that three months ago, she began experiencing episodes of numbness and tingling in her right arm, which would last for several hours before resolving. More recently, she has noticed similar episodes in her left leg. She also describes episodes of blurry vision in her right eye, lasting for a few days and improving spontaneously. She denies headaches, recent trauma, or fever.\n\n**Past Medical History:**  \n- Migraine headaches (diagnosed at age 28, managed with lifestyle modification and occasional acetaminophen)  \n- No history of hypertension, diabetes, or autoimmune disease  \n\n**Medications:**  \n- Acetaminophen as needed for headaches  \n- No current prescription medications\n\n**Allergies:**  \n- No known drug allergies\n\n**Family History:**  \n- Mother: Diagnosed with rheumatoid arthritis  \n- Father: Hypertension  \n- No family history of multiple sclerosis or other neurologic disorders\n\n**Social History:**  \n- Occupation: High school teacher  \n- Non-smoker  \n- Drinks alcohol rarely (1\u20132 drinks/month)  \n- No illicit drug use  \n- Lives with her husband and two children\n\n**Review of Systems:**  \n- Negative for bowel or bladder dysfunction  \n- Negative for fever, weight loss, or night sweats  \n- No recent infections\n\n**Physical Examination:**  \n- Neurological exam reveals mild decrease in strength (4+/5) in the right upper extremity, with decreased sensation to light touch in the left lower extremity.  \n- Visual acuity slightly decreased in right eye compared to left.\n\n**Summary:**  \nSarah M. is a 34-year-old White female presenting with intermittent sensory disturbances and episodes of visual blurring, with exam findings suggestive of a demyelinating process. Past history is notable for migraine; family history includes autoimmune disease. The clinical presentation and exam are consistent with multiple sclerosis."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 8,
+    "sample_index": 2,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with Multiple Sclerosis. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "**Case Presentation:**\n\n**Patient Name:** Ms. Jane Thompson  \n**Age:** 34 years  \n**Sex:** Female  \n**Race:** White  \n**Chief Complaint:** Intermittent blurry vision and numbness in right arm\n\n**History of Present Illness:**  \nMs. Thompson presents with a one-month history of intermittent blurry vision in her left eye, described as a \"gray area\" in the center of her visual field, which lasted for several days and then improved. She also notes episodes of numbness and tingling in her right arm and hand over the past two weeks. She describes mild fatigue and difficulty with balance when walking. There is no history of trauma, fever, or recent illness.\n\n**Past Medical History:**  \n- Migraine headaches (diagnosed age 27)  \n- Mild depression, treated with sertraline\n\n**Past Surgical History:**  \n- None\n\n**Medications:**  \n- Sertraline 50 mg daily  \n- Occasional ibuprofen for headaches\n\n**Allergies:**  \n- No known drug allergies\n\n**Family History:**  \n- Mother with rheumatoid arthritis  \n- Father healthy  \n- No known family history of neurological diseases\n\n**Social History:**  \n- Works as a high school teacher  \n- Non-smoker  \n- Drinks alcohol socially (1-2 drinks/week)  \n- No illicit drug use  \n- Lives with partner, no children\n\n**Review of Systems:**  \n- Denies fever, weight loss, or night sweats  \n- No bowel or bladder dysfunction\n\n**Physical Exam (pertinent findings):**  \n- Visual acuity mildly decreased in left eye  \n- Decreased sensation to light touch in right upper extremity  \n- Mildly unsteady gait on tandem walking\n\n**Assessment:**  \n34-year-old White female presenting with subacute visual disturbance, right arm numbness, and mild gait instability. Examination and clinical history are suggestive of a demyelinating process. MRI brain and spine ordered, showing periventricular white matter lesions consistent with Multiple Sclerosis.\n\n**Plan:**  \n- Neurology referral  \n- Initiation of disease-modifying therapy  \n- Symptomatic management and physical therapy  \n- Close outpatient follow-up"
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 8,
+    "sample_index": 3,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with Multiple Sclerosis. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "**Case Presentation:**\n\n**Patient:**  \nName: Jane M.  \nAge: 34  \nSex: Female  \nRace: White  \n\n**Chief Complaint:**  \nIntermittent numbness and tingling in the right arm and episodes of blurred vision over the past 3 months.\n\n**History of Present Illness:**  \nThe patient reports experiencing intermittent numbness and tingling in her right arm, which began approximately three months ago. She also describes two episodes of blurred vision in her left eye, each lasting several days and resolving spontaneously. She endorses mild fatigue but denies headaches, seizures, or loss of consciousness. No recent infections or travel.\n\n**Past Medical History:**  \n- Migraine headaches, well controlled with sumatriptan  \n- No history of autoimmune disorders\n\n**Family History:**  \n- Mother with rheumatoid arthritis  \n- No family history of Multiple Sclerosis or other demyelinating diseases\n\n**Social History:**  \n- Non-smoker  \n- Drinks alcohol socially  \n- Works as a schoolteacher  \n- No illicit drug use\n\n**Review of Systems:**  \n- Negative for fever, night sweats, or weight loss  \n- No bowel or bladder incontinence\n\n**Physical Exam:**  \n- Neurological exam reveals mild decreased sensation to light touch in the right forearm and reduced visual acuity in the left eye.\n\n**Summary:**  \nA 34-year-old White female with a history of migraine presents with intermittent right arm numbness and episodes of blurred vision. Family history is notable for autoimmune disease (rheumatoid arthritis in mother). Physical exam and symptom history are concerning for demyelinating disease; MRI brain and spine ordered, and lumbar puncture considered to further evaluate for Multiple Sclerosis."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 8,
+    "sample_index": 4,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with Multiple Sclerosis. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "**Case Presentation:**\n\n**Patient:** Sarah J., a 32-year-old female  \n**Race:** White  \n**Sex:** Female  \n**Age:** 32  \n**Presenting Complaint:** Sarah presents with intermittent blurry vision in her right eye, progressive fatigue, and numbness in her left leg for the past three weeks.\n\n**History of Present Illness:**  \nThe patient reports that approximately three weeks ago, she began experiencing numbness and tingling in her left leg, which progressed to mild weakness. A few days later, she noticed episodes of blurry vision in her right eye, lasting several hours at a time and sometimes accompanied by eye pain with movement. She also describes persistent fatigue that is not relieved by rest. She denies fever, recent infections, or trauma.\n\n**Past Medical History:**  \n- No known chronic medical conditions  \n- Two episodes of \u201cpins and needles\u201d sensation in her arms over the past two years, which resolved spontaneously and were not evaluated\n\n**Medications:**  \n- Occasional acetaminophen for headaches\n\n**Family History:**  \n- Mother diagnosed with rheumatoid arthritis  \n- No family history of neurologic disorders\n\n**Social History:**  \n- Non-smoker, does not use illicit drugs  \n- Drinks alcohol socially (1-2 drinks/week)  \n- Works as a high school teacher  \n- No recent travel\n\n**Review of Systems:**  \n- Positive for fatigue, visual changes, and limb numbness/weakness as described  \n- Denies fever, weight loss, or night sweats  \n- No bowel or bladder dysfunction\n\n**Physical Exam:**  \n- Vital signs stable  \n- Neurologic exam shows decreased sensation to light touch and pinprick over the left lower extremity, mild weakness (4/5) in the left leg, and right-sided optic disc pallor on fundoscopy  \n- Reflexes brisk in left lower extremity\n\n**Assessment:**  \n32-year-old woman with subacute onset of neurologic symptoms including optic neuritis and sensory/motor deficits, with a history suggestive of prior demyelinating events, consistent with a diagnosis of Multiple Sclerosis."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 8,
+    "sample_index": 5,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with Multiple Sclerosis. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "**Case Presentation: Multiple Sclerosis**\n\n**Patient:**  \nName: Sarah M.  \nAge: 34  \nSex: Female  \nRace: White  \n\n**Chief Complaint:**  \nIntermittent numbness and tingling in the right arm and blurred vision for two weeks.\n\n**History of Present Illness:**  \nSarah M. reports a two-week history of numbness and tingling in her right arm, occasionally involving her right leg. She also describes blurred vision in her left eye, which started three days ago and is associated with mild pain during eye movement. She denies recent trauma, fever, or infection. She reports increased fatigue over the past few months.\n\n**Past Medical History:**  \n- Migraine headaches (diagnosed at age 28)  \n- No history of hypertension, diabetes, or cardiovascular disease  \n- No prior neurological conditions  \n\n**Family History:**  \n- Mother diagnosed with Multiple Sclerosis at age 45  \n- Father with hypertension  \n- No family history of autoimmune thyroid disease or other autoimmune conditions  \n\n**Social History:**  \n- Works as a high school teacher  \n- Non-smoker  \n- Drinks alcohol socially (1-2 drinks/week)  \n- No illicit drug use  \n\n**Review of Systems:**  \n- Positive for intermittent urinary urgency  \n- Denies bowel incontinence, weakness, or double vision  \n- No unintentional weight loss, night sweats, or recent infections  \n\n**Physical Exam:**  \n- Alert and oriented  \n- Mild decreased sensation to pinprick in right forearm  \n- Visual acuity decreased in the left eye  \n- Mildly increased deep tendon reflexes in lower extremities  \n\n**Summary:**  \nSarah M. is a 34-year-old White female with a family history of Multiple Sclerosis presenting with new-onset sensory disturbances and optic neuritis, in the setting of intermittent urinary urgency and fatigue. MRI brain and cervical spine revealed multiple demyelinating lesions consistent with a diagnosis of Multiple Sclerosis."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 8,
+    "sample_index": 6,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with Multiple Sclerosis. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "**Case Presentation:**\n\n**Patient:**  \nName: Jennifer M.  \nAge: 34  \nSex: Female  \nRace: White  \n\n**Chief Complaint:**  \nIntermittent numbness and tingling in her right arm and blurred vision in her left eye for the past two weeks.\n\n**History of Present Illness:**  \nJennifer is a 34-year-old woman who presents with a two-week history of numbness and tingling in her right arm, accompanied by intermittent blurred vision in her left eye. She reports that the symptoms appeared suddenly and have fluctuated in intensity. She denies any recent trauma, fever, or headache. She also reports feeling more fatigued than usual for the past month.\n\n**Past Medical History:**  \n- Migraine headaches, diagnosed in her 20s  \n- No history of hypertension, diabetes, or autoimmune disorders  \n\n**Family History:**  \n- Mother diagnosed with rheumatoid arthritis  \n- Maternal aunt with Multiple Sclerosis  \n- Father healthy, no chronic illnesses  \n\n**Social History:**  \n- Non-smoker  \n- Drinks alcohol socially (1-2 drinks/week)  \n- Works as a project manager  \n- No illicit drug use  \n\n**Medications:**  \n- Occasional ibuprofen for headaches  \n\n**Allergies:**  \n- No known drug allergies  \n\n**Review of Systems:**  \n- No bowel or bladder disturbances  \n- No recent infections or vaccinations  \n- No weight loss or night sweats  \n\n**Physical Examination:**  \n- Vital signs stable  \n- Neurological exam notable for decreased sensation in the right upper extremity and mild weakness (4/5) in right arm  \n- Visual acuity decreased in left eye; afferent pupillary defect present  \n\n**Summary:**  \nJennifer is a 34-year-old White female with a family history of autoimmune disease who presents with neurological deficits (right upper extremity numbness/weakness, left eye blurred vision/afferent pupillary defect), and a clinical history and risk factors consistent with a diagnosis of Multiple Sclerosis."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 8,
+    "sample_index": 7,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with Multiple Sclerosis. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "**Case Presentation:**\n\n**Patient:**  \nName: Sarah M.  \nAge: 34  \nSex: Female  \nRace: White  \n\n**Chief Complaint:**  \nIntermittent blurry vision and numbness in the right arm for 2 weeks.\n\n**History of Present Illness:**  \nSarah is a 34-year-old woman presenting with two weeks of intermittent blurry vision in the left eye and numbness/tingling in her right arm and hand. She reports occasional fatigue and difficulty with balance over the past several months. She denies fever, recent infections, or trauma. No bowel or bladder dysfunction.\n\n**Past Medical History:**  \n- Migraine headaches (diagnosed 5 years ago, well-managed)\n- No history of autoimmune disease or significant illnesses\n\n**Family History:**  \n- Mother with hypothyroidism\n- Maternal aunt diagnosed with Multiple Sclerosis at age 42\n\n**Social History:**  \n- Non-smoker\n- Rare alcohol use\n- Works as a high school teacher\n- Lives with spouse and two children\n\n**Review of Systems:**  \n- No recent weight loss or night sweats\n- No chest pain, palpitations, or shortness of breath\n- No joint pain or rashes\n\n**Physical Examination:**  \n- Vital signs stable  \n- Neurological exam: decreased sensation to light touch in right arm, mild weakness (4+/5) in right hand grip, hyperreflexia in lower extremities, positive Lhermitte's sign  \n- Visual acuity decreased in left eye (20/60), afferent pupillary defect present\n\n**Pertinent Laboratory/Imaging:**  \n- MRI brain and cervical spine: multiple periventricular and juxtacortical lesions, one enhancing cervical lesion\n- CSF analysis: oligoclonal bands present\n\n**Diagnosis:**  \nMultiple Sclerosis (relapsing-remitting type)\n\n---\n\n**Summary:**  \nThis is a 34-year-old White female with a family history of Multiple Sclerosis who presents with clinical and radiologic findings consistent with relapsing-remitting MS."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 8,
+    "sample_index": 8,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with Multiple Sclerosis. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "**Case Presentation:**\n\n**Patient:**  \nName: Sarah T.  \nAge: 34  \nSex: Female  \nRace: White  \n\n**Chief Complaint:**  \nIntermittent numbness and tingling in the right arm and blurred vision for 2 weeks.\n\n**History of Present Illness:**  \nSarah is a 34-year-old woman who presents with a 2-week history of intermittent right arm numbness and tingling, which occasionally extends to her right leg. She also reports episodes of blurred vision in her left eye that last for several hours and resolve spontaneously. She denies recent trauma, fever, or new medications. She reports mild fatigue over the past month.\n\n**Past Medical History:**  \n- Migraine headaches, well controlled with sumatriptan  \n- No history of hypertension, diabetes, or heart disease  \n\n**Family History:**  \n- Mother diagnosed with Multiple Sclerosis at age 42  \n- Father with hypertension  \n- No family history of autoimmune disorders or cancer  \n\n**Social History:**  \n- Non-smoker  \n- Occasional alcohol use  \n- Works as a graphic designer  \n- No illicit drug use  \n\n**Review of Systems:**  \nNegative for bowel or bladder dysfunction, weakness, or gait disturbance. No recent infections.\n\n**Physical Examination:**  \n- Alert and oriented  \n- Cranial nerves: Left optic neuritis with decreased visual acuity  \n- Motor: Full strength in all extremities  \n- Sensation: Decreased sensation to light touch in right arm  \n- Reflexes: Mildly increased deep tendon reflexes in lower extremities  \n- Gait: Normal  \n\n**Pertinent Labs/Imaging:**  \n- MRI brain and cervical spine: Multiple hyperintense lesions in periventricular and juxtacortical regions; one enhancing cervical spinal cord lesion  \n- CSF analysis: Oligoclonal bands present  \n\n**Assessment:**  \n34-year-old White female with family history of MS, presenting with relapsing neurological symptoms and MRI/CSF findings consistent with Multiple Sclerosis (relapsing-remitting type)."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 8,
+    "sample_index": 9,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with Multiple Sclerosis. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "**Case Presentation:**\n\nA 34-year-old woman presents to the neurology clinic with complaints of intermittent numbness and tingling in her right arm and left leg for the past 6 months. She also reports occasional blurred vision and fatigue. Her symptoms have occurred in episodes, each lasting several days and then partially resolving. Most recently, she experienced difficulty with balance and mild urinary urgency.\n\nDemographics:  \n- Age: 34  \n- Sex: Female  \n- Race: White  \n\nPast Medical History:  \n- Migraine headaches (diagnosed at age 27)  \n- No history of hypertension, diabetes, or cardiac disease  \n\nFamily History:  \n- Mother with hypothyroidism  \n- Maternal aunt diagnosed with Multiple Sclerosis  \n\nSocial History:  \n- Works as a school teacher  \n- Non-smoker, drinks alcohol socially  \n- No illicit drug use  \n\nPhysical Exam:  \n- Decreased sensation to light touch in the right forearm and left calf  \n- Mild spasticity noted in left lower extremity  \n- Positive Lhermitte\u2019s sign  \n- Visual acuity decreased in right eye (20/40)  \n\nPertinent Labs/Imaging:  \n- MRI brain and cervical spine: Multiple periventricular and spinal cord lesions, some enhancing with gadolinium  \n- CSF analysis: Oligoclonal bands present  \n\nSummary:  \nThis is a 34-year-old White woman with a family history of MS presenting with relapsing neurological symptoms and MRI/CSF findings consistent with a diagnosis of relapsing-remitting Multiple Sclerosis."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 9,
+    "sample_index": 0,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on Multiple Sclerosis. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "**Case Report: Multiple Sclerosis**\n\n**Patient Name:** Ms. Laura K.  \n**Age:** 32  \n**Sex:** Female  \n**Race:** White  \n\n**Past Medical History:**  \n- Migraine (diagnosed at age 28)  \n- No history of hypertension, diabetes, or heart disease  \n- No family history of autoimmune disease  \n\n**Key Complaints:**  \nMs. K presents with intermittent numbness and tingling in her right arm and leg for the past three weeks. She also reports episodes of blurred vision in her left eye and increased fatigue over the last two months. She denies recent infections, fevers, or trauma. The symptoms have gradually worsened, and she notes difficulty with balance when walking.  \n\n**Social History:**  \n- Works as a graphic designer  \n- Non-smoker; drinks alcohol socially  \n- No illicit drug use  \n- Lives with her partner; no children  \n\n**Review of Systems:**  \n- Positive for occasional urinary urgency  \n- Negative for chest pain, shortness of breath, or gastrointestinal complaints  \n\n**Physical Exam (summary):**  \n- Decreased sensation to light touch in right arm and leg  \n- Mild weakness (4/5) in right lower extremity  \n- Positive left-sided optic neuritis on fundoscopic exam  \n- Unsteady gait with mild ataxia"
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 9,
+    "sample_index": 1,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on Multiple Sclerosis. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "**Case Report: Multiple Sclerosis**\n\n**Patient Demographics:**  \nAge: 32  \nSex: Female  \nRace: White  \n\n**Past Medical History:**  \n- No significant past medical history  \n- No family history of neurological disorders  \n- Non-smoker, drinks alcohol socially  \n\n**Chief Complaint:**  \nIntermittent episodes of blurred vision in the right eye and numbness in her left leg for the past 3 weeks.\n\n**History of Present Illness:**  \nThe patient reports that three weeks ago she noticed sudden blurred vision in her right eye, which lasted for several days before partially improving. Since then, she has developed intermittent tingling and numbness in her left leg, occasionally associated with mild weakness. She denies recent trauma, fever, or infections. She reports increased fatigue but no bowel or bladder changes.\n\n**Summary:**  \nA 32-year-old White female with no significant past medical history presents with subacute onset of right eye visual disturbance and left leg sensory changes, raising suspicion for demyelinating disease such as multiple sclerosis."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 9,
+    "sample_index": 2,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on Multiple Sclerosis. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "Patient Case: Multiple Sclerosis\n\nAge: 29  \nSex: Female  \nRace: White  \nPast Medical History: Mild asthma (well-controlled), no prior neurologic disorders, no significant family history of autoimmune diseases.  \nKey Complaints:  \nThe patient reports intermittent episodes of blurred vision in her right eye over the past 2 weeks, associated with pain on eye movement. She also describes numbness and tingling in her left leg and increasing fatigue. Symptoms have gradually worsened, and she notes difficulty maintaining her balance when walking. No recent infections or trauma."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 9,
+    "sample_index": 3,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on Multiple Sclerosis. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "**Case Report: Multiple Sclerosis**\n\n**Patient Demographics:**  \nAge: 29  \nSex: Female  \nRace: White  \n\n**Past Medical History:**  \n- No significant past medical history  \n- No known autoimmune disorders  \n- Non-smoker  \n- No family history of neurological diseases  \n\n**Key Complaints:**  \nThe patient presents with a 3-week history of intermittent numbness and tingling in her right arm and leg. She also reports recent onset of blurry vision in her left eye, described as a \"gray patch\" in the center of her vision. She experiences fatigue, which has worsened over the past month. No history of trauma or recent illness.  \n\n**Additional Information:**  \n- No bowel or bladder dysfunction  \n- No recent travel  \n- No constitutional symptoms (fever, weight loss)  \n\n**Summary:**  \nA 29-year-old White female with no significant past medical history presents with subacute onset of right-sided sensory disturbances and unilateral visual changes, accompanied by progressive fatigue."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 9,
+    "sample_index": 4,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on Multiple Sclerosis. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "**Case Report: Multiple Sclerosis**\n\n**Patient Demographics:**  \nAge: 32  \nSex: Female  \nRace: White  \n\n**Past Medical History:**  \n- No significant past medical history  \n- No prior hospitalizations or surgeries  \n- Up-to-date on vaccinations  \n- Family history: Mother with rheumatoid arthritis  \n\n**Key Complaints:**  \nThe patient presents with intermittent episodes of numbness and tingling in her right arm and leg for the past three weeks. She reports occasional blurry vision in her left eye and increasing fatigue. She states that symptoms seem to worsen after hot showers and improve with rest. No recent infections or trauma.\n\n**Physical Exam Findings (brief):**  \n- Decreased sensation to light touch in right upper and lower extremity  \n- Mild weakness (4/5) in right upper extremity  \n- Visual acuity reduced in left eye  \n- Hyperreflexia in lower extremities\n\n**Summary:**  \nA 32-year-old White female presents with subacute onset of right-sided numbness and weakness, left eye visual changes, and fatigue. Past medical history is unremarkable except for a family history of autoimmune disease. Symptoms suggest a possible demyelinating process such as Multiple Sclerosis."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 9,
+    "sample_index": 5,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on Multiple Sclerosis. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "**Case Report: Multiple Sclerosis**\n\n**Patient Demographics:**  \nAge: 29  \nSex: Female  \nRace: White  \n\n**Past Medical History:**  \n- Migraine headaches (diagnosed age 24)  \n- No significant family history of neurological disease  \n- No history of hypertension, diabetes, or cardiovascular disease  \n\n**Key Complaints:**  \nThe patient presents with a 3-week history of intermittent blurry vision in the right eye, described as a \"gray patch\" in the center of her vision. She also reports new onset of tingling and numbness in her left leg and foot, which started one week ago. She notes increased fatigue over the past month and occasional unsteadiness while walking. No bowel or bladder incontinence is reported.  \n\n**Summary:**  \nA 29-year-old White female with a history of migraines presents with subacute right eye visual disturbance and new left leg paresthesia and weakness, as well as fatigue and unsteadiness."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 9,
+    "sample_index": 6,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on Multiple Sclerosis. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "Patient Case: Multiple Sclerosis\n\nAge: 32  \nSex: Female  \nRace: White  \n\nPast Medical History:  \n- Migraine headaches (diagnosed at age 27)  \n- No history of hypertension, diabetes, or heart disease  \n- No known autoimmune disorders in family  \n\nChief Complaint:  \nThe patient presents with intermittent numbness and tingling in her right arm and leg for the past three weeks. She also reports episodes of blurred vision in her left eye and increased fatigue over the past month. She denies fever, recent infections, or trauma.  \n\nKey Points:  \n- Symptoms are episodic and partially resolve between episodes  \n- Neurological exam reveals decreased sensation to light touch in the right upper and lower extremities and mild weakness (4/5 strength) in the right leg  \n- No signs of infection or metabolic disturbance"
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 9,
+    "sample_index": 7,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on Multiple Sclerosis. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "Patient Case:\n\nName: Emily J.  \nAge: 32  \nSex: Female  \nRace: White  \nPast Medical History: Mild asthma (diagnosed in adolescence), no previous neurologic conditions, no significant family history of autoimmune diseases.  \nKey Complaints: Over the past 3 weeks, Emily has experienced intermittent numbness and tingling in her right arm and leg. She reports occasional blurry vision in her right eye and increased fatigue. She denies recent infections or travel. Her symptoms have been progressively worsening, causing difficulties with daily activities."
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 9,
+    "sample_index": 8,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on Multiple Sclerosis. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "**Case Report: Multiple Sclerosis**\n\n**Patient Demographics:**  \nAge: 32  \nSex: Female  \nRace: White  \n\n**Past Medical History:**  \n- No significant past medical history  \n- No history of autoimmune diseases  \n- No recent infections or trauma  \n- Family history negative for neurological disorders  \n\n**Chief Complaints:**  \nThe patient presents with intermittent episodes of numbness and tingling in her right arm and leg over the past 3 months. She also reports occasional blurred vision in her left eye, which lasted for several days and resolved spontaneously. She describes mild fatigue and difficulty with balance, noting two recent falls. No bowel or bladder incontinence is reported.\n\n**Key Findings:**  \n- Neurological exam reveals decreased sensation to light touch in the right upper and lower extremities  \n- Mild weakness (4/5) in right hand grip  \n- Positive Lhermitte\u2019s sign  \n- Visual acuity reduced in the left eye compared to right  \n- MRI brain and spinal cord ordered for further evaluation"
+  },
+  {
+    "condition": "Multiple Sclerosis",
+    "prompt_index": 9,
+    "sample_index": 9,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on Multiple Sclerosis. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "**Case Report: Multiple Sclerosis**\n\n**Demographics:**  \nAge: 32  \nSex: Female  \nRace: White  \n\n**Past Medical History:**  \n- Migraine headaches (diagnosed age 28)  \n- No history of hypertension, diabetes, or autoimmune disorders  \n- No significant family history of neurologic disease  \n\n**Chief Complaints:**  \nThe patient presents with a 3-week history of intermittent blurry vision in her right eye, described as a gray area in the center of her vision. She also reports new onset of numbness and tingling in her left arm and hand, as well as increasing fatigue. She denies fever, trauma, or recent illness. No bowel or bladder incontinence is reported.  \n\n**Key Findings:**  \n- Decreased visual acuity in the right eye  \n- Decreased sensation to light touch in the left upper extremity  \n- Mild unsteadiness on tandem gait testing"
+  }
+]

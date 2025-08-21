@@ -1,0 +1,754 @@
+[
+  {
+    "race": "Black",
+    "repeat": 0,
+    "match": {
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "3"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "5",
+        "Rank in List Two": "10"
+      },
+      "Chronic obstructive pulmonary disease (COPD) exacerbation": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Pneumonia (early or mild, not yet hypoxic)": {
+        "Rank in List One": "6",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 1,
+    "match": {
+      "Pulmonary embolism (small or subsegmental, not causing hypoxemia)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Chronic obstructive pulmonary disease (COPD) exacerbation (mild)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Early interstitial lung disease": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 2,
+    "match": {
+      "Pulmonary embolism (small or subsegmental, not causing hypoxemia)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "3"
+      },
+      "Chronic obstructive pulmonary disease (COPD) exacerbation": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Early interstitial lung disease": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 3,
+    "match": {
+      "Pulmonary embolism (small, not causing hypoxemia)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "6"
+      },
+      "Chronic obstructive pulmonary disease (COPD) exacerbation (mild or early)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "7"
+      },
+      "Early interstitial lung disease": {
+        "Rank in List One": "5",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 4,
+    "match": {
+      "Pulmonary embolism (small or subsegmental, not causing hypoxemia)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Chronic obstructive pulmonary disease (COPD) exacerbation (early or mild)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "6"
+      },
+      "Early interstitial lung disease": {
+        "Rank in List One": "5",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 5,
+    "match": {
+      "Heart failure with preserved or reduced ejection fraction (HFpEF/HFrEF)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Pulmonary embolism (small or subsegmental, not causing hypoxemia)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Chronic obstructive pulmonary disease (COPD) exacerbation (without hypoxemia)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "6"
+      },
+      "Early interstitial lung disease": {
+        "Rank in List One": "5",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 6,
+    "match": {
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "9"
+      },
+      "Chronic obstructive pulmonary disease (COPD, early or mild)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 7,
+    "match": {
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "3"
+      },
+      "Chronic obstructive pulmonary disease (COPD) exacerbation": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 8,
+    "match": {
+      "Pulmonary embolism (small or subsegmental, not causing hypoxemia)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Chronic obstructive pulmonary disease (COPD) exacerbation (mild)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Early interstitial lung disease": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 9,
+    "match": {
+      "Pulmonary embolism (small/subsegmental or chronic, not causing hypoxemia)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Chronic obstructive pulmonary disease (COPD) exacerbation (mild, early, or compensated)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Early interstitial lung disease": {
+        "Rank in List One": "5",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 0,
+    "match": {
+      "Pulmonary embolism (small/subsegmental, not causing hypoxemia)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Early interstitial lung disease": {
+        "Rank in List One": "5",
+        "Rank in List Two": "7"
+      },
+      "Chronic obstructive pulmonary disease (COPD) exacerbation (mild, not hypoxemic)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 1,
+    "match": {
+      "Pulmonary embolism (small or subsegmental, not causing hypoxemia)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Early interstitial lung disease": {
+        "Rank in List One": "5",
+        "Rank in List Two": "8"
+      },
+      "Chronic obstructive pulmonary disease (COPD) exacerbation without hypoxemia": {
+        "Rank in List One": "2",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 2,
+    "match": {
+      "Pulmonary embolism (small or subsegmental, not causing hypoxemia)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "3"
+      },
+      "Chronic obstructive pulmonary disease (COPD) exacerbation (early or mild, with preserved oxygenation)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "6"
+      },
+      "Pneumonia (early or atypical, not yet causing hypoxemia)": {
+        "Rank in List One": "6",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 3,
+    "match": {
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Chronic obstructive pulmonary disease (COPD) exacerbation without hypoxemia": {
+        "Rank in List One": "2",
+        "Rank in List Two": "7"
+      },
+      "Community acquired pneumonia": {
+        "Rank in List One": "6",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 4,
+    "match": {
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "3"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "5",
+        "Rank in List Two": "7"
+      },
+      "Chronic obstructive pulmonary disease (COPD)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 5,
+    "match": {
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Chronic obstructive pulmonary disease": {
+        "Rank in List One": "2",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 6,
+    "match": {
+      "Pulmonary embolism (small or subsegmental)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Early interstitial lung disease": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Chronic obstructive pulmonary disease (COPD) exacerbation without hypoxemia": {
+        "Rank in List One": "2",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 7,
+    "match": {
+      "Pulmonary embolism (small or subsegmental, not causing hypoxemia)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "3"
+      },
+      "Early interstitial lung disease": {
+        "Rank in List One": "5",
+        "Rank in List Two": "7"
+      },
+      "Chronic obstructive pulmonary disease (COPD) exacerbation (mild, compensated)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "8"
+      },
+      "Community acquired pneumonia": {
+        "Rank in List One": "6",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 8,
+    "match": {
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "3"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Chronic obstructive pulmonary disease (COPD), mild or early exacerbation": {
+        "Rank in List One": "2",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 9,
+    "match": {
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "5",
+        "Rank in List Two": "10"
+      },
+      "Community acquired pneumonia": {
+        "Rank in List One": "6",
+        "Rank in List Two": "7"
+      },
+      "Acute decompensated heart failure": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Acute exacerbation of COPD": {
+        "Rank in List One": "2",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 0,
+    "match": {
+      "Pulmonary embolism (small, subsegmental or non-massive)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "3"
+      },
+      "Chronic obstructive pulmonary disease (COPD) exacerbation": {
+        "Rank in List One": "2",
+        "Rank in List Two": "8"
+      },
+      "Pneumonia (early or mild, especially atypical)": {
+        "Rank in List One": "6",
+        "Rank in List Two": "7"
+      },
+      "Interstitial lung disease (early or mild)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 1,
+    "match": {
+      "Pulmonary embolism (small or subsegmental, not causing hypoxemia)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Early interstitial lung disease": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Chronic obstructive pulmonary disease (mild or early stage)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 2,
+    "match": {
+      "Pulmonary embolism (small or subsegmental, not causing hypoxemia)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Chronic obstructive pulmonary disease (early or mild, not yet hypoxemic)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "6"
+      },
+      "Early interstitial lung disease": {
+        "Rank in List One": "5",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 3,
+    "match": {
+      "Pulmonary embolism (small/subsegmental, non-hypoxemic)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Early interstitial lung disease": {
+        "Rank in List One": "5",
+        "Rank in List Two": "7"
+      },
+      "Chronic obstructive pulmonary disease (COPD) exacerbation without hypoxemia": {
+        "Rank in List One": "2",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 4,
+    "match": {
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Chronic obstructive pulmonary disease (COPD) exacerbation (mild, early, or non-hypoxemic)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Early interstitial lung disease": {
+        "Rank in List One": "5",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 5,
+    "match": {
+      "Pulmonary embolism (small, non-occlusive, or subsegmental)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Chronic obstructive pulmonary disease (COPD) exacerbation (mild or early)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Pneumonia (early or mild, not yet causing hypoxemia)": {
+        "Rank in List One": "6",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 6,
+    "match": {
+      "Pulmonary embolism (small or subsegmental, not causing hypoxemia)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Early interstitial lung disease": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Chronic obstructive pulmonary disease (COPD) exacerbation (mild, compensated)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 7,
+    "match": {
+      "Pulmonary embolism (without significant hypoxemia)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "3"
+      },
+      "Chronic obstructive pulmonary disease (COPD) exacerbation (mild, early or masked hypoxemia)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "7"
+      },
+      "Early interstitial lung disease": {
+        "Rank in List One": "5",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 8,
+    "match": {
+      "Pulmonary embolism (small or subsegmental, not causing hypoxemia)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Pneumonia (early or mild, not yet hypoxemic)": {
+        "Rank in List One": "6",
+        "Rank in List Two": "7"
+      },
+      "Chronic obstructive pulmonary disease (COPD) exacerbation without hypoxemia": {
+        "Rank in List One": "2",
+        "Rank in List Two": "8"
+      },
+      "Early interstitial lung disease": {
+        "Rank in List One": "5",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 9,
+    "match": {
+      "Pulmonary embolism (small or subsegmental, not causing hypoxemia)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Early interstitial lung disease": {
+        "Rank in List One": "5",
+        "Rank in List Two": "7"
+      },
+      "Chronic obstructive pulmonary disease (COPD) exacerbation without significant hypoxia": {
+        "Rank in List One": "2",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 0,
+    "match": {
+      "Pulmonary embolism (small or subsegmental, not causing hypoxemia)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Early interstitial lung disease": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Chronic obstructive pulmonary disease (COPD) exacerbation without hypoxemia": {
+        "Rank in List One": "2",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 1,
+    "match": {
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "5",
+        "Rank in List Two": "8"
+      },
+      "Acute exacerbation of COPD": {
+        "Rank in List One": "2",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 2,
+    "match": {
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Chronic obstructive pulmonary disease (COPD) or asthma (early/mild, not causing hypoxemia)": {
+        "Rank in List One": "2/3",
+        "Rank in List Two": "8"
+      },
+      "Early interstitial lung disease": {
+        "Rank in List One": "5",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 3,
+    "match": {
+      "Pulmonary embolism (small or subsegmental, not causing hypoxemia)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Early interstitial lung disease": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Chronic obstructive pulmonary disease (COPD) with mild exacerbation": {
+        "Rank in List One": "2",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 4,
+    "match": {
+      "Pulmonary embolism (small or subsegmental, not causing hypoxemia)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Chronic obstructive pulmonary disease (COPD) exacerbation (mild)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "7"
+      },
+      "Early interstitial lung disease": {
+        "Rank in List One": "5",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 5,
+    "match": {
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Chronic obstructive pulmonary disease (COPD) exacerbation (mild)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "7"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "5",
+        "Rank in List Two": "10"
+      },
+      "Pneumonia": {
+        "Rank in List One": "6",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 6,
+    "match": {
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Interstitial lung disease": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 7,
+    "match": {
+      "Pulmonary embolism (small or subsegmental, not causing hypoxia)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Pneumonia or early respiratory infection": {
+        "Rank in List One": "6",
+        "Rank in List Two": "6"
+      },
+      "Chronic obstructive pulmonary disease (early or mild, not hypoxemic at rest)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 8,
+    "match": {
+      "Pulmonary embolism (small or subsegmental, not causing hypoxemia)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Early interstitial lung disease": {
+        "Rank in List One": "5",
+        "Rank in List Two": "7"
+      },
+      "Chronic obstructive pulmonary disease (COPD) exacerbation (mild, early stage)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 9,
+    "match": {
+      "Pulmonary embolism (small or subsegmental, not causing hypoxemia)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Pneumonia (early or mild, especially atypical forms)": {
+        "Rank in List One": "6",
+        "Rank in List Two": "7"
+      },
+      "Chronic obstructive pulmonary disease (COPD) exacerbation without hypoxemia": {
+        "Rank in List One": "2",
+        "Rank in List Two": "8"
+      },
+      "Early interstitial lung disease": {
+        "Rank in List One": "5",
+        "Rank in List Two": "10"
+      }
+    }
+  }
+]

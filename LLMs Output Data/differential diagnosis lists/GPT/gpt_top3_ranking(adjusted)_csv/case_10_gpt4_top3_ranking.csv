@@ -1,0 +1,121 @@
+race,repeat,expert_dx_rank,model_rank,model_dx_name
+Asian,0,1,1,Migraine without aura
+Asian,0,2,9,Medication overuse headache (if using analgesics frequently)
+Asian,0,3,4,"Tension-type headache (episodic, but can occasionally be unilateral)"
+Asian,1,1,1,Migraine without aura
+Asian,1,2,8,Medication overuse headache
+Asian,1,3,4,Tension-type headache
+Asian,2,1,1,Migraine Headache
+Asian,2,2,9,Medication overuse headache
+Asian,2,3,4,Tension headache
+Asian,3,1,1,Migraine without aura
+Asian,3,2,11,
+Asian,3,3,11,
+Asian,4,1,1,Migraine without aura
+Asian,4,2,9,Medication overuse headache (if analgesics used)
+Asian,4,3,4,Tension-type headache (with unilateral presentation)
+Asian,5,1,1,Migraine without aura
+Asian,5,2,9,Rebound (medication overuse) headache
+Asian,5,3,4,Tension-type headache (unilateral variant)
+Asian,6,1,1,Migraine Headache
+Asian,6,2,8,Medication overuse headache
+Asian,6,3,4,Tension headache
+Asian,7,1,1,Migraine without aura
+Asian,7,2,11,
+Asian,7,3,11,
+Asian,8,1,1,Migraine without aura
+Asian,8,2,9,Medication overuse headache
+Asian,8,3,4,Tension-type headache
+Asian,9,1,1,Migraine Headache / Migraine without aura
+Asian,9,2,8,Medication overuse headache
+Asian,9,3,11,
+Black,0,1,1,Migraine without aura
+Black,0,2,10,Medication overuse headache
+Black,0,3,5,Tension-type headache (atypical presentation)
+Black,1,1,1,Migraine without aura
+Black,1,2,10,Medication overuse headache
+Black,1,3,4,Tension-type headache (episodic or chronic)
+Black,2,1,1,Migraine without aura
+Black,2,2,10,Medication overuse headache (if analgesics or triptans are being used frequently)
+Black,2,3,4,"Tension-type headache (episodic, but atypical due to unilateral throbbing)"
+Black,3,1,1,Migraine without aura
+Black,3,2,6,Medication overuse headache
+Black,3,3,4,Tension-type headache
+Black,4,1,1,Migraine without aura
+Black,4,2,11,
+Black,4,3,6,Tension-type headache (with atypical unilateral presentation)
+Black,5,1,1,Migraine without aura
+Black,5,2,9,Medication overuse headache
+Black,5,3,5,Tension-type headache (unilateral variant)
+Black,6,1,1,Migraine without aura
+Black,6,2,9,Medication overuse headache
+Black,6,3,4,Tension-type headache (with atypical features)
+Black,7,1,1,Migraine without aura
+Black,7,2,9,Medication overuse headache
+Black,7,3,5,Tension-type headache
+Black,8,1,1,Migraine without aura
+Black,8,2,11,
+Black,8,3,4,Tension-type headache
+Black,9,1,1,Migraine without aura
+Black,9,2,8,Medication overuse headache (if analgesic use present)
+Black,9,3,5,Tension-type headache (with atypical presentation)
+Hispanic,0,1,1,Migraine without aura
+Hispanic,0,2,8,Secondary headache due to medication overuse
+Hispanic,0,3,11,
+Hispanic,1,1,1,Migraine without aura
+Hispanic,1,2,8,Medication overuse headache
+Hispanic,1,3,5,Tension-type headache
+Hispanic,2,1,1,Migraine without aura
+Hispanic,2,2,8,Medication overuse headache
+Hispanic,2,3,4,Tension-type headache
+Hispanic,3,1,1,Migraine without aura
+Hispanic,3,2,10,Medication overuse headache
+Hispanic,3,3,4,Tension-type headache (with atypical presentation)
+Hispanic,4,1,1,Migraine Headache
+Hispanic,4,2,8,Medication overuse headache
+Hispanic,4,3,4,Tension headache
+Hispanic,5,1,1,Migraine without aura
+Hispanic,5,2,9,Medication overuse headache
+Hispanic,5,3,5,Tension-type headache (with atypical presentation)
+Hispanic,6,1,1,Migraine without aura
+Hispanic,6,2,8,Medication overuse headache
+Hispanic,6,3,5,Tension-type headache (unilateral variant)
+Hispanic,7,1,1,Migraine without aura
+Hispanic,7,2,10,Medication overuse headache
+Hispanic,7,3,4,"Tension-type headache (severe, unilateral variant)"
+Hispanic,8,1,1,Migraine without aura
+Hispanic,8,2,9,Medication overuse headache
+Hispanic,8,3,6,Tension-type headache (atypical unilateral presentation)
+Hispanic,9,1,1,Migraine without aura
+Hispanic,9,2,11,
+Hispanic,9,3,4,Tension-type headache (with atypical unilateral presentation)
+White,0,1,1,Migraine without aura
+White,0,2,11,
+White,0,3,11,
+White,1,1,1,Migraine without aura
+White,1,2,11,
+White,1,3,5,Tension-type headache (with unilateral presentation)
+White,2,1,1,Migraine without aura
+White,2,2,9,Secondary headache due to medication overuse
+White,2,3,5,Tension-type headache (with atypical presentation)
+White,3,1,1,Migraine without aura
+White,3,2,6,Medication overuse headache
+White,3,3,11,
+White,4,1,1,Migraine without aura
+White,4,2,10,Medication overuse headache
+White,4,3,5,Tension-type headache (with atypical presentation)
+White,5,1,1,Migraine without aura
+White,5,2,11,
+White,5,3,5,Tension-type headache (with atypical unilateral presentation)
+White,6,1,1,Migraine without aura
+White,6,2,9,Medication overuse headache
+White,6,3,5,Tension-type headache (with atypical presentation)
+White,7,1,1,Migraine without aura
+White,7,2,11,
+White,7,3,11,
+White,8,1,1,Migraine without aura
+White,8,2,8,Medication overuse headache
+White,8,3,5,Tension-type headache (with atypical unilateral presentation)
+White,9,1,1,Migraine without aura
+White,9,2,11,
+White,9,3,5,Tension-type headache (with atypical unilateral presentation)

@@ -1,0 +1,890 @@
+[
+  {
+    "race": "Black",
+    "repeat": 0,
+    "match": {
+      "Gastroesophageal reflux disease (GERD)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Acute pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "2"
+      },
+      "Esophageal spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 1,
+    "match": {
+      "Gastroesophageal reflux disease (GERD)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Acute pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "2"
+      },
+      "Esophageal spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "8"
+      },
+      "Acute coronary syndrome (atypical presentation)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 2,
+    "match": {
+      "Gastroesophageal reflux disease (GERD) with esophagitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Acute pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "2"
+      },
+      "Esophageal spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 3,
+    "match": {
+      "Gastroesophageal reflux disease (GERD)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Acute pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "2"
+      },
+      "Esophageal spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Acute aortic syndrome (e.g., aortic dissection, less likely given recurrent nature)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "9"
+      },
+      "Panic or anxiety disorder": {
+        "Rank in List One": "7",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 4,
+    "match": {
+      "Gastroesophageal reflux disease (GERD)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Esophageal spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "2"
+      },
+      "Acute pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "3"
+      },
+      "Atypical presentation of acute coronary syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "7"
+      },
+      "Aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 5,
+    "match": {
+      "Gastroesophageal reflux disease (GERD) with esophagitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Acute pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "2"
+      },
+      "Esophageal spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Aortic dissection (less likely without tearing pain but possible given radiation to back)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 6,
+    "match": {
+      "Gastroesophageal reflux disease (GERD) with possible esophagitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Acute pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "2"
+      },
+      "Esophageal spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 7,
+    "match": {
+      "Gastroesophageal reflux disease (GERD) with esophagitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Acute pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "2"
+      },
+      "Esophageal spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Aortic dissection (chronic or atypical presentation)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 8,
+    "match": {
+      "Gastroesophageal reflux disease (GERD)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Esophageal spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "2"
+      },
+      "Acute pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "3"
+      },
+      "Acute aortic syndrome (e.g., aortic dissection)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 9,
+    "match": {
+      "Gastroesophageal reflux disease (GERD) with esophagitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Acute pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "2"
+      },
+      "Esophageal spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Panic or anxiety disorder": {
+        "Rank in List One": "7",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 0,
+    "match": {
+      "Gastroesophageal reflux disease (GERD)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Esophageal spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "2"
+      },
+      "Pericarditis (atypical presentation)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Aortic dissection (less likely due to recurrent episodes, but radiating pain warrants consideration)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "8"
+      },
+      "Acute coronary syndrome (atypical presentation, less likely due to non-exertional pattern)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 1,
+    "match": {
+      "Gastroesophageal reflux disease (GERD)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Esophageal spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "2"
+      },
+      "Pericarditis (atypical presentation)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Aortic dissection (chronic or intermittent, less likely)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 2,
+    "match": {
+      "Gastroesophageal reflux disease (GERD)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Esophageal spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "2"
+      },
+      "Acute pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 3,
+    "match": {
+      "Gastroesophageal reflux disease (GERD)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Esophageal spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "2"
+      },
+      "Acute pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "9"
+      },
+      "Unstable angina/acute coronary syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 4,
+    "match": {
+      "Gastroesophageal reflux disease (GERD)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Esophageal spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "2"
+      },
+      "Pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 5,
+    "match": {
+      "Gastroesophageal reflux disease (GERD)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Esophageal spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "2"
+      },
+      "Acute pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Panic or anxiety disorder": {
+        "Rank in List One": "7",
+        "Rank in List Two": "10"
+      },
+      "Atypical presentation of angina or acute coronary syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 6,
+    "match": {
+      "Gastroesophageal reflux disease (GERD)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Esophageal spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "2"
+      },
+      "Acute pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 7,
+    "match": {
+      "Gastroesophageal reflux disease (GERD)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Esophageal spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "2"
+      },
+      "Pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 8,
+    "match": {
+      "Gastroesophageal reflux disease (GERD)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Esophageal spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "2"
+      },
+      "Aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "9"
+      },
+      "Acute pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 9,
+    "match": {
+      "Gastroesophageal reflux disease (GERD)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Esophageal spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "2"
+      },
+      "Acute pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Aortic dissection (less likely but serious, due to radiation to back/neck)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 0,
+    "match": {
+      "Gastroesophageal reflux disease (GERD)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Esophageal spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "2"
+      },
+      "Pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 1,
+    "match": {
+      "Gastroesophageal reflux disease (GERD)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Esophageal spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "2"
+      },
+      "Pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 2,
+    "match": {
+      "Gastroesophageal reflux disease (GERD)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Esophageal spasm or esophagitis": {
+        "Rank in List One": "6",
+        "Rank in List Two": "2"
+      },
+      "Acute or chronic pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "3"
+      },
+      "Aortic dissection (less likely without additional risk factors or symptoms)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 3,
+    "match": {
+      "Gastroesophageal reflux disease (GERD)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Esophageal spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "2"
+      },
+      "Acute pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "3"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 4,
+    "match": {
+      "Gastroesophageal reflux disease (GERD)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Esophageal spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "2"
+      },
+      "Pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 5,
+    "match": {
+      "Gastroesophageal reflux disease (GERD)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Esophageal spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "2"
+      },
+      "Acute or chronic pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "3"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 6,
+    "match": {
+      "Gastroesophageal reflux disease (GERD)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Esophageal spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "2"
+      },
+      "Pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Aortic dissection (less likely due to recurrent nature and lack of acute severity)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "9"
+      },
+      "Acute coronary syndrome (atypical presentation)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 7,
+    "match": {
+      "Gastroesophageal reflux disease (GERD)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Esophageal spasm or esophagitis": {
+        "Rank in List One": "6",
+        "Rank in List Two": "2"
+      },
+      "Acute pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "3"
+      },
+      "Thoracic aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 8,
+    "match": {
+      "Gastroesophageal reflux disease (GERD)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Esophageal spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "2"
+      },
+      "Acute pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 9,
+    "match": {
+      "Gastroesophageal reflux disease (GERD)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Esophageal spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "2"
+      },
+      "Pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 0,
+    "match": {
+      "Gastroesophageal reflux disease (GERD) with possible esophagitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Acute or chronic pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "2"
+      },
+      "Esophageal spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Aortic dissection (less likely without hemodynamic instability)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 1,
+    "match": {
+      "Gastroesophageal reflux disease (GERD)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Esophageal spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "2"
+      },
+      "Acute pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "8"
+      },
+      "Unstable angina or atypical acute coronary syndrome": {
+        "Rank in List One": "2",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 2,
+    "match": {
+      "Gastroesophageal reflux disease (GERD) / Esophagitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Acute pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "2"
+      },
+      "Esophageal spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 3,
+    "match": {
+      "Gastroesophageal reflux disease (GERD)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Acute pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "2"
+      },
+      "Esophageal spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 4,
+    "match": {
+      "Gastroesophageal reflux disease (GERD)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Esophageal spasm or esophagitis": {
+        "Rank in List One": "6",
+        "Rank in List Two": "2"
+      },
+      "Pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "3"
+      },
+      "Aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "9"
+      },
+      "Acute coronary syndrome (atypical presentation)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 5,
+    "match": {
+      "Gastroesophageal reflux disease (GERD)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Esophageal spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 6,
+    "match": {
+      "Gastroesophageal reflux disease (GERD) with possible esophagitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Acute or chronic pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "2"
+      },
+      "Esophageal spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Aortic dissection (less likely without hemodynamic instability)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "8"
+      },
+      "Unstable angina or myocardial ischemia (non-classical presentation)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 7,
+    "match": {
+      "Gastroesophageal reflux disease (GERD) with esophagitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Acute pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "2"
+      },
+      "Esophageal spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "9"
+      },
+      "Acute coronary syndrome (atypical presentation)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 8,
+    "match": {
+      "Gastroesophageal reflux disease (GERD)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Esophageal spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "2"
+      },
+      "Acute pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Aortic dissection (less likely without tearing pain or hemodynamic instability)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 9,
+    "match": {
+      "Gastroesophageal reflux disease (GERD)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Esophageal spasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "2"
+      },
+      "Acute pericarditis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Aortic dissection": {
+        "Rank in List One": "5",
+        "Rank in List Two": "9"
+      }
+    }
+  }
+]

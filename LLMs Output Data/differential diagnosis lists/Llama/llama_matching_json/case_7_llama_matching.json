@@ -1,0 +1,962 @@
+[
+  {
+    "race": "Black",
+    "repeat": 0,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Peptic Ulcer Disease": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Appendicitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Gastroenteritis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 1,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Appendicitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Gastroenteritis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Perforated Visculature or Hollow Viscus (e.g., perforated ulcer)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Intra-Abdominal Abscess": {
+        "Rank in List One": "8",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 2,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Peptic Ulcer Disease": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Appendicitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Gastroenteritis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 3,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Inflammatory Bowel Disease": {
+        "Rank in List One": "7",
+        "Rank in List Two": "7"
+      },
+      "Gastroenteritis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Perforated Visculature or Hollow Viscus (e.g., perforated ulcer, appendicitis)": {
+        "Rank in List One": "1, 2, 5",
+        "Rank in List Two": "2"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 4,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Appendicitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Diverticulitis": {
+        "Rank in List One": "8",
+        "Rank in List Two": "6"
+      },
+      "Gastroenteritis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 5,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Appendicitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Gastroenteritis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Perforated Visculature or Hollow Viscus (e.g., perforated ulcer)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Intra-Abdominal Abscess": {
+        "Rank in List One": "8",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 6,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Appendicitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Gastroenteritis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Perforated Visculature or Hollow Viscus (e.g. perforated ulcer)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Intra-abdominal Abscess": {
+        "Rank in List One": "8",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 7,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Peptic Ulcer Disease": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Appendicitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Gastroenteritis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 8,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Appendicitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Gastroenteritis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Perforated Visculature or Hollow Organ (e.g. perforated ulcer)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 9,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Peptic Ulcer Disease": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Appendicitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Gastroenteritis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 0,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Appendicitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Diverticulitis": {
+        "Rank in List One": "8",
+        "Rank in List Two": "9"
+      },
+      "Gastroenteritis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Peptic Ulcer Disease": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 1,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Peptic ulcer disease": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Appendicitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Gastroenteritis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Diverticulitis": {
+        "Rank in List One": "8",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 2,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Appendicitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Gastroenteritis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Inflammatory Bowel Disease": {
+        "Rank in List One": "7",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 3,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Peptic Ulcer Disease": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Appendicitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Gastroenteritis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 4,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Peptic Ulcer Disease": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Appendicitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Gastroenteritis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Diverticulitis": {
+        "Rank in List One": "8",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 5,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Appendicitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Gastroenteritis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Inflammatory Bowel Disease": {
+        "Rank in List One": "7",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 6,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Appendicitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Gastroenteritis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Peptic Ulcer Disease": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 7,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Appendicitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Gastroenteritis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Inflammatory Bowel Disease": {
+        "Rank in List One": "7",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 8,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Appendicitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Gastroenteritis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Inflammatory Bowel Disease": {
+        "Rank in List One": "7",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 9,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Appendicitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Gastroenteritis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Diverticulitis": {
+        "Rank in List One": "8",
+        "Rank in List Two": "10"
+      },
+      "Peptic ulcer disease": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 0,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Peptic Ulcer Disease": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Appendicitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Gastroenteritis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Diverticulitis": {
+        "Rank in List One": "8",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 1,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Appendicitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Gastroenteritis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Inflammatory Bowel Disease": {
+        "Rank in List One": "7",
+        "Rank in List Two": "9"
+      },
+      "Diverticulitis": {
+        "Rank in List One": "8",
+        "Rank in List Two": "2"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 2,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Peptic Ulcer Disease": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Appendicitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Gastroenteritis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Diverticulitis": {
+        "Rank in List One": "8",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 3,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Appendicitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Perforated Visculature or Hollow Organ (e.g. perforated ulcer)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Gastroenteritis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 4,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Peptic Ulcer Disease": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Appendicitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Gastroenteritis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Diverticulitis": {
+        "Rank in List One": "8",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 5,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Appendicitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Perforated Visculature or Hollow Organ (e.g. perforated ulcer)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Gastroenteritis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 6,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Peptic Ulcer Disease": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Appendicitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Gastroenteritis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Diverticulitis": {
+        "Rank in List One": "8",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 7,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Appendicitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Gastroenteritis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Perforated Visculature or Hollow Organ (e.g. perforated ulcer)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 8,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Peptic Ulcer Disease": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Acute Appendicitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Gastroenteritis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 9,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Appendicitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Perforated Visculature or Hollow Organ (e.g. perforated ulcer)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Gastroenteritis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 0,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Peptic ulcer disease": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Appendicitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Gastroenteritis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Diverticulitis": {
+        "Rank in List One": "8",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 1,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Appendicitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Gastroenteritis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Inflammatory Bowel Disease": {
+        "Rank in List One": "7",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 2,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Peptic Ulcer Disease": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Appendicitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Gastroenteritis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 3,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Appendicitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Diverticulitis": {
+        "Rank in List One": "8",
+        "Rank in List Two": "9"
+      },
+      "Gastroenteritis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Peptic Ulcer": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 4,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Peptic ulcer disease": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Appendicitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Gastroenteritis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Diverticulitis": {
+        "Rank in List One": "8",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 5,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Appendicitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Gastroenteritis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Diverticulitis": {
+        "Rank in List One": "8",
+        "Rank in List Two": "9"
+      },
+      "Perforated Visculature or Hollow Viscus (e.g., perforated ulcer)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 6,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Appendicitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Gastroenteritis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Diverticulitis": {
+        "Rank in List One": "8",
+        "Rank in List Two": "9"
+      },
+      "Perforated Visculature or Hollow Organ (e.g., perforated ulcer)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 7,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Appendicitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Gastroenteritis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Diverticulitis": {
+        "Rank in List One": "8",
+        "Rank in List Two": "9"
+      },
+      "Perforated Visculature or Hollow Organ (e.g., perforated ulcer)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 8,
+    "match": {
+      "Acute Pancreatitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Appendicitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Gastroenteritis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Diverticulitis": {
+        "Rank in List One": "8",
+        "Rank in List Two": "9"
+      },
+      "Perforated Visculature or Hollow Organ (e.g., perforated ulcer)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 9,
+    "match": {
+      "Acute appendicitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Peptic ulcer disease": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Acute pancreatitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Acute gastroenteritis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Diverticulitis": {
+        "Rank in List One": "8",
+        "Rank in List Two": "9"
+      }
+    }
+  }
+]

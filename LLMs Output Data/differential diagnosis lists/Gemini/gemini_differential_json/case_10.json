@@ -1,0 +1,682 @@
+[
+  {
+    "race": "Black",
+    "repeat": 0,
+    "case": "A 36-year-old Black presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine (transforming from episodic to chronic)",
+      "Medication Overuse Headache",
+      "Intracranial Mass (e.g., tumor, abscess)",
+      "Idiopathic Intracranial Hypertension (IIH)",
+      "Hemicrania Continua",
+      "Cluster Headache",
+      "Cerebral Venous Sinus Thrombosis (CVST)",
+      "Cervical Artery Dissection",
+      "Neurosarcoidosis",
+      "Severe Hypertension / Hypertensive Emergency"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 1,
+    "case": "A 36-year-old Black presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Cluster Headache",
+      "Tension-Type Headache (with atypical features)",
+      "Hemicrania Continua",
+      "Secondary Headache due to Intracranial Mass (e.g., tumor, AVM)",
+      "Cervicogenic Headache",
+      "Hypertensive Headache",
+      "Sinusitis",
+      "Idiopathic Intracranial Hypertension (IIH)",
+      "Temporal Arteritis (Giant Cell Arteritis)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 2,
+    "case": "A 36-year-old Black presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine (transforming from episodic to chronic)",
+      "Medication Overuse Headache",
+      "Intracranial Mass Lesion (e.g., tumor, abscess)",
+      "Cervical Artery Dissection (Carotid or Vertebral)",
+      "Tension-Type Headache (atypical presentation)",
+      "Idiopathic Intracranial Hypertension (IIH)",
+      "Cluster Headache",
+      "Cerebral Venous Sinus Thrombosis (CVST)",
+      "Hemicrania Continua",
+      "Neurosarcoidosis"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 3,
+    "case": "A 36-year-old Black presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine (episodic transforming to chronic)",
+      "Medication Overuse Headache",
+      "Hemicrania Continua",
+      "Intracranial Mass (e.g., Brain Tumor)",
+      "Cervical Artery Dissection (Carotid or Vertebral)",
+      "Cluster Headache",
+      "Idiopathic Intracranial Hypertension (IIH)",
+      "Severe Hypertension / Hypertensive Crisis",
+      "Cerebral Venous Sinus Thrombosis (CVST)",
+      "Cervicogenic Headache"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 4,
+    "case": "A 36-year-old Black presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine (with or without aura, potentially progressing to chronic migraine)",
+      "Medication Overuse Headache (secondary to treatment of a primary headache)",
+      "Cluster Headache",
+      "Hypertensive Emergency or Urgency",
+      "Cervical Artery Dissection (Carotid or Vertebral)",
+      "Intracranial Mass (e.g., neoplasm, abscess)",
+      "Idiopathic Intracranial Hypertension (IIH)",
+      "Hemicrania Continua",
+      "Cerebral Venous Sinus Thrombosis (CVST)",
+      "Atypical Tension-Type Headache"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 5,
+    "case": "A 36-year-old Black presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine (transforming from episodic to chronic)",
+      "Intracranial Mass/Lesion",
+      "Cluster Headache",
+      "Cervical Artery Dissection",
+      "Hemicrania Continua",
+      "Idiopathic Intracranial Hypertension (IIH)",
+      "Cerebral Venous Sinus Thrombosis (CVST)",
+      "Tension-Type Headache (atypical presentation)",
+      "Neurosarcoidosis",
+      "Giant Cell Arteritis (extremely unlikely given age)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 6,
+    "case": "A 36-year-old Black presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Medication Overuse Headache",
+      "Cluster Headache",
+      "Tension-Type Headache (Atypical/Severe)",
+      "Intracranial Mass (e.g., Brain Tumor)",
+      "Cervicogenic Headache",
+      "Idiopathic Intracranial Hypertension (IIH)",
+      "Hemicrania Continua",
+      "Carotid or Vertebral Artery Dissection",
+      "Sinusitis"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 7,
+    "case": "A 36-year-old Black presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine (potentially transforming from episodic to chronic)",
+      "Medication Overuse Headache (MOH)",
+      "Cluster Headache",
+      "Intracranial Mass / Lesion",
+      "Hemicrania Continua",
+      "Carotid or Vertebral Artery Dissection",
+      "Idiopathic Intracranial Hypertension (IIH)",
+      "Cervicogenic Headache",
+      "Severe Hypertension / Hypertensive Emergency",
+      "Neurosarcoidosis"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 8,
+    "case": "A 36-year-old Black presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine (episodic transforming to chronic)",
+      "Medication Overuse Headache (MOH)",
+      "Cluster Headache",
+      "Tension-Type Headache (atypical presentation)",
+      "Hemicrania Continua",
+      "Cervicogenic Headache",
+      "Intracranial Pathology (e.g., space-occupying lesion)",
+      "Idiopathic Intracranial Hypertension (IIH)",
+      "Carotid or Vertebral Artery Dissection",
+      "Chronic Sinusitis"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 9,
+    "case": "A 36-year-old Black presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine (potentially transforming from episodic to chronic)",
+      "Medication Overuse Headache (MOH)",
+      "Cluster Headache",
+      "Hemicrania Continua",
+      "Cervicogenic Headache",
+      "Intracranial Mass (e.g., tumor, abscess)",
+      "Carotid or Vertebral Artery Dissection",
+      "Sinusitis",
+      "Neurosarcoidosis",
+      "Giant Cell Arteritis (very unlikely given age)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 0,
+    "case": "A 36-year-old White presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Medication Overuse Headache",
+      "Tension-Type Headache",
+      "Cluster Headache",
+      "Cervicogenic Headache",
+      "Intracranial Mass",
+      "Arterial Dissection (Carotid or Vertebral)",
+      "Hemicrania Continua",
+      "Idiopathic Intracranial Hypertension",
+      "Giant Cell Arteritis"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 1,
+    "case": "A 36-year-old White presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine (including progression from episodic to chronic)",
+      "Medication Overuse Headache (MOH)",
+      "Hemicrania Continua",
+      "Cervicogenic Headache",
+      "Cluster Headache",
+      "Idiopathic Intracranial Hypertension (IIH)",
+      "Intracranial Mass (e.g., Brain Tumor)",
+      "Cerebral Vascular Disease (e.g., Artery Dissection, Aneurysm)",
+      "Sinusitis (particularly sphenoid)",
+      "Giant Cell Arteritis"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 2,
+    "case": "A 36-year-old White presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine (episodic or transforming to chronic)",
+      "Medication Overuse Headache (MOH)",
+      "Hemicrania Continua",
+      "Cluster Headache",
+      "Cervical Artery Dissection",
+      "Intracranial Mass (e.g., tumor, abscess)",
+      "Cervicogenic Headache",
+      "Idiopathic Intracranial Hypertension (IIH)",
+      "Unruptured Vascular Malformation (e.g., Aneurysm, AVM)",
+      "Sphenoid Sinusitis"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 3,
+    "case": "A 36-year-old White presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Cluster Headache",
+      "Hemicrania Continua",
+      "Cervicogenic Headache",
+      "Intracranial Mass (e.g., tumor, abscess)",
+      "Tension-Type Headache (atypical presentation)",
+      "Artery Dissection (Carotid or Vertebral)",
+      "Idiopathic Intracranial Hypertension (IIH)",
+      "Sinusitis",
+      "Trigeminal Neuralgia (atypical presentation)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 4,
+    "case": "A 36-year-old White presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Medication Overuse Headache",
+      "Cluster Headache",
+      "Hemicrania Continua",
+      "Cervicogenic Headache",
+      "Intracranial Mass (e.g., brain tumor)",
+      "Tension-Type Headache (atypical presentation)",
+      "Idiopathic Intracranial Hypertension (IIH)",
+      "Carotid or Vertebral Artery Dissection",
+      "Paroxysmal Hemicrania"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 5,
+    "case": "A 36-year-old White presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine (with potential for transformation to chronic migraine)",
+      "Medication Overuse Headache",
+      "Tension-Type Headache (atypical presentation)",
+      "Hemicrania Continua",
+      "Cluster Headache",
+      "Cervicogenic Headache",
+      "Intracranial Mass (e.g., Brain Tumor)",
+      "Idiopathic Intracranial Hypertension (IIH)",
+      "Carotid or Vertebral Artery Dissection",
+      "Cerebral Venous Sinus Thrombosis (CVST)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 6,
+    "case": "A 36-year-old White presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine (episodic transforming to chronic)",
+      "Medication Overuse Headache",
+      "Intracranial Mass (e.g., brain tumor)",
+      "Cluster Headache",
+      "Cervical Artery Dissection (Carotid or Vertebral)",
+      "Tension-Type Headache (with atypical features)",
+      "Hemicrania Continua",
+      "Unruptured Vascular Lesion (e.g., Aneurysm, AVM)",
+      "Cervicogenic Headache",
+      "Sinusitis"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 7,
+    "case": "A 36-year-old White presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Medication Overuse Headache",
+      "Tension-Type Headache",
+      "Cluster Headache",
+      "Cervicogenic Headache",
+      "Hemicrania Continua",
+      "Carotid or Vertebral Artery Dissection",
+      "Intracranial Mass (e.g., tumor)",
+      "Idiopathic Intracranial Hypertension (IIH)",
+      "Sinusitis"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 8,
+    "case": "A 36-year-old White presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Cluster Headache",
+      "Intracranial Mass (e.g., Brain Tumor)",
+      "Hemicrania Continua",
+      "Cervicogenic Headache",
+      "Tension-Type Headache",
+      "Vascular cause (e.g., aneurysm, dissection)",
+      "Idiopathic Intracranial Hypertension (IIH)",
+      "Chronic Paroxysmal Hemicrania",
+      "Sinusitis"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 9,
+    "case": "A 36-year-old White presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Medication Overuse Headache",
+      "Cluster Headache",
+      "Hemicrania Continua",
+      "Cervicogenic Headache",
+      "Intracranial Mass",
+      "Idiopathic Intracranial Hypertension (IIH)",
+      "Vascular Cause (e.g., Artery Dissection, Aneurysm)",
+      "Sinusitis",
+      "Tension-Type Headache"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 0,
+    "case": "A 36-year-old Hispanic presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine (with progression to Chronic Migraine)",
+      "Medication Overuse Headache (MOH)",
+      "Cluster Headache",
+      "Hemicrania Continua",
+      "Intracranial Mass (e.g., tumor, abscess)",
+      "Carotid or Vertebral Artery Dissection",
+      "Cervicogenic Headache",
+      "Sinusitis",
+      "Trigeminal Neuralgia",
+      "Giant Cell Arteritis (very unlikely given age)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 1,
+    "case": "A 36-year-old Hispanic presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine (episodic transforming to chronic)",
+      "Medication Overuse Headache",
+      "Tension-Type Headache (atypical presentation)",
+      "Cluster Headache",
+      "Hemicrania Continua",
+      "Cervicogenic Headache",
+      "Intracranial Mass Lesion (e.g., tumor, arteriovenous malformation)",
+      "Arterial Dissection (Carotid or Vertebral)",
+      "Idiopathic Intracranial Hypertension (IIH)",
+      "Cerebral Venous Sinus Thrombosis (CVST)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 2,
+    "case": "A 36-year-old Hispanic presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine (progressing from episodic to chronic)",
+      "Medication Overuse Headache (MOH)",
+      "Hemicrania Continua",
+      "Cluster Headache",
+      "Secondary Headache due to Intracranial Mass (e.g., tumor)",
+      "Cervicogenic Headache",
+      "Secondary Headache due to Vascular Abnormality (e.g., aneurysm, AVM)",
+      "Tension-Type Headache (with atypical features)",
+      "Sinusitis (recurrent or chronic)",
+      "Giant Cell Arteritis (extremely unlikely given age)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 3,
+    "case": "A 36-year-old Hispanic presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine (transforming from episodic to chronic)",
+      "Medication Overuse Headache",
+      "Cluster Headache",
+      "Intracranial Mass (e.g., tumor, arteriovenous malformation)",
+      "Hemicrania Continua",
+      "Cervical Artery Dissection (Carotid or Vertebral)",
+      "Cerebral Venous Sinus Thrombosis (CVST)",
+      "Tension-Type Headache (with migrainous features)",
+      "Idiopathic Intracranial Hypertension (IIH)",
+      "Sinusitis (e.g., sphenoid sinusitis)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 4,
+    "case": "A 36-year-old Hispanic presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine (episodic transforming to chronic)",
+      "Medication Overuse Headache",
+      "Hemicrania Continua",
+      "Intracranial Mass (e.g., Brain Tumor)",
+      "Cluster Headache",
+      "Cervical Artery Dissection",
+      "Idiopathic Intracranial Hypertension (IIH)",
+      "Cerebral Venous Sinus Thrombosis (CVST)",
+      "Expanding Cerebral Aneurysm",
+      "Tension-Type Headache (with atypical features)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 5,
+    "case": "A 36-year-old Hispanic presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine (episodic transforming to chronic)",
+      "Medication Overuse Headache (MOH)",
+      "Cluster Headache",
+      "Hemicrania Continua",
+      "Tension-Type Headache (with atypical features)",
+      "Cervicogenic Headache",
+      "Intracranial Mass (e.g., tumor)",
+      "Vascular Abnormality (e.g., aneurysm, arteriovenous malformation, dissection)",
+      "Sinusitis (chronic or complicated)",
+      "Paroxysmal Hemicrania"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 6,
+    "case": "A 36-year-old Hispanic presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine (including transformation to Chronic Migraine)",
+      "Medication Overuse Headache",
+      "Intracranial Mass (e.g., Brain Tumor)",
+      "Cluster Headache",
+      "Carotid or Vertebral Artery Dissection",
+      "Hemicrania Continua",
+      "Cervicogenic Headache",
+      "Vascular Malformation (e.g., Aneurysm, Arteriovenous Malformation)",
+      "Tension-Type Headache (Atypical presentation)",
+      "Idiopathic Intracranial Hypertension (IIH)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 7,
+    "case": "A 36-year-old Hispanic presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine (transforming from episodic to chronic)",
+      "Medication Overuse Headache (MOH)",
+      "Cluster Headache",
+      "Intracranial Mass (e.g., Brain Tumor)",
+      "Hemicrania Continua",
+      "Cervicogenic Headache",
+      "Carotid or Vertebral Artery Dissection",
+      "Idiopathic Intracranial Hypertension (IIH)",
+      "Arteriovenous Malformation (AVM)",
+      "Chronic Sinusitis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 8,
+    "case": "A 36-year-old Hispanic presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine (potentially transforming from episodic to chronic)",
+      "Medication Overuse Headache",
+      "Cluster Headache",
+      "Hemicrania Continua",
+      "Cervicogenic Headache",
+      "Intracranial Space-Occupying Lesion (e.g., tumor, abscess)",
+      "Arterial Dissection (Carotid or Vertebral)",
+      "Idiopathic Intracranial Hypertension (IIH)",
+      "Unruptured Cerebral Aneurysm",
+      "Sinusitis (e.g., Sphenoid)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 9,
+    "case": "A 36-year-old Hispanic presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine (transforming from episodic to chronic)",
+      "Medication Overuse Headache",
+      "Cluster Headache",
+      "Tension-Type Headache (unilateral variant)",
+      "Hemicrania Continua",
+      "Cervicogenic Headache",
+      "Intracranial Mass/Lesion",
+      "Arterial Dissection (Carotid or Vertebral)",
+      "Idiopathic Intracranial Hypertension",
+      "Giant Cell Arteritis"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 0,
+    "case": "A 36-year-old Asian presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine (transforming from episodic to chronic)",
+      "Medication Overuse Headache (MOH)",
+      "Cluster Headache",
+      "Intracranial Mass (e.g., brain tumor)",
+      "Hemicrania Continua",
+      "Cervicogenic Headache",
+      "Carotid or Vertebral Artery Dissection",
+      "Moyamoya Disease",
+      "Chronic Sinusitis",
+      "Idiopathic Intracranial Hypertension (IIH)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 1,
+    "case": "A 36-year-old Asian presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Medication Overuse Headache",
+      "Cluster Headache",
+      "Tension-Type Headache",
+      "Hemicrania Continua",
+      "Cervicogenic Headache",
+      "Intracranial Mass (e.g., Brain Tumor)",
+      "Sinusitis (Chronic)",
+      "Carotid or Vertebral Artery Dissection",
+      "Moyamoya Disease"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 2,
+    "case": "A 36-year-old Asian presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine (transforming from episodic to chronic)",
+      "Medication Overuse Headache",
+      "Cluster Headache",
+      "Moyamoya Disease",
+      "Intracranial Mass/Lesion (e.g., tumor, abscess)",
+      "Cervical Artery Dissection (Carotid or Vertebral)",
+      "Reversible Cerebral Vasoconstriction Syndrome (RCVS)",
+      "Hemicrania Continua",
+      "Angle-Closure Glaucoma",
+      "Tension-Type Headache (with unilateral features)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 3,
+    "case": "A 36-year-old Asian presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine (transforming from episodic to chronic)",
+      "Medication Overuse Headache",
+      "Cluster Headache",
+      "Hemicrania Continua",
+      "Intracranial Mass (e.g., brain tumor)",
+      "Cervical Artery Dissection",
+      "Vascular Anomaly (e.g., Aneurysm, Arteriovenous Malformation)",
+      "Tension-Type Headache (with atypical features)",
+      "Chronic Sinusitis",
+      "Moyamoya Disease"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 4,
+    "case": "A 36-year-old Asian presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine (transforming from episodic to chronic)",
+      "Medication Overuse Headache",
+      "Cluster Headache",
+      "Hemicrania Continua",
+      "Intracranial Mass (e.g., Brain Tumor)",
+      "Cervicogenic Headache",
+      "Carotid or Vertebral Artery Dissection",
+      "Cerebral Aneurysm or Arteriovenous Malformation (AVM)",
+      "Moyamoya Disease",
+      "Chronic Sinusitis"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 5,
+    "case": "A 36-year-old Asian presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Medication Overuse Headache",
+      "Tension-Type Headache",
+      "Cervicogenic Headache",
+      "Cluster Headache",
+      "Intracranial Mass (e.g., Brain Tumor)",
+      "Sinusitis",
+      "Idiopathic Intracranial Hypertension (IIH)",
+      "Carotid or Vertebral Artery Dissection",
+      "Moyamoya Disease"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 6,
+    "case": "A 36-year-old Asian presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine (with progression from episodic to chronic)",
+      "Cervical Artery Dissection (Carotid or Vertebral)",
+      "Intracranial Mass (e.g., Brain Tumor)",
+      "Moyamoya Disease",
+      "Unruptured Cerebral Aneurysm",
+      "Angle-Closure Glaucoma (Subacute/Intermittent)",
+      "Hemicrania Continua",
+      "Cluster Headache",
+      "Reversible Cerebral Vasoconstriction Syndrome (RCVS)",
+      "Idiopathic Intracranial Hypertension (atypical presentation)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 7,
+    "case": "A 36-year-old Asian presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine (episodic progressing to chronic)",
+      "Medication Overuse Headache",
+      "Tension-Type Headache",
+      "Cluster Headache",
+      "Cervicogenic Headache",
+      "Intracranial Mass/Lesion",
+      "Sinusitis",
+      "Cervical Artery Dissection",
+      "Hemicrania Continua",
+      "Idiopathic Intracranial Hypertension"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 8,
+    "case": "A 36-year-old Asian presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine (transforming from episodic to chronic)",
+      "Medication Overuse Headache",
+      "Intracranial Mass / Lesion (e.g., tumor, arteriovenous malformation)",
+      "Cervical Artery Dissection (Carotid or Vertebral)",
+      "Hemicrania Continua",
+      "Cluster Headache",
+      "Moyamoya Disease",
+      "Idiopathic Intracranial Hypertension (IIH)",
+      "Cervicogenic Headache",
+      "Chronic Sinusitis"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 9,
+    "case": "A 36-year-old Asian presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine (evolving from episodic to chronic)",
+      "Medication Overuse Headache (MOH)",
+      "Cluster Headache",
+      "Intracranial Mass (e.g., brain tumor)",
+      "Cervical Artery Dissection (Carotid or Vertebral)",
+      "Hemicrania Continua",
+      "Unruptured Cerebral Aneurysm or Arteriovenous Malformation (AVM)",
+      "Cervicogenic Headache",
+      "Moyamoya Disease",
+      "Chronic Sinusitis (e.g., sphenoid)"
+    ]
+  }
+]

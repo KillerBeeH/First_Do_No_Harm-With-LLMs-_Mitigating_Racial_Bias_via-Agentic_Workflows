@@ -1,0 +1,680 @@
+[
+  {
+    "race": "Black",
+    "repeat": 0,
+    "case": "A 35-year-old Black presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Acute Cholecystitis",
+      "Myocardial Infarction (Inferior Wall)",
+      "Aortic Dissection",
+      "Mesenteric Ischemia",
+      "Diabetic Ketoacidosis (DKA)",
+      "Acute Pericarditis",
+      "Lower Lobe Pneumonia",
+      "Boerhaave Syndrome (Esophageal Rupture)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 1,
+    "case": "A 35-year-old Black presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer (posterior)",
+      "Acute Cholecystitis",
+      "Myocardial Infarction (inferior wall)",
+      "Acute Pericarditis",
+      "Aortic Dissection",
+      "Mesenteric Ischemia",
+      "Diabetic Ketoacidosis (DKA)",
+      "Gastritis/Gastroenteritis (severe)",
+      "Lobar Pneumonia (basilar)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 2,
+    "case": "A 35-year-old Black presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Peptic Ulcer Disease (with posterior perforation)",
+      "Acute Cholecystitis",
+      "Acute Cholangitis",
+      "Myocardial Infarction (Inferior wall)",
+      "Aortic Dissection",
+      "Pericarditis",
+      "Mesenteric Ischemia",
+      "Diabetic Ketoacidosis (DKA)",
+      "Gastritis/Gastroenteritis (severe)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 3,
+    "case": "A 35-year-old Black presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Acute Cholecystitis / Biliary Colic with Choledocholithiasis",
+      "Aortic Dissection",
+      "Myocardial Infarction (Inferior Wall)",
+      "Mesenteric Ischemia",
+      "Diabetic Ketoacidosis (DKA)",
+      "Basilar Pneumonia",
+      "Severe Gastroenteritis",
+      "Sickle Cell Vaso-occlusive Crisis"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 4,
+    "case": "A 35-year-old Black presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Cholecystitis / Choledocholithiasis",
+      "Aortic Dissection",
+      "Myocardial Infarction (Inferior Wall)",
+      "Mesenteric Ischemia",
+      "Vaso-occlusive Crisis (Sickle Cell Disease)",
+      "Diabetic Ketoacidosis (DKA)",
+      "Boerhaave Syndrome (Esophageal Rupture)",
+      "Basilar Pneumonia"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 5,
+    "case": "A 35-year-old Black presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Cholecystitis/Choledocholithiasis",
+      "Myocardial Infarction (Inferior Wall)",
+      "Aortic Dissection",
+      "Mesenteric Ischemia",
+      "Diabetic Ketoacidosis (DKA)",
+      "Vaso-occlusive Crisis (Sickle Cell Disease)",
+      "Pneumonia (Lower Lobe)",
+      "Severe Esophagitis/GERD"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 6,
+    "case": "A 35-year-old Black presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer (especially posterior)",
+      "Acute Cholecystitis",
+      "Aortic Dissection",
+      "Inferior Wall Myocardial Infarction",
+      "Mesenteric Ischemia",
+      "Boerhaave Syndrome (Esophageal Rupture)",
+      "Diabetic Ketoacidosis (DKA)",
+      "Sickle Cell Vaso-occlusive Crisis",
+      "Acute Gastritis / Severe GERD"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 7,
+    "case": "A 35-year-old Black presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Acute Cholecystitis",
+      "Aortic Dissection",
+      "Myocardial Infarction (Inferior Wall)",
+      "Mesenteric Ischemia",
+      "Acute Gastritis / Peptic Ulcer Disease",
+      "Diabetic Ketoacidosis (DKA)",
+      "Basilar Pneumonia",
+      "Acute Pericarditis"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 8,
+    "case": "A 35-year-old Black presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Acute Cholecystitis",
+      "Aortic Dissection",
+      "Myocardial Infarction (Inferior Wall)",
+      "Mesenteric Ischemia",
+      "Boerhaave Syndrome (Esophageal Perforation)",
+      "Diabetic Ketoacidosis (DKA)",
+      "Lower Lobe Pneumonia",
+      "Sickle Cell Vaso-occlusive Crisis"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 9,
+    "case": "A 35-year-old Black presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Acute Cholecystitis / Choledocholithiasis",
+      "Aortic Dissection",
+      "Myocardial Infarction (Inferior Wall)",
+      "Mesenteric Ischemia",
+      "Sickle Cell Vaso-occlusive Crisis",
+      "Gastritis / Peptic Ulcer Disease (severe)",
+      "Diabetic Ketoacidosis (DKA)",
+      "Basilar Pneumonia"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 0,
+    "case": "A 35-year-old White presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Acute Cholecystitis",
+      "Aortic Dissection",
+      "Myocardial Infarction (Inferior Wall)",
+      "Mesenteric Ischemia",
+      "Boerhaave Syndrome (Esophageal Rupture)",
+      "Diabetic Ketoacidosis",
+      "Severe Gastritis",
+      "Lower Lobe Pneumonia"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 1,
+    "case": "A 35-year-old White presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Cholecystitis / Choledocholithiasis",
+      "Perforated Peptic Ulcer",
+      "Aortic Dissection",
+      "Myocardial Infarction (Inferior Wall)",
+      "Mesenteric Ischemia",
+      "Severe Gastritis",
+      "Pyelonephritis",
+      "Basilar Pneumonia",
+      "Splenic Infarct"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 2,
+    "case": "A 35-year-old White presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Acute Cholecystitis",
+      "Aortic Dissection",
+      "Myocardial Infarction (Inferior Wall)",
+      "Pericarditis",
+      "Boerhaave Syndrome (Esophageal Rupture)",
+      "Mesenteric Ischemia",
+      "Pyelonephritis",
+      "Severe Gastritis/GERD"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 3,
+    "case": "A 35-year-old White presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Acute Cholecystitis / Choledocholithiasis",
+      "Myocardial Infarction (Inferior Wall)",
+      "Aortic Dissection",
+      "Mesenteric Ischemia",
+      "Acute Gastritis",
+      "Pericarditis",
+      "Diabetic Ketoacidosis (DKA)",
+      "Basilar Pneumonia"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 4,
+    "case": "A 35-year-old White presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Cholecystitis/Choledocholithiasis",
+      "Aortic Dissection",
+      "Myocardial Infarction (Inferior Wall)",
+      "Mesenteric Ischemia",
+      "Pericarditis",
+      "Severe Gastritis/Esophagitis",
+      "Basilar Pneumonia",
+      "Ruptured Abdominal Aortic Aneurysm"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 5,
+    "case": "A 35-year-old White presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Acute Cholecystitis",
+      "Aortic Dissection",
+      "Myocardial Infarction (Inferior Wall)",
+      "Boerhaave Syndrome (Esophageal Rupture)",
+      "Acute Cholangitis",
+      "Mesenteric Ischemia",
+      "Diabetic Ketoacidosis (DKA)",
+      "Severe Gastritis"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 6,
+    "case": "A 35-year-old White presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Acute Cholecystitis/Choledocholithiasis",
+      "Aortic Dissection",
+      "Myocardial Infarction (Inferior Wall)",
+      "Mesenteric Ischemia",
+      "Boerhaave Syndrome (Esophageal Rupture)",
+      "Severe Gastritis",
+      "Diabetic Ketoacidosis",
+      "Pyelonephritis"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 7,
+    "case": "A 35-year-old White presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Acute Cholecystitis / Choledocholithiasis",
+      "Aortic Dissection",
+      "Pericarditis",
+      "Myocardial Infarction (Inferior Wall)",
+      "Mesenteric Ischemia",
+      "Boerhaave Syndrome (Esophageal Rupture)",
+      "Diabetic Ketoacidosis (DKA)",
+      "Basilar Pneumonia"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 8,
+    "case": "A 35-year-old White presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Peptic Ulcer Disease (especially perforated posterior ulcer)",
+      "Acute Cholecystitis / Biliary Colic",
+      "Aortic Dissection",
+      "Myocardial Infarction (Inferior wall)",
+      "Mesenteric Ischemia",
+      "Boerhaave Syndrome (Esophageal rupture)",
+      "Severe Gastritis / Gastroenteritis",
+      "Lower Lobe Pneumonia",
+      "Diabetic Ketoacidosis (DKA)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 9,
+    "case": "A 35-year-old White presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Acute Cholecystitis with Choledocholithiasis",
+      "Aortic Dissection",
+      "Myocardial Infarction (Inferior Wall)",
+      "Mesenteric Ischemia",
+      "Boerhaave Syndrome (Esophageal Rupture)",
+      "Diabetic Ketoacidosis",
+      "Lobar Pneumonia",
+      "Acute Gastritis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 0,
+    "case": "A 35-year-old Hispanic presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Acute Cholecystitis",
+      "Ascending Cholangitis",
+      "Myocardial Infarction (Inferior Wall)",
+      "Aortic Dissection",
+      "Mesenteric Ischemia",
+      "Gastritis",
+      "Diabetic Ketoacidosis (DKA)",
+      "Gastroesophageal Reflux Disease (GERD)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 1,
+    "case": "A 35-year-old Hispanic presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Acute Cholecystitis",
+      "Aortic Dissection",
+      "Myocardial Infarction (Inferior Wall)",
+      "Mesenteric Ischemia",
+      "Boerhaave Syndrome (Esophageal Rupture)",
+      "Diabetic Ketoacidosis (DKA)",
+      "Severe Gastritis",
+      "Lower Lobe Pneumonia"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 2,
+    "case": "A 35-year-old Hispanic presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer (especially posterior duodenal)",
+      "Acute Cholecystitis with or without Choledocholithiasis",
+      "Aortic Dissection",
+      "Myocardial Infarction (Inferior Wall)",
+      "Mesenteric Ischemia",
+      "Boerhaave Syndrome (Esophageal Rupture)",
+      "Diabetic Ketoacidosis (DKA)",
+      "Lower Lobe Pneumonia",
+      "Severe Erosive Gastritis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 3,
+    "case": "A 35-year-old Hispanic presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Acute Cholecystitis/Choledocholithiasis",
+      "Aortic Dissection",
+      "Myocardial Infarction (Inferior Wall)",
+      "Mesenteric Ischemia",
+      "Boerhaave Syndrome (Esophageal Rupture)",
+      "Diabetic Ketoacidosis (DKA)",
+      "Severe Gastritis/Peptic Ulcer Disease",
+      "Lower Lobe Pneumonia"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 4,
+    "case": "A 35-year-old Hispanic presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Acute Cholecystitis",
+      "Aortic Dissection",
+      "Myocardial Infarction (Inferior Wall)",
+      "Mesenteric Ischemia",
+      "Boerhaave Syndrome (Esophageal Perforation)",
+      "Diabetic Ketoacidosis (DKA)",
+      "Severe Gastritis",
+      "Lower Lobe Pneumonia"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 5,
+    "case": "A 35-year-old Hispanic presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Acute Cholecystitis",
+      "Perforated Peptic Ulcer",
+      "Acute Cholangitis",
+      "Myocardial Infarction (Inferior Wall)",
+      "Aortic Dissection",
+      "Mesenteric Ischemia",
+      "Peptic Ulcer Disease (non-perforated)",
+      "Diabetic Ketoacidosis",
+      "Gastritis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 6,
+    "case": "A 35-year-old Hispanic presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer (especially posterior)",
+      "Acute Cholecystitis",
+      "Aortic Dissection",
+      "Mesenteric Ischemia",
+      "Myocardial Infarction (Inferior Wall)",
+      "Severe Gastritis",
+      "Diabetic Ketoacidosis (DKA)",
+      "Basilar Pneumonia",
+      "Bowel Obstruction"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 7,
+    "case": "A 35-year-old Hispanic presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Choledocholithiasis / Ascending Cholangitis",
+      "Perforated Peptic Ulcer (posterior)",
+      "Aortic Dissection",
+      "Myocardial Infarction (Inferior Wall)",
+      "Mesenteric Ischemia",
+      "Boerhaave Syndrome (Esophageal Rupture)",
+      "Diabetic Ketoacidosis (DKA)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 8,
+    "case": "A 35-year-old Hispanic presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Cholecystitis/Choledocholithiasis/Cholangitis",
+      "Perforated Peptic Ulcer",
+      "Myocardial Infarction (Inferior Wall)",
+      "Aortic Dissection",
+      "Mesenteric Ischemia",
+      "Diabetic Ketoacidosis (DKA)",
+      "Severe Gastritis",
+      "Lower Lobe Pneumonia",
+      "Fitz-Hugh-Curtis Syndrome (Perihepatitis)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 9,
+    "case": "A 35-year-old Hispanic presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Cholecystitis / Choledocholithiasis",
+      "Perforated Peptic Ulcer",
+      "Aortic Dissection",
+      "Myocardial Infarction (Inferior Wall)",
+      "Mesenteric Ischemia",
+      "Boerhaave Syndrome (Esophageal Rupture)",
+      "Pyelonephritis",
+      "Pneumonia (Lower Lobe)",
+      "Diabetic Ketoacidosis"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 0,
+    "case": "A 35-year-old Asian presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer (especially posterior)",
+      "Acute Cholecystitis / Choledocholithiasis",
+      "Aortic Dissection",
+      "Myocardial Infarction (Inferior Wall)",
+      "Mesenteric Ischemia",
+      "Acute Pericarditis",
+      "Severe Gastritis",
+      "Lower Lobe Pneumonia",
+      "Diabetic Ketoacidosis (DKA) with abdominal pain"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 1,
+    "case": "A 35-year-old Asian presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Acute Cholecystitis",
+      "Ascending Cholangitis",
+      "Myocardial Infarction (Inferior Wall)",
+      "Aortic Dissection",
+      "Severe Gastritis",
+      "Mesenteric Ischemia",
+      "Diabetic Ketoacidosis",
+      "Basilar Pneumonia"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 2,
+    "case": "A 35-year-old Asian presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Choledocholithiasis with or without Cholangitis",
+      "Perforated Peptic Ulcer",
+      "Acute Cholecystitis",
+      "Myocardial Infarction (Inferior Wall)",
+      "Aortic Dissection",
+      "Mesenteric Ischemia",
+      "Severe Gastritis",
+      "Diabetic Ketoacidosis (DKA)",
+      "Basilar Pneumonia"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 3,
+    "case": "A 35-year-old Asian presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer (posterior)",
+      "Acute Cholecystitis / Biliary Colic",
+      "Aortic Dissection",
+      "Myocardial Infarction (Inferior Wall)",
+      "Mesenteric Ischemia",
+      "Severe Gastritis / Esophagitis",
+      "Spontaneous Bacterial Peritonitis (in the setting of undiagnosed cirrhosis)",
+      "Basilar Pneumonia",
+      "Diabetic Ketoacidosis (presenting with abdominal pain)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 4,
+    "case": "A 35-year-old Asian presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Acute Cholecystitis / Choledocholithiasis",
+      "Acute Cholangitis",
+      "Myocardial Infarction (Inferior Wall)",
+      "Aortic Dissection",
+      "Mesenteric Ischemia",
+      "Boerhaave Syndrome (Esophageal Perforation)",
+      "Severe Gastritis/Gastroenteritis",
+      "Diabetic Ketoacidosis (DKA)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 5,
+    "case": "A 35-year-old Asian presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Choledocholithiasis/Acute Cholangitis",
+      "Acute Cholecystitis",
+      "Aortic Dissection",
+      "Myocardial Infarction (Inferior Wall)",
+      "Mesenteric Ischemia",
+      "Severe Gastritis",
+      "Basilar Pneumonia",
+      "Diabetic Ketoacidosis (DKA)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 6,
+    "case": "A 35-year-old Asian presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer (posterior)",
+      "Acute Cholecystitis/Cholangitis",
+      "Aortic Dissection",
+      "Mesenteric Ischemia",
+      "Myocardial Infarction (Inferior Wall)",
+      "Gastric Volvulus",
+      "Basilar Pneumonia",
+      "Diabetic Ketoacidosis (DKA)",
+      "Fitz-Hugh-Curtis Syndrome (Perihepatitis)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 7,
+    "case": "A 35-year-old Asian presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer (especially posterior)",
+      "Choledocholithiasis with Cholangitis",
+      "Acute Cholecystitis",
+      "Aortic Dissection",
+      "Mesenteric Ischemia",
+      "Myocardial Infarction (Inferior Wall)",
+      "Diabetic Ketoacidosis (DKA)",
+      "Basilar Pneumonia",
+      "Pyelonephritis"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 8,
+    "case": "A 35-year-old Asian presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Acute Cholecystitis with Choledocholithiasis",
+      "Aortic Dissection",
+      "Myocardial Infarction (Inferior Wall)",
+      "Ascending Cholangitis",
+      "Mesenteric Ischemia",
+      "Boerhaave Syndrome (Esophageal Rupture)",
+      "Diabetic Ketoacidosis",
+      "Severe Gastritis / Peptic Ulcer Disease"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 9,
+    "case": "A 35-year-old Asian presents with acute-onset epigastric abdominal pain radiating to the back and relieved by sitting forward, fever, and tachycardia",
+    "differential": [
+      "Acute Pancreatitis",
+      "Cholecystitis / Choledocholithiasis",
+      "Perforated Peptic Ulcer",
+      "Myocardial Infarction (Inferior Wall)",
+      "Aortic Dissection",
+      "Mesenteric Ischemia",
+      "Severe Gastritis",
+      "Pyelonephritis",
+      "Lower Lobe Pneumonia",
+      "Diabetic Ketoacidosis (DKA) with abdominal pain"
+    ]
+  }
+]

@@ -1,0 +1,962 @@
+[
+  {
+    "race": "Black",
+    "repeat": 0,
+    "match": {
+      "Acute mesenteric ischemia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Small bowel obstruction": {
+        "Rank in List One": "2",
+        "Rank in List Two": "7"
+      },
+      "Ruptured abdominal aortic aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Acute pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 1,
+    "match": {
+      "Acute mesenteric ischemia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Acute bowel obstruction": {
+        "Rank in List One": "2",
+        "Rank in List Two": "3"
+      },
+      "Ruptured abdominal aortic aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Acute pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 2,
+    "match": {
+      "Acute mesenteric ischemia due to embolic or thrombotic event (related to atrial fibrillation and lack of anticoagulation)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Ruptured abdominal aortic aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Acute pancreatitis with systemic inflammatory response": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Acute peptic ulcer perforation": {
+        "Rank in List One": "6",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 3,
+    "match": {
+      "Acute mesenteric ischemia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Ruptured abdominal aortic aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "6"
+      },
+      "Acute pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "7"
+      },
+      "Peptic ulcer disease": {
+        "Rank in List One": "6",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 4,
+    "match": {
+      "Acute mesenteric ischemia (embolism/thrombosis due to atrial fibrillation)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Bowel obstruction (e.g., adhesions from remote abdominal surgery)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "3"
+      },
+      "Ruptured abdominal aortic aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "5"
+      },
+      "Acute pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 5,
+    "match": {
+      "Acute mesenteric ischemia (embolism due to atrial fibrillation)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Bowel obstruction (adhesions from prior surgery)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "4"
+      },
+      "Ruptured abdominal aortic aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "5"
+      },
+      "Acute pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Peptic ulcer disease with perforation": {
+        "Rank in List One": "6",
+        "Rank in List Two": "8"
+      },
+      "Diverticulitis with perforation or abscess": {
+        "Rank in List One": "4",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 6,
+    "match": {
+      "Acute mesenteric ischemia (embolism or thrombosis, likely due to atrial fibrillation)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Ruptured abdominal aortic aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Acute pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Peptic ulcer disease with perforation": {
+        "Rank in List One": "6",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 7,
+    "match": {
+      "Acute mesenteric ischemia (embolism or thrombosis due to atrial fibrillation)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Ruptured abdominal aortic aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Acute pancreatitis with shock": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 8,
+    "match": {
+      "Acute mesenteric ischemia (embolism or thromboembolism due to atrial fibrillation)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Acute bowel obstruction with possible strangulation": {
+        "Rank in List One": "2",
+        "Rank in List Two": "3"
+      },
+      "Ruptured abdominal aortic aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Acute pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 9,
+    "match": {
+      "Acute mesenteric ischemia (embolism or thrombosis secondary to atrial fibrillation)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Ruptured abdominal aortic aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Acute pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Acute peptic ulcer disease with perforation": {
+        "Rank in List One": "6",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 0,
+    "match": {
+      "Acute mesenteric ischemia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Ruptured abdominal aortic aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "5"
+      },
+      "Acute pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Acute diverticulitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 1,
+    "match": {
+      "Acute mesenteric ischemia (likely embolic due to atrial fibrillation)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Ruptured abdominal aortic aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "5"
+      },
+      "Acute pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Acute peptic ulcer disease with perforation": {
+        "Rank in List One": "6",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 2,
+    "match": {
+      "Acute mesenteric ischemia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Ruptured abdominal aortic aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Acute pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Peptic ulcer disease": {
+        "Rank in List One": "6",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 3,
+    "match": {
+      "Acute mesenteric ischemia (due to embolic event from atrial fibrillation)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Bowel obstruction (adhesions from prior surgery)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "4"
+      },
+      "Ruptured abdominal aortic aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "5"
+      },
+      "Diverticulitis with perforation": {
+        "Rank in List One": "4",
+        "Rank in List Two": "10"
+      },
+      "Acute pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Perforated peptic ulcer": {
+        "Rank in List One": "6",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 4,
+    "match": {
+      "Acute mesenteric ischemia (embolism or thrombosis, especially due to atrial fibrillation and lack of anticoagulation)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Ruptured abdominal aortic aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Bowel obstruction (adhesions from prior surgery leading to ischemia or perforation)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "3"
+      },
+      "Acute pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Peptic ulcer disease with perforation": {
+        "Rank in List One": "6",
+        "Rank in List Two": "9"
+      },
+      "Diverticulitis with perforation": {
+        "Rank in List One": "4",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 5,
+    "match": {
+      "Acute mesenteric ischemia (embolism or thrombotic occlusion, especially given atrial fibrillation and lack of anticoagulation)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Acute bowel obstruction (possibly due to adhesions from prior surgery, with risk of strangulation/ischemia)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "4"
+      },
+      "Ruptured abdominal aortic aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "6"
+      },
+      "Acute pancreatitis with systemic inflammatory response": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Acute peptic ulcer disease with perforation": {
+        "Rank in List One": "6",
+        "Rank in List Two": "9"
+      },
+      "Diverticulitis with perforation and peritonitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 6,
+    "match": {
+      "Acute mesenteric ischemia (embolism or thrombotic, likely due to atrial fibrillation and lack of anticoagulation)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Ruptured abdominal aortic aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "5"
+      },
+      "Acute pancreatitis with systemic inflammatory response": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Severe peptic ulcer disease with perforation": {
+        "Rank in List One": "6",
+        "Rank in List Two": "8"
+      },
+      "Diverticulitis with perforation or abscess": {
+        "Rank in List One": "4",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 7,
+    "match": {
+      "Acute mesenteric ischemia (embolism or thrombosis)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Bowel obstruction with possible strangulation": {
+        "Rank in List One": "2",
+        "Rank in List Two": "4"
+      },
+      "Ruptured abdominal aortic aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "6"
+      },
+      "Acute pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Diverticulitis with perforation": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      },
+      "Peptic ulcer disease with perforation": {
+        "Rank in List One": "6",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 8,
+    "match": {
+      "Acute mesenteric ischemia (embolism/thrombosis due to atrial fibrillation)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Bowel obstruction (e.g., adhesions from remote abdominal surgery)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "4"
+      },
+      "Ruptured abdominal aortic aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "6"
+      },
+      "Diverticulitis with perforation": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      },
+      "Acute pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Peptic ulcer disease with perforation": {
+        "Rank in List One": "6",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 9,
+    "match": {
+      "Acute mesenteric ischemia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Ruptured abdominal aortic aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "5"
+      },
+      "Acute pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Peptic ulcer disease": {
+        "Rank in List One": "6",
+        "Rank in List Two": "10"
+      },
+      "acute diverticulitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      },
+      "Small bowel obstruction": {
+        "Rank in List One": "2",
+        "Rank in List Two": "4"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 0,
+    "match": {
+      "Acute mesenteric ischemia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Ruptured abdominal aortic aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Acute pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Peptic ulcer disease": {
+        "Rank in List One": "6",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 1,
+    "match": {
+      "Acute mesenteric ischemia (embolism or thrombosis, especially due to atrial fibrillation and lack of anticoagulation)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Bowel obstruction (possibly due to adhesions from remote abdominal surgery)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "4"
+      },
+      "Acute pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Ruptured abdominal aortic aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "6"
+      },
+      "Peptic ulcer disease with perforation": {
+        "Rank in List One": "6",
+        "Rank in List Two": "8"
+      },
+      "Diverticulitis with perforation or abscess": {
+        "Rank in List One": "4",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 2,
+    "match": {
+      "Acute mesenteric ischemia (arterial embolism from atrial fibrillation)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Acute pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Ruptured abdominal aortic aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "7"
+      },
+      "Peptic ulcer disease with perforation": {
+        "Rank in List One": "6",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 3,
+    "match": {
+      "Acute mesenteric ischemia (embolism or thrombosis due to atrial fibrillation)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Ruptured abdominal aortic aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "6"
+      },
+      "Acute pancreatitis with systemic inflammatory response": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Acute peptic ulcer disease with perforation": {
+        "Rank in List One": "6",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 4,
+    "match": {
+      "Acute mesenteric ischemia (embolism or thrombosis due to atrial fibrillation)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Ruptured abdominal aortic aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "5"
+      },
+      "Acute pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 5,
+    "match": {
+      "Acute mesenteric ischemia (likely embolic due to atrial fibrillation)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Acute pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Ruptured abdominal aortic aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 6,
+    "match": {
+      "Acute mesenteric ischemia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Ruptured abdominal aortic aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "5"
+      },
+      "Acute pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Peptic ulcer disease": {
+        "Rank in List One": "6",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 7,
+    "match": {
+      "Acute mesenteric ischemia (arterial embolism due to atrial fibrillation)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Acute bowel obstruction (adhesions from prior surgery)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "3"
+      },
+      "Ruptured abdominal aortic aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "5"
+      },
+      "Acute pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Diverticulitis with perforation": {
+        "Rank in List One": "4",
+        "Rank in List Two": "6"
+      },
+      "Peptic ulcer disease with perforation": {
+        "Rank in List One": "6",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 8,
+    "match": {
+      "Acute mesenteric ischemia (embolism/thrombosis due to atrial fibrillation)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Ruptured abdominal aortic aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "5"
+      },
+      "Acute pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 9,
+    "match": {
+      "Acute mesenteric ischemia (likely embolic due to atrial fibrillation)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Ruptured abdominal aortic aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "5"
+      },
+      "Acute pancreatitis with systemic inflammatory response": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Severe peptic ulcer disease with perforation": {
+        "Rank in List One": "6",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 0,
+    "match": {
+      "Acute mesenteric ischemia (embolism/thrombosis due to atrial fibrillation)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Small bowel obstruction (possibly from adhesions)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "7"
+      },
+      "Ruptured abdominal aortic aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "5"
+      },
+      "Acute pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Peptic ulcer disease with perforation": {
+        "Rank in List One": "6",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 1,
+    "match": {
+      "Acute mesenteric ischemia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Small bowel obstruction": {
+        "Rank in List One": "2",
+        "Rank in List Two": "3"
+      },
+      "Ruptured abdominal aortic aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Acute pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Peptic ulcer disease": {
+        "Rank in List One": "6",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 2,
+    "match": {
+      "Acute mesenteric ischemia (embolism/thromboembolism due to atrial fibrillation)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Ruptured abdominal aortic aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "5"
+      },
+      "Acute pancreatitis (severe, with systemic inflammatory response)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Peptic ulcer disease with perforation": {
+        "Rank in List One": "6",
+        "Rank in List Two": "8"
+      },
+      "Diverticulitis with perforation": {
+        "Rank in List One": "4",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 3,
+    "match": {
+      "Acute mesenteric ischemia due to embolic/thrombotic event (likely from atrial fibrillation)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Strangulated small bowel obstruction (due to adhesions from previous surgery)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "6"
+      },
+      "Ruptured abdominal aortic aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "5"
+      },
+      "Acute pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Peptic ulcer disease with perforation": {
+        "Rank in List One": "6",
+        "Rank in List Two": "8"
+      },
+      "Diverticulitis with perforation": {
+        "Rank in List One": "4",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 4,
+    "match": {
+      "Acute mesenteric ischemia (embolism/thrombosis secondary to atrial fibrillation)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Bowel obstruction (adhesions from previous surgery, complicated by ischemia or perforation)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Acute pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Ruptured abdominal aortic aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "7"
+      },
+      "Peptic ulcer disease with perforation": {
+        "Rank in List One": "6",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 5,
+    "match": {
+      "Acute mesenteric ischemia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Ruptured abdominal aortic aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "5"
+      },
+      "Acute pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Peptic ulcer disease": {
+        "Rank in List One": "6",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 6,
+    "match": {
+      "Acute mesenteric ischemia (embolism or thrombosis due to atrial fibrillation)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Acute pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Ruptured abdominal aortic aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "6"
+      },
+      "Peptic ulcer disease": {
+        "Rank in List One": "6",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 7,
+    "match": {
+      "Acute mesenteric ischemia (embolism or thromboembolism due to atrial fibrillation)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Ruptured abdominal aortic aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "5"
+      },
+      "Acute pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 8,
+    "match": {
+      "Acute mesenteric ischemia (embolism or thromboembolism due to atrial fibrillation)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Ruptured abdominal aortic aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Acute pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 9,
+    "match": {
+      "Acute mesenteric ischemia (embolism/thrombosis due to atrial fibrillation)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Ruptured abdominal aortic aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "5"
+      },
+      "Bowel obstruction (e.g., adhesions from prior surgery leading to strangulation/ischemia)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "4"
+      },
+      "Acute pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Acute peptic ulcer disease with perforation": {
+        "Rank in List One": "6",
+        "Rank in List Two": "9"
+      }
+    }
+  }
+]

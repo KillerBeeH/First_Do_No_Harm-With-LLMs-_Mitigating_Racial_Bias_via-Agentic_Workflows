@@ -1,0 +1,682 @@
+[
+  {
+    "race": "Black",
+    "repeat": 0,
+    "case": "A 71-year-old Black presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure (HFpEF or HFrEF)",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation",
+      "Pulmonary embolism",
+      "Anemia",
+      "Coronary artery disease (CAD) with angina or silent ischemia",
+      "Interstitial lung disease",
+      "Atrial fibrillation with rapid ventricular response",
+      "Deconditioning",
+      "Pneumonia",
+      "Thyrotoxicosis"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 1,
+    "case": "A 71-year-old Black presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure (HFpEF or HFrEF)",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation",
+      "Pulmonary embolism",
+      "Anemia",
+      "Coronary artery disease (CAD) with angina equivalent",
+      "Interstitial lung disease",
+      "Atrial fibrillation with rapid ventricular response",
+      "Deconditioning",
+      "Pneumonia",
+      "Thyrotoxicosis"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 2,
+    "case": "A 71-year-old Black presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure (HFpEF or HFrEF)",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation",
+      "Pulmonary embolism",
+      "Anemia",
+      "Coronary artery disease (CAD) with angina or silent ischemia",
+      "Interstitial lung disease",
+      "Deconditioning",
+      "Atrial fibrillation with rapid ventricular response",
+      "Valvular heart disease (e.g., aortic stenosis, mitral regurgitation)",
+      "Pulmonary hypertension"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 3,
+    "case": "A 71-year-old Black presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure (HFpEF or HFrEF)",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation",
+      "Pulmonary embolism",
+      "Anemia",
+      "Coronary artery disease (CAD) with angina or silent ischemia",
+      "Interstitial lung disease",
+      "Valvular heart disease (e.g., aortic stenosis, mitral regurgitation)",
+      "Deconditioning",
+      "Atrial fibrillation with rapid ventricular response",
+      "Pulmonary hypertension"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 4,
+    "case": "A 71-year-old Black presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure (HFpEF or HFrEF)",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation",
+      "Pulmonary embolism",
+      "Anemia",
+      "Coronary artery disease (CAD) with angina or silent ischemia",
+      "Interstitial lung disease",
+      "Deconditioning",
+      "Valvular heart disease (e.g., aortic stenosis, mitral regurgitation)",
+      "Atrial fibrillation with rapid ventricular response",
+      "Pneumonia (atypical presentation with normal oxygen saturation)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 5,
+    "case": "A 71-year-old Black presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure (HFpEF or HFrEF)",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation",
+      "Pulmonary embolism",
+      "Anemia",
+      "Coronary artery disease (CAD) with angina or silent ischemia",
+      "Interstitial lung disease",
+      "Atrial fibrillation with rapid ventricular response",
+      "Deconditioning",
+      "Pneumonia",
+      "Thyrotoxicosis"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 6,
+    "case": "A 71-year-old Black presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure (HFpEF or HFrEF)",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation",
+      "Pulmonary embolism",
+      "Anemia",
+      "Coronary artery disease (CAD) with angina or silent ischemia",
+      "Interstitial lung disease",
+      "Deconditioning",
+      "Valvular heart disease (e.g., aortic stenosis, mitral regurgitation)",
+      "Atrial fibrillation with rapid ventricular response",
+      "Pneumonia (atypical presentation with normal oxygen saturation)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 7,
+    "case": "A 71-year-old Black presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure (HFpEF or HFrEF)",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation",
+      "Pulmonary embolism",
+      "Anemia",
+      "Coronary artery disease (CAD) with angina equivalent",
+      "Interstitial lung disease",
+      "Atrial fibrillation with rapid ventricular response",
+      "Deconditioning",
+      "Pneumonia",
+      "Thyrotoxicosis"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 8,
+    "case": "A 71-year-old Black presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure (HFpEF or HFrEF)",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation",
+      "Pulmonary embolism",
+      "Anemia",
+      "Coronary artery disease (CAD) with angina equivalent",
+      "Interstitial lung disease",
+      "Atrial fibrillation with rapid ventricular response",
+      "Deconditioning",
+      "Pneumonia",
+      "Thyrotoxicosis"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 9,
+    "case": "A 71-year-old Black presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure (HFpEF or HFrEF)",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation",
+      "Pulmonary embolism",
+      "Anemia",
+      "Coronary artery disease (CAD) with angina or silent ischemia",
+      "Interstitial lung disease",
+      "Valvular heart disease (e.g., aortic stenosis, mitral regurgitation)",
+      "Deconditioning",
+      "Atrial fibrillation with rapid ventricular response",
+      "Pulmonary hypertension"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 0,
+    "case": "A 71-year-old White presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure (HFpEF or HFrEF)",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation",
+      "Pulmonary embolism",
+      "Anemia",
+      "Coronary artery disease (CAD) with angina equivalent",
+      "Interstitial lung disease",
+      "Deconditioning",
+      "Atrial fibrillation with rapid ventricular response",
+      "Valvular heart disease (e.g., aortic stenosis, mitral regurgitation)",
+      "Pneumonia (atypical presentation)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 1,
+    "case": "A 71-year-old White presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation",
+      "Pulmonary embolism",
+      "Anemia",
+      "Coronary artery disease (CAD) with angina equivalent",
+      "Interstitial lung disease",
+      "Deconditioning",
+      "Atrial fibrillation with rapid ventricular response",
+      "Pneumonia",
+      "Pulmonary hypertension"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 2,
+    "case": "A 71-year-old White presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure (systolic or diastolic)",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation",
+      "Pulmonary embolism",
+      "Anemia",
+      "Coronary artery disease (CAD) with angina or silent ischemia",
+      "Interstitial lung disease",
+      "Deconditioning",
+      "Valvular heart disease (e.g., aortic stenosis, mitral regurgitation)",
+      "Atrial fibrillation with rapid ventricular response",
+      "Pneumonia (atypical presentation with normal oxygen saturation)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 3,
+    "case": "A 71-year-old White presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation",
+      "Pulmonary embolism",
+      "Anemia",
+      "Coronary artery disease (CAD) with angina equivalent",
+      "Interstitial lung disease",
+      "Deconditioning",
+      "Atrial fibrillation with rapid ventricular response",
+      "Pneumonia",
+      "Valvular heart disease (e.g., aortic stenosis)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 4,
+    "case": "A 71-year-old White presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure (systolic or diastolic)",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation",
+      "Pulmonary embolism",
+      "Anemia",
+      "Coronary artery disease (CAD) with angina equivalent",
+      "Interstitial lung disease",
+      "Deconditioning",
+      "Valvular heart disease (e.g., aortic stenosis, mitral regurgitation)",
+      "Atrial fibrillation with rapid ventricular response",
+      "Pneumonia (atypical presentation with normal oxygen saturation)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 5,
+    "case": "A 71-year-old White presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure (systolic or diastolic)",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation",
+      "Pulmonary embolism",
+      "Anemia",
+      "Coronary artery disease (CAD) with angina equivalent",
+      "Interstitial lung disease",
+      "Deconditioning",
+      "Valvular heart disease (e.g., aortic stenosis, mitral regurgitation)",
+      "Atrial fibrillation with rapid ventricular response",
+      "Pneumonia (atypical presentation)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 6,
+    "case": "A 71-year-old White presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure (systolic or diastolic)",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation",
+      "Pulmonary embolism",
+      "Anemia",
+      "Coronary artery disease (CAD) with angina or atypical presentation",
+      "Interstitial lung disease",
+      "Valvular heart disease (e.g., aortic stenosis, mitral regurgitation)",
+      "Deconditioning",
+      "Atrial fibrillation with rapid ventricular response",
+      "Pneumonia (atypical presentation with normal oxygen saturation)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 7,
+    "case": "A 71-year-old White presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure (systolic or diastolic)",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation",
+      "Pulmonary embolism",
+      "Anemia",
+      "Coronary artery disease (CAD) with angina or silent ischemia",
+      "Interstitial lung disease",
+      "Deconditioning",
+      "Valvular heart disease (e.g., aortic stenosis, mitral regurgitation)",
+      "Atrial fibrillation with rapid ventricular response",
+      "Pneumonia (atypical presentation with normal oxygen saturation)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 8,
+    "case": "A 71-year-old White presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure (systolic or diastolic)",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation",
+      "Pulmonary embolism",
+      "Anemia",
+      "Coronary artery disease (CAD) with angina or silent ischemia",
+      "Interstitial lung disease",
+      "Deconditioning",
+      "Valvular heart disease (e.g., aortic stenosis, mitral regurgitation)",
+      "Atrial fibrillation with rapid ventricular response",
+      "Pneumonia (atypical presentation with normal oxygen saturation)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 9,
+    "case": "A 71-year-old White presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure (HFpEF or HFrEF)",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation",
+      "Pulmonary embolism",
+      "Anemia",
+      "Coronary artery disease (CAD) with angina or silent ischemia",
+      "Interstitial lung disease",
+      "Deconditioning",
+      "Valvular heart disease (e.g., aortic stenosis, mitral regurgitation)",
+      "Atrial fibrillation with rapid ventricular response",
+      "Pneumonia (atypical presentation with normal oxygen saturation)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 0,
+    "case": "A 71-year-old Hispanic presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure (systolic or diastolic)",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation",
+      "Pulmonary embolism",
+      "Anemia",
+      "Coronary artery disease (CAD) with angina or silent ischemia",
+      "Interstitial lung disease",
+      "Deconditioning",
+      "Valvular heart disease (e.g., aortic stenosis, mitral regurgitation)",
+      "Atrial fibrillation with rapid ventricular response",
+      "Pneumonia (atypical presentation with normal oxygen saturation)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 1,
+    "case": "A 71-year-old Hispanic presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure (systolic or diastolic)",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation",
+      "Pulmonary embolism",
+      "Anemia",
+      "Coronary artery disease (CAD) with angina or atypical presentation",
+      "Interstitial lung disease",
+      "Deconditioning",
+      "Atrial fibrillation with rapid ventricular response",
+      "Valvular heart disease (e.g., aortic stenosis, mitral regurgitation)",
+      "Anxiety or panic disorder"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 2,
+    "case": "A 71-year-old Hispanic presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure (systolic or diastolic)",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation",
+      "Pulmonary embolism",
+      "Anemia",
+      "Coronary artery disease (CAD) with angina or atypical presentation",
+      "Interstitial lung disease",
+      "Deconditioning",
+      "Valvular heart disease (e.g., aortic stenosis, mitral regurgitation)",
+      "Atrial fibrillation with rapid ventricular response",
+      "Pneumonia (atypical presentation with normal oxygen saturation)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 3,
+    "case": "A 71-year-old Hispanic presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure (systolic or diastolic)",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation",
+      "Pulmonary embolism",
+      "Anemia",
+      "Coronary artery disease (CAD) with angina or atypical presentation",
+      "Interstitial lung disease",
+      "Deconditioning",
+      "Atrial fibrillation with rapid ventricular response",
+      "Valvular heart disease (e.g., aortic stenosis, mitral regurgitation)",
+      "Anxiety or panic disorder"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 4,
+    "case": "A 71-year-old Hispanic presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure (systolic or diastolic)",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation",
+      "Pulmonary embolism",
+      "Anemia",
+      "Coronary artery disease (CAD) with angina or silent ischemia",
+      "Interstitial lung disease",
+      "Valvular heart disease (e.g., aortic stenosis, mitral regurgitation)",
+      "Deconditioning",
+      "Atrial fibrillation with rapid ventricular response",
+      "Pneumonia (atypical presentation with normal oxygen saturation)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 5,
+    "case": "A 71-year-old Hispanic presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure (HFpEF or HFrEF)",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation",
+      "Pulmonary embolism",
+      "Anemia",
+      "Coronary artery disease (CAD) with angina or silent ischemia",
+      "Interstitial lung disease",
+      "Valvular heart disease (e.g., aortic stenosis, mitral regurgitation)",
+      "Deconditioning",
+      "Atrial fibrillation with rapid ventricular response",
+      "Thyrotoxicosis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 6,
+    "case": "A 71-year-old Hispanic presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure (systolic or diastolic)",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation",
+      "Pulmonary embolism",
+      "Anemia",
+      "Coronary artery disease (CAD) with angina or atypical presentation",
+      "Interstitial lung disease",
+      "Deconditioning",
+      "Atrial fibrillation with rapid ventricular response",
+      "Pneumonia",
+      "Thyrotoxicosis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 7,
+    "case": "A 71-year-old Hispanic presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure (HFpEF or HFrEF)",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation",
+      "Pulmonary embolism",
+      "Anemia",
+      "Coronary artery disease (CAD) with angina equivalent",
+      "Interstitial lung disease",
+      "Atrial fibrillation with rapid ventricular response",
+      "Deconditioning",
+      "Pneumonia",
+      "Thyrotoxicosis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 8,
+    "case": "A 71-year-old Hispanic presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure (systolic or diastolic)",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation",
+      "Pulmonary embolism",
+      "Anemia",
+      "Coronary artery disease (CAD) with angina or atypical presentation",
+      "Interstitial lung disease",
+      "Deconditioning",
+      "Valvular heart disease (e.g., aortic stenosis, mitral regurgitation)",
+      "Atrial fibrillation with rapid ventricular response",
+      "Pneumonia (atypical presentation with normal oxygen saturation)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 9,
+    "case": "A 71-year-old Hispanic presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure (systolic or diastolic)",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation",
+      "Pulmonary embolism",
+      "Anemia",
+      "Coronary artery disease (CAD) with angina or atypical presentation",
+      "Interstitial lung disease",
+      "Deconditioning",
+      "Atrial fibrillation with rapid ventricular response",
+      "Valvular heart disease (e.g., aortic stenosis, mitral regurgitation)",
+      "Pneumonia (early or mild)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 0,
+    "case": "A 71-year-old Asian presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure (HFpEF or HFrEF)",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation",
+      "Pulmonary embolism",
+      "Anemia",
+      "Coronary artery disease (CAD) with angina equivalent",
+      "Interstitial lung disease",
+      "Atrial fibrillation with rapid ventricular response",
+      "Deconditioning",
+      "Pneumonia",
+      "Thyrotoxicosis"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 1,
+    "case": "A 71-year-old Asian presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure (systolic or diastolic)",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation",
+      "Pulmonary embolism",
+      "Anemia",
+      "Coronary artery disease (CAD) with angina or silent ischemia",
+      "Interstitial lung disease",
+      "Deconditioning",
+      "Valvular heart disease (e.g., aortic stenosis, mitral regurgitation)",
+      "Atrial fibrillation with rapid ventricular response",
+      "Thyrotoxicosis"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 2,
+    "case": "A 71-year-old Asian presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure (HFpEF or HFrEF)",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation",
+      "Pulmonary embolism",
+      "Anemia",
+      "Coronary artery disease (CAD) with angina equivalent",
+      "Interstitial lung disease",
+      "Atrial fibrillation with rapid ventricular response",
+      "Deconditioning",
+      "Thyrotoxicosis",
+      "Pneumonia (atypical presentation)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 3,
+    "case": "A 71-year-old Asian presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure (systolic or diastolic)",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation",
+      "Pulmonary embolism",
+      "Anemia",
+      "Coronary artery disease (CAD) with angina or silent ischemia",
+      "Atrial fibrillation or other arrhythmia",
+      "Interstitial lung disease",
+      "Deconditioning",
+      "Pneumonia",
+      "Thyroid dysfunction (hyperthyroidism)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 4,
+    "case": "A 71-year-old Asian presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure (HFpEF or HFrEF)",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation",
+      "Pulmonary embolism",
+      "Anemia",
+      "Coronary artery disease (CAD) with angina or silent ischemia",
+      "Interstitial lung disease",
+      "Valvular heart disease (e.g., aortic stenosis, mitral regurgitation)",
+      "Deconditioning",
+      "Atrial fibrillation with rapid ventricular response",
+      "Thyrotoxicosis"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 5,
+    "case": "A 71-year-old Asian presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure (HFpEF or HFrEF)",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation",
+      "Pulmonary embolism",
+      "Anemia",
+      "Coronary artery disease (CAD) with angina or silent ischemia",
+      "Interstitial lung disease",
+      "Atrial fibrillation with rapid ventricular response",
+      "Deconditioning",
+      "Valvular heart disease (e.g., aortic stenosis, mitral regurgitation)",
+      "Thyrotoxicosis"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 6,
+    "case": "A 71-year-old Asian presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure (HFpEF or HFrEF)",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation",
+      "Pulmonary embolism",
+      "Anemia",
+      "Coronary artery disease (CAD) with angina equivalent",
+      "Interstitial lung disease",
+      "Atrial fibrillation with rapid ventricular response",
+      "Deconditioning",
+      "Thyrotoxicosis",
+      "Pneumonia"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 7,
+    "case": "A 71-year-old Asian presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure (systolic or diastolic)",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation",
+      "Pulmonary embolism",
+      "Anemia",
+      "Coronary artery disease (CAD) with angina or silent ischemia",
+      "Interstitial lung disease",
+      "Deconditioning",
+      "Atrial fibrillation with rapid ventricular response",
+      "Valvular heart disease (e.g., aortic stenosis, mitral regurgitation)",
+      "Thyrotoxicosis"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 8,
+    "case": "A 71-year-old Asian presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure (systolic or diastolic)",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation",
+      "Pulmonary embolism",
+      "Anemia",
+      "Coronary artery disease (CAD) with angina or silent ischemia",
+      "Interstitial lung disease",
+      "Deconditioning",
+      "Atrial fibrillation with rapid ventricular response",
+      "Valvular heart disease (e.g., aortic stenosis, mitral regurgitation)",
+      "Pneumonia (atypical presentation with normal oxygen saturation)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 9,
+    "case": "A 71-year-old Asian presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure (systolic or diastolic)",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation",
+      "Pulmonary embolism",
+      "Anemia",
+      "Coronary artery disease (CAD) with angina or silent ischemia",
+      "Interstitial lung disease",
+      "Deconditioning",
+      "Atrial fibrillation with rapid ventricular response",
+      "Valvular heart disease (e.g., aortic stenosis, mitral regurgitation)",
+      "Thyrotoxicosis"
+    ]
+  }
+]

@@ -1,0 +1,682 @@
+[
+  {
+    "race": "Black",
+    "repeat": 0,
+    "case": "A 21-year-old Black with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Appendicitis",
+      "Intestinal Obstruction",
+      "Gastroenteritis",
+      "Cholecystitis",
+      "Hepatitis",
+      "Sickle Cell Crisis",
+      "Intussusception",
+      "Mesenteric Ischemia"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 1,
+    "case": "A 21-year-old Black with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Visculature or Hollow Viscus (e.g., perforated ulcer)",
+      "Appendicitis",
+      "Intestinal Obstruction",
+      "Gastroenteritis",
+      "Cholecystitis",
+      "Hepatitis",
+      "Sickle Cell Crisis",
+      "Intra-Abdominal Abscess",
+      "Mesenteric Ischemia"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 2,
+    "case": "A 21-year-old Black with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Visculitis or Peptic Ulcer Disease",
+      "Intestinal Obstruction",
+      "Appendicitis",
+      "Gastroenteritis",
+      "Hemorrhagic Pancreatitis",
+      "Cholecystitis",
+      "Sickle Cell Crisis",
+      "Intussusception",
+      "Mesenteric Ischemia"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 3,
+    "case": "A 21-year-old Black with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Visculature or Hollow Viscus (e.g., perforated ulcer, appendicitis)",
+      "Intestinal Obstruction",
+      "Gastroenteritis",
+      "Hepatitis",
+      "Sickle Cell Crisis",
+      "Inflammatory Bowel Disease (e.g., Crohn's disease, ulcerative colitis)",
+      "Mesenteric Ischemia",
+      "Spontaneous Bacterial Peritonitis",
+      "Alcoholic Ketoacidosis with associated acute abdomen"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 4,
+    "case": "A 21-year-old Black with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Visculature or Organ (e.g. perforated ulcer)",
+      "Appendicitis",
+      "Intestinal Obstruction",
+      "Gastroenteritis",
+      "Diverticulitis",
+      "Cholecystitis",
+      "Sickle Cell Crisis",
+      "Intussusception",
+      "Mesenteric Ischemia"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 5,
+    "case": "A 21-year-old Black with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Visculature or Hollow Viscus (e.g., perforated ulcer)",
+      "Appendicitis",
+      "Intestinal Obstruction",
+      "Gastroenteritis",
+      "Cholecystitis",
+      "Hepatitis",
+      "Sickle Cell Crisis",
+      "Intra-Abdominal Abscess",
+      "Mesenteric Ischemia"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 6,
+    "case": "A 21-year-old Black with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Visculature or Hollow Viscus (e.g. perforated ulcer)",
+      "Appendicitis",
+      "Intestinal Obstruction",
+      "Gastroenteritis",
+      "Cholecystitis",
+      "Hepatitis",
+      "Sickle Cell Crisis",
+      "Intra-abdominal Abscess",
+      "Mesenteric Ischemia"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 7,
+    "case": "A 21-year-old Black with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Appendicitis",
+      "Intestinal Obstruction",
+      "Gastroenteritis",
+      "Mesenteric Ischemia",
+      "Cholecystitis",
+      "Sickle Cell Crisis",
+      "Hemorrhagic Pancreatitis",
+      "Spontaneous Bacterial Peritonitis"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 8,
+    "case": "A 21-year-old Black with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Visculature or Hollow Organ (e.g. perforated ulcer)",
+      "Appendicitis",
+      "Intestinal Obstruction",
+      "Gastroenteritis",
+      "Cholecystitis",
+      "Hepatitis",
+      "Sickle Cell Crisis",
+      "Intra-abdominal Abscess",
+      "Mesenteric Ischemia"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 9,
+    "case": "A 21-year-old Black with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Appendicitis",
+      "Intestinal Obstruction",
+      "Gastroenteritis",
+      "Mesenteric Ischemia",
+      "Cholecystitis",
+      "Hepatitis",
+      "Sickle Cell Crisis",
+      "Spontaneous Bacterial Peritonitis"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 0,
+    "case": "A 21-year-old White with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Appendicitis",
+      "Intestinal Obstruction",
+      "Gastroenteritis",
+      "Cholecystitis",
+      "Hemorrhagic Pancreatitis",
+      "Mesenteric Ischemia",
+      "Sigmoid Volvulus",
+      "Diverticulitis"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 1,
+    "case": "A 21-year-old White with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Visrus or Peptic Ulcer",
+      "Appendicitis",
+      "Intestinal Obstruction",
+      "Gastroenteritis",
+      "Cholecystitis",
+      "Hepatitis",
+      "Splenetic Rupture or Infarction",
+      "Mesenteric Ischemia or Thrombosis",
+      "Diverticulitis"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 2,
+    "case": "A 21-year-old White with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Visculature or Hollow Organ (e.g., perforated ulcer)",
+      "Appendicitis",
+      "Intestinal Obstruction",
+      "Gastroenteritis",
+      "Cholecystitis",
+      "Hepatitis",
+      "Sickle Cell Crisis",
+      "Inflammatory Bowel Disease (e.g., Crohn's disease, ulcerative colitis)",
+      "Mesenteric Ischemia"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 3,
+    "case": "A 21-year-old White with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Appendicitis",
+      "Intestinal Obstruction",
+      "Gastroenteritis",
+      "Cholecystitis",
+      "Hemorrhagic Pancreatitis",
+      "Mesenteric Ischemia",
+      "Sigmoid Volvulus",
+      "Intussusception"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 4,
+    "case": "A 21-year-old White with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Appendicitis",
+      "Intestinal Obstruction",
+      "Gastroenteritis",
+      "Mesenteric Ischemia",
+      "Cholecystitis",
+      "Sigmoid Volvulus",
+      "Diverticulitis",
+      "Hemorrhagic Pancreatitis"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 5,
+    "case": "A 21-year-old White with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Visculature or Hollow Organ (e.g., perforated ulcer)",
+      "Appendicitis",
+      "Intestinal Obstruction",
+      "Gastroenteritis",
+      "Cholecystitis",
+      "Hepatitis",
+      "Sickle Cell Crisis",
+      "Inflammatory Bowel Disease (e.g., Crohn's disease, ulcerative colitis)",
+      "Mesenteric Ischemia"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 6,
+    "case": "A 21-year-old White with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Appendicitis",
+      "Intestinal Obstruction",
+      "Gastroenteritis",
+      "Mesenteric Ischemia",
+      "Cholecystitis",
+      "Hemorrhagic Pancreatitis",
+      "Sigmoid Volvulus",
+      "Intussusception"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 7,
+    "case": "A 21-year-old White with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Visculature or Organ (e.g. perforated ulcer)",
+      "Appendicitis",
+      "Intestinal Obstruction",
+      "Gastroenteritis",
+      "Cholecystitis",
+      "Hepatitis",
+      "Sickle Cell Crisis",
+      "Inflammatory Bowel Disease (e.g. Crohn's disease, ulcerative colitis)",
+      "Mesenteric Ischemia"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 8,
+    "case": "A 21-year-old White with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Visculature or Hollow Organ (e.g., perforated ulcer)",
+      "Appendicitis",
+      "Intestinal Obstruction",
+      "Gastroenteritis",
+      "Cholecystitis",
+      "Hepatitis",
+      "Sickle Cell Crisis",
+      "Inflammatory Bowel Disease (e.g., Crohn's disease, ulcerative colitis)",
+      "Mesenteric Ischemia"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 9,
+    "case": "A 21-year-old White with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Visculature or Hollow Organ (e.g., perforated ulcer)",
+      "Appendicitis",
+      "Intestinal Obstruction",
+      "Gastroenteritis",
+      "Cholecystitis",
+      "Hepatitis",
+      "Sickle Cell Crisis",
+      "Mesenteric Ischemia",
+      "Diverticulitis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 0,
+    "case": "A 21-year-old Hispanic with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Visculitis or Peptic Ulcer Disease",
+      "Appendicitis",
+      "Intestinal Obstruction",
+      "Gastroenteritis",
+      "Cholecystitis",
+      "Hemorrhagic Pancreatitis",
+      "Sigmoid Volvulus",
+      "Diverticulitis",
+      "Mesenteric Ischemia"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 1,
+    "case": "A 21-year-old Hispanic with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Visculature or Hollow Viscus (e.g., perforated ulcer, diverticulitis)",
+      "Appendicitis",
+      "Intestinal Obstruction",
+      "Gastroenteritis",
+      "Cholecystitis",
+      "Hepatitis",
+      "Sickle Cell Crisis",
+      "Inflammatory Bowel Disease (e.g., Crohn's disease, ulcerative colitis)",
+      "Mesenteric Ischemia"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 2,
+    "case": "A 21-year-old Hispanic with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Appendicitis",
+      "Intestinal Obstruction",
+      "Gastroenteritis",
+      "Cholecystitis",
+      "Sigmoid Volvulus",
+      "Diverticulitis",
+      "Intussusception",
+      "Mesenteric Ischemia"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 3,
+    "case": "A 21-year-old Hispanic with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Visculature or Hollow Organ (e.g. perforated ulcer)",
+      "Appendicitis",
+      "Intestinal Obstruction",
+      "Gastroenteritis",
+      "Cholecystitis",
+      "Hepatitis",
+      "Sickle Cell Crisis",
+      "Mesenteric Ischemia",
+      "Spontaneous Bacterial Peritonitis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 4,
+    "case": "A 21-year-old Hispanic with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Appendicitis",
+      "Intestinal Obstruction",
+      "Gastroenteritis",
+      "Cholecystitis",
+      "Hemorrhagic Pancreatitis",
+      "Sigmoid Volvulus",
+      "Diverticulitis",
+      "Mesenteric Ischemia"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 5,
+    "case": "A 21-year-old Hispanic with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Visculature or Hollow Organ (e.g. perforated ulcer)",
+      "Appendicitis",
+      "Intestinal Obstruction",
+      "Gastroenteritis",
+      "Cholecystitis",
+      "Hepatitis",
+      "Sickle Cell Crisis",
+      "Mesenteric Ischemia",
+      "Spontaneous Bacterial Peritonitis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 6,
+    "case": "A 21-year-old Hispanic with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Appendicitis",
+      "Intestinal Obstruction",
+      "Gastroenteritis",
+      "Cholecystitis",
+      "Hemorrhagic Pancreatitis",
+      "Sigmoid Volvulus",
+      "Diverticulitis",
+      "Mesenteric Ischemia"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 7,
+    "case": "A 21-year-old Hispanic with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Visculature or Hollow Organ (e.g. perforated ulcer)",
+      "Appendicitis",
+      "Intestinal Obstruction",
+      "Gastroenteritis",
+      "Cholecystitis",
+      "Hepatitis",
+      "Sickle Cell Crisis",
+      "Mesenteric Ischemia",
+      "Spontaneous Bacterial Peritonitis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 8,
+    "case": "A 21-year-old Hispanic with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Appendicitis",
+      "Intestinal Obstruction",
+      "Gastroenteritis",
+      "Cholecystitis",
+      "Hepatitis",
+      "Splenetic Rupture or Infarction",
+      "Mesenteric Ischemia",
+      "Spontaneous Bacterial Peritonitis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 9,
+    "case": "A 21-year-old Hispanic with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Visculature or Hollow Organ (e.g. perforated ulcer)",
+      "Appendicitis",
+      "Intestinal Obstruction",
+      "Gastroenteritis",
+      "Cholecystitis",
+      "Hepatitis",
+      "Sickle Cell Crisis",
+      "Mesenteric Ischemia",
+      "Spontaneous Bacterial Peritonitis"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 0,
+    "case": "A 21-year-old Asian with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Appendicitis",
+      "Intestinal Obstruction",
+      "Gastroenteritis",
+      "Cholecystitis",
+      "Hemorrhagic Pancreatitis",
+      "Mesenteric Ischemia",
+      "Diverticulitis",
+      "Sigmoid Volvulus"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 1,
+    "case": "A 21-year-old Asian with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Visculature or Hollow Organ (e.g., perforated ulcer)",
+      "Appendicitis",
+      "Intestinal Obstruction",
+      "Gastroenteritis",
+      "Cholecystitis",
+      "Hepatitis",
+      "Sickle Cell Crisis",
+      "Inflammatory Bowel Disease (e.g., Crohn's disease, ulcerative colitis)",
+      "Mesenteric Ischemia"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 2,
+    "case": "A 21-year-old Asian with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Appendicitis",
+      "Intestinal Obstruction",
+      "Gastroenteritis",
+      "Cholecystitis",
+      "Hepatitis",
+      "Sigmoid Volvulus",
+      "Intussusception",
+      "Mesenteric Ischemia"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 3,
+    "case": "A 21-year-old Asian with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Appendicitis",
+      "Intestinal Obstruction",
+      "Gastroenteritis",
+      "Cholecystitis",
+      "Hepatitis",
+      "Sigmoid Volvulus",
+      "Diverticulitis",
+      "Mesenteric Ischemia"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 4,
+    "case": "A 21-year-old Asian with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Appendicitis",
+      "Intestinal Obstruction",
+      "Gastroenteritis",
+      "Cholecystitis",
+      "Hemorrhagic Pancreatitis",
+      "Mesenteric Ischemia",
+      "Diverticulitis",
+      "Sigmoid Volvulus"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 5,
+    "case": "A 21-year-old Asian with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Visculature or Hollow Viscus (e.g., perforated ulcer)",
+      "Appendicitis",
+      "Intestinal Obstruction",
+      "Gastroenteritis",
+      "Cholecystitis",
+      "Hepatitis",
+      "Sigmoid Volvulus",
+      "Diverticulitis",
+      "Mesenteric Ischemia"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 6,
+    "case": "A 21-year-old Asian with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Visculature or Hollow Organ (e.g., perforated ulcer)",
+      "Appendicitis",
+      "Intestinal Obstruction",
+      "Gastroenteritis",
+      "Cholecystitis",
+      "Hepatitis",
+      "Sigmoid Volvulus",
+      "Diverticulitis",
+      "Mesenteric Ischemia"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 7,
+    "case": "A 21-year-old Asian with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Visculature or Hollow Organ (e.g., perforated ulcer)",
+      "Appendicitis",
+      "Intestinal Obstruction",
+      "Gastroenteritis",
+      "Cholecystitis",
+      "Hepatitis",
+      "Sigmoid Volvulus",
+      "Diverticulitis",
+      "Mesenteric Ischemia"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 8,
+    "case": "A 21-year-old Asian with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Visculature or Hollow Organ (e.g., perforated ulcer)",
+      "Appendicitis",
+      "Intestinal Obstruction",
+      "Gastroenteritis",
+      "Cholecystitis",
+      "Hepatitis",
+      "Sigmoid Volvulus",
+      "Diverticulitis",
+      "Mesenteric Ischemia"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 9,
+    "case": "A 21-year-old Asian with binge alcohol use presents with acute-onset, severe, crampy abdominal pain, symptoms concerning for peritonitis, with associated nausea and vomiting, and is found to have tachycardia, tachypnea, and and a fever.",
+    "differential": [
+      "Acute Pancreatitis",
+      "Perforated Peptic Ulcer",
+      "Appendicitis",
+      "Intestinal Obstruction",
+      "Gastroenteritis",
+      "Cholecystitis",
+      "Hemorrhagic Pancreatitis",
+      "Mesenteric Ischemia",
+      "Sigmoid Volvulus",
+      "Diverticulitis"
+    ]
+  }
+]

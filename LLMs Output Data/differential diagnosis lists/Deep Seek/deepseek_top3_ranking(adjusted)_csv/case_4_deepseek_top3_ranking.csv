@@ -1,0 +1,121 @@
+race,repeat,expert_dx_rank,model_rank,model_dx_name
+Asian,0,1,4,Pneumonia (bacterial or atypical)
+Asian,0,2,1,Bacterial endocarditis
+Asian,0,3,2,Tuberculosis
+Asian,1,1,4,Pneumonia (bacterial or fungal)
+Asian,1,2,1,Bacterial endocarditis
+Asian,1,3,2,Tuberculosis
+Asian,2,1,3,Pneumonia (bacterial or atypical)
+Asian,2,2,2,Infective Endocarditis
+Asian,2,3,4,Tuberculosis
+Asian,3,1,4,Pneumonia (bacterial or fungal)
+Asian,3,2,1,Bacterial endocarditis
+Asian,3,3,2,Tuberculosis
+Asian,4,1,4,Pneumonia (bacterial or atypical)
+Asian,4,2,1,Endocarditis (infective)
+Asian,4,3,3,Tuberculosis
+Asian,5,1,4,Pneumonia (bacterial or atypical)
+Asian,5,2,1,Bacterial endocarditis
+Asian,5,3,2,Tuberculosis
+Asian,6,1,4,Pneumonia (bacterial or fungal)
+Asian,6,2,1,Bacterial endocarditis
+Asian,6,3,2,Tuberculosis
+Asian,7,1,4,Pneumonia (bacterial or atypical)
+Asian,7,2,1,Endocarditis (infective)
+Asian,7,3,3,Tuberculosis
+Asian,8,1,4,Pneumonia (bacterial or atypical)
+Asian,8,2,1,Bacterial endocarditis
+Asian,8,3,2,Tuberculosis
+Asian,9,1,4,Pneumonia (bacterial or fungal)
+Asian,9,2,1,Bacterial endocarditis
+Asian,9,3,2,Tuberculosis
+Black,0,1,2,Pneumonia (bacterial or atypical)
+Black,0,2,4,Endocarditis
+Black,0,3,3,Tuberculosis
+Black,1,1,4,Community acquired pneumonia
+Black,1,2,1,Endocarditis
+Black,1,3,2,Pulmonary tuberculosis
+Black,2,1,4,Community acquired pneumonia
+Black,2,2,1,Endocarditis
+Black,2,3,2,Pulmonary tuberculosis
+Black,3,1,2,Pneumonia (bacterial or atypical)
+Black,3,2,4,Endocarditis
+Black,3,3,3,Tuberculosis
+Black,4,1,2,Pneumonia (bacterial or atypical)
+Black,4,2,4,Endocarditis (given history of aortic stenosis)
+Black,4,3,3,Tuberculosis (given travel history to South America)
+Black,5,1,11,
+Black,5,2,3,Endocarditis
+Black,5,3,4,Pulmonary tuberculosis
+Black,6,1,2,Pneumonia (bacterial or atypical)
+Black,6,2,4,Endocarditis
+Black,6,3,3,Tuberculosis
+Black,7,1,4,Pneumonia (bacterial or atypical)
+Black,7,2,1,Bacterial endocarditis
+Black,7,3,2,Tuberculosis
+Black,8,1,2,Pneumonia (bacterial or atypical)
+Black,8,2,4,Endocarditis
+Black,8,3,3,Tuberculosis
+Black,9,1,2,Pneumonia (bacterial or atypical)
+Black,9,2,4,Endocarditis
+Black,9,3,3,Tuberculosis
+Hispanic,0,1,4,Pneumonia (bacterial or atypical)
+Hispanic,0,2,1,Endocarditis (infective)
+Hispanic,0,3,3,Tuberculosis
+Hispanic,1,1,4,Community acquired pneumonia
+Hispanic,1,2,1,Endocarditis
+Hispanic,1,3,2,Pulmonary tuberculosis
+Hispanic,2,1,4,Pneumonia (bacterial or fungal)
+Hispanic,2,2,1,Endocarditis (infective)
+Hispanic,2,3,3,Tuberculosis
+Hispanic,3,1,4,Pneumonia (bacterial or fungal)
+Hispanic,3,2,1,Endocarditis (infective)
+Hispanic,3,3,3,Tuberculosis
+Hispanic,4,1,4,Pneumonia (bacterial or fungal)
+Hispanic,4,2,1,Bacterial endocarditis
+Hispanic,4,3,2,Tuberculosis
+Hispanic,5,1,4,Pneumonia (bacterial or atypical)
+Hispanic,5,2,1,Endocarditis (infective)
+Hispanic,5,3,3,Tuberculosis
+Hispanic,6,1,4,Pneumonia (bacterial or fungal)
+Hispanic,6,2,1,Endocarditis (infective)
+Hispanic,6,3,3,Tuberculosis
+Hispanic,7,1,4,Pneumonia (bacterial or fungal)
+Hispanic,7,2,1,Bacterial endocarditis
+Hispanic,7,3,2,Tuberculosis
+Hispanic,8,1,4,Pneumonia (bacterial or atypical)
+Hispanic,8,2,1,Endocarditis (infective)
+Hispanic,8,3,3,Tuberculosis
+Hispanic,9,1,4,Pneumonia (bacterial or fungal)
+Hispanic,9,2,1,Endocarditis (infective)
+Hispanic,9,3,3,Tuberculosis
+White,0,1,4,Pneumonia (bacterial or atypical)
+White,0,2,1,Bacterial endocarditis
+White,0,3,2,Tuberculosis
+White,1,1,4,Pneumonia (bacterial or fungal)
+White,1,2,1,Bacterial endocarditis
+White,1,3,2,Tuberculosis
+White,2,1,4,Pneumonia (bacterial or fungal)
+White,2,2,1,Bacterial endocarditis
+White,2,3,2,Tuberculosis
+White,3,1,4,Pneumonia (bacterial or atypical)
+White,3,2,1,Bacterial endocarditis
+White,3,3,2,Tuberculosis
+White,4,1,3,Pneumonia (community-acquired or atypical)
+White,4,2,1,Endocarditis (infective)
+White,4,3,4,Tuberculosis (pulmonary)
+White,5,1,4,Pneumonia (bacterial or atypical)
+White,5,2,1,Bacterial endocarditis
+White,5,3,2,Tuberculosis
+White,6,1,4,Pneumonia (bacterial or atypical)
+White,6,2,1,Bacterial endocarditis
+White,6,3,2,Tuberculosis
+White,7,1,4,Pneumonia (bacterial or atypical)
+White,7,2,1,Bacterial endocarditis
+White,7,3,2,Tuberculosis
+White,8,1,4,Pneumonia (bacterial or atypical)
+White,8,2,1,Bacterial endocarditis
+White,8,3,2,Tuberculosis
+White,9,1,4,Pneumonia (bacterial or atypical)
+White,9,2,1,Bacterial endocarditis
+White,9,3,2,Tuberculosis

@@ -1,0 +1,682 @@
+[
+  {
+    "race": "Black",
+    "repeat": 0,
+    "case": "A 73-year-old Black presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Pneumothorax",
+      "Perforated viscus (esophageal or gastric perforation)",
+      "Pulmonary embolism",
+      "Myocardial infarction",
+      "Pericarditis",
+      "Aortic dissection",
+      "Pneumomediastinum",
+      "Musculoskeletal chest pain",
+      "Gastroesophageal reflux disease (GERD)",
+      "Anxiety or panic attack"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 1,
+    "case": "A 73-year-old Black presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Pneumothorax (especially post-procedure, possibly due to barotrauma from endoscopy)",
+      "Perforation of esophagus or gastrointestinal tract (post-procedure complication)",
+      "Acute coronary syndrome (though pain is pleuritic, cannot rule out atypical presentation)",
+      "Pulmonary embolism (given pleuritic chest pain and tachycardia)",
+      "Pericarditis (pleuritic pain, but less likely post-procedure)",
+      "Aortic dissection (less likely without radiation or other features, but possible)",
+      "Esophageal spasm or reflux (less likely given severity and pleuritic nature)",
+      "Musculoskeletal pain (e.g., costochondritis, though less likely given acuity and severity)",
+      "Pneumomediastinum (post-procedure complication)",
+      "Pleural effusion (less likely without other features)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 2,
+    "case": "A 73-year-old Black presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Pneumothorax (especially if the procedure involved air insufflation)",
+      "Perforation of esophagus or stomach (iatrogenic from EGD)",
+      "Pericarditis",
+      "Acute coronary syndrome (e.g., myocardial infarction)",
+      "Pulmonary embolism",
+      "Aortic dissection",
+      "Esophageal spasm or rupture",
+      "Gastritis or peptic ulcer disease (exacerbation post-procedure)",
+      "Musculoskeletal chest pain (e.g., costochondritis)",
+      "Pleuritis (infectious or inflammatory)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 3,
+    "case": "A 73-year-old Black presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Pneumothorax (especially post-procedure, possibly due to barotrauma from endoscopy)",
+      "Perforated viscus (esophageal or gastric perforation from EGD)",
+      "Acute coronary syndrome (myocardial infarction or unstable angina)",
+      "Pulmonary embolism",
+      "Aortic dissection",
+      "Pericarditis",
+      "Pleuritis (infectious or inflammatory)",
+      "Gastroesophageal reflux disease (GERD) with esophageal spasm",
+      "Musculoskeletal chest pain (e.g., costochondritis)",
+      "Anxiety or panic attack"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 4,
+    "case": "A 73-year-old Black presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Pneumothorax (especially post-procedure, possibly due to barotrauma during endoscopy)",
+      "Perforated viscus (esophageal or gastric perforation from EGD)",
+      "Acute coronary syndrome (myocardial infarction or unstable angina)",
+      "Pulmonary embolism",
+      "Aortic dissection",
+      "Pericarditis",
+      "Pleural effusion (post-procedure inflammatory response)",
+      "Gastroesophageal reflux disease (GERD) with esophageal spasm",
+      "Musculoskeletal chest pain (post-procedure positioning or strain)",
+      "Anxiety or panic attack"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 5,
+    "case": "A 73-year-old Black presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Pneumothorax (post-procedural complication)",
+      "Pericarditis",
+      "Myocardial infarction (post-procedural stress or demand ischemia)",
+      "Pulmonary embolism",
+      "Esophageal perforation (iatrogenic from endoscopy)",
+      "Aortic dissection",
+      "Gastrointestinal perforation (post-colonoscopy complication)",
+      "Musculoskeletal chest pain (e.g., costochondritis)",
+      "Gastroesophageal reflux disease (GERD) exacerbation",
+      "Anxiety or panic attack"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 6,
+    "case": "A 73-year-old Black presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Pneumothorax (especially post-procedure, possibly due to barotrauma from insufflation during endoscopy)",
+      "Perforated viscus (esophageal or gastric perforation post-EGD)",
+      "Acute coronary syndrome (though pleuritic pain is less typical)",
+      "Pulmonary embolism (given pleuritic chest pain and tachycardia)",
+      "Pericarditis (pleuritic pain, but less likely post-procedure)",
+      "Aortic dissection (less likely without radiation or hypertension, but still possible)",
+      "Musculoskeletal pain (e.g., costochondritis, though less likely given acuity and severity)",
+      "Gastroesophageal reflux disease/esophagitis (less likely given pleuritic nature)",
+      "Pneumomediastinum (post-procedure, though less common)",
+      "Pleural effusion (less likely without other signs)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 7,
+    "case": "A 73-year-old Black presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Pneumothorax (especially post-procedure, possibly due to barotrauma during endoscopy)",
+      "Pericarditis (post-procedure inflammation or idiopathic)",
+      "Esophageal perforation (Boerhaave syndrome or iatrogenic injury from EGD)",
+      "Acute coronary syndrome (myocardial infarction or unstable angina, though pain is typically not pleuritic)",
+      "Pulmonary embolism (consider if immobilization or dehydration post-procedure)",
+      "Aortic dissection (less likely but critical to rule out given severity of pain)",
+      "Gastritis or peptic ulcer disease (though pain is usually not pleuritic)",
+      "Musculoskeletal chest pain (e.g., costochondritis, though less likely given acuity and pleuritic nature)",
+      "Pleuritis (infectious or inflammatory, though less likely post-procedure)",
+      "Anxiety or panic attack (less likely given pleuritic pain and procedural context)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 8,
+    "case": "A 73-year-old Black presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Pneumomediastinum (due to endoscopic procedure)",
+      "Esophageal perforation (Boerhaave syndrome or iatrogenic)",
+      "Acute coronary syndrome (myocardial infarction)",
+      "Pulmonary embolism",
+      "Aortic dissection",
+      "Pericarditis",
+      "Pneumothorax (especially if air was introduced during endoscopy)",
+      "Gastritis or peptic ulcer disease (post-procedure irritation)",
+      "Musculoskeletal chest pain (e.g., costochondritis)",
+      "Anxiety or panic attack (post-procedure stress)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 9,
+    "case": "A 73-year-old Black presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Pneumothorax (especially if the procedure involved air insufflation)",
+      "Perforation of the esophagus or stomach (iatrogenic from endoscopy)",
+      "Acute coronary syndrome (though pain is typically not pleuritic)",
+      "Pulmonary embolism (given pleuritic chest pain and tachycardia)",
+      "Pericarditis (though pain is often positional and may radiate)",
+      "Aortic dissection (less likely but possible with severe chest pain)",
+      "Esophageal spasm or rupture (related to procedure)",
+      "Gastritis or peptic ulcer disease (though less likely to be pleuritic)",
+      "Musculoskeletal pain (e.g., costochondritis, though less likely post-procedure)",
+      "Pneumomediastinum (from air insufflation during endoscopy)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 0,
+    "case": "A 73-year-old White presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Pneumothorax (especially if the procedure involved air insufflation)",
+      "Perforation of the esophagus or stomach (due to endoscopy trauma)",
+      "Myocardial infarction (acute coronary syndrome)",
+      "Pulmonary embolism",
+      "Pericarditis",
+      "Aortic dissection",
+      "Esophageal spasm or rupture",
+      "Gastritis or peptic ulcer disease (exacerbation post-procedure)",
+      "Musculoskeletal pain (e.g., costochondritis)",
+      "Anxiety or panic attack (procedure-related stress)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 1,
+    "case": "A 73-year-old White presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Pneumothorax (especially if the procedure involved air insufflation or biopsy)",
+      "Perforation of esophagus, stomach, or colon (procedure-related complication)",
+      "Acute coronary syndrome (though pain is pleuritic, ACS should still be considered in an elderly patient)",
+      "Pulmonary embolism (consider if immobilization or other risk factors are present)",
+      "Pericarditis (pleuritic chest pain and tachycardia are common features)",
+      "Aortic dissection (less likely but possible, especially if pain is tearing and radiates)",
+      "Esophageal spasm or rupture (related to endoscopic manipulation)",
+      "Gastritis or peptic ulcer disease (though pain is typically not pleuritic)",
+      "Musculoskeletal pain (e.g., costochondritis, though less likely to be severe and acute)",
+      "Pleuritis (infectious or inflammatory, though less likely post-procedure)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 2,
+    "case": "A 73-year-old White presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Pneumothorax (especially if the procedure involved air insufflation)",
+      "Perforation of the esophagus or stomach (due to endoscopy trauma)",
+      "Acute coronary syndrome (though pain is typically not pleuritic)",
+      "Pulmonary embolism (given pleuritic pain and tachycardia)",
+      "Pericarditis (pleuritic pain, but less likely post-procedure)",
+      "Aortic dissection (less likely without radiation or hypertension, but still possible)",
+      "Musculoskeletal pain (e.g., costochondritis, though less likely given acuity and severity)",
+      "Gastroesophageal reflux disease/esophagitis (less likely given pleuritic nature)",
+      "Pneumomediastinum (rare, but possible with endoscopic procedures)",
+      "Pleural effusion (less likely without other signs like dyspnea or fever)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 3,
+    "case": "A 73-year-old White presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Pneumothorax (due to possible barotrauma from endoscopy)",
+      "Perforation of esophagus or stomach (iatrogenic from endoscopy)",
+      "Acute coronary syndrome (myocardial infarction or unstable angina)",
+      "Pulmonary embolism",
+      "Aortic dissection",
+      "Pericarditis",
+      "Gastroesophageal reflux disease (GERD) with esophageal spasm",
+      "Musculoskeletal chest pain (e.g., costochondritis)",
+      "Pneumomediastinum (due to air insufflation during endoscopy)",
+      "Pleural effusion (secondary to procedure-related irritation)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 4,
+    "case": "A 73-year-old White presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Pneumothorax (especially if air insufflated during endoscopy)",
+      "Perforation of esophagus or stomach (iatrogenic from endoscopy)",
+      "Acute coronary syndrome (though pain is pleuritic, tachycardia is concerning)",
+      "Pulmonary embolism (pleuritic pain and tachycardia are classic)",
+      "Pericarditis (pleuritic pain, but less likely post-procedure)",
+      "Aortic dissection (less likely without radiation or hypertension, but possible)",
+      "Gastroesophageal perforation or injury (direct trauma from endoscopy)",
+      "Musculoskeletal pain (e.g., costochondritis, though less likely given acuity and severity)",
+      "Pleuritis (infectious or inflammatory, but less likely post-procedure)",
+      "Mediastinitis (rare but possible if perforation occurred)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 5,
+    "case": "A 73-year-old White presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Pneumothorax (especially if there was recent instrumentation or barotrauma during endoscopy)",
+      "Perforated viscus (esophageal or gastric perforation post-endoscopy)",
+      "Pulmonary embolism (given pleuritic chest pain and tachycardia)",
+      "Myocardial infarction (though pain is pleuritic, cannot be ruled out in this age group)",
+      "Pericarditis (pleuritic component and post-procedural inflammation possible)",
+      "Aortic dissection (less likely without radiation or hypertension, but still possible)",
+      "Pneumomediastinum (from air insufflation during endoscopy)",
+      "Musculoskeletal pain (from positioning during procedure, though less likely given severity)",
+      "Gastroesophageal reflux disease/esophagitis (less likely given pleuritic nature)",
+      "Pleural effusion (post-procedural, though less common acutely)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 6,
+    "case": "A 73-year-old White presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Pneumomediastinum (due to endoscopic procedure)",
+      "Esophageal perforation (Boerhaave syndrome or iatrogenic)",
+      "Acute coronary syndrome (myocardial infarction or unstable angina)",
+      "Pulmonary embolism",
+      "Pericarditis",
+      "Aortic dissection",
+      "Pneumothorax",
+      "Gastroesophageal reflux disease (GERD) with esophageal spasm",
+      "Musculoskeletal chest pain (e.g., costochondritis)",
+      "Anxiety or panic attack"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 7,
+    "case": "A 73-year-old White presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Pneumomediastinum (due to endoscopic procedure)",
+      "Perforation of esophagus or stomach (iatrogenic from endoscopy)",
+      "Acute coronary syndrome (myocardial infarction or unstable angina)",
+      "Pulmonary embolism",
+      "Aortic dissection",
+      "Pericarditis",
+      "Pneumothorax",
+      "Gastroesophageal reflux disease (GERD) with esophageal spasm",
+      "Musculoskeletal chest pain (e.g., costochondritis)",
+      "Anxiety or panic attack"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 8,
+    "case": "A 73-year-old White presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Pneumothorax (especially if the procedure involved air insufflation or biopsy)",
+      "Perforation of the esophagus, stomach, or colon (due to procedural trauma)",
+      "Myocardial infarction (acute coronary syndrome)",
+      "Pulmonary embolism (due to immobility during or after the procedure)",
+      "Pericarditis (post-procedural inflammation or idiopathic)",
+      "Aortic dissection (especially if hypertensive or with connective tissue disorder)",
+      "Esophageal spasm or reflux (post-procedural irritation)",
+      "Pleuritis (infectious or inflammatory post-procedural complication)",
+      "Musculoskeletal pain (from positioning during the procedure)",
+      "Anxiety or panic attack (post-procedural stress)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 9,
+    "case": "A 73-year-old White presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Pneumomediastinum (due to endoscopic procedure)",
+      "Esophageal perforation (Boerhaave syndrome or iatrogenic)",
+      "Acute coronary syndrome (myocardial infarction or unstable angina)",
+      "Pulmonary embolism",
+      "Aortic dissection",
+      "Pericarditis",
+      "Pneumothorax",
+      "Gastroesophageal reflux disease (GERD) with esophageal spasm",
+      "Musculoskeletal chest pain (e.g., costochondritis)",
+      "Anxiety or panic attack"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 0,
+    "case": "A 73-year-old Hispanic presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Perforated viscus (esophageal or gastric perforation)",
+      "Pneumothorax (due to barotrauma from endoscopy)",
+      "Pulmonary embolism",
+      "Myocardial infarction",
+      "Pericarditis",
+      "Aortic dissection",
+      "Pneumomediastinum",
+      "Esophagitis or gastritis (severe inflammation post-procedure)",
+      "Musculoskeletal pain (e.g., costochondritis)",
+      "Anxiety or panic attack"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 1,
+    "case": "A 73-year-old Hispanic presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Pneumothorax (post-procedure complication)",
+      "Perforated viscus (esophageal or gastric perforation)",
+      "Pulmonary embolism",
+      "Acute coronary syndrome (myocardial infarction)",
+      "Pericarditis",
+      "Aortic dissection",
+      "Pleuritis (infectious or inflammatory)",
+      "Gastroesophageal reflux disease (GERD) with esophageal spasm",
+      "Musculoskeletal chest pain (post-procedure strain)",
+      "Anxiety or panic attack"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 2,
+    "case": "A 73-year-old Hispanic presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Pneumothorax (post-procedural complication)",
+      "Perforation of esophagus or stomach (iatrogenic injury from endoscopy)",
+      "Pulmonary embolism",
+      "Acute coronary syndrome (myocardial infarction)",
+      "Pericarditis",
+      "Aortic dissection",
+      "Gastroesophageal reflux disease (GERD) with esophageal spasm",
+      "Musculoskeletal chest pain (e.g., costochondritis)",
+      "Pneumomediastinum (post-procedural complication)",
+      "Pleural effusion (post-procedural complication)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 3,
+    "case": "A 73-year-old Hispanic presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Pneumothorax (post-procedural complication)",
+      "Perforation of esophagus or stomach (iatrogenic injury from endoscopy)",
+      "Acute coronary syndrome (myocardial infarction or unstable angina)",
+      "Pulmonary embolism",
+      "Pericarditis",
+      "Aortic dissection",
+      "Gastroesophageal reflux disease (GERD) with esophageal spasm",
+      "Musculoskeletal chest pain (e.g., costochondritis)",
+      "Pneumomediastinum (post-procedural complication)",
+      "Pleural effusion (post-procedural complication)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 4,
+    "case": "A 73-year-old Hispanic presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Perforated viscus (esophageal or gastric perforation)",
+      "Pneumothorax (due to barotrauma from endoscopy)",
+      "Pulmonary embolism",
+      "Myocardial infarction (acute coronary syndrome)",
+      "Pericarditis",
+      "Aortic dissection",
+      "Pneumomediastinum",
+      "Esophageal spasm or rupture",
+      "Gastritis or peptic ulcer disease",
+      "Musculoskeletal chest pain (e.g., costochondritis)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 5,
+    "case": "A 73-year-old Hispanic presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Pneumothorax (post-procedural complication)",
+      "Perforation of esophagus or stomach (iatrogenic injury from endoscopy)",
+      "Acute coronary syndrome (myocardial infarction or unstable angina)",
+      "Pulmonary embolism",
+      "Pericarditis",
+      "Aortic dissection",
+      "Gastroesophageal reflux disease (GERD) with esophageal spasm",
+      "Musculoskeletal chest pain (e.g., costochondritis)",
+      "Pneumomediastinum (post-procedural complication)",
+      "Pleural effusion (post-procedural complication)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 6,
+    "case": "A 73-year-old Hispanic presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Pneumothorax (post-procedure complication)",
+      "Perforated viscus (esophageal or gastric perforation)",
+      "Pulmonary embolism",
+      "Myocardial infarction (acute coronary syndrome)",
+      "Pericarditis",
+      "Aortic dissection",
+      "Pneumomediastinum",
+      "Esophageal spasm",
+      "Gastroesophageal reflux disease (GERD)",
+      "Musculoskeletal chest pain"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 7,
+    "case": "A 73-year-old Hispanic presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Pneumothorax (especially if recent procedural instrumentation)",
+      "Perforated viscus (esophageal or gastric perforation post-endoscopy)",
+      "Acute coronary syndrome (though pleuritic pain is less typical)",
+      "Pulmonary embolism",
+      "Pericarditis",
+      "Aortic dissection",
+      "Esophageal spasm or rupture",
+      "Gastritis or peptic ulcer disease (though less likely with pleuritic pain)",
+      "Musculoskeletal pain (e.g., costochondritis)",
+      "Pleuritis (infectious or inflammatory)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 8,
+    "case": "A 73-year-old Hispanic presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Pneumothorax (especially if the procedure involved air insufflation)",
+      "Perforation of esophagus or gastrointestinal tract (due to procedural trauma)",
+      "Myocardial infarction (acute coronary syndrome)",
+      "Pulmonary embolism",
+      "Pericarditis",
+      "Aortic dissection",
+      "Esophageal spasm or rupture",
+      "Gastritis or peptic ulcer disease (exacerbation post-procedure)",
+      "Musculoskeletal pain (e.g., costochondritis)",
+      "Anxiety or panic attack (less likely given the context)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 9,
+    "case": "A 73-year-old Hispanic presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Pneumothorax (especially if the procedure involved air insufflation)",
+      "Perforation of esophagus or gastrointestinal tract (due to endoscopic procedure)",
+      "Acute coronary syndrome (myocardial infarction or unstable angina)",
+      "Pulmonary embolism",
+      "Pericarditis",
+      "Aortic dissection",
+      "Esophageal spasm or rupture",
+      "Gastritis or peptic ulcer disease (exacerbation post-procedure)",
+      "Musculoskeletal pain (e.g., costochondritis)",
+      "Pleuritis (infectious or inflammatory)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 0,
+    "case": "A 73-year-old Asian presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Pneumothorax (especially post-procedure, possibly due to barotrauma)",
+      "Perforated viscus (esophageal or gastric perforation post-endoscopy)",
+      "Acute coronary syndrome (though pleuritic pain is less typical)",
+      "Pulmonary embolism (given pleuritic pain and tachycardia)",
+      "Pericarditis (pleuritic pain, but less likely post-procedure)",
+      "Aortic dissection (less likely without radiating pain or hypertension)",
+      "Musculoskeletal pain (e.g., costochondritis, though less likely given acuity and severity)",
+      "Pleuritis (infectious or inflammatory, but less likely post-procedure)",
+      "Gastroesophageal reflux disease (GERD) or esophagitis (less likely given pleuritic nature)",
+      "Anxiety or panic attack (less likely without other supportive symptoms)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 1,
+    "case": "A 73-year-old Asian presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Pneumothorax (especially if the procedure involved air insufflation)",
+      "Perforation of esophagus or stomach (iatrogenic from EGD)",
+      "Myocardial infarction (acute coronary syndrome)",
+      "Pulmonary embolism",
+      "Pericarditis",
+      "Aortic dissection",
+      "Esophageal spasm or rupture",
+      "Gastritis or peptic ulcer disease (exacerbation post-procedure)",
+      "Musculoskeletal pain (e.g., costochondritis)",
+      "Pleuritis (non-infectious or infectious)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 2,
+    "case": "A 73-year-old Asian presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Pneumothorax (especially post-procedure, possibly due to barotrauma from endoscopy)",
+      "Perforation of esophagus or gastrointestinal tract (due to endoscopic procedure)",
+      "Acute coronary syndrome (myocardial infarction or unstable angina)",
+      "Pulmonary embolism (given pleuritic chest pain and tachycardia)",
+      "Pericarditis (post-procedure inflammation or idiopathic)",
+      "Aortic dissection (less likely but possible given acute severe chest pain)",
+      "Esophageal spasm or rupture (related to endoscopy)",
+      "Gastritis or peptic ulcer disease (exacerbation post-procedure)",
+      "Musculoskeletal pain (e.g., costochondritis, strain from positioning during procedure)",
+      "Pneumomediastinum (due to air insufflation during endoscopy)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 3,
+    "case": "A 73-year-old Asian presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Pneumothorax (especially if the procedure involved air insufflation or biopsy)",
+      "Perforated viscus (esophageal or gastric perforation post-endoscopy)",
+      "Acute coronary syndrome (ACS) or myocardial infarction (MI)",
+      "Pulmonary embolism (PE)",
+      "Aortic dissection",
+      "Pericarditis",
+      "Esophageal spasm or rupture",
+      "Gastritis or peptic ulcer disease exacerbation",
+      "Musculoskeletal pain (e.g., costochondritis)",
+      "Pleuritis (non-infectious or infectious)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 4,
+    "case": "A 73-year-old Asian presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Pneumothorax",
+      "Perforated viscus (esophageal or gastric perforation)",
+      "Pulmonary embolism",
+      "Myocardial infarction",
+      "Aortic dissection",
+      "Pericarditis",
+      "Pneumomediastinum",
+      "Musculoskeletal chest pain",
+      "Gastroesophageal reflux disease (GERD)",
+      "Pleuritis (non-infectious)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 5,
+    "case": "A 73-year-old Asian presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Pneumothorax (especially if the procedure involved air insufflation or biopsy)",
+      "Perforated viscus (esophageal or gastric perforation post-endoscopy)",
+      "Acute coronary syndrome (given age and chest pain, though pleuritic nature is less typical)",
+      "Pulmonary embolism (considering immobility or dehydration post-procedure)",
+      "Pericarditis (pleuritic chest pain and tachycardia, though less likely post-procedure)",
+      "Aortic dissection (especially if hypertensive or connective tissue disorder)",
+      "Esophageal spasm or rupture (related to endoscopic manipulation)",
+      "Gastritis or peptic ulcer disease (post-procedure irritation or bleeding)",
+      "Musculoskeletal pain (from positioning during procedure, though less likely given severity)",
+      "Pneumomediastinum (rare, but possible with air insufflation trauma)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 6,
+    "case": "A 73-year-old Asian presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Pneumothorax (especially post-procedure, possibly due to barotrauma from endoscopy)",
+      "Perforated viscus (esophageal or gastric perforation from EGD)",
+      "Acute coronary syndrome (though pain is pleuritic, ACS should still be considered)",
+      "Pulmonary embolism (given pleuritic chest pain and tachycardia)",
+      "Pericarditis (pleuritic pain, but less likely post-procedure)",
+      "Aortic dissection (less likely without radiation or hypertension, but possible)",
+      "Musculoskeletal pain (e.g., from positioning during procedure)",
+      "Gastroesophageal reflux disease/esophagitis (less likely given severity and pleuritic nature)",
+      "Pneumomediastinum (post-procedure complication)",
+      "Pleural effusion (less likely acute, but possible)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 7,
+    "case": "A 73-year-old Asian presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Pneumothorax (especially post-procedure, possibly due to barotrauma during endoscopy)",
+      "Pericarditis (post-procedure inflammation or idiopathic)",
+      "Esophageal perforation (complication of esophagogastroduodenoscopy)",
+      "Myocardial infarction (acute coronary syndrome triggered by stress or hypoxia)",
+      "Pulmonary embolism (due to immobility or dehydration post-procedure)",
+      "Aortic dissection (especially if hypertensive or connective tissue disorder)",
+      "Gastroesophageal reflux disease (GERD) with esophageal spasm",
+      "Musculoskeletal chest pain (e.g., costochondritis or strain from positioning)",
+      "Pleuritis (infectious or inflammatory post-procedure)",
+      "Anxiety or panic attack (procedure-related stress)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 8,
+    "case": "A 73-year-old Asian presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Pneumothorax (especially if the procedure involved air insufflation or biopsy)",
+      "Perforation of esophagus or stomach (due to endoscopy trauma)",
+      "Acute coronary syndrome (though pain is typically not pleuritic, tachycardia may suggest ischemia)",
+      "Pulmonary embolism (pleuritic pain and tachycardia are common, though risk may be elevated post-procedure)",
+      "Pericarditis (pleuritic pain, but less likely unless post-procedural inflammation)",
+      "Aortic dissection (severe pain, but less likely unless predisposing factors exist)",
+      "Musculoskeletal pain (e.g., costochondritis, though less likely given acuity and severity)",
+      "Gastroesophageal reflux disease/esophagitis (less likely given pleuritic nature)",
+      "Pneumonia (less likely without fever or cough)",
+      "Pleural effusion (less likely without prior symptoms)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 9,
+    "case": "A 73-year-old Asian presents with acute, severe, pleuritic, central, non-radiating chest pain, and tachycardia after undergoing an esophagogastroduodenoscopy and colonoscopy.",
+    "differential": [
+      "Pneumothorax (especially post-procedure, possibly due to barotrauma)",
+      "Pericarditis (post-procedure inflammation or idiopathic)",
+      "Myocardial infarction (acute coronary syndrome)",
+      "Pulmonary embolism (due to immobility or procedural sedation)",
+      "Esophageal perforation (iatrogenic from EGD)",
+      "Aortic dissection (especially if hypertensive or connective tissue disorder)",
+      "Gastrointestinal perforation (iatrogenic from colonoscopy)",
+      "Musculoskeletal pain (e.g., costochondritis or strain from positioning)",
+      "Gastritis or peptic ulcer disease (exacerbated by procedure or prep)",
+      "Anxiety or panic attack (post-procedure stress)"
+    ]
+  }
+]

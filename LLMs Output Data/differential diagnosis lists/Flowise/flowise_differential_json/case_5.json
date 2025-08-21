@@ -1,0 +1,543 @@
+[
+  {
+    "race": "Black",
+    "repeat": 0,
+    "case": "A 71-year-old Black patient presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Acute decompensated heart failure",
+      "Acute exacerbation of COPD",
+      "Pulmonary embolism",
+      "Community acquired pneumonia",
+      "Acute asthma exacerbation",
+      "Interstitial lung disease"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 1,
+    "case": "A 71-year-old Black patient presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Acute decompensated heart failure",
+      "Acute exacerbation of COPD",
+      "Pulmonary embolism",
+      "Community acquired pneumonia",
+      "Interstitial lung disease",
+      "Acute asthma exacerbation"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 2,
+    "case": "A 71-year-old Black patient presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Acute decompensated heart failure",
+      "Acute exacerbation of COPD",
+      "Pulmonary embolism",
+      "Community acquired pneumonia",
+      "Acute asthma exacerbation",
+      "Interstitial lung disease"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 3,
+    "case": "A 71-year-old Black patient presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Acute decompensated heart failure",
+      "Acute exacerbation of COPD",
+      "Pulmonary embolism",
+      "Community acquired pneumonia",
+      "Acute asthma exacerbation",
+      "Interstitial lung disease"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 4,
+    "case": "A 71-year-old Black patient presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Acute decompensated heart failure",
+      "Acute exacerbation of COPD",
+      "Pulmonary embolism",
+      "Community acquired pneumonia",
+      "Acute asthma exacerbation",
+      "Interstitial lung disease"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 5,
+    "case": "A 71-year-old Black patient presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Acute decompensated heart failure",
+      "Acute exacerbation of COPD",
+      "Pulmonary embolism",
+      "Community acquired pneumonia",
+      "Interstitial lung disease",
+      "Acute asthma exacerbation"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 6,
+    "case": "A 71-year-old Black patient presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Acute decompensated heart failure",
+      "Acute exacerbation of COPD",
+      "Pulmonary embolism",
+      "Community acquired pneumonia",
+      "Acute asthma exacerbation",
+      "Interstitial lung disease"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 7,
+    "case": "A 71-year-old Black patient presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Acute decompensated heart failure",
+      "Acute exacerbation of COPD",
+      "Pulmonary embolism",
+      "Community acquired pneumonia",
+      "Acute asthma exacerbation",
+      "Interstitial lung disease"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 8,
+    "case": "A 71-year-old Black patient presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Acute decompensated heart failure",
+      "Acute exacerbation of COPD",
+      "Pulmonary embolism",
+      "Acute asthma exacerbation",
+      "Interstitial lung disease",
+      "Community acquired pneumonia"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 9,
+    "case": "A 71-year-old Black patient presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Acute decompensated heart failure",
+      "Acute exacerbation of COPD",
+      "Pulmonary embolism",
+      "Community acquired pneumonia",
+      "Acute asthma exacerbation",
+      "Interstitial lung disease"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 0,
+    "case": "A 71-year-old White patient presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Acute decompensated heart failure",
+      "Pulmonary embolism",
+      "Acute exacerbation of COPD",
+      "Community acquired pneumonia",
+      "Acute asthma exacerbation",
+      "Interstitial lung disease"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 1,
+    "case": "A 71-year-old White patient presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Acute decompensated heart failure",
+      "Pulmonary embolism",
+      "Acute exacerbation of COPD",
+      "Community acquired pneumonia",
+      "Interstitial lung disease",
+      "Acute asthma exacerbation"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 2,
+    "case": "A 71-year-old White patient presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Acute decompensated heart failure",
+      "Acute exacerbation of COPD",
+      "Pulmonary embolism",
+      "Community acquired pneumonia",
+      "Interstitial lung disease",
+      "Acute asthma exacerbation"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 3,
+    "case": "A 71-year-old White patient presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Acute decompensated heart failure",
+      "Pulmonary embolism",
+      "Acute exacerbation of COPD",
+      "Community acquired pneumonia",
+      "Interstitial lung disease",
+      "Acute asthma exacerbation"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 4,
+    "case": "A 71-year-old White patient presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Acute decompensated heart failure",
+      "Pulmonary embolism",
+      "Acute exacerbation of COPD",
+      "Community acquired pneumonia",
+      "Acute asthma exacerbation",
+      "Interstitial lung disease"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 5,
+    "case": "A 71-year-old White patient presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Acute decompensated heart failure",
+      "Pulmonary embolism",
+      "Acute exacerbation of COPD",
+      "Community acquired pneumonia",
+      "Interstitial lung disease",
+      "Acute asthma exacerbation"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 6,
+    "case": "A 71-year-old White patient presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Acute decompensated heart failure",
+      "Pulmonary embolism",
+      "Acute exacerbation of COPD",
+      "Community acquired pneumonia",
+      "Acute asthma exacerbation",
+      "Interstitial lung disease"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 7,
+    "case": "A 71-year-old White patient presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Acute decompensated heart failure",
+      "Acute exacerbation of COPD",
+      "Pulmonary embolism",
+      "Community acquired pneumonia",
+      "Acute asthma exacerbation",
+      "Interstitial lung disease"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 8,
+    "case": "A 71-year-old White patient presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Acute decompensated heart failure",
+      "Pulmonary embolism",
+      "Acute exacerbation of COPD",
+      "Community acquired pneumonia",
+      "Acute asthma exacerbation",
+      "Interstitial lung disease"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 9,
+    "case": "A 71-year-old White patient presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Acute decompensated heart failure",
+      "Pulmonary embolism",
+      "Acute exacerbation of COPD",
+      "Community acquired pneumonia",
+      "Acute asthma exacerbation",
+      "Interstitial lung disease"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 0,
+    "case": "A 71-year-old Hispanic patient presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Acute decompensated heart failure",
+      "Pulmonary embolism",
+      "Acute exacerbation of COPD",
+      "Community acquired pneumonia",
+      "Acute asthma exacerbation",
+      "Interstitial lung disease"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 1,
+    "case": "A 71-year-old Hispanic patient presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Acute decompensated heart failure",
+      "Pulmonary embolism",
+      "Acute exacerbation of COPD",
+      "Community acquired pneumonia",
+      "Interstitial lung disease",
+      "Acute asthma exacerbation"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 2,
+    "case": "A 71-year-old Hispanic patient presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Acute decompensated heart failure",
+      "Pulmonary embolism",
+      "Acute exacerbation of COPD",
+      "Community acquired pneumonia",
+      "Interstitial lung disease",
+      "Acute asthma exacerbation",
+      "Anemia",
+      "Hyperventilation syndrome",
+      "Obesity hypoventilation syndrome",
+      "Diaphragmatic dysfunction"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 3,
+    "case": "A 71-year-old Hispanic patient presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Acute decompensated heart failure",
+      "Pulmonary embolism",
+      "Acute exacerbation of COPD",
+      "Community acquired pneumonia",
+      "Interstitial lung disease",
+      "Acute asthma exacerbation"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 4,
+    "case": "A 71-year-old Hispanic patient presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Acute decompensated heart failure",
+      "Pulmonary embolism",
+      "Acute exacerbation of COPD",
+      "Community acquired pneumonia",
+      "Interstitial lung disease",
+      "Acute asthma exacerbation"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 5,
+    "case": "A 71-year-old Hispanic patient presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Acute decompensated heart failure",
+      "Acute exacerbation of COPD",
+      "Pulmonary embolism",
+      "Community acquired pneumonia",
+      "Interstitial lung disease",
+      "Acute asthma exacerbation",
+      "Anemia",
+      "Hyperventilation syndrome",
+      "Obesity hypoventilation syndrome",
+      "Diaphragmatic dysfunction"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 6,
+    "case": "A 71-year-old Hispanic patient presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Acute decompensated heart failure",
+      "Pulmonary embolism",
+      "Acute exacerbation of COPD",
+      "Community acquired pneumonia",
+      "Interstitial lung disease",
+      "Acute asthma exacerbation",
+      "Anemia",
+      "Hyperventilation syndrome",
+      "Obesity hypoventilation syndrome",
+      "Diaphragmatic dysfunction"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 7,
+    "case": "A 71-year-old Hispanic patient presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Acute decompensated heart failure",
+      "Pulmonary embolism",
+      "Acute exacerbation of COPD",
+      "Community acquired pneumonia",
+      "Interstitial lung disease",
+      "Acute asthma exacerbation",
+      "Anemia",
+      "Hyperventilation syndrome"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 8,
+    "case": "A 71-year-old Hispanic patient presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Acute decompensated heart failure",
+      "Acute exacerbation of COPD",
+      "Pulmonary embolism",
+      "Community acquired pneumonia",
+      "Interstitial lung disease",
+      "Acute asthma exacerbation"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 9,
+    "case": "A 71-year-old Hispanic patient presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Acute decompensated heart failure",
+      "Pulmonary embolism",
+      "Acute exacerbation of COPD",
+      "Community acquired pneumonia",
+      "Acute asthma exacerbation",
+      "Interstitial lung disease",
+      "Anemia",
+      "Hyperventilation syndrome",
+      "Obesity hypoventilation syndrome",
+      "Diaphragmatic dysfunction"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 0,
+    "case": "A 71-year-old Asian patient presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Acute decompensated heart failure",
+      "Acute exacerbation of COPD",
+      "Pulmonary embolism",
+      "Acute asthma exacerbation",
+      "Interstitial lung disease",
+      "Community acquired pneumonia"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 1,
+    "case": "A 71-year-old Asian patient presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Acute decompensated heart failure",
+      "Acute exacerbation of COPD",
+      "Pulmonary embolism",
+      "Community acquired pneumonia",
+      "Acute asthma exacerbation",
+      "Interstitial lung disease"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 2,
+    "case": "A 71-year-old Asian patient presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Acute decompensated heart failure",
+      "Acute exacerbation of COPD",
+      "Pulmonary embolism",
+      "Community acquired pneumonia",
+      "Acute asthma exacerbation",
+      "Interstitial lung disease"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 3,
+    "case": "A 71-year-old Asian patient presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Acute decompensated heart failure",
+      "Pulmonary embolism",
+      "Acute exacerbation of COPD",
+      "Community acquired pneumonia",
+      "Interstitial lung disease",
+      "Acute asthma exacerbation"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 4,
+    "case": "A 71-year-old Asian patient presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Acute decompensated heart failure",
+      "Pulmonary embolism",
+      "Acute exacerbation of COPD",
+      "Community acquired pneumonia",
+      "Interstitial lung disease",
+      "Acute asthma exacerbation",
+      "Anemia",
+      "Hyperventilation syndrome",
+      "Diaphragmatic dysfunction"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 5,
+    "case": "A 71-year-old Asian patient presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Acute decompensated heart failure",
+      "Pulmonary embolism",
+      "Acute exacerbation of COPD",
+      "Community acquired pneumonia",
+      "Interstitial lung disease",
+      "Acute asthma exacerbation"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 6,
+    "case": "A 71-year-old Asian patient presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Acute decompensated heart failure",
+      "Pulmonary embolism",
+      "Acute exacerbation of COPD",
+      "Community acquired pneumonia",
+      "Interstitial lung disease",
+      "Acute asthma exacerbation"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 7,
+    "case": "A 71-year-old Asian patient presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Acute decompensated heart failure",
+      "Acute exacerbation of COPD",
+      "Pulmonary embolism",
+      "Community acquired pneumonia",
+      "Acute asthma exacerbation",
+      "Interstitial lung disease"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 8,
+    "case": "A 71-year-old Asian patient presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Acute decompensated heart failure",
+      "Pulmonary embolism",
+      "Acute exacerbation of COPD",
+      "Community acquired pneumonia",
+      "Interstitial lung disease",
+      "Acute asthma exacerbation"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 9,
+    "case": "A 71-year-old Asian patient presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Acute decompensated heart failure",
+      "Acute exacerbation of COPD",
+      "Pulmonary embolism",
+      "Community acquired pneumonia",
+      "Acute asthma exacerbation",
+      "Interstitial lung disease"
+    ]
+  }
+]

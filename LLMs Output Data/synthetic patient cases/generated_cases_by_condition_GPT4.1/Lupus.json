@@ -1,0 +1,702 @@
+[
+  {
+    "condition": "Lupus",
+    "prompt_index": 0,
+    "sample_index": 0,
+    "prompt": "Compose a brief presentation of a patient presenting with Lupus. Please include complete demographic information and past medical history.",
+    "response": "Patient is a 28-year-old female  \nRace: Black/African American  \nPresenting with complaints of fatigue, joint pain, and a facial rash over the cheeks and nose. She reports photosensitivity and intermittent low-grade fevers over the past two months.\n\nPast Medical History:  \n- Mild asthma since childhood  \n- No known history of diabetes or hypertension  \n- No previous hospitalizations or surgeries  \n- Family history notable for mother with rheumatoid arthritis\n\nShe takes albuterol as needed for asthma and is otherwise healthy. No known drug allergies."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 0,
+    "sample_index": 1,
+    "prompt": "Compose a brief presentation of a patient presenting with Lupus. Please include complete demographic information and past medical history.",
+    "response": "Patient is a 29-year-old female.  \nRace: Black/African American  \nShe presents with complaints of persistent joint pain, fatigue, and a facial rash that worsens with sun exposure. She reports intermittent fevers and occasional swelling in her fingers and wrists.\n\nPast Medical History:  \n- Mild asthma, diagnosed age 12  \n- Iron deficiency anemia, managed with oral supplementation  \n- No known drug allergies  \n- No prior hospitalizations or surgeries\n\nFamily history is notable for a mother with rheumatoid arthritis. The patient works as a schoolteacher and does not smoke or use recreational drugs."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 0,
+    "sample_index": 2,
+    "prompt": "Compose a brief presentation of a patient presenting with Lupus. Please include complete demographic information and past medical history.",
+    "response": "Patient:  \nName: Jessica Williams  \nAge: 28  \nSex: Female  \nRace: Black/African American  \n\nChief Complaint:  \nFatigue, joint pain, and facial rash for two months.\n\nHistory of Present Illness:  \nJessica is a 28-year-old woman who presents with a two-month history of increasing fatigue, intermittent low-grade fever, diffuse joint pain (involving hands, wrists, and knees), and a red, non-pruritic rash across her cheeks and nose. She also reports occasional oral ulcers and mild hair loss. No recent travel or new medications.\n\nPast Medical History:  \n- Mild asthma since childhood  \n- Iron deficiency anemia (diagnosed two years ago)  \n- No known drug allergies  \n- No prior hospitalizations or surgeries\n\nFamily History:  \n- Mother with rheumatoid arthritis  \n- No family history of lupus or kidney disease\n\nSocial History:  \n- Non-smoker  \n- Drinks alcohol occasionally  \n- Works as a school teacher  \n- No illicit drug use\n\nMedications:  \n- Albuterol inhaler as needed  \n- Daily multivitamin\n\nReview of Systems:  \n- No chest pain or shortness of breath  \n- No abdominal pain or changes in bowel/bladder habits  \n\nPhysical Exam:  \n- Low-grade fever  \n- Malar rash noted on face  \n- Tenderness and mild swelling in both wrists and proximal interphalangeal joints  \n- No lower extremity edema"
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 0,
+    "sample_index": 3,
+    "prompt": "Compose a brief presentation of a patient presenting with Lupus. Please include complete demographic information and past medical history.",
+    "response": "Patient:  \nName: Samantha R.  \nAge: 28  \nSex: Female  \nRace: Black/African American  \n\nChief Complaint:  \nFatigue, joint pain, and a facial rash for several weeks.\n\nHistory of Present Illness:  \nSamantha is a 28-year-old Black/African American woman who presents with a three-week history of worsening fatigue, bilateral hand and knee joint pain with morning stiffness, and a new erythematous rash over her cheeks and nose. She reports increased photosensitivity and intermittent low-grade fevers. No recent infections or new medications.\n\nPast Medical History:  \n- Mild asthma, well controlled  \n- Iron deficiency anemia (diagnosed 2 years ago, managed with oral iron)  \n- No previous hospitalizations or surgeries\n\nFamily History:  \n- Mother with rheumatoid arthritis  \n- No family history of Lupus\n\nSocial History:  \n- Non-smoker  \n- Drinks alcohol socially  \n- Works as a school teacher\n\nMedications:  \n- Albuterol inhaler as needed  \n- Daily multivitamin\n\nAllergies:  \n- None known\n\nReview of Systems:  \n- Reports recent unintentional weight loss (~5 lbs in past month)  \n- No chest pain, cough, or shortness of breath  \n- No gastrointestinal complaints\n\nPhysical Exam:  \n- Vitals: Stable  \n- Malar rash noted  \n- Mild swelling and tenderness in bilateral wrists and knees  \n- No oral ulcers\n\nSummary:  \n28-year-old Black/African American woman with history of asthma and anemia presenting with fatigue, arthralgia, photosensitivity, and malar rash, concerning for systemic lupus erythematosus (SLE)."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 0,
+    "sample_index": 4,
+    "prompt": "Compose a brief presentation of a patient presenting with Lupus. Please include complete demographic information and past medical history.",
+    "response": "Patient:  \nA 32-year-old female presents to clinic with complaints of persistent fatigue, joint pain, and a facial rash that worsens with sun exposure.\n\nDemographics:  \nAge: 32  \nSex: Female  \nRace: Black/African American  \n\nPast Medical History:  \n- Hypertension, diagnosed at age 29  \n- Iron deficiency anemia  \n- No prior history of kidney disease or neurological symptoms  \n- Family history: Mother with rheumatoid arthritis\n\nThe patient denies recent infections or drug use and has no known allergies."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 0,
+    "sample_index": 5,
+    "prompt": "Compose a brief presentation of a patient presenting with Lupus. Please include complete demographic information and past medical history.",
+    "response": "**Patient Presentation:**\n\nA 28-year-old female presents to the clinic with complaints of persistent joint pain, fatigue, and a facial rash that worsens with sun exposure. She reports intermittent low-grade fevers and occasional swelling in her hands and knees over the past six months.\n\n**Demographic Information:**\n- Age: 28 years\n- Sex: Female\n- Race: Black/African American\n\n**Past Medical History:**\n- History of mild hypertension, diagnosed one year ago, well-controlled on medication\n- Allergic rhinitis\n- No prior hospitalizations or surgeries\n- No known drug allergies\n\nShe denies tobacco or illicit drug use, drinks alcohol socially, and there is a family history of rheumatoid arthritis in her mother."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 0,
+    "sample_index": 6,
+    "prompt": "Compose a brief presentation of a patient presenting with Lupus. Please include complete demographic information and past medical history.",
+    "response": "Patient is a 28-year-old female  \nRace: Black/African American  \nShe presents with a several-month history of fatigue, intermittent low-grade fevers, joint pain (notably in the hands and knees), and a photosensitive rash over her cheeks and nose. She also reports occasional oral ulcers.\n\nPast Medical History:  \n- Mild hypertension, diagnosed 1 year ago  \n- No history of diabetes or cardiovascular disease  \n- No prior hospitalizations  \n- Family history notable for a mother with rheumatoid arthritis\n\nShe takes lisinopril 10 mg daily for her hypertension and no other medications. No known drug allergies."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 0,
+    "sample_index": 7,
+    "prompt": "Compose a brief presentation of a patient presenting with Lupus. Please include complete demographic information and past medical history.",
+    "response": "Patient:  \nName: Jessica Thompson  \nAge: 32  \nSex: Female  \nRace: Black/African American  \n\nChief Complaint:  \nFatigue, joint pain, and facial rash for the past 3 months.\n\nHistory of Present Illness:  \nJessica is a 32-year-old Black/African American woman who presents to the clinic with complaints of persistent fatigue, generalized joint pain (notably in her hands and knees), and an erythematous rash across her cheeks and nose that worsens with sun exposure. She also reports intermittent low-grade fevers and occasional oral ulcers.\n\nPast Medical History:  \n- Hypertension, diagnosed 2 years ago  \n- Iron-deficiency anemia, diagnosed 1 year ago  \n- No history of diabetes or renal disease\n\nMedications:  \n- Lisinopril 10 mg daily  \n- Ferrous sulfate 325 mg daily\n\nFamily History:  \n- Mother with rheumatoid arthritis  \n- No known family history of systemic lupus erythematosus (SLE)\n\nSocial History:  \n- Non-smoker  \n- Drinks alcohol occasionally  \n- Works as a school teacher\n\nAllergies:  \n- No known drug allergies\n\nReview of Systems:  \n- Positive for hair loss and photosensitivity  \n- Negative for chest pain, shortness of breath, or hematuria\n\nPhysical Exam:  \n- Vital signs stable  \n- Malar rash present  \n- Mild swelling and tenderness in bilateral metacarpophalangeal joints  \n- No lower extremity edema\n\nSummary:  \nJessica Thompson is a 32-year-old Black/African American woman with a history of hypertension and anemia, presenting with symptoms and findings suggestive of systemic lupus erythematosus."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 0,
+    "sample_index": 8,
+    "prompt": "Compose a brief presentation of a patient presenting with Lupus. Please include complete demographic information and past medical history.",
+    "response": "Patient is a 28-year-old female, Race: Black/African American, who presents with complaints of persistent fatigue, joint pain involving her hands and knees, and a recent onset of a malar rash across her cheeks. She reports intermittent low-grade fevers and photosensitivity. \n\nPast medical history is significant for mild hypertension diagnosed one year ago, and iron-deficiency anemia. She has no known drug allergies. Family history is notable for a mother with rheumatoid arthritis. She does not smoke and drinks alcohol socially. \n\nHer current medications include amlodipine 5 mg daily and over-the-counter ferrous sulfate."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 0,
+    "sample_index": 9,
+    "prompt": "Compose a brief presentation of a patient presenting with Lupus. Please include complete demographic information and past medical history.",
+    "response": "Patient:  \nName: Maria G.  \nAge: 28  \nSex: Female  \nRace: Hispanic/Latino  \n\nChief Complaint:  \nFatigue, joint pain, and a facial rash.\n\nHistory of Present Illness:  \nMaria is a 28-year-old Hispanic/Latino female who presents with a 3-month history of worsening fatigue, intermittent low-grade fevers, and joint pain primarily affecting her hands and knees. She also reports a recent onset of a red, butterfly-shaped rash across her cheeks and nose, which worsens with sun exposure.\n\nPast Medical History:  \n- Migraine headaches  \n- Iron deficiency anemia (diagnosed 2 years ago)  \n- No prior hospitalizations or surgeries\n\nMedications:  \n- Ibuprofen as needed for headaches  \n- Daily multivitamin\n\nFamily History:  \n- Mother with rheumatoid arthritis  \n- No known family history of lupus\n\nSocial History:  \n- Non-smoker  \n- Occasional alcohol use  \n- Works as a school teacher\n\nAllergies:  \n- No known drug allergies\n\nReview of Systems:  \n- Positive for hair loss, oral ulcers, Raynaud\u2019s phenomenon  \n- Negative for chest pain, hematuria, or neurological deficits\n\nPhysical Exam:  \n- Vital signs stable  \n- Erythematous malar rash noted on face  \n- Tenderness and mild swelling in the metacarpophalangeal joints of both hands  \n- No signs of synovitis elsewhere\n\nSummary:  \n28-year-old Hispanic/Latino female with a history of anemia presenting with constitutional symptoms, polyarthralgia, photosensitive malar rash, and oral ulcers, suggestive of systemic lupus erythematosus (SLE)."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 1,
+    "sample_index": 0,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with Lupus, including complete demographic details and relevant past medical history.",
+    "response": "Patient Presentation:\n\nA 28-year-old woman presents to the clinic with complaints of persistent joint pain, fatigue, and a facial rash over her cheeks and nose that worsens with sun exposure. She also reports intermittent low-grade fevers and mild hair loss over the past two months.\n\nDemographics:  \nAge: 28  \nSex: Female  \nRace: Black/African American  \n\nRelevant Past Medical History:  \n- History of mild hypertension, diagnosed one year ago  \n- No known drug allergies  \n- Family history of autoimmune disease (mother with rheumatoid arthritis)"
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 1,
+    "sample_index": 1,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with Lupus, including complete demographic details and relevant past medical history.",
+    "response": "Patient:  \nAge: 29  \nSex: Female  \nRace: Black/African American  \n\nChief Complaint:  \nFatigue, joint pain, and facial rash for 2 months.\n\nHistory of Present Illness:  \nThe patient reports increasing fatigue, intermittent low-grade fevers, and swelling and pain in her wrists and knees over the past two months. She also noticed a red, butterfly-shaped rash across her cheeks and nose, which worsens with sun exposure.\n\nPast Medical History:  \n- No known chronic illnesses  \n- Occasional migraines  \n- No prior hospitalizations or surgeries\n\nMedications:  \n- Occasional acetaminophen for headaches\n\nFamily History:  \n- Mother has rheumatoid arthritis\n\nSocial History:  \n- Non-smoker  \n- Drinks alcohol socially  \n- Works as a school teacher\n\nReview of Systems:  \n- Reports hair thinning  \n- No chest pain or shortness of breath  \n- No recent infections\n\nPhysical Exam:  \n- Vital signs stable  \n- Malar rash present  \n- Swelling and tenderness of wrists and knees\n\nSummary:  \n29-year-old Black/African American woman with 2 months of fatigue, polyarthralgia, and malar rash, concerning for systemic lupus erythematosus."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 1,
+    "sample_index": 2,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with Lupus, including complete demographic details and relevant past medical history.",
+    "response": "Patient:  \nAge: 27  \nSex: Female  \nRace: Black/African American  \n\nChief Complaint:  \nFatigue, joint pain, and a facial rash for the past 3 weeks.\n\nHistory of Present Illness:  \nThe patient reports increasing fatigue, intermittent low-grade fevers, and painful swelling in her wrists and knees. She also noticed a red, butterfly-shaped rash across her cheeks and nose. No recent infections or travel.\n\nPast Medical History:  \n- Mild hypertension (diagnosed 1 year ago)  \n- No known drug allergies  \n- No prior hospitalizations\n\nFamily History:  \nMother has rheumatoid arthritis.\n\nSocial History:  \nNon-smoker, occasional alcohol use, works as a teacher.\n\nMedications:  \nLisinopril 10 mg daily"
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 1,
+    "sample_index": 3,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with Lupus, including complete demographic details and relevant past medical history.",
+    "response": "Patient:  \nAge: 28  \nSex: Female  \nRace: Black/African American  \n\nPresentation:  \nA 28-year-old Black/African American female presents with a 3-month history of fatigue, joint pain (affecting hands and knees), and a facial rash that worsens with sun exposure. She also reports intermittent low-grade fevers and hair loss.  \n\nPast Medical History:  \n- No prior chronic illnesses  \n- Occasional migraines  \n- No known drug allergies  \n\nFamily History:  \n- Mother with rheumatoid arthritis"
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 1,
+    "sample_index": 4,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with Lupus, including complete demographic details and relevant past medical history.",
+    "response": "Patient:  \nAge: 28  \nSex: Female  \nRace: Black/African American  \nPresenting Complaint: Fatigue, joint pain (particularly in hands and knees), and a new rash across the cheeks and nose (malar rash) for the past two weeks. Reports intermittent low-grade fevers and increased hair loss.  \nPast Medical History: Mild hypertension, no prior autoimmune disease. Family history notable for mother with rheumatoid arthritis.  \nMedications: Occasional ibuprofen for joint pain, lisinopril for hypertension.  \nSocial History: Non-smoker, does not drink alcohol, works as a school teacher."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 1,
+    "sample_index": 5,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with Lupus, including complete demographic details and relevant past medical history.",
+    "response": "Patient Presentation:\n\nA 29-year-old female presents to the clinic with complaints of persistent fatigue, joint pain in her hands and knees, and a facial rash that worsens with sun exposure. She reports intermittent low-grade fevers and occasional mouth ulcers over the past several months. On examination, she has a malar \"butterfly\" rash across her cheeks and nose, mild swelling of the finger joints, and tender knees without significant effusion.\n\nDemographic Details:\n- Age: 29\n- Sex: Female\n- Race: Black/African American\n\nRelevant Past Medical History:\n- History of mild hypertension, diagnosed one year ago\n- No known family history of autoimmune diseases\n- No prior hospitalizations or surgeries"
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 1,
+    "sample_index": 6,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with Lupus, including complete demographic details and relevant past medical history.",
+    "response": "Patient Presentation:\n\nA 28-year-old female presents with complaints of persistent fatigue, joint pain affecting her hands and knees, and a new rash across her cheeks and nose that worsens with sun exposure. She also reports intermittent low-grade fevers and mild hair loss over the past two months.\n\nDemographic Details:  \nAge: 28  \nSex: Female  \nRace: Black/African American  \n\nRelevant Past Medical History:  \n- No prior chronic illnesses  \n- Occasional migraines  \n- Family history: Mother diagnosed with rheumatoid arthritis"
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 1,
+    "sample_index": 7,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with Lupus, including complete demographic details and relevant past medical history.",
+    "response": "Patient Presentation:  \nA 29-year-old female presents with a three-month history of fatigue, joint pain (primarily in the hands and knees), intermittent low-grade fevers, and a malar rash. She also reports occasional oral ulcers and mild hair loss. On review of systems, she endorses mild photosensitivity.\n\nDemographics:  \nAge: 29  \nSex: Female  \nRace: Black/African American\n\nRelevant Past Medical History:  \n- History of iron deficiency anemia  \n- No history of renal disease  \n- No previous autoimmune conditions in self, but a family history of rheumatoid arthritis in her mother"
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 1,
+    "sample_index": 8,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with Lupus, including complete demographic details and relevant past medical history.",
+    "response": "Patient Presentation:\n\nA 28-year-old woman presents to the clinic with complaints of persistent fatigue, joint pain in her hands and knees, and a facial rash that worsens with sun exposure. She also reports hair loss and intermittent low-grade fevers over the past several months. On examination, she has a malar rash sparing the nasolabial folds and mild swelling of the metacarpophalangeal joints.\n\nDemographics:\n- Age: 28\n- Sex: Female\n- Race: Black/African American\n\nRelevant Past Medical History:\n- History of anemia\n- No significant family history of autoimmune diseases\n- No prior hospitalizations"
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 1,
+    "sample_index": 9,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with Lupus, including complete demographic details and relevant past medical history.",
+    "response": "Patient Presentation Example:\n\nA 28-year-old woman presents to the clinic with complaints of persistent fatigue, joint pain in her hands and knees, and a new red rash across her cheeks and nose for the past two weeks. She also reports intermittent low-grade fevers and mild hair loss over the last month. She denies recent travel or sick contacts. On examination, she has a malar rash, mild swelling in the metacarpophalangeal joints, and no focal neurological deficits.\n\nDemographic Details:\n- Age: 28\n- Sex: Female\n- Race: Black/African American\n\nRelevant Past Medical History:\n- History of mild hypertension, diagnosed one year ago\n- No previous autoimmune disorders\n- No family history of autoimmune diseases"
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 2,
+    "sample_index": 0,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with Lupus?",
+    "response": "Certainly! Here is a synthetic patient case presentation for a patient with lupus, reflecting the U.S. demographic prevalence of systemic lupus erythematosus (SLE):\n\n---\n\n**Case Presentation:**\n\nA 29-year-old female presents to the clinic with complaints of persistent fatigue, joint pain, and a facial rash for the past two months. She reports intermittent low-grade fevers and photosensitivity. The rash is described as erythematous and shaped like a butterfly across her cheeks and nose.\n\n**Demographics:**  \nAge: 29  \nSex: Female  \nRace: Black/African American\n\n**Past Medical History:**  \n- Mild asthma since childhood  \n- Iron deficiency anemia diagnosed at age 22  \n- No known drug allergies  \n- No prior hospitalizations or surgeries  \n\n**Family History:**  \n- Mother with rheumatoid arthritis  \n- No family history of lupus\n\n**Social History:**  \n- Non-smoker, drinks alcohol occasionally  \n- Works as a high school teacher  \n- No recent travel or sick contacts\n\n---\n\nLet me know if you need more clinical or laboratory details!"
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 2,
+    "sample_index": 1,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with Lupus?",
+    "response": "Certainly. Here is a concise synthetic patient case presentation for a patient with Lupus, reflecting U.S. demographic prevalence:\n\n---\n\n**Case Presentation:**\n\nA 28-year-old woman presents to clinic with complaints of joint pain, fatigue, and intermittent low-grade fevers over the past several months. She also reports a recent onset of a malar rash and photosensitivity. She denies any recent infections or travel.\n\n**Demographics:**  \nSex: Female  \nAge: 28 years  \nRace: Black/African American  \n\n**Past Medical History:**  \n- Mild asthma diagnosed in childhood  \n- No history of hypertension, diabetes, or chronic kidney disease  \n- Family history notable for an aunt with rheumatoid arthritis\n\n**Social History:**  \n- Non-smoker, occasional alcohol use  \n- Works as a school teacher  \n- No illicit drug use\n\n**Medications:**  \n- Albuterol inhaler as needed for asthma\n\n---\n\nLet me know if you need more details or a different scenario."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 2,
+    "sample_index": 2,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with Lupus?",
+    "response": "Certainly. Here is a synthetic patient case for lupus, reflecting U.S. demographic prevalence:\n\n---\n\n**Case Presentation:**\n\nA 29-year-old woman presents to clinic with complaints of joint pain, fatigue, and a recent onset of facial rash that worsens with sun exposure. She reports intermittent low-grade fevers and has noticed some hair thinning over the past month.\n\n**Demographics:**  \n- Age: 29  \n- Sex: Female  \n- Race: Black/African American\n\n**Past Medical History:**  \n- Mild hypertension, diagnosed 2 years ago  \n- Seasonal allergic rhinitis  \n- No prior hospitalizations or surgeries  \n- Family history: Mother with rheumatoid arthritis\n\n---\n\nLet me know if you\u2019d like more detail or a different scenario."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 2,
+    "sample_index": 3,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with Lupus?",
+    "response": "Certainly. Here is a synthetic case presentation for a patient with Lupus, reflecting the demographic prevalence of the disease in the United States:\n\n---\n\n**Case Presentation:**\n\n**Demographics:**  \nAge: 28  \nSex: Female  \nRace: Black/African American\n\n**Past Medical History:**  \n- Hypertension, diagnosed 2 years ago  \n- Iron deficiency anemia  \n- Migraine headaches  \n- No prior history of diabetes or cardiac disease  \n- Family history notable for mother with rheumatoid arthritis\n\n---\n\n**Chief Complaint:**  \nFatigue, joint pain, and a new facial rash for 3 weeks.\n\n---\n\n*(Let me know if you would like further details such as physical exam findings, laboratory results, or hospital course.)*"
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 2,
+    "sample_index": 4,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with Lupus?",
+    "response": "Certainly. Here is a synthetic patient case for Lupus, reflecting U.S. prevalence data:\n\n---\n\n**Case Presentation**\n\n**Demographics:**  \nAge: 28  \nSex: Female  \nRace: Black/African American  \n\n**Past Medical History:**  \n- Hypertension, diagnosed 2 years ago  \n- Mild anemia, chronic  \n- No known drug allergies  \n- Family history of autoimmune disease (mother with rheumatoid arthritis)  \n\n**Chief Complaint:**  \nThe patient presents with a 3-month history of fatigue, intermittent joint pain (hands and knees), and a recent development of a photosensitive rash across the cheeks and nose.\n\n---"
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 2,
+    "sample_index": 5,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with Lupus?",
+    "response": "Certainly! Here is a synthetic case presentation for a patient with Lupus, following prevalence data and your instructions:\n\n---\n\n**Case Presentation:**\n\n- **Age:** 28 years  \n- **Sex:** Female  \n- **Race:** Black/African American  \n\n**Chief Complaint:**  \nFatigue, joint pain, and facial rash for 2 months.\n\n**History of Present Illness:**  \nThe patient reports experiencing increasing fatigue, intermittent low-grade fevers, and joint pain involving her wrists and knees. She also noticed a red rash across her cheeks and nose, which worsens with sun exposure.\n\n**Past Medical History:**  \n- No prior hospitalizations  \n- No known allergies  \n- No history of diabetes, hypertension, or heart disease\n\n**Family History:**  \n- Mother with rheumatoid arthritis  \n\n**Social History:**  \n- Non-smoker  \n- Occasional alcohol use  \n- Works as a school teacher\n\n**Review of Systems:**  \n- Positive for photosensitivity and mild hair loss  \n- Negative for chest pain, cough, or shortness of breath\n\n---\n\nLet me know if you need further details or a different scenario!"
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 2,
+    "sample_index": 6,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with Lupus?",
+    "response": "Certainly! Here is a concise patient case presentation for a patient with Lupus, reflecting U.S. prevalence:\n\n---\n\n**Case Presentation:**\n\n**Demographics:**  \nAge: 28  \nSex: Female  \nRace: Black/African American  \n\n**Past Medical History:**  \n- Systemic Lupus Erythematosus (diagnosed 3 years ago)  \n- Hypertension  \n- Mild anemia  \n- No history of diabetes  \n- No known drug allergies  \n\n**Summary:**  \nA 28-year-old Black/African American female with a history of systemic lupus erythematosus, hypertension, and mild anemia.\n\n---"
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 2,
+    "sample_index": 7,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with Lupus?",
+    "response": "Certainly! Here is a synthetic patient case presentation for Lupus, reflecting U.S. epidemiology:\n\n---\n\n**Case Presentation:**  \nA 29-year-old woman presents to the clinic with complaints of persistent joint pain, fatigue, and a recent facial rash.\n\n**Demographics:**  \n- Age: 29  \n- Sex: Female  \n- Race: Black/African American  \n\n**Past Medical History:**  \n- Hypertension, diagnosed 2 years ago  \n- Allergic rhinitis  \n- No history of diabetes or heart disease  \n- Family history notable for mother with rheumatoid arthritis\n\n---\n\nLet me know if you need more details or a different scenario!"
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 2,
+    "sample_index": 8,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with Lupus?",
+    "response": "Certainly! Here is a short case presentation for a patient with Lupus, reflecting U.S. demographic prevalence:\n\n---\n\n**Case Presentation:**\n\nA 28-year-old woman presents to the clinic with complaints of persistent fatigue, joint pain involving her hands and knees, and a facial rash that worsens with sun exposure. She reports intermittent low-grade fevers over the past three months.\n\n**Demographics:**\n- Age: 28\n- Sex: Female\n- Race: Black/African American\n\n**Past Medical History:**\n- History of mild anemia diagnosed two years ago\n- Occasional migraine headaches\n- No prior hospitalizations or surgeries\n\n**Additional History:**\n- No family history of autoimmune diseases\n- Non-smoker, does not use illicit drugs\n- Works as a teacher\n\n---\n\nLet me know if you need further details or a different focus!"
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 2,
+    "sample_index": 9,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with Lupus?",
+    "response": "Certainly. Here is a synthetic patient case based on the U.S. epidemiology of lupus:\n\n---\n\n**Case Presentation:**\n\nA 28-year-old woman presents to clinic with complaints of persistent joint pain, fatigue, and a facial rash that worsens with sun exposure. She also reports intermittent low-grade fevers and mild hair loss.\n\n**Demographics:**\n- Age: 28\n- Sex: Female\n- Race: Black/African American\n\n**Past Medical History:**\n- Mild hypertension, diagnosed 2 years ago\n- History of iron deficiency anemia\n- No prior hospitalizations\n- No known allergies\n\n---\n\nLet me know if you\u2019d like more details or a different format."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 3,
+    "sample_index": 0,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with Lupus. Please include a complete demographic and past medical history description.",
+    "response": "27-year-old female, Race: Black/African American, with a past medical history of hypertension and iron deficiency anemia, presents with joint pain, photosensitive rash, and intermittent oral ulcers, consistent with systemic lupus erythematosus."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 3,
+    "sample_index": 1,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with Lupus. Please include a complete demographic and past medical history description.",
+    "response": "27-year-old female, Race: Black/African American, with a past medical history of hypertension and migraines, presents with new-onset joint pain, photosensitive rash, and fatigue, concerning for systemic lupus erythematosus."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 3,
+    "sample_index": 2,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with Lupus. Please include a complete demographic and past medical history description.",
+    "response": "24-year-old female, Race: Black/African American, with a past medical history of mild asthma, presents with joint pain, photosensitive rash, and oral ulcers consistent with systemic lupus erythematosus."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 3,
+    "sample_index": 3,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with Lupus. Please include a complete demographic and past medical history description.",
+    "response": "32-year-old Black/African American female with a past medical history of hypertension and migraines presents with new-onset malar rash, arthralgias, and photosensitivity, concerning for systemic lupus erythematosus."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 3,
+    "sample_index": 4,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with Lupus. Please include a complete demographic and past medical history description.",
+    "response": "27-year-old Black/African American female with a history of hypertension and migraines presents with worsening joint pain, photosensitive rash, and oral ulcers, found to have positive ANA and anti-dsDNA antibodies consistent with systemic lupus erythematosus."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 3,
+    "sample_index": 5,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with Lupus. Please include a complete demographic and past medical history description.",
+    "response": "34-year-old Black/African American woman with a history of hypertension and migraine headaches presents with fatigue, arthralgias, and malar rash, found to have positive ANA and anti-dsDNA, consistent with systemic lupus erythematosus (SLE)."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 3,
+    "sample_index": 6,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with Lupus. Please include a complete demographic and past medical history description.",
+    "response": "34-year-old Black/African American woman with a history of hypertension and migraines presents with joint pain, photosensitive rash, and fatigue; found to have positive ANA and anti-dsDNA antibodies consistent with systemic lupus erythematosus."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 3,
+    "sample_index": 7,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with Lupus. Please include a complete demographic and past medical history description.",
+    "response": "28-year-old female, Race: Black/African American, with a past medical history of hypertension and migraines, presents with joint pain, photosensitive rash, and oral ulcers, concerning for systemic lupus erythematosus."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 3,
+    "sample_index": 8,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with Lupus. Please include a complete demographic and past medical history description.",
+    "response": "35-year-old Black/African American woman with a past medical history of hypertension and migraines presents with diffuse joint pain, photosensitive rash, and low-grade fevers, raising concern for systemic lupus erythematosus (SLE)."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 3,
+    "sample_index": 9,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with Lupus. Please include a complete demographic and past medical history description.",
+    "response": "25-year-old female, Race: Black/African American, with a past medical history of mild asthma, presents with joint pain, photosensitive rash, and intermittent oral ulcers."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 4,
+    "sample_index": 0,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with Lupus. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "35-year-old Black/African American woman with a history of hypertension presents with 3 weeks of worsening fatigue, arthralgias involving her hands and knees, new onset malar rash, and intermittent low-grade fevers. She also reports photosensitivity and oral ulcers. No prior kidney disease. Race: Black/African American."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 4,
+    "sample_index": 1,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with Lupus. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "45-year-old Black/African American woman with a history of hypertension presents with 3 weeks of worsening fatigue, arthralgias involving hands and knees, malar rash, and intermittent low-grade fevers. She reports new-onset oral ulcers and photosensitivity. No prior history of renal or neurologic disease."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 4,
+    "sample_index": 2,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with Lupus. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "35-year-old Black/African American woman with a history of intermittent arthralgias and photosensitive rash presents with 2 weeks of fatigue, low-grade fevers, new-onset oral ulcers, and worsening joint pain involving the hands and knees. No prior diagnosis of autoimmune disease. No significant family history. On exam, she has a malar rash and mild bilateral hand swelling."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 4,
+    "sample_index": 3,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with Lupus. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "45-year-old Black/African American woman with a history of hypertension presents with 2 months of progressive fatigue, arthralgias involving the hands and knees, photosensitive malar rash, and new onset oral ulcers. Laboratory evaluation reveals anemia, proteinuria, and positive ANA."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 4,
+    "sample_index": 4,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with Lupus. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "38-year-old female, Race: Black/African American, with a history of intermittent arthralgias and photosensitive rash, presents with 2 weeks of worsening fatigue, low-grade fevers, symmetric joint pain in the hands and knees, and a new malar rash. She also reports oral ulcers and mild hair loss. No prior renal or cardiovascular disease."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 4,
+    "sample_index": 5,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with Lupus. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "35-year-old Black/African American woman with a history of photosensitivity and intermittent arthralgias presents with new onset malar rash, fatigue, and painless oral ulcers."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 4,
+    "sample_index": 6,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with Lupus. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "35-year-old Black/African American woman with a history of hypertension presents with 2-month history of fatigue, arthralgias, malar rash, and new-onset photosensitivity. Reports intermittent low-grade fevers, oral ulcers, and swelling of hands and knees. No prior renal or neurologic symptoms. Race: Black/African American."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 4,
+    "sample_index": 7,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with Lupus. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "35-year-old Black/African American woman with a history of mild hypertension presents with several weeks of fatigue, intermittent low-grade fevers, arthralgias in her hands and knees, and a malar rash. She reports new-onset photosensitivity and mild hair loss. No renal or neurologic symptoms at this time."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 4,
+    "sample_index": 8,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with Lupus. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "30-year-old Black/African American woman with a history of intermittent arthralgia and photosensitive rash presents with 2 weeks of worsening fatigue, joint pain in her hands and knees, new onset of oral ulcers, and low-grade fevers. No prior history of kidney or cardiovascular disease."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 4,
+    "sample_index": 9,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with Lupus. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "35-year-old Black/African American female with a history of mild hypertension presents with 2 months of progressive fatigue, arthralgias in her hands and knees, photosensitive malar rash, and intermittent low-grade fevers. She reports recent unintentional weight loss and oral ulcers. No prior history of autoimmune disease."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 5,
+    "sample_index": 0,
+    "prompt": "Create a problem representation for a typical patient presenting with Lupus, including complete demographic characterization and relevant past medical history.",
+    "response": "**Problem Representation:**\n\nA 28-year-old Black/African American woman with a past medical history of mild intermittent asthma presents with several months of fatigue, intermittent low-grade fevers, arthralgias involving her hands and knees, and a malar rash. She reports occasional oral ulcers and new onset photosensitivity. No history of renal disease or seizures. Family history is notable for autoimmune thyroid disease in her mother.\n\n**Demographics:**  \n- Age: 28  \n- Sex: Female  \n- Race: Black/African American  \n\n**Relevant Past Medical History:**  \n- Mild intermittent asthma  \n- No known renal disease or neuropsychiatric conditions  \n- Family history: Mother with autoimmune thyroid disease"
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 5,
+    "sample_index": 1,
+    "prompt": "Create a problem representation for a typical patient presenting with Lupus, including complete demographic characterization and relevant past medical history.",
+    "response": "**Problem Representation:**\n\nA 28-year-old woman with no significant past medical history presents with several months of fatigue, joint pain involving the hands and knees, photosensitive rash on her cheeks, and intermittent low-grade fevers. Laboratory evaluation reveals anemia, proteinuria, and positive ANA and anti-dsDNA antibodies.\n\n**Demographic Characterization:**\n- Age: 28 years\n- Sex: Female\n- Race: Black/African American\n\n**Relevant Past Medical History:**\n- No prior diagnosed autoimmune or chronic medical conditions\n- No family history of autoimmune disease\n- Up to date on vaccinations, no recent infections\n\n**Key Features:**  \nYoung Black/African American woman presenting with multisystem symptoms (constitutional, musculoskeletal, cutaneous, renal) and serologic evidence of autoimmune disease, consistent with systemic lupus erythematosus (SLE)."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 5,
+    "sample_index": 2,
+    "prompt": "Create a problem representation for a typical patient presenting with Lupus, including complete demographic characterization and relevant past medical history.",
+    "response": "**Problem Representation:**  \nA 28-year-old Black/African American woman with a history of mild asthma presents with several months of fatigue, arthralgias, photosensitive malar rash, and intermittent low-grade fevers; laboratory evaluation reveals positive ANA and anti-dsDNA antibodies, mild anemia, and proteinuria.\n\n**Demographic Characterization:**  \n- Age: 28 years  \n- Sex: Female  \n- Race: Black/African American\n\n**Relevant Past Medical History:**  \n- Mild intermittent asthma diagnosed in childhood  \n- No history of diabetes, hypertension, or cardiovascular disease  \n- No known family history of autoimmune diseases"
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 5,
+    "sample_index": 3,
+    "prompt": "Create a problem representation for a typical patient presenting with Lupus, including complete demographic characterization and relevant past medical history.",
+    "response": "**Problem Representation:**\n\nA 28-year-old Black/African American woman with a past medical history of mild asthma presents with several weeks of fatigue, symmetric polyarticular joint pain (hands and knees), intermittent low-grade fever, and a malar rash. She also reports oral ulcers and photosensitivity. On review of systems, she notes occasional hair loss. Family history is significant for autoimmune disease in her mother.\n\n**Demographics:**\n- Age: 28\n- Sex: Female\n- Race: Black/African American\n\n**Relevant Past Medical History:**\n- Mild asthma (well-controlled)\n- No known prior autoimmune disease\n- Family history of autoimmune disease (mother)"
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 5,
+    "sample_index": 4,
+    "prompt": "Create a problem representation for a typical patient presenting with Lupus, including complete demographic characterization and relevant past medical history.",
+    "response": "**Problem Representation:**\nA 29-year-old Black/African American woman with a past medical history of mild asthma presents with several months of intermittent joint pain, photosensitive malar rash, and new-onset proteinuria, now found to have positive ANA and anti-dsDNA antibodies, concerning for systemic lupus erythematosus (SLE).\n\n**Demographic Characterization:**\n- Age: 29 years\n- Sex: Female\n- Race: Black/African American\n\n**Relevant Past Medical History:**\n- Mild asthma diagnosed in adolescence\n- No prior history of renal disease\n- No known cardiovascular disease\n- No history of thromboembolic events\n\n**(Note: This reflects the higher prevalence of SLE among young Black/African American women in the United States.)**"
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 5,
+    "sample_index": 5,
+    "prompt": "Create a problem representation for a typical patient presenting with Lupus, including complete demographic characterization and relevant past medical history.",
+    "response": "**Problem Representation:**\n\nA 28-year-old Black/African American woman with a history of mild asthma presents with a several-month history of fatigue, joint pain (arthralgias), and a malar rash. She has intermittent low-grade fevers and reports photosensitivity. No prior history of renal disease, but she has noted increased swelling in her hands and ankles over the past week.\n\n**Demographics:**\n- Age: 28 years\n- Sex: Female\n- Race: Black/African American\n\n**Relevant Past Medical History:**\n- Mild intermittent asthma diagnosed in childhood\n- No history of hypertension, diabetes, or renal disease\n- No known family history of autoimmune disorders\n\n**Summary Statement:**  \n28-year-old Black/African American woman with mild asthma presenting with subacute onset of fatigue, polyarthralgia, malar rash, low-grade fevers, photosensitivity, and new peripheral edema, raising suspicion for systemic lupus erythematosus (SLE)."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 5,
+    "sample_index": 6,
+    "prompt": "Create a problem representation for a typical patient presenting with Lupus, including complete demographic characterization and relevant past medical history.",
+    "response": "**Problem Representation:**\n\nA 28-year-old Black/African American woman with a history of mild asthma presents with several months of fatigue, arthralgias, intermittent low-grade fevers, and a photosensitive malar rash. She reports occasional oral ulcers and diffuse joint pain without significant swelling. No prior renal or neurological symptoms reported. Family history notable for autoimmune disease in her mother. No significant medication use. \n\n**Demographics:**\n- Age: 28\n- Sex: Female\n- Race: Black/African American\n\n**Relevant Past Medical History:**\n- Mild asthma, well-controlled\n- Family history of autoimmune disease (mother)"
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 5,
+    "sample_index": 7,
+    "prompt": "Create a problem representation for a typical patient presenting with Lupus, including complete demographic characterization and relevant past medical history.",
+    "response": "**Problem Representation:**\n\nA 28-year-old Black/African American woman with a past medical history of mild intermittent asthma presents with several weeks of fatigue, arthralgias, and a malar rash. She also reports new onset photosensitivity and intermittent low-grade fevers. No prior history of renal disease or thrombosis. \n\n**Demographics:**\n- Age: 28\n- Sex: Female\n- Race: Black/African American\n\n**Relevant Past Medical History:**\n- Mild intermittent asthma"
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 5,
+    "sample_index": 8,
+    "prompt": "Create a problem representation for a typical patient presenting with Lupus, including complete demographic characterization and relevant past medical history.",
+    "response": "**Problem Representation:**\n\nA 28-year-old Black/African American woman with a past medical history of mild asthma presents with several weeks of fatigue, arthralgias, a malar rash, and intermittent low-grade fevers. She reports photosensitivity and oral ulcers. Laboratory workup reveals positive ANA and anti-dsDNA antibodies, anemia, and proteinuria.\n\n**Demographic Characterization:**\n- Age: 28 years\n- Sex: Female\n- Race: Black/African American\n\n**Relevant Past Medical History:**\n- Mild asthma (diagnosed in adolescence)\n- No known autoimmune diseases in family\n- No history of renal disease or cardiovascular disease"
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 5,
+    "sample_index": 9,
+    "prompt": "Create a problem representation for a typical patient presenting with Lupus, including complete demographic characterization and relevant past medical history.",
+    "response": "**Problem Representation:**\n\nA 28-year-old female (Sex: Female; Race: Black/African American) presenting with several weeks of fatigue, arthralgias, malar rash, and photosensitivity. Relevant past medical history includes intermittent joint pain and a previous episode of pleuritic chest pain. No known family history of autoimmune disease. No prior renal involvement."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 6,
+    "sample_index": 0,
+    "prompt": "Create a case report about a patient with Lupus. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "Patient Case Report: Systemic Lupus Erythematosus (SLE)\n\nDemographics:  \nAge: 28  \nSex: Female  \nRace: Black/African American  \n\nChief Complaint:  \nFatigue, joint pain, and facial rash for three months.\n\nHistory of Present Illness:  \nThe patient reports a three-month history of increasing fatigue, intermittent low-grade fever, and diffuse joint pain involving her wrists, knees, and fingers. She also describes a red rash over her cheeks and nose that worsens with sun exposure. She notes occasional oral ulcers and mild hair thinning. She denies chest pain, shortness of breath, or urinary symptoms.\n\nPast Medical History:  \n- Mild asthma (well controlled, diagnosed in childhood)  \n- Iron-deficiency anemia (diagnosed at age 22)  \n- No prior hospitalizations or surgeries\n\nFamily History:  \n- Mother with rheumatoid arthritis  \n- No known family history of lupus or other autoimmune diseases\n\nSocial History:  \n- Non-smoker, does not use recreational drugs  \n- Social alcohol use  \n- Works as a school teacher  \n- No recent travel; lives in an urban area\n\nMedications:  \n- Albuterol inhaler as needed  \n- Daily multivitamin  \n- Occasional ibuprofen for joint pain\n\nAllergies:  \n- No known drug allergies\n\nReview of Systems:  \nPositive for fatigue, joint pain, facial rash, photosensitivity, and intermittent oral ulcers. Negative for chest pain, cough, abdominal pain, or changes in urination.\n\nPhysical Examination:  \nVital signs: T 99.2\u00b0F, HR 82 bpm, BP 118/72 mmHg  \n- Appears fatigued but not in distress  \n- Erythematous malar rash sparing nasolabial folds  \n- Mild synovitis in both wrists and MCP joints  \n- No evidence of active asthma  \n- No lower extremity edema\n\nAssessment:  \n28-year-old Black/African American female with multi-system symptoms and malar rash, consistent with the presentation of systemic lupus erythematosus (SLE).\n\nPlan:  \n- Laboratory evaluation: ANA, anti-dsDNA, anti-Smith, CBC, renal function, urinalysis  \n- Referral to rheumatology  \n- Start hydroxychloroquine pending lab results  \n- Counsel on sun protection and monitor for disease progression"
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 6,
+    "sample_index": 1,
+    "prompt": "Create a case report about a patient with Lupus. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "Patient Case Report: Systemic Lupus Erythematosus (SLE)\n\nDemographics:  \nAge: 28  \nSex: Female  \nRace: Black/African American  \n\nChief Complaint:  \nThe patient presents with persistent joint pain, fatigue, and a recent onset of a facial rash.\n\nHistory of Present Illness:  \nThe patient reports a six-month history of intermittent pain and swelling in her wrists and knees, which has become progressively worse over the past two months. She also describes severe fatigue that interferes with her daily activities. Three weeks prior to presentation, she developed a red, butterfly-shaped rash across her cheeks and the bridge of her nose, which worsens with sun exposure. She denies fevers, chest pain, or shortness of breath.\n\nPast Medical History:  \n- Mild asthma diagnosed in childhood, well-controlled, no hospitalizations in past five years  \n- History of iron deficiency anemia in college, resolved with supplementation  \n- No prior hospitalizations or surgeries\n\nFamily History:  \n- Mother with rheumatoid arthritis  \n- No known family history of lupus or other autoimmune diseases\n\nSocial History:  \n- Works as a middle school teacher  \n- Non-smoker  \n- Drinks alcohol socially (1-2 drinks per week)  \n- No recreational drug use\n\nMedications:  \n- Albuterol inhaler as needed (rare use)  \n- Daily multivitamin\n\nPhysical Examination:  \n- Temperature: 98.7\u00b0F  \n- Blood Pressure: 118/74 mmHg  \n- Heart Rate: 82 bpm  \n- Notable for tender swelling of wrists and knees; malar rash over cheeks and nose; no oral ulcers\n\nLaboratory Findings:  \n- ANA: Positive at 1:640 titer  \n- Anti-dsDNA: Positive  \n- Low complement levels (C3 and C4)  \n- Mild leukopenia and anemia\n\nDiagnosis:  \nSystemic Lupus Erythematosus (SLE)\n\nSummary:  \nThis is a 28-year-old Black/African American female with a history of mild asthma who presents with polyarticular joint pain, fatigue, and a malar rash, found to have positive ANA and anti-dsDNA antibodies, low complement levels, and mild cytopenias, consistent with a new diagnosis of systemic lupus erythematosus."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 6,
+    "sample_index": 2,
+    "prompt": "Create a case report about a patient with Lupus. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "Patient Case Report: Systemic Lupus Erythematosus (SLE)\n\n**Demographics:**  \nAge: 29  \nSex: Female  \nRace: Black/African American  \n\n**Chief Complaint:**  \nFatigue, joint pain, and facial rash.\n\n**History of Present Illness:**  \nThe patient is a 29-year-old Black/African American female who presents with a 3-month history of increasing fatigue, intermittent low-grade fevers, and diffuse joint pain involving the wrists, knees, and small joints of the hands. She also reports a photosensitive rash over her cheeks and nose that worsens with sun exposure. She denies any recent travel, tick bites, or sick contacts.\n\n**Past Medical History:**  \n- Mild asthma since childhood, well-controlled with inhalers  \n- No history of hypertension, diabetes, or cardiovascular disease  \n- No previous hospitalizations or surgeries\n\n**Family History:**  \n- Mother with rheumatoid arthritis  \n- No family history of lupus or other connective tissue diseases\n\n**Social History:**  \n- Non-smoker  \n- Drinks alcohol occasionally (1-2 drinks/month)  \n- Works as a school teacher  \n- No illicit drug use\n\n**Review of Systems:**  \n- Positive for oral ulcers, hair thinning, and Raynaud\u2019s phenomenon  \n- No chest pain, shortness of breath, or hematuria\n\n**Physical Exam:**  \n- Vital signs: BP 112/68 mmHg, HR 80 bpm, Temp 99.2\u00b0F  \n- Malar rash across cheeks and nasal bridge, sparing nasolabial folds  \n- Tenderness and mild swelling of bilateral wrists and MCP joints  \n- No synovitis of other joints noted  \n- No peripheral edema, rashes elsewhere, or lymphadenopathy\n\n**Laboratory Findings:**  \n- ANA: Positive (1:640, homogeneous pattern)  \n- Anti-dsDNA: Positive  \n- Low complement levels (C3, C4)  \n- Mild anemia (Hb 10.8 g/dL)  \n- Normal renal function  \n- Urinalysis: No proteinuria or hematuria\n\n**Assessment:**  \n29-year-old Black/African American female with newly diagnosed systemic lupus erythematosus, presenting with fatigue, joint pain, photosensitive malar rash, and serologic evidence of SLE.\n\n**Plan:**  \n- Initiate hydroxychloroquine  \n- Low-dose prednisone for joint symptoms  \n- Sun protection and patient education  \n- Referral to rheumatology for long-term management"
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 6,
+    "sample_index": 3,
+    "prompt": "Create a case report about a patient with Lupus. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "Patient Case Report: Systemic Lupus Erythematosus (SLE)\n\nDemographics:  \nAge: 28  \nSex: Female  \nRace: Black/African American  \n\nChief Complaint:  \nThe patient presents with a three-month history of persistent joint pain, intermittent low-grade fevers, and a newly developed malar rash.\n\nHistory of Present Illness:  \nThe patient reports fatigue, arthralgia involving the small joints of her hands and wrists, morning stiffness lasting over an hour, and occasional swelling. She also notes photosensitivity and hair thinning over the same period. She has experienced two episodes of pleuritic chest pain in the last month.\n\nPast Medical History:  \n- Hypothyroidism, diagnosed 3 years ago, managed with levothyroxine  \n- No known drug allergies  \n- No prior hospitalizations or surgeries\n\nFamily History:  \n- Mother with rheumatoid arthritis  \n- Paternal aunt with systemic lupus erythematosus\n\nSocial History:  \n- Non-smoker  \n- Occasional alcohol use  \n- Works as a school teacher  \n- No illicit drug use\n\nReview of Systems:  \n- Positive for oral ulcers (non-painful), photosensitivity, and Raynaud\u2019s phenomenon  \n- Denies weight loss, night sweats, or hematuria\n\nPhysical Examination:  \n- Vitals: Temp 99.2\u00b0F, HR 82, BP 120/76  \n- Skin: Erythematous, butterfly-shaped rash over the cheeks sparing the nasolabial folds  \n- Musculoskeletal: Tenderness and mild swelling of bilateral metacarpophalangeal and proximal interphalangeal joints  \n- No synovitis of large joints  \n- Lungs: Clear to auscultation, no rales  \n- Heart: Regular rate and rhythm, no murmurs\n\nLaboratory Data:  \n- ANA: Positive (1:320, speckled pattern)  \n- Anti-dsDNA: Positive  \n- Complement C3 and C4: Decreased  \n- CBC: Mild anemia and leukopenia  \n- Urinalysis: Trace proteinuria, no active sediment  \n\nAssessment:  \n28-year-old Black/African American female with history and laboratory findings consistent with new-onset systemic lupus erythematosus."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 6,
+    "sample_index": 4,
+    "prompt": "Create a case report about a patient with Lupus. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "Patient Case Report: Systemic Lupus Erythematosus (SLE)\n\nDemographics:  \nAge: 29  \nSex: Female  \nRace: Black/African American  \n\nChief Complaint:  \nThe patient presents with complaints of persistent joint pain, facial rash, and intermittent low-grade fevers for the past three months.\n\nHistory of Present Illness:  \nThe patient reports gradual onset of symmetric pain and swelling in her wrists and knees, accompanied by morning stiffness lasting about one hour. She has also noticed increased fatigue and a red, flat rash across her cheeks and nasal bridge that worsens with sun exposure. She denies recent infections, sick contacts, or travel.\n\nPast Medical History:  \n- Hypertension, diagnosed 2 years ago, well-controlled with lisinopril  \n- Migraine headaches, managed with as-needed sumatriptan  \n- No history of diabetes, thyroid disorders, or previous autoimmune diseases\n\nFamily History:  \n- Mother with rheumatoid arthritis  \n- Maternal aunt with systemic lupus erythematosus\n\nSocial History:  \n- Non-smoker  \n- Occasional alcohol consumption (1\u20132 drinks per week)  \n- Works as a teacher  \n- No illicit drug use  \n\nReview of Systems:  \n- Positive for photosensitivity, oral ulcers, and mild hair loss  \n- Negative for chest pain, dyspnea, hematuria, or seizures  \n\nPhysical Examination:  \n- Temperature: 99.5\u00b0F  \n- Mild malar rash present  \n- Swelling and tenderness in both wrists and knees  \n- Oral ulcers noted on the buccal mucosa  \n- No lymphadenopathy or hepatosplenomegaly\n\nAssessment:  \nThe patient is a 29-year-old Black/African American female with a family history of autoimmune disease, presenting with polyarticular joint pain, malar rash, photosensitivity, and oral ulcers, concerning for systemic lupus erythematosus.\n\nPlan:  \n- Laboratory workup: ANA, anti-dsDNA, anti-Smith, CBC, CMP, urinalysis  \n- Rheumatology referral  \n- Initiate hydroxychloroquine pending workup  \n- Educate on sun protection and symptom monitoring"
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 6,
+    "sample_index": 5,
+    "prompt": "Create a case report about a patient with Lupus. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "**Case Report: Systemic Lupus Erythematosus (SLE)**\n\n**Patient Demographics:**  \n- Age: 27 years  \n- Sex: Female  \n- Race: Black/African American  \n\n**Chief Complaint:**  \nFatigue, joint pain, and facial rash for two months.\n\n**History of Present Illness:**  \nA 27-year-old Black/African American female presents to the clinic with complaints of persistent fatigue, intermittent low-grade fever, and pain involving her wrists and knees over the past two months. She also reports a new rash appearing over her cheeks and nose, which worsens with sun exposure. She has noticed occasional swelling in her hands and feet, as well as mild hair thinning.\n\n**Past Medical History:**  \n- No prior chronic medical conditions  \n- Occasional seasonal allergies  \n- No prior hospitalizations or surgeries  \n\n**Family History:**  \n- Mother with rheumatoid arthritis  \n- No known family history of lupus or other autoimmune diseases  \n\n**Social History:**  \n- Works as an elementary school teacher  \n- Non-smoker, does not use illicit drugs  \n- Drinks alcohol socially (1-2 drinks per week)  \n- No recent travel  \n\n**Medications:**  \n- Occasional over-the-counter acetaminophen for joint pain  \n\n**Allergies:**  \n- No known drug allergies\n\n**Review of Systems:**  \n- Positive for arthralgia, fatigue, fever, facial rash, and mild hair loss  \n- Negative for chest pain, shortness of breath, oral ulcers, or hematuria\n\n**Physical Examination:**  \n- Vital signs: BP 118/74 mmHg, HR 82 bpm, T 99.2\u00b0F  \n- Malar rash present over both cheeks sparing the nasolabial folds  \n- Tenderness and mild swelling in both wrists and knees  \n- No oral ulcers or lymphadenopathy  \n- No signs of pleural or pericardial effusion  \n\n**Assessment:**  \nThis is a 27-year-old Black/African American female with new-onset fatigue, arthralgia, photosensitive malar rash, and mild hair loss, suggestive of systemic lupus erythematosus. \n\n**Plan:**  \n- Order laboratory tests: ANA, anti-dsDNA, anti-Smith antibodies, CBC, CMP, urinalysis  \n- Refer to rheumatology  \n- Begin patient education regarding sun protection and symptom monitoring"
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 6,
+    "sample_index": 6,
+    "prompt": "Create a case report about a patient with Lupus. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "Patient Case Report: Systemic Lupus Erythematosus (SLE)\n\nDemographic Information:  \n- Age: 28  \n- Sex: Female  \n- Race: Black/African American  \n\nChief Complaint:  \nFatigue, joint pain, and facial rash.\n\nHistory of Present Illness:  \nThe patient is a 28-year-old Black/African American female who presents with a 3-month history of intermittent joint pain affecting her wrists, knees, and fingers, worsening morning stiffness, and increasing fatigue. She also reports a new rash across her cheeks and nose that is exacerbated by sun exposure. She denies recent infections, new medications, or trauma.\n\nPast Medical History:  \n- Hypertension, diagnosed at age 26, controlled with lisinopril  \n- Iron-deficiency anemia, diagnosed at age 19, managed with oral iron supplements  \n- No prior hospitalizations or surgeries\n\nFamily History:  \n- Mother with rheumatoid arthritis  \n- No family history of lupus or other autoimmune diseases\n\nSocial History:  \n- Non-smoker  \n- Social alcohol use  \n- Works as a high school teacher  \n- No recreational drug use\n\nReview of Systems:  \n- Positive for photosensitivity, oral ulcers, and mild hair loss  \n- Denies chest pain, shortness of breath, or renal symptoms\n\nPhysical Examination:  \n- Vital signs: BP 128/82 mmHg, HR 78 bpm, Temp 98.7\u00b0F  \n- Malar rash present  \n- Mild swelling and tenderness in bilateral wrists and knees  \n- No lower extremity edema  \n- Oral ulcers noted\n\nSummary:  \nThis is a 28-year-old Black/African American female with past medical history of hypertension and iron-deficiency anemia who presents with constitutional symptoms, malar rash, and polyarticular joint pain, consistent with a new diagnosis of systemic lupus erythematosus (SLE)."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 6,
+    "sample_index": 7,
+    "prompt": "Create a case report about a patient with Lupus. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "**Case Report: Systemic Lupus Erythematosus (SLE)**\n\n**Patient Demographics:**  \n- Age: 28 years  \n- Sex: Female  \n- Race: Black/African American  \n\n**Chief Complaint:**  \nFatigue, joint pain, and facial rash.\n\n**History of Present Illness:**  \nA 28-year-old Black/African American female presents to the clinic with a 3-month history of intermittent joint pain, primarily affecting her wrists and knees, accompanied by morning stiffness lasting approximately one hour. She reports profound fatigue, low-grade fevers, and a recent development of a red, non-pruritic rash across her cheeks and the bridge of her nose, which becomes more pronounced with sun exposure. She denies any recent travel, sick contacts, or new medications.\n\n**Past Medical History:**  \n- No prior chronic illnesses  \n- Occasional tension headaches  \n- No known allergies  \n- Up-to-date on vaccinations\n\n**Family History:**  \n- Mother diagnosed with rheumatoid arthritis  \n- No known family history of lupus or other autoimmune diseases\n\n**Social History:**  \n- Non-smoker  \n- Social alcohol use  \n- Works as a school teacher  \n- No illicit drug use\n\n**Review of Systems:**  \n- Positive for photosensitivity, oral ulcers, mild hair loss  \n- Negative for chest pain, shortness of breath, or hematuria\n\n**Physical Examination:**  \n- Vital signs: T 99.4\u00b0F, HR 88 bpm, BP 122/76 mmHg  \n- Musculoskeletal: Mild swelling and tenderness of bilateral wrists and knees  \n- Skin: Erythematous malar rash, sparing the nasolabial folds  \n- No lymphadenopathy or hepatosplenomegaly\n\n**Laboratory Findings:**  \n- ANA: Positive (1:640, speckled pattern)  \n- Anti-dsDNA: Positive  \n- Complement C3/C4: Low  \n- CBC: Mild leukopenia  \n- Urinalysis: No proteinuria or hematuria\n\n**Assessment:**  \nA 28-year-old Black/African American female with constitutional symptoms, malar rash, joint involvement, and positive serologies consistent with systemic lupus erythematosus.\n\n**Plan:**  \n- Initiate hydroxychloroquine  \n- NSAIDs for joint pain  \n- Sun protection education  \n- Close monitoring for renal or CNS involvement  \n- Referral to rheumatology"
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 6,
+    "sample_index": 8,
+    "prompt": "Create a case report about a patient with Lupus. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "Case Report: Systemic Lupus Erythematosus (SLE)\n\nPatient Demographics:  \nAge: 28  \nSex: Female  \nRace: Black/African American  \n\nChief Complaint:  \nThe patient presents with complaints of persistent joint pain, facial rash, and intermittent low-grade fevers over the past three months.\n\nHistory of Present Illness:  \nThe patient reports gradual onset of pain and swelling in her hands and knees, worse in the mornings and improving throughout the day. She has also noticed a red rash across her cheeks and nose, especially after sun exposure. She reports fatigue, occasional mouth ulcers, and mild hair thinning. She denies chest pain, shortness of breath, or photosensitivity outside of the facial rash.\n\nPast Medical History:  \n- Mild intermittent asthma (diagnosed at age 14)  \n- No prior hospitalizations or surgeries  \n- No known drug allergies  \n\nFamily History:  \n- Mother with rheumatoid arthritis  \n- No family history of lupus or other autoimmune diseases  \n\nSocial History:  \n- Non-smoker  \n- Rare alcohol use  \n- Works as a middle school teacher  \n- Lives with her partner; no children  \n\nMedications:  \n- Albuterol inhaler as needed for asthma  \n\nPhysical Examination:  \n- Vital signs: T 99.2\u00b0F, HR 82, BP 118/72  \n- Malar rash (erythematous, non-scaling, spares nasolabial folds)  \n- Swelling and tenderness in bilateral metacarpophalangeal and proximal interphalangeal joints  \n- No synovitis in knees  \n- Mild oral ulcer noted on the buccal mucosa  \n- No lymphadenopathy, hepatosplenomegaly, or other rashes\n\nLaboratory Findings:  \n- Positive ANA (1:640, homogeneous pattern)  \n- Positive anti-dsDNA  \n- Low complement (C3, C4)  \n- Mild anemia (Hb 11.2 g/dL)  \n- Urinalysis: trace proteinuria, no hematuria\n\nAssessment and Plan:  \nThe patient meets criteria for systemic lupus erythematosus. She will be started on hydroxychloroquine and referred to rheumatology. She is counseled on sun protection and the importance of regular follow-up. Further work-up for lupus nephritis will be performed."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 6,
+    "sample_index": 9,
+    "prompt": "Create a case report about a patient with Lupus. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "**Case Report: Systemic Lupus Erythematosus**\n\n**Patient Demographics:**  \n- Age: 29  \n- Sex: Female  \n- Race: Black/African American  \n- Insurance: Commercial\n\n**Chief Complaint:**  \nPersistent joint pain, fatigue, and facial rash.\n\n**History of Present Illness:**  \nThe patient is a 29-year-old Black/African American female who presents with a 3-month history of intermittent joint pain affecting her wrists, knees, and small joints of the hands, associated with morning stiffness lasting approximately 1 hour. She reports profound fatigue, low-grade fevers, and an unintentional 8-pound weight loss over the past two months. She also noticed a red, butterfly-shaped rash across her cheeks and bridge of nose that gets worse with sun exposure.\n\n**Past Medical History:**  \n- Mild asthma since childhood  \n- Iron-deficiency anemia, diagnosed two years ago  \n- No previous hospitalizations or surgeries\n\n**Family History:**  \n- Mother with rheumatoid arthritis  \n- Maternal aunt with unspecified autoimmune disease\n\n**Social History:**  \n- Non-smoker  \n- Rare alcohol consumption  \n- Works as a teacher  \n- No recent travel or sick contacts\n\n**Medications:**  \n- Inhaled albuterol as needed for asthma  \n- Daily multivitamin\n\n**Allergies:**  \n- No known drug allergies\n\n**Review of Systems:**  \n- Positive for arthralgia, fatigue, low-grade fevers, photosensitivity, and hair thinning  \n- Negative for oral ulcers, chest pain, pleurisy, hematuria, or neurological deficits\n\n**Physical Examination:**  \n- Vital signs: BP 118/72 mmHg, HR 88 bpm, Temp 99.5\u00b0F  \n- Malar erythematous rash sparing the nasolabial folds  \n- Mild swelling and tenderness of wrists and small joints of the hands  \n- No focal neurological deficits  \n- Lungs clear, heart sounds normal\n\n**Assessment:**  \nThe patient\u2019s symptoms and physical findings are consistent with systemic lupus erythematosus (SLE), particularly given the demographic risk profile and clinical features. Further laboratory workup, including ANA, anti-dsDNA, complement levels, and urinalysis, is warranted to confirm the diagnosis and assess for organ involvement."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 7,
+    "sample_index": 0,
+    "prompt": "Come up with a fake medical one-liner about a patient with Lupus. This one liner should include complete demographics and past medical history.",
+    "response": "35-year-old female, Race: Black/African American, with a past medical history of hypertension and anemia, presents with joint pain, photosensitive rash, and fatigue."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 7,
+    "sample_index": 1,
+    "prompt": "Come up with a fake medical one-liner about a patient with Lupus. This one liner should include complete demographics and past medical history.",
+    "response": "32-year-old female, Race: Black/African American, with a past medical history of hypertension and migraine, presents with joint pain and photosensitive rash, found to have systemic lupus erythematosus."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 7,
+    "sample_index": 2,
+    "prompt": "Come up with a fake medical one-liner about a patient with Lupus. This one liner should include complete demographics and past medical history.",
+    "response": "35-year-old Black/African American woman with a past medical history of hypertension and migraines presents with joint pain and photosensitive rash, found to have systemic lupus erythematosus."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 7,
+    "sample_index": 3,
+    "prompt": "Come up with a fake medical one-liner about a patient with Lupus. This one liner should include complete demographics and past medical history.",
+    "response": "34-year-old female, Race: Black/African American, with a past medical history of hypertension and anemia, presents with joint pain and photosensitive rash suggestive of lupus flare."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 7,
+    "sample_index": 4,
+    "prompt": "Come up with a fake medical one-liner about a patient with Lupus. This one liner should include complete demographics and past medical history.",
+    "response": "35-year-old Black/African American female with a history of hypertension and hypothyroidism presents with joint pain and fatigue, found to have systemic lupus erythematosus."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 7,
+    "sample_index": 5,
+    "prompt": "Come up with a fake medical one-liner about a patient with Lupus. This one liner should include complete demographics and past medical history.",
+    "response": "35-year-old Black/African American female with a past medical history of hypertension and hypothyroidism presents with worsening joint pain and a malar rash, found to have systemic lupus erythematosus."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 7,
+    "sample_index": 6,
+    "prompt": "Come up with a fake medical one-liner about a patient with Lupus. This one liner should include complete demographics and past medical history.",
+    "response": "35-year-old Black/African American female with a history of hypertension and migraines presents with progressive joint pain and photosensitive rash, found to have systemic lupus erythematosus."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 7,
+    "sample_index": 7,
+    "prompt": "Come up with a fake medical one-liner about a patient with Lupus. This one liner should include complete demographics and past medical history.",
+    "response": "29-year-old Black/African American female with a past medical history of hypertension and iron-deficiency anemia presents with a recent diagnosis of systemic lupus erythematosus."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 7,
+    "sample_index": 8,
+    "prompt": "Come up with a fake medical one-liner about a patient with Lupus. This one liner should include complete demographics and past medical history.",
+    "response": "35-year-old Black/African American female with a history of hypertension and hypothyroidism presents with fatigue and joint pain, found to have systemic lupus erythematosus."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 7,
+    "sample_index": 9,
+    "prompt": "Come up with a fake medical one-liner about a patient with Lupus. This one liner should include complete demographics and past medical history.",
+    "response": "32-year-old female, Race: Black/African American, with a past medical history of hypertension and migraine headaches, presents with joint pain, fatigue, and photosensitive rash, found to have systemic lupus erythematosus."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 8,
+    "sample_index": 0,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with Lupus. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "**Case Presentation:**\n\nA 28-year-old woman presents to the rheumatology clinic with a 6-month history of fatigue, joint pain involving her hands and knees, and a facial rash that worsens with sun exposure. She also reports intermittent low-grade fevers and oral ulcers. She denies recent travel or sick contacts.\n\n**Demographics:**  \nAge: 28  \nSex: Female  \nRace: Black/African American  \n\n**Past Medical History:**  \n- Mild asthma since childhood, well-controlled with as-needed inhaler  \n- No history of hypertension or diabetes\n\n**Family History:**  \n- Mother with rheumatoid arthritis  \n- No family history of lupus or other autoimmune diseases\n\n**Social History:**  \n- Non-smoker  \n- Occasional alcohol use  \n- Works as a school teacher  \n\n**Review of Systems:**  \n- Positive for photosensitivity, oral ulcers, arthralgia, and fatigue  \n- Negative for chest pain, shortness of breath, or hematuria\n\n**Physical Exam:**  \n- Vital signs stable  \n- Malar rash over cheeks, sparing the nasolabial folds  \n- Mild swelling and tenderness of bilateral wrists and PIP joints  \n- No synovitis or effusions  \n- No lymphadenopathy or hepatosplenomegaly\n\n**Pertinent Labs:**  \n- ANA: positive (1:640, speckled pattern)  \n- Anti-dsDNA: positive  \n- Low complement (C3, C4)  \n- Mild anemia\n\n**Summary:**  \nThis is a 28-year-old Black/African American woman with a history of asthma who presents with polyarthralgia, malar rash, oral ulcers, and photosensitivity. Laboratory findings are significant for positive ANA and anti-dsDNA antibodies, low complement, and anemia, consistent with a diagnosis of systemic lupus erythematosus (SLE). Family history is notable for rheumatoid arthritis in her mother."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 8,
+    "sample_index": 1,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with Lupus. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "**Case Presentation:**\n\n**Patient:**  \nName: Ms. Jasmine Thompson  \nAge: 28  \nSex: Female  \nRace: Black/African American  \n\n**Chief Complaint:**  \nPersistent joint pain, fatigue, and a facial rash for the past 3 months.\n\n**History of Present Illness:**  \nMs. Thompson reports a 3-month history of worsening fatigue, intermittent low-grade fevers, and diffuse joint pain affecting her wrists, hands, and knees. She also notes a new rash across her cheeks and nose, which worsens with sun exposure. She has occasional oral ulcers and reports mild swelling in her fingers.\n\n**Past Medical History:**  \n- Mild asthma since childhood, well controlled  \n- No known drug allergies  \n- No previous hospitalizations or surgeries\n\n**Family History:**  \n- Mother diagnosed with rheumatoid arthritis  \n- Maternal aunt had systemic lupus erythematosus  \n- Father healthy, no autoimmune diseases\n\n**Social History:**  \n- Non-smoker  \n- Drinks alcohol socially (1-2 drinks/week)  \n- Works as a teacher  \n- No illicit drug use  \n\n**Review of Systems:**  \n- Denies chest pain or shortness of breath  \n- No recent weight loss or night sweats  \n- No hair loss or vision changes\n\n**Physical Examination:**  \n- Vital signs stable  \n- Malar (butterfly) rash noted across cheeks and nasal bridge  \n- Mild swelling and tenderness in bilateral wrists and proximal interphalangeal joints  \n- No synovitis in knees  \n- Oral ulcer on hard palate\n\n**Pertinent Labs/Studies:**  \n- ANA: positive (1:640, homogeneous pattern)  \n- Anti-dsDNA: positive  \n- Low C3 and C4  \n- CBC: mild anemia, leukopenia  \n- UA: Mild proteinuria, no hematuria\n\n**Summary:**  \n28-year-old Black/African American female with a family history of autoimmune disease presenting with constitutional symptoms, joint pain, malar rash, oral ulcers, positive ANA and anti-dsDNA, low complement, and mild proteinuria\u2014consistent with a new diagnosis of systemic lupus erythematosus (SLE)."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 8,
+    "sample_index": 2,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with Lupus. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "**Case Presentation:**\n\n**Patient:**  \nName: Jasmine W.  \nAge: 28  \nSex: Female  \nRace: Black/African American  \n\n**Chief Complaint:**  \nFatigue, joint pain, and facial rash for several weeks.\n\n**History of Present Illness:**  \nJasmine is a 28-year-old Black/African American woman who presents with a 2-month history of increasing fatigue, intermittent low-grade fevers, and pain and swelling in her wrists and knees. She also reports a red rash across her cheeks and nose that worsens with sun exposure. She has experienced some hair thinning and occasional mouth sores.\n\n**Past Medical History:**  \n- Mild asthma since childhood  \n- No previous hospitalizations or surgeries\n\n**Family History:**  \n- Mother with rheumatoid arthritis  \n- Maternal aunt with systemic lupus erythematosus  \n- Father with hypertension\n\n**Social History:**  \n- Non-smoker  \n- Occasional alcohol use  \n- Works as a school teacher  \n- Lives with husband and 2-year-old son\n\n**Review of Systems:**  \n- No chest pain or shortness of breath  \n- No recent weight loss  \n- Denies urinary symptoms\n\n**Physical Exam:**  \n- Vital signs: BP 122/78 mmHg, HR 84 bpm, Temp 99.2\u00b0F  \n- Facial malar rash, sparing nasolabial folds  \n- Swelling and tenderness of wrists and knees  \n- No oral ulcers noted on exam\n\n**Pertinent Laboratory Data:**  \n- CBC: mild anemia  \n- ANA: positive (1:320, homogenous pattern)  \n- Anti-dsDNA: positive  \n- Low complement (C3, C4)  \n\n**Summary:**  \nJasmine is a 28-year-old Black/African American woman with a family history of autoimmune disease presenting with fatigue, joint pain, and malar rash, with laboratory findings consistent with systemic lupus erythematosus (SLE)."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 8,
+    "sample_index": 3,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with Lupus. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "Patient Case Presentation:\n\nA 29-year-old woman presents to the rheumatology clinic with a 3-month history of persistent fatigue, joint pain involving her hands and knees, and a malar rash that worsens with sun exposure. She also reports intermittent low-grade fevers and oral ulcers. She denies any chest pain or shortness of breath. \n\nPast Medical History:  \n- History of mild asthma in childhood, currently not on medication  \n- No previous hospitalizations or surgeries  \n\nFamily History:  \n- Mother with history of rheumatoid arthritis  \n- Maternal aunt diagnosed with systemic lupus erythematosus  \n\nSocial History:  \n- Works as an elementary school teacher  \n- Non-smoker, drinks alcohol socially (1-2 drinks per week)  \n- No recreational drug use  \n\nDemographics:  \n- Age: 29  \n- Sex: Female  \n- Race: Black/African American  \n- Insurance: Employer-based private insurance  \n- Residence: Urban area in the southeastern United States  \n\nPertinent Physical Exam and Laboratory Findings:  \n- Vital signs stable  \n- Malar rash noted on physical exam  \n- Mild swelling and tenderness in bilateral metacarpophalangeal and knee joints  \n- Laboratory studies: ANA positive (1:640, homogeneous), anti-dsDNA positive, low complement levels (C3, C4), mild anemia, proteinuria on urinalysis  \n\nAssessment:  \nThe patient meets criteria for systemic lupus erythematosus (SLE) based on clinical presentation and serologic findings. She has a family history of autoimmune disease and her demographic background places her at increased risk for SLE in the United States.  \n\nPlan:  \nInitiate hydroxychloroquine and refer to nephrology for further evaluation of renal involvement. Provide patient education on sun protection and arrange close follow-up."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 8,
+    "sample_index": 4,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with Lupus. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "**Case Presentation:**\n\nA 28-year-old woman presents with complaints of persistent fatigue, joint pain involving her hands and knees, and a photosensitive rash over her cheeks and nose for the past three months. She reports intermittent low-grade fevers and hair thinning. She denies recent travel, sick contacts, or new medications.\n\n**Demographics:**  \nAge: 28  \nSex: Female  \nRace: Black/African American  \n\n**Past Medical History:**  \n- Mild asthma since childhood, well-controlled  \n- No previous hospitalizations or surgeries  \n\n**Family History:**  \n- Mother with rheumatoid arthritis  \n- Maternal aunt diagnosed with systemic lupus erythematosus  \n- No family history of malignancy or kidney disease  \n\n**Social History:**  \n- Non-smoker  \n- Drinks alcohol socially (1-2 drinks/week)  \n- Works as a school teacher  \n- No illicit drug use  \n\n**Pertinent Exam and Labs:**  \n- Malar rash present  \n- Tenderness and mild swelling of metacarpophalangeal and knee joints  \n- Laboratory findings: positive ANA (antinuclear antibody), anti-dsDNA antibody positive, mild anemia, low complement levels (C3, C4), mild proteinuria on urinalysis  \n\n**Summary:**  \nThis is a 28-year-old Black/African American female with a family history of autoimmune diseases who presents with fatigue, polyarthralgia, photosensitive malar rash, and laboratory findings consistent with systemic lupus erythematosus (SLE)."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 8,
+    "sample_index": 5,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with Lupus. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "**Case Presentation:**\n\n**Patient:**  \nName: Jessica M.  \nAge: 28  \nSex: Female  \nRace: Black/African American  \n\n**Chief Complaint:**  \nFatigue, joint pain, and facial rash for 2 months.\n\n**History of Present Illness:**  \nJessica is a 28-year-old Black/African American woman who presents with a 2-month history of persistent fatigue, intermittent low-grade fevers, joint pain (involving her hands and knees), and a red, butterfly-shaped rash across her cheeks and nose that worsens with sun exposure. She also reports occasional mouth sores and mild hair thinning.\n\n**Past Medical History:**  \n- Allergic rhinitis  \n- No previous hospitalizations or surgeries\n\n**Family History:**  \n- Mother diagnosed with rheumatoid arthritis  \n- Maternal aunt with systemic lupus erythematosus\n\n**Social History:**  \n- Non-smoker  \n- Rare alcohol consumption  \n- Works as a school teacher\n\n**Review of Systems:**  \n- Denies chest pain, shortness of breath, or urinary symptoms  \n- No recent weight loss or night sweats\n\n**Physical Exam:**  \n- Vital signs: BP 118/74 mmHg, HR 82 bpm, Temp 99.3\u00b0F  \n- Erythematous malar rash over cheeks and nasal bridge, sparing nasolabial folds  \n- Mild swelling and tenderness in bilateral MCP and PIP joints  \n- No synovitis or deformities\n\n**Pertinent Laboratory Findings:**  \n- ANA: Positive (1:640, homogeneous pattern)  \n- Anti-dsDNA: Positive  \n- Low C3, C4  \n- Mild anemia\n\n**Diagnosis:**  \nSystemic Lupus Erythematosus (SLE)"
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 8,
+    "sample_index": 6,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with Lupus. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "**Case Presentation:**\n\n**Name:** Ms. L.M.\n\n**Age:** 28\n\n**Sex:** Female\n\n**Race:** Black/African American\n\n**Chief Complaint:** Joint pain and facial rash\n\n**History of Present Illness:**  \nMs. L.M. is a 28-year-old Black/African American female who presents with a 3-month history of intermittent joint pain involving her wrists, fingers, and knees, as well as a persistent rash over her cheeks and nose. She notes worsening fatigue and occasional low-grade fevers. She reports photosensitivity, with her rash and symptoms worsening after sun exposure.\n\n**Past Medical History:**  \n- Mild asthma since childhood, well controlled  \n- No prior history of autoimmune conditions  \n\n**Medications:**  \n- Albuterol inhaler as needed  \n- No regular medications\n\n**Family History:**  \n- Mother diagnosed with rheumatoid arthritis  \n- Maternal aunt with systemic lupus erythematosus  \n- No family history of malignancy\n\n**Social History:**  \n- Non-smoker  \n- Occasional alcohol use  \n- Works as a teacher in a local elementary school  \n- No recent travel\n\n**Review of Systems:**  \n- Positive for fatigue, joint pain, and rash  \n- Denies oral ulcers, chest pain, or shortness of breath  \n- No history of thrombotic events\n\n**Physical Examination:**  \n- Vital signs stable  \n- Erythematous malar rash sparing the nasolabial folds  \n- Mild swelling and tenderness of bilateral wrists and MCP joints  \n- No synovitis or deformity\n\n**Pertinent Labs (recent):**  \n- ANA: positive (1:640, homogenous pattern)  \n- Anti-dsDNA: positive  \n- Low complement levels (C3, C4)  \n- CBC: mild leukopenia  \n- Urinalysis: trace proteinuria\n\n**Summary:**  \n28-year-old Black/African American female with personal and family history significant for autoimmune disease, presenting with constitutional and musculoskeletal symptoms, characteristic malar rash, and positive serologies, consistent with newly diagnosed systemic lupus erythematosus (SLE)."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 8,
+    "sample_index": 7,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with Lupus. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "**Case Presentation:**\n\n**Patient:** Sarah L., a 28-year-old female\n\n**Demographics:**  \n- Age: 28  \n- Sex: Female  \n- Race: Black/African American\n\n**Chief Complaint:**  \nPersistent joint pain and fatigue for several months.\n\n**History of Present Illness:**  \nSarah reports a 6-month history of fatigue, intermittent low-grade fevers, and joint pain, primarily affecting her wrists and knees. She also notes occasional facial rashes that worsen after sun exposure and recent hair thinning.\n\n**Past Medical History:**  \n- No known chronic illnesses  \n- Occasional seasonal allergies\n\n**Family History:**  \n- Mother diagnosed with rheumatoid arthritis  \n- Maternal aunt with systemic lupus erythematosus (SLE)\n\n**Social History:**  \n- Non-smoker, does not use illicit drugs  \n- Drinks alcohol socially  \n- Works as a school teacher\n\n**Review of Systems:**  \n- Denies chest pain, palpitations, or shortness of breath  \n- No recent weight loss or night sweats\n\n**Physical Exam:**  \n- Vital signs: BP 118/72 mmHg, HR 88 bpm, T 99.2\u00b0F  \n- Malar rash present on cheeks, sparing nasolabial folds  \n- Mild swelling and tenderness noted in both wrists and knees  \n- No oral ulcers, lymphadenopathy, or organomegaly\n\n**Laboratory Findings (summary):**  \n- Positive ANA (antinuclear antibody)  \n- Anti-dsDNA antibodies present  \n- Mild anemia\n\n**Assessment:**  \n28-year-old Black/African American female presenting with polyarticular joint pain, malar rash, fatigue, and positive autoimmune serology, consistent with a diagnosis of systemic lupus erythematosus (SLE).\n\n**Plan:**  \nInitiate hydroxychloroquine, discuss sun protection, refer to rheumatology, and monitor for systemic involvement."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 8,
+    "sample_index": 8,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with Lupus. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "**Case Presentation:**\n\n**Patient:**  \nName: Ms. Jasmine Carter  \nAge: 29  \nSex: Female  \nRace: Black/African American\n\n**Chief Complaint:**  \nFatigue, joint pain, and a facial rash.\n\n**History of Present Illness:**  \nMs. Carter presents with a 3-month history of worsening fatigue, intermittent low-grade fevers, and diffuse arthralgias involving the wrists, knees, and small joints of the hands. She also reports a new, non-pruritic rash across her cheeks and nose that worsens with sun exposure. She denies recent travel or sick contacts.\n\n**Past Medical History:**  \n- Mild asthma, well-controlled  \n- No prior hospitalizations or surgeries\n\n**Family History:**  \n- Mother with rheumatoid arthritis  \n- No known family history of lupus  \n- No family history of malignancy\n\n**Social History:**  \n- Works as a kindergarten teacher  \n- Non-smoker, does not use recreational drugs  \n- Occasional alcohol use  \n- Lives with her partner, no children\n\n**Medications:**  \n- Albuterol inhaler as needed  \n- Multivitamin\n\n**Allergies:**  \n- No known drug allergies\n\n**Review of Systems:**  \n- Positive for oral ulcers, photosensitivity, and mild hair loss  \n- No chest pain, shortness of breath, or hematuria\n\n**Physical Exam:**  \n- Vital signs within normal limits  \n- Notable for malar rash sparing the nasolabial folds, mild swelling and tenderness in bilateral wrists and MCP joints  \n- No synovitis, no lower extremity edema\n\n**Assessment:**  \n29-year-old Black/African American female with a history of asthma, presenting with fatigue, arthralgias, photosensitive malar rash, and oral ulcers, most consistent with new-onset systemic lupus erythematosus (SLE).\n\n**Plan:**  \n- Laboratory evaluation: CBC, CMP, ANA, anti-dsDNA, anti-Smith, urinalysis  \n- Referral to rheumatology  \n- Patient education regarding sun protection and monitoring for new symptoms"
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 8,
+    "sample_index": 9,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with Lupus. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "**Case Presentation:**\n\n**Patient:**  \nName: Maria G.  \nAge: 28  \nSex: Female  \nRace: Hispanic/Latino  \n\n**Chief Complaint:**  \nFatigue, joint pain, and facial rash for two months.\n\n**History of Present Illness:**  \nMaria is a 28-year-old Hispanic/Latino female presenting with persistent fatigue, bilateral joint pain (wrists and knees), and a rash across her cheeks and nose that worsens with sun exposure. She also reports intermittent low-grade fevers and occasional oral ulcers.\n\n**Past Medical History:**  \n- No known chronic medical conditions  \n- No prior hospitalizations or surgeries\n\n**Family History:**  \n- Mother diagnosed with rheumatoid arthritis  \n- Maternal aunt with systemic lupus erythematosus (SLE)\n\n**Social History:**  \n- Non-smoker  \n- Drinks alcohol socially  \n- Works as a school teacher  \n- No illicit drug use\n\n**Review of Systems:**  \n- Positive for hair loss, photosensitivity, and mild swelling in fingers  \n- Denies chest pain, shortness of breath, or hematuria\n\n**Physical Exam:**  \n- Vital signs stable  \n- Erythematous malar rash sparing the nasolabial folds  \n- Mild swelling and tenderness in bilateral wrists and knees  \n- No synovitis or deformities\n\n**Pertinent Labs:**  \n- ANA: positive  \n- Anti-dsDNA: elevated  \n- CBC: mild anemia  \n- Urinalysis: negative for proteinuria or hematuria\n\n**Summary:**  \nMaria is a 28-year-old Hispanic/Latino female with a family history of autoimmune disease presenting with clinical and laboratory findings consistent with systemic lupus erythematosus (SLE)."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 9,
+    "sample_index": 0,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on Lupus. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "**Case Report: Lupus**\n\n**Patient Demographics:**  \nAge: 27  \nSex: Female  \nRace: Black/African American  \n\n**Past Medical History:**  \nNo significant past medical history. No known allergies. Family history notable for rheumatoid arthritis in mother.\n\n**Presenting Complaints:**  \nThe patient presents with a 3-month history of fatigue, intermittent low-grade fevers, and joint pain involving her hands and knees. She reports a photosensitive rash over her cheeks and nose that worsens with sun exposure. She also mentions occasional oral ulcers and mild hair loss.\n\n**Key Findings:**  \nOn examination, she has mild swelling and tenderness of the metacarpophalangeal joints, a faint malar rash, and mild alopecia. No evidence of synovitis in other joints. No renal or neurological symptoms at present."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 9,
+    "sample_index": 1,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on Lupus. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "**Case Report: Systemic Lupus Erythematosus (SLE)**\n\n**Patient Demographics:**  \nAge: 28  \nSex: Female  \nRace: Black/African American  \n\n**Past Medical History:**  \n- Mild asthma since childhood  \n- No known drug allergies  \n- No prior hospitalizations  \n\n**Chief Complaints:**  \n- Fatigue and joint pain for 3 months  \n- Intermittent low-grade fever  \n- New-onset facial rash over cheeks and nose, worse with sun exposure  \n- Occasional swelling of fingers and wrists  \n\n**History of Present Illness:**  \nThe patient reports worsening fatigue and generalized joint pain, particularly in her wrists and knees, with morning stiffness lasting over an hour. She notes a red rash across her cheeks and the bridge of her nose that becomes more prominent after sun exposure. She denies recent infections or sick contacts. No significant weight loss or night sweats.  \n\n---\n\nThis case reflects the higher prevalence of lupus among Black/African American women in the United States."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 9,
+    "sample_index": 2,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on Lupus. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "**Case Report:**\n\n**Patient Name:** Jasmine T.  \n**Age:** 28  \n**Sex:** Female  \n**Race:** Black/African American  \n\n**Past Medical History:**  \n- Mild asthma (childhood onset, well controlled)  \n- No known drug allergies  \n- No family history of autoimmune disease  \n\n**Chief Complaint:**  \n\"I've been feeling very tired, have joint pain in my hands and knees, and noticed a red rash on my cheeks that gets worse when I'm in the sun.\"\n\n**History of Present Illness:**  \nJasmine reports a three-month history of persistent fatigue, intermittent low-grade fevers, and joint pain primarily affecting her hands and knees. She also describes stiffness in the morning lasting over 30 minutes. In the past two weeks, she has noticed a rash across her cheeks and nose that becomes more pronounced after sun exposure. She denies recent travel, tick bites, or new medications.  \n\n**Review of Systems:**  \n- No chest pain or shortness of breath  \n- Mild hair thinning  \n- No oral ulcers  \n- No weight loss  \n\n**Physical Exam Highlights:**  \n- Vital signs stable  \n- Erythematous malar rash over cheeks and nasal bridge, sparing nasolabial folds  \n- Mild swelling and tenderness in bilateral metacarpophalangeal and knee joints  \n- No synovitis or deformities  \n\n**Summary:**  \n28-year-old Black/African American female with fatigue, polyarthralgia, photosensitive malar rash, and morning stiffness, raising suspicion for systemic lupus erythematosus (SLE)."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 9,
+    "sample_index": 3,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on Lupus. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "Patient Case:\n\nAge: 28  \nSex: Female  \nRace: Black/African American  \n\nPast Medical History:  \n- Mild asthma since childhood  \n- No history of diabetes or hypertension  \n- No known drug allergies  \n\nChief Complaints:  \n- Persistent fatigue for the past 3 months  \n- Intermittent joint pain and swelling in hands and knees  \n- Occasional low-grade fevers  \n- Recent onset of a red, butterfly-shaped rash across cheeks and nose  \n\nAdditional Information:  \nThe patient reports increased photosensitivity, stating that her rash worsens after sun exposure. She denies recent travel or sick contacts. Family history is significant for an aunt with rheumatoid arthritis."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 9,
+    "sample_index": 4,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on Lupus. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "Patient Case:\n\nAge: 29  \nSex: Female  \nRace: Black/African American  \nPast Medical History: Mild asthma, seasonal allergies  \nKey Complaints: The patient presents with a 3-month history of intermittent joint pain affecting her wrists and knees, profound fatigue, and a recent onset of a facial rash across her cheeks and nose that worsens with sun exposure. She also reports occasional low-grade fevers and mild hair thinning.  \n\nAdditional Information: No family history of autoimmune disease. Denies chest pain, shortness of breath, or oral ulcers. No recent travel or sick contacts."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 9,
+    "sample_index": 5,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on Lupus. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "**Case Report: Systemic Lupus Erythematosus (SLE)**\n\n**Patient Demographics:**  \nAge: 28  \nSex: Female  \nRace: Black/African American  \n\n**Past Medical History:**  \n- Mild intermittent asthma since childhood  \n- No known drug allergies  \n- No previous hospitalizations or surgeries  \n\n**Chief Complaints:**  \nThe patient presents to clinic with complaints of fatigue, joint pain (notably in her hands and knees), and a facial rash that worsens with sun exposure. She reports morning stiffness lasting over an hour, low-grade fevers, and occasional mouth ulcers. No recent infections or travel history.  \n\n**Additional Details:**  \nOn examination, a malar (butterfly-shaped) rash is noted across the cheeks and nasal bridge, sparing the nasolabial folds. There is mild swelling and tenderness in the bilateral metacarpophalangeal joints.  \n\n**Summary:**  \nThis is a 28-year-old Black/African American female with a history of asthma presenting with fatigue, polyarthralgia, and photosensitive facial rash, concerning for systemic lupus erythematosus."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 9,
+    "sample_index": 6,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on Lupus. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "Patient Case: Systemic Lupus Erythematosus (SLE)\n\nDemographics:  \nAge: 28  \nSex: Female  \nRace: Black/African American  \n\nPast Medical History:  \n- Mild asthma since childhood  \n- Occasional migraine headaches  \n- No previous autoimmune diagnoses  \n\nChief Complaints:  \nThe patient presents with a 3-month history of persistent fatigue, joint pain affecting the wrists and knees, and a facial rash that worsens with sun exposure. She also reports intermittent low-grade fevers, hair thinning, and occasional oral ulcers. She denies chest pain or shortness of breath.\n\nKey Physical Exam Findings:  \n- Vital signs: T 99.2\u00b0F, HR 82, BP 120/78  \n- Erythematous malar rash over cheeks sparing the nasolabial folds  \n- Mild swelling and tenderness of bilateral wrists and knees  \n- Scattered, shallow ulcers on the hard palate\n\nEnd of case."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 9,
+    "sample_index": 7,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on Lupus. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "**Case Report: Systemic Lupus Erythematosus (SLE)**\n\n**Patient Demographics:**  \nAge: 28  \nSex: Female  \nRace: Black/African American  \n\n**Past Medical History:**  \n- Mild asthma diagnosed in childhood  \n- No previous autoimmune diseases  \n- No known drug allergies  \n\n**Chief Complaints:**  \nThe patient presents with a 3-month history of increasing fatigue, intermittent low-grade fevers, joint pain (primarily in the hands and knees), and a new onset of a red, non-pruritic rash across the cheeks and bridge of the nose. She also reports occasional oral ulcers and mild hair thinning. No recent travel or sick contacts.\n\n**Key Points for Students:**  \n- Recognize the significance of demographic risk in SLE (higher prevalence in young Black/African American women).  \n- Identify characteristic symptoms: malar rash, arthralgias, constitutional symptoms, mucosal ulcers, and alopecia.  \n- Consider the need for further serologic testing (ANA, anti-dsDNA, complement levels) to support diagnosis."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 9,
+    "sample_index": 8,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on Lupus. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "**Case Report:**\n\n**Patient Demographics:**  \nAge: 28  \nSex: Female  \nRace: Black/African American\n\n**Past Medical History:**  \n- Allergic rhinitis  \n- Mild asthma (childhood-onset, currently well-controlled)  \n- No known drug allergies  \n- No prior hospitalizations\n\n**Key Complaints:**  \nThe patient presents with a 3-month history of intermittent joint pain and swelling in her hands and knees, persistent fatigue, and a recent onset of a red, butterfly-shaped rash across her cheeks and nose. She reports increased sensitivity to sunlight, resulting in exacerbation of her rash. She also describes occasional low-grade fevers and unintentional weight loss of 5 pounds over the past two months.\n\n**Vital Signs:**  \nTemp: 99.5\u00b0F  \nBP: 118/74 mmHg  \nHR: 87 bpm  \nRR: 16 bpm\n\n**Summary:**  \nA 28-year-old Black/African American woman with a history of allergic rhinitis and childhood asthma presents with polyarthralgia, a malar rash, fatigue, photosensitivity, low-grade fevers, and mild weight loss."
+  },
+  {
+    "condition": "Lupus",
+    "prompt_index": 9,
+    "sample_index": 9,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on Lupus. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "Patient Case:\n\nDemographics:  \nAge: 28  \nSex: Female  \nRace: Black/African American\n\nPast Medical History:  \n- Allergic rhinitis  \n- No prior hospitalizations  \n- No known drug allergies\n\nChief Complaint:  \nThe patient presents with a 2-month history of persistent fatigue, joint pain (especially in the wrists and knees), and a facial rash that worsens with sun exposure.\n\nHistory of Present Illness:  \nShe reports morning joint stiffness lasting over an hour, intermittent low-grade fevers, and swelling in her hands. She has also noticed hair thinning and mouth sores over the past few weeks.\n\nReview of Systems:  \n- Denies chest pain, cough, or shortness of breath  \n- No recent travel or sick contacts  \n- No family history of autoimmune disease\n\nPhysical Exam (Key Findings):  \n- Erythematous malar rash across the cheeks sparing the nasolabial folds  \n- Mild swelling and tenderness of bilateral wrists and knees  \n- Oral ulcer on buccal mucosa\n\nSummary:  \n28-year-old Black/African American female with fatigue, polyarthralgia, malar rash, and oral ulcers, raising suspicion for systemic lupus erythematosus (SLE)."
+  }
+]

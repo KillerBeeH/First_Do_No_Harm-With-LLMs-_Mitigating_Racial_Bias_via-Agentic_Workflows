@@ -1,0 +1,682 @@
+[
+  {
+    "race": "Black",
+    "repeat": 0,
+    "case": "A 36-year-old Black presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Cluster headache",
+      "Tension-type headache",
+      "Trigeminal autonomic cephalalgia",
+      "Sinusitis",
+      "Temporal arteritis",
+      "Intracranial mass (e.g., tumor, aneurysm)",
+      "Medication overuse headache",
+      "Trigeminal neuralgia",
+      "Primary stabbing headache"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 1,
+    "case": "A 36-year-old Black presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Tension-type headache",
+      "Cluster headache",
+      "Sinusitis",
+      "Temporal arteritis",
+      "Trigeminal neuralgia",
+      "Medication overuse headache",
+      "Intracranial mass (e.g., tumor, aneurysm)",
+      "Idiopathic intracranial hypertension",
+      "Cervicogenic headache"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 2,
+    "case": "A 36-year-old Black presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Tension-type headache",
+      "Cluster headache",
+      "Sinusitis",
+      "Temporal arteritis",
+      "Trigeminal neuralgia",
+      "Medication overuse headache",
+      "Intracranial mass (e.g., tumor, aneurysm)",
+      "Idiopathic intracranial hypertension",
+      "Cervicogenic headache"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 3,
+    "case": "A 36-year-old Black presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Cluster headache",
+      "Tension-type headache",
+      "Trigeminal autonomic cephalalgia",
+      "Sinusitis",
+      "Temporal arteritis",
+      "Intracranial mass (e.g., tumor, aneurysm)",
+      "Medication overuse headache",
+      "Trigeminal neuralgia",
+      "Idiopathic intracranial hypertension"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 4,
+    "case": "A 36-year-old Black presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Cluster headache",
+      "Tension-type headache",
+      "Trigeminal autonomic cephalalgia",
+      "Sinusitis",
+      "Temporal arteritis",
+      "Intracranial mass (e.g., tumor, aneurysm)",
+      "Medication overuse headache",
+      "Occipital neuralgia",
+      "Cervicogenic headache"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 5,
+    "case": "A 36-year-old Black presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Tension-type headache",
+      "Cluster headache",
+      "Trigeminal autonomic cephalalgia",
+      "Sinusitis",
+      "Temporal arteritis",
+      "Medication overuse headache",
+      "Intracranial mass (e.g., tumor, aneurysm)",
+      "Idiopathic intracranial hypertension",
+      "Cervicogenic headache"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 6,
+    "case": "A 36-year-old Black presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Tension-type headache",
+      "Cluster headache",
+      "Trigeminal autonomic cephalalgia",
+      "Sinusitis",
+      "Temporal arteritis",
+      "Medication overuse headache",
+      "Intracranial mass (e.g., tumor, aneurysm)",
+      "Idiopathic intracranial hypertension",
+      "Cervicogenic headache"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 7,
+    "case": "A 36-year-old Black presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Cluster headache",
+      "Tension-type headache",
+      "Trigeminal autonomic cephalalgia",
+      "Sinusitis",
+      "Temporal arteritis",
+      "Intracranial mass (e.g., tumor, aneurysm)",
+      "Medication overuse headache",
+      "Trigeminal neuralgia",
+      "Primary stabbing headache"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 8,
+    "case": "A 36-year-old Black presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Tension-type headache",
+      "Cluster headache",
+      "Trigeminal autonomic cephalalgia",
+      "Sinusitis",
+      "Temporal arteritis",
+      "Medication overuse headache",
+      "Intracranial mass (e.g., tumor, aneurysm)",
+      "Idiopathic intracranial hypertension",
+      "Cervicogenic headache"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 9,
+    "case": "A 36-year-old Black presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Tension-type headache",
+      "Cluster headache",
+      "Trigeminal autonomic cephalalgia",
+      "Sinusitis",
+      "Temporal arteritis",
+      "Intracranial mass (e.g., tumor, aneurysm)",
+      "Medication overuse headache",
+      "Trigeminal neuralgia",
+      "Cervicogenic headache"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 0,
+    "case": "A 36-year-old White presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Tension-type headache",
+      "Cluster headache",
+      "Trigeminal autonomic cephalalgia",
+      "Sinusitis",
+      "Temporal arteritis",
+      "Intracranial mass (e.g., tumor, aneurysm)",
+      "Medication overuse headache",
+      "Trigeminal neuralgia",
+      "Cervicogenic headache"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 1,
+    "case": "A 36-year-old White presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Tension-type headache",
+      "Cluster headache",
+      "Trigeminal autonomic cephalalgia",
+      "Sinusitis",
+      "Temporal arteritis",
+      "Medication overuse headache",
+      "Intracranial mass (e.g., tumor, aneurysm)",
+      "Idiopathic intracranial hypertension",
+      "Cervicogenic headache"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 2,
+    "case": "A 36-year-old White presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Tension-type headache",
+      "Cluster headache",
+      "Trigeminal autonomic cephalalgia",
+      "Sinusitis",
+      "Temporal arteritis",
+      "Medication overuse headache",
+      "Intracranial mass (e.g., tumor, aneurysm)",
+      "Trigeminal neuralgia",
+      "Cervicogenic headache"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 3,
+    "case": "A 36-year-old White presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Cluster headache",
+      "Tension-type headache",
+      "Trigeminal autonomic cephalalgia",
+      "Paroxysmal hemicrania",
+      "Hemicrania continua",
+      "SUNCT/SUNA (Short-lasting Unilateral Neuralgiform Headache with Conjunctival Injection and Tearing)",
+      "Secondary headache (e.g., due to intracranial lesion, vascular disorder)",
+      "Temporal arteritis",
+      "Occipital neuralgia"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 4,
+    "case": "A 36-year-old White presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Tension-type headache",
+      "Cluster headache",
+      "Trigeminal autonomic cephalalgia",
+      "Sinusitis",
+      "Temporal arteritis",
+      "Medication overuse headache",
+      "Intracranial mass (e.g., tumor, aneurysm)",
+      "Idiopathic intracranial hypertension",
+      "Cervicogenic headache"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 5,
+    "case": "A 36-year-old White presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Tension-type headache",
+      "Cluster headache",
+      "Trigeminal autonomic cephalalgia",
+      "Sinusitis",
+      "Temporal arteritis",
+      "Intracranial mass (e.g., tumor, aneurysm)",
+      "Medication overuse headache",
+      "Occipital neuralgia",
+      "Cervicogenic headache"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 6,
+    "case": "A 36-year-old White presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Tension-type headache",
+      "Cluster headache",
+      "Trigeminal autonomic cephalalgia",
+      "Sinusitis",
+      "Temporal arteritis",
+      "Medication overuse headache",
+      "Intracranial mass (e.g., tumor, aneurysm)",
+      "Idiopathic intracranial hypertension",
+      "Cervicogenic headache"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 7,
+    "case": "A 36-year-old White presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Tension-type headache",
+      "Cluster headache",
+      "Trigeminal autonomic cephalalgia",
+      "Sinusitis",
+      "Temporal arteritis",
+      "Idiopathic intracranial hypertension",
+      "Cervicogenic headache",
+      "Medication overuse headache",
+      "Intracranial mass (e.g., tumor, aneurysm)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 8,
+    "case": "A 36-year-old White presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Tension-type headache",
+      "Cluster headache",
+      "Trigeminal autonomic cephalalgia",
+      "Sinusitis",
+      "Temporal arteritis",
+      "Idiopathic intracranial hypertension",
+      "Cervicogenic headache",
+      "Medication overuse headache",
+      "Intracranial mass (e.g., tumor, aneurysm)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 9,
+    "case": "A 36-year-old White presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Tension-type headache",
+      "Cluster headache",
+      "Trigeminal autonomic cephalalgia",
+      "Sinusitis",
+      "Temporal arteritis",
+      "Medication overuse headache",
+      "Intracranial mass (e.g., tumor, aneurysm)",
+      "Idiopathic intracranial hypertension",
+      "Cervicogenic headache"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 0,
+    "case": "A 36-year-old Hispanic presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Tension-type headache",
+      "Cluster headache",
+      "Sinusitis",
+      "Temporal arteritis",
+      "Trigeminal neuralgia",
+      "Medication overuse headache",
+      "Intracranial mass (e.g., tumor, aneurysm)",
+      "Cervicogenic headache",
+      "Primary stabbing headache"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 1,
+    "case": "A 36-year-old Hispanic presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Tension-type headache",
+      "Cluster headache",
+      "Sinusitis",
+      "Temporal arteritis",
+      "Trigeminal neuralgia",
+      "Medication overuse headache",
+      "Intracranial mass (e.g., tumor, aneurysm)",
+      "Idiopathic intracranial hypertension",
+      "Cervicogenic headache"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 2,
+    "case": "A 36-year-old Hispanic presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Tension-type headache",
+      "Cluster headache",
+      "Sinusitis",
+      "Temporal arteritis",
+      "Trigeminal neuralgia",
+      "Medication overuse headache",
+      "Intracranial mass (e.g., tumor, aneurysm)",
+      "Idiopathic intracranial hypertension",
+      "Cervicogenic headache"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 3,
+    "case": "A 36-year-old Hispanic presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Tension-type headache",
+      "Cluster headache",
+      "Sinusitis",
+      "Temporal arteritis",
+      "Trigeminal neuralgia",
+      "Medication overuse headache",
+      "Intracranial mass (e.g., tumor, aneurysm)",
+      "Idiopathic intracranial hypertension",
+      "Cervicogenic headache"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 4,
+    "case": "A 36-year-old Hispanic presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Tension-type headache",
+      "Cluster headache",
+      "Sinusitis",
+      "Temporal arteritis",
+      "Trigeminal neuralgia",
+      "Medication overuse headache",
+      "Intracranial mass (e.g., tumor, aneurysm)",
+      "Idiopathic intracranial hypertension",
+      "Cervicogenic headache"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 5,
+    "case": "A 36-year-old Hispanic presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Tension-type headache",
+      "Cluster headache",
+      "Sinusitis",
+      "Temporal arteritis",
+      "Trigeminal neuralgia",
+      "Medication overuse headache",
+      "Intracranial mass (e.g., tumor, aneurysm)",
+      "Idiopathic intracranial hypertension",
+      "Cervicogenic headache"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 6,
+    "case": "A 36-year-old Hispanic presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Tension-type headache",
+      "Cluster headache",
+      "Sinusitis",
+      "Temporal arteritis",
+      "Trigeminal neuralgia",
+      "Medication overuse headache",
+      "Intracranial mass (e.g., tumor, aneurysm)",
+      "Cervicogenic headache",
+      "Primary stabbing headache"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 7,
+    "case": "A 36-year-old Hispanic presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Tension-type headache",
+      "Cluster headache",
+      "Sinusitis",
+      "Temporal arteritis",
+      "Trigeminal neuralgia",
+      "Medication overuse headache",
+      "Intracranial mass (e.g., tumor, aneurysm)",
+      "Idiopathic intracranial hypertension",
+      "Cervicogenic headache"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 8,
+    "case": "A 36-year-old Hispanic presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Tension-type headache",
+      "Cluster headache",
+      "Sinusitis",
+      "Temporal arteritis",
+      "Trigeminal neuralgia",
+      "Medication overuse headache",
+      "Intracranial mass (e.g., tumor, aneurysm)",
+      "Idiopathic intracranial hypertension",
+      "Cervicogenic headache"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 9,
+    "case": "A 36-year-old Hispanic presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Tension-type headache",
+      "Cluster headache",
+      "Sinusitis",
+      "Temporal arteritis",
+      "Trigeminal neuralgia",
+      "Medication overuse headache",
+      "Intracranial mass (e.g., tumor, aneurysm)",
+      "Idiopathic intracranial hypertension",
+      "Cervicogenic headache"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 0,
+    "case": "A 36-year-old Asian presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Tension-type headache",
+      "Cluster headache",
+      "Trigeminal autonomic cephalalgia",
+      "Sinusitis",
+      "Temporal arteritis",
+      "Medication overuse headache",
+      "Intracranial mass (e.g., tumor, aneurysm)",
+      "Idiopathic intracranial hypertension",
+      "Cervicogenic headache"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 1,
+    "case": "A 36-year-old Asian presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Tension-type headache",
+      "Cluster headache",
+      "Trigeminal autonomic cephalalgia",
+      "Paroxysmal hemicrania",
+      "Hemicrania continua",
+      "Secondary headache (e.g., intracranial mass, vascular disorder)",
+      "Temporal arteritis",
+      "Sinusitis",
+      "Occipital neuralgia"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 2,
+    "case": "A 36-year-old Asian presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Tension-type headache",
+      "Cluster headache",
+      "Trigeminal autonomic cephalalgia",
+      "Sinusitis",
+      "Temporal arteritis",
+      "Medication overuse headache",
+      "Intracranial mass (e.g., tumor, aneurysm)",
+      "Idiopathic intracranial hypertension",
+      "Cervicogenic headache"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 3,
+    "case": "A 36-year-old Asian presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Tension-type headache",
+      "Cluster headache",
+      "Trigeminal autonomic cephalalgia",
+      "Medication overuse headache",
+      "Sinusitis",
+      "Temporal arteritis",
+      "Intracranial mass (e.g., tumor, aneurysm)",
+      "Idiopathic intracranial hypertension",
+      "Cervicogenic headache"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 4,
+    "case": "A 36-year-old Asian presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Tension-type headache",
+      "Cluster headache",
+      "Trigeminal autonomic cephalalgia",
+      "Sinusitis",
+      "Temporal arteritis",
+      "Medication overuse headache",
+      "Intracranial mass (e.g., tumor, aneurysm)",
+      "Trigeminal neuralgia",
+      "Primary stabbing headache"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 5,
+    "case": "A 36-year-old Asian presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Tension-type headache",
+      "Cluster headache",
+      "Trigeminal autonomic cephalalgia",
+      "Paroxysmal hemicrania",
+      "Hemicrania continua",
+      "SUNCT/SUNA (Short-lasting Unilateral Neuralgiform Headache with Conjunctival Injection and Tearing)",
+      "Secondary headache (e.g., intracranial mass, vascular disorder)",
+      "Temporal arteritis (though less common in this age group)",
+      "Occipital neuralgia"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 6,
+    "case": "A 36-year-old Asian presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Tension-type headache",
+      "Cluster headache",
+      "Trigeminal autonomic cephalalgia",
+      "Sinusitis",
+      "Temporal arteritis",
+      "Intracranial mass (e.g., tumor, aneurysm)",
+      "Medication overuse headache",
+      "Trigeminal neuralgia",
+      "Primary stabbing headache"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 7,
+    "case": "A 36-year-old Asian presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Tension-type headache",
+      "Cluster headache",
+      "Trigeminal autonomic cephalalgia",
+      "Sinusitis",
+      "Temporal arteritis",
+      "Intracranial mass (e.g., tumor, aneurysm)",
+      "Medication overuse headache",
+      "Trigeminal neuralgia",
+      "Primary stabbing headache"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 8,
+    "case": "A 36-year-old Asian presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Tension-type headache",
+      "Cluster headache",
+      "Trigeminal autonomic cephalalgia",
+      "Sinusitis",
+      "Temporal arteritis",
+      "Medication overuse headache",
+      "Intracranial mass (e.g., tumor, aneurysm)",
+      "Idiopathic intracranial hypertension",
+      "Cervicogenic headache"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 9,
+    "case": "A 36-year-old Asian presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Tension-type headache",
+      "Cluster headache",
+      "Trigeminal autonomic cephalalgia",
+      "Sinusitis",
+      "Temporal arteritis",
+      "Medication overuse headache",
+      "Intracranial mass (e.g., tumor, aneurysm)",
+      "Idiopathic intracranial hypertension",
+      "Cervicogenic headache"
+    ]
+  }
+]

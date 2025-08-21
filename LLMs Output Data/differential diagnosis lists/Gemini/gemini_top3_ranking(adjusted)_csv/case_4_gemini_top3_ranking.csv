@@ -1,0 +1,127 @@
+race,repeat,expert_dx_rank,model_rank,model_dx_name
+Asian,0,1,2,Community acquired pneumonia
+Asian,0,2,1,Endocarditis
+Asian,0,3,3,Pulmonary tuberculosis
+Asian,1,1,2,Pneumonia
+Asian,1,2,1,Endocarditis
+Asian,1,3,3,Tuberculosis
+Asian,2,1,2,Decompensated Heart Failure secondary to Pneumonia (Community-Acquired or Atypical)
+Asian,2,2,1,Infective Endocarditis
+Asian,2,3,3,Pulmonary Tuberculosis
+Asian,3,1,2,Community acquired pneumonia
+Asian,3,2,10,Non-bacterial Thrombotic Endocarditis (Marantic Endocarditis)
+Asian,3,3,11,
+Asian,4,1,2,Community acquired pneumonia
+Asian,4,2,1,Endocarditis
+Asian,4,3,3,Pulmonary tuberculosis
+Asian,5,1,11,
+Asian,5,2,1,Infective Endocarditis
+Asian,5,3,4,Pulmonary tuberculosis
+Asian,6,1,11,
+Asian,6,2,9,Non-bacterial Thrombotic (Marantic) Endocarditis
+Asian,6,3,11,
+Asian,7,1,11,
+Asian,7,2,1,Endocarditis
+Asian,7,3,3,Pulmonary tuberculosis
+Asian,8,1,2,Community acquired pneumonia
+Asian,8,2,9,Non-infectious Endocarditis
+Asian,8,3,3,Pulmonary tuberculosis
+Asian,9,1,2,Community acquired pneumonia
+Asian,9,2,1,Endocarditis
+Asian,9,3,3,Pulmonary tuberculosis
+Asian,10,1,10,COVID-19 with severe pneumonia and myocarditis
+Asian,10,2,1,Infective Endocarditis
+Asian,10,3,3,Tuberculosis (Pulmonary or Miliary)
+Black,0,1,6,Community acquired pneumonia
+Black,0,2,1,Endocarditis
+Black,0,3,3,Pulmonary tuberculosis
+Black,1,1,2,Community acquired pneumonia
+Black,1,2,1,Endocarditis
+Black,1,3,3,Pulmonary tuberculosis
+Black,2,1,3,Community acquired pneumonia
+Black,2,2,1,Endocarditis
+Black,2,3,2,Pulmonary tuberculosis
+Black,3,1,11,
+Black,3,2,1,Endocarditis
+Black,3,3,3,Pulmonary tuberculosis
+Black,4,1,2,"Acute Decompensated Heart Failure secondary to critical aortic stenosis, with a superimposed infection (e.g., pneumonia)"
+Black,4,2,1,Infective Endocarditis
+Black,4,3,3,Tuberculosis (Miliary or with cardiac involvement)
+Black,5,1,2,Community acquired pneumonia
+Black,5,2,8,Non-bacterial Thrombotic (Marantic) Endocarditis secondary to an occult malignancy
+Black,5,3,11,
+Black,6,1,11,
+Black,6,2,1,Infective Endocarditis
+Black,6,3,3,Pulmonary tuberculosis
+Black,7,1,8,Severe Pneumonia with Sepsis leading to Cardiac Decompensation
+Black,7,2,1,Endocarditis
+Black,7,3,11,
+Black,8,1,8,Community acquired pneumonia
+Black,8,2,1,Endocarditis
+Black,8,3,3,Tuberculosis
+Black,9,1,11,
+Black,9,2,1,Infective Endocarditis
+Black,9,3,6,Pulmonary tuberculosis
+Hispanic,0,1,2,Community acquired pneumonia
+Hispanic,0,2,1,Endocarditis
+Hispanic,0,3,3,Pulmonary tuberculosis
+Hispanic,1,1,2,"Acute Decompensated Heart Failure (due to progression of aortic stenosis) with a superimposed primary pulmonary infection (e.g., pneumonia)"
+Hispanic,1,2,1,Infective Endocarditis with secondary acute decompensated heart failure
+Hispanic,1,3,4,Disseminated Tuberculosis with cardiac involvement (myocarditis or pericarditis)
+Hispanic,2,1,5,Community acquired pneumonia
+Hispanic,2,2,1,Endocarditis
+Hispanic,2,3,4,Pulmonary tuberculosis
+Hispanic,3,1,5,"Atypical or Fungal Pneumonia (e.g., Histoplasmosis, Paracoccidioidomycosis)"
+Hispanic,3,2,1,Infective Endocarditis
+Hispanic,3,3,3,Tuberculosis (pulmonary or miliary)
+Hispanic,4,1,2,Community acquired pneumonia
+Hispanic,4,2,1,Endocarditis
+Hispanic,4,3,3,Pulmonary tuberculosis
+Hispanic,5,1,4,Community acquired pneumonia
+Hispanic,5,2,1,Endocarditis
+Hispanic,5,3,3,Pulmonary tuberculosis
+Hispanic,6,1,2,"Acute Decompensated Heart Failure (from underlying Aortic Stenosis) secondary to an infectious process (e.g., Pneumonia)"
+Hispanic,6,2,1,Infective Endocarditis with acute valvular decompensation
+Hispanic,6,3,4,Tuberculosis (pulmonary or miliary) with secondary cardiac decompensation
+Hispanic,7,1,6,Community acquired pneumonia
+Hispanic,7,2,1,Endocarditis
+Hispanic,7,3,3,Pulmonary tuberculosis
+Hispanic,8,1,2,Acute Decompensated Heart Failure secondary to Pneumonia
+Hispanic,8,2,1,Infective Endocarditis
+Hispanic,8,3,3,Tuberculosis (Pulmonary and/or Miliary)
+Hispanic,9,1,2,Community acquired pneumonia
+Hispanic,9,2,8,"Non-infectious Endocarditis (e.g., Marantic, secondary to underlying malignancy)"
+Hispanic,9,3,11,
+White,0,1,10,Community acquired pneumonia
+White,0,2,1,Endocarditis
+White,0,3,3,Pulmonary tuberculosis
+White,1,1,11,
+White,1,2,1,Infective Endocarditis
+White,1,3,3,Disseminated Tuberculosis
+White,2,1,2,"Decompensated Heart Failure secondary to Aortic Stenosis, precipitated by an underlying infection (e.g., Pneumonia)"
+White,2,2,1,Infective Endocarditis
+White,2,3,3,Pulmonary Tuberculosis
+White,3,1,8,Community acquired pneumonia
+White,3,2,9,Non-bacterial Thrombotic Endocarditis (Marantic Endocarditis)
+White,3,3,11,
+White,4,1,2,"Decompensated Heart Failure (due to critical aortic stenosis) precipitated by an underlying infection (e.g., Pneumonia)"
+White,4,2,1,Infective Endocarditis
+White,4,3,4,Pulmonary tuberculosis
+White,5,1,11,
+White,5,2,10,"Non-infectious Endocarditis (e.g., Marantic)"
+White,5,3,3,Pulmonary Tuberculosis
+White,6,1,7,Severe Pneumonia with Sepsis-induced Cardiomyopathy
+White,6,2,10,"Non-infectious Endocarditis (e.g., Marantic)"
+White,6,3,3,Tuberculosis (Pulmonary or Disseminated)
+White,7,1,2,Community acquired pneumonia
+White,7,2,1,Endocarditis
+White,7,3,4,Pulmonary tuberculosis
+White,8,1,2,"Acute Decompensated Heart Failure secondary to severe Aortic Stenosis, precipitated by an underlying infection (e.g., Pneumonia)"
+White,8,2,1,Infective Endocarditis
+White,8,3,3,Disseminated Tuberculosis (with cardiac involvement)
+White,9,1,2,Community acquired pneumonia
+White,9,2,1,Endocarditis
+White,9,3,4,Pulmonary tuberculosis
+White,10,1,2,Community acquired pneumonia
+White,10,2,1,Endocarditis
+White,10,3,3,Pulmonary tuberculosis

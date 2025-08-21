@@ -1,0 +1,682 @@
+[
+  {
+    "race": "Black",
+    "repeat": 0,
+    "case": "A 78-year-old Black with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute Mesenteric Ischemia (Embolic)",
+      "Strangulated Small Bowel Obstruction",
+      "Perforated Viscus (e.g., peptic ulcer, diverticulum)",
+      "Ruptured Abdominal Aortic Aneurysm (AAA)",
+      "Severe Necrotizing Pancreatitis",
+      "Myocardial Infarction (Atypical Presentation)",
+      "Aortic Dissection",
+      "Complicated Acute Cholecystitis / Ascending Cholangitis",
+      "Ischemic Colitis",
+      "Septic Shock of extra-abdominal origin with secondary ileus"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 1,
+    "case": "A 78-year-old Black with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute Mesenteric Ischemia (Embolic)",
+      "Ruptured Abdominal Aortic Aneurysm (AAA)",
+      "Perforated Viscus (e.g., peptic ulcer, diverticulum)",
+      "Small Bowel Obstruction with Strangulation",
+      "Aortic Dissection",
+      "Myocardial Infarction (Inferior wall with referred pain)",
+      "Severe Acute Pancreatitis (Necrotizing)",
+      "Volvulus (Sigmoid or Cecal)",
+      "Ischemic Colitis",
+      "Ascending Cholangitis with Sepsis"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 2,
+    "case": "A 78-year-old Black with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute Mesenteric Ischemia (secondary to atrial fibrillation with embolization)",
+      "Ruptured Abdominal Aortic Aneurysm (AAA)",
+      "Perforated Viscus (e.g., peptic ulcer, diverticulum, or ischemic bowel)",
+      "Small Bowel Obstruction with Strangulation (secondary to adhesions from prior surgery)",
+      "Myocardial Infarction (presenting with abdominal pain and cardiogenic shock)",
+      "Aortic Dissection (with mesenteric artery involvement)",
+      "Severe Necrotizing Pancreatitis",
+      "Septic Shock (from an occult intra-abdominal source, e.g., cholangitis or abscess)",
+      "Volvulus (Sigmoid or Cecal)",
+      "Ischemic Colitis (severe)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 3,
+    "case": "A 78-year-old Black with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute Mesenteric Ischemia (secondary to embolic event from atrial fibrillation)",
+      "Ruptured Abdominal Aortic Aneurysm (AAA)",
+      "Perforated Viscus (e.g., peptic ulcer, diverticulum, or malignancy)",
+      "Small Bowel Obstruction with Strangulation (secondary to adhesions from prior surgery)",
+      "Severe Necrotizing Pancreatitis",
+      "Myocardial Infarction (presenting with abdominal pain and cardiogenic shock)",
+      "Septic Shock (secondary to an intra-abdominal source like cholangitis or urosepsis)",
+      "Ischemic Colitis with perforation",
+      "Volvulus (Sigmoid or Cecal)",
+      "Gangrenous Cholecystitis with rupture"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 4,
+    "case": "A 78-year-old Black with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute Mesenteric Ischemia (secondary to arterial embolism)",
+      "Ruptured Abdominal Aortic Aneurysm (AAA)",
+      "Perforated Viscus (e.g., peptic ulcer, diverticulum)",
+      "Small Bowel Obstruction with Strangulation (secondary to adhesions)",
+      "Myocardial Infarction (with referred abdominal pain and cardiogenic shock)",
+      "Aortic Dissection (with mesenteric artery involvement)",
+      "Severe Acute Pancreatitis (necrotizing)",
+      "Septic Shock (secondary to ascending cholangitis or other intra-abdominal source)",
+      "Volvulus (sigmoid or cecal)",
+      "Mesenteric Venous Thrombosis"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 5,
+    "case": "A 78-year-old Black with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute Mesenteric Ischemia (secondary to atrial fibrillation with embolization)",
+      "Ruptured Abdominal Aortic Aneurysm (AAA)",
+      "Bowel Obstruction with Strangulation and/or Perforation (secondary to adhesions from prior surgery)",
+      "Perforated Viscus (e.g., peptic ulcer, diverticulum)",
+      "Myocardial Infarction (presenting with abdominal pain and cardiogenic shock)",
+      "Severe Necrotizing Pancreatitis",
+      "Septic Shock (from an undetermined source, e.g., urosepsis or pneumonia, causing secondary ileus or non-occlusive mesenteric ischemia)",
+      "Volvulus (Sigmoid or Cecal)",
+      "Acute Cholangitis with Sepsis",
+      "Mesenteric Venous Thrombosis"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 6,
+    "case": "A 78-year-old Black with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute Mesenteric Ischemia (secondary to atrial fibrillation with embolism)",
+      "Bowel Obstruction with Strangulation/Ischemia (secondary to adhesions from prior surgery)",
+      "Ruptured Abdominal Aortic Aneurysm (AAA)",
+      "Perforated Viscus (e.g., peptic ulcer, diverticulum) with peritonitis and septic shock",
+      "Myocardial Infarction (Atypical Presentation, e.g., inferior wall MI)",
+      "Severe Necrotizing Pancreatitis",
+      "Aortic Dissection (with mesenteric artery involvement)",
+      "Volvulus (Sigmoid or Cecal)",
+      "Mesenteric Venous Thrombosis",
+      "Septic Shock from another source (e.g., urosepsis, cholangitis) with secondary ileus"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 7,
+    "case": "A 78-year-old Black with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute Mesenteric Ischemia (secondary to atrial fibrillation with embolism)",
+      "Perforated Viscus (e.g., peptic ulcer, diverticulum, or malignancy)",
+      "Ruptured Abdominal Aortic Aneurysm (AAA)",
+      "Strangulated Small Bowel Obstruction (secondary to adhesions from prior surgery)",
+      "Severe Necrotizing Pancreatitis",
+      "Myocardial Infarction (atypical presentation with abdominal pain)",
+      "Septic Shock from another intra-abdominal source (e.g., acute cholangitis, ruptured abscess)",
+      "Volvulus (Sigmoid or Cecal)",
+      "Ischemic Colitis (severe)",
+      "Mesenteric Venous Thrombosis"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 8,
+    "case": "A 78-year-old Black with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute Mesenteric Ischemia (secondary to arterial embolism)",
+      "Bowel Obstruction with Strangulation (secondary to adhesions from prior surgery)",
+      "Perforated Viscus (e.g., peptic ulcer, diverticulum)",
+      "Ruptured Abdominal Aortic Aneurysm (AAA)",
+      "Septic Shock (secondary to an intra-abdominal source like a ruptured abscess or ascending cholangitis)",
+      "Severe Necrotizing Pancreatitis",
+      "Myocardial Infarction (with referred abdominal pain and cardiogenic shock)",
+      "Volvulus (Sigmoid or Cecal)",
+      "Mesenteric Venous Thrombosis",
+      "Ischemic Colitis (severe, with perforation)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 9,
+    "case": "A 78-year-old Black with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute Mesenteric Ischemia (Embolic)",
+      "Ruptured Abdominal Aortic Aneurysm (AAA)",
+      "Perforated Viscus (e.g., peptic ulcer, diverticulum)",
+      "Small Bowel Obstruction with Strangulation/Ischemia",
+      "Severe/Necrotizing Pancreatitis",
+      "Acute Aortic Dissection with Mesenteric Malperfusion",
+      "Myocardial Infarction (Inferior Wall)",
+      "Mesenteric Venous Thrombosis",
+      "Septic Shock with Non-Occlusive Mesenteric Ischemia",
+      "Ruptured Visceral Artery Aneurysm"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 0,
+    "case": "A 78-year-old White with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute Mesenteric Ischemia (secondary to arterial embolism from atrial fibrillation)",
+      "Ruptured Abdominal Aortic Aneurysm (AAA)",
+      "Perforated Viscus (e.g., peptic ulcer, diverticulum, or ischemic bowel)",
+      "Small Bowel Obstruction with Strangulation (secondary to adhesions from prior surgery)",
+      "Myocardial Infarction (inferior wall) with cardiogenic shock and referred abdominal pain",
+      "Severe Necrotizing Pancreatitis",
+      "Aortic Dissection with mesenteric artery involvement",
+      "Septic Shock from an intra-abdominal source (e.g., ascending cholangitis, abscess)",
+      "Volvulus (sigmoid or cecal)",
+      "Mesenteric Venous Thrombosis"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 1,
+    "case": "A 78-year-old White with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute Mesenteric Ischemia (Embolic)",
+      "Ruptured Abdominal Aortic Aneurysm (AAA)",
+      "Perforated Viscus (e.g., peptic ulcer, diverticulum, or strangulated bowel)",
+      "Small Bowel Obstruction with Strangulation",
+      "Myocardial Infarction (especially inferior wall)",
+      "Severe Necrotizing Pancreatitis",
+      "Aortic Dissection",
+      "Mesenteric Venous Thrombosis",
+      "Ascending Cholangitis with Sepsis",
+      "Volvulus (Sigmoid or Cecal)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 2,
+    "case": "A 78-year-old White with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute Mesenteric Ischemia",
+      "Small Bowel Obstruction with Strangulation/Ischemia",
+      "Perforated Viscus (e.g., Peptic Ulcer, Diverticulum)",
+      "Ruptured Abdominal Aortic Aneurysm (AAA)",
+      "Severe Necrotizing Pancreatitis",
+      "Volvulus (Sigmoid or Cecal)",
+      "Myocardial Infarction (with referred abdominal pain)",
+      "Aortic Dissection (with mesenteric involvement)",
+      "Sepsis from an intra-abdominal source (e.g., Cholangitis)",
+      "Ischemic Colitis (secondary to low-flow state)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 3,
+    "case": "A 78-year-old White with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute Mesenteric Ischemia (secondary to arterial embolism)",
+      "Ruptured Abdominal Aortic Aneurysm (AAA)",
+      "Perforated Viscus (e.g., peptic ulcer, diverticulum)",
+      "Small Bowel Obstruction with Strangulation/Ischemia",
+      "Aortic Dissection with mesenteric involvement",
+      "Severe Necrotizing Pancreatitis",
+      "Myocardial Infarction (atypical presentation with cardiogenic shock)",
+      "Volvulus (Sigmoid or Cecal)",
+      "Severe Ischemic Colitis",
+      "Septic Shock from another source (e.g., acute cholangitis) with ileus"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 4,
+    "case": "A 78-year-old White with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute Mesenteric Ischemia (secondary to arterial embolism)",
+      "Ruptured Abdominal Aortic Aneurysm (AAA)",
+      "Perforated Viscus (e.g., peptic ulcer, diverticulum)",
+      "Bowel Obstruction with Strangulation (secondary to adhesions)",
+      "Severe Acute Pancreatitis (necrotizing)",
+      "Myocardial Infarction (atypical/inferior wall presentation)",
+      "Aortic Dissection with mesenteric involvement",
+      "Septic Shock (secondary to an occult intra-abdominal source, e.g., cholangitis)",
+      "Mesenteric Venous Thrombosis",
+      "Volvulus (sigmoid or cecal) with ischemia"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 5,
+    "case": "A 78-year-old White with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute Mesenteric Ischemia",
+      "Ruptured Abdominal Aortic Aneurysm (AAA)",
+      "Perforated Viscus (e.g., peptic ulcer, diverticulum)",
+      "Small Bowel Obstruction with Strangulation",
+      "Myocardial Infarction (Atypical/Inferior Wall Presentation)",
+      "Severe Necrotizing Pancreatitis",
+      "Aortic Dissection with visceral artery involvement",
+      "Volvulus (Sigmoid or Cecal)",
+      "Complicated Acute Cholecystitis (e.g., gangrenous, perforated)",
+      "Septic Shock from an occult source (e.g., urosepsis) with ileus/abdominal pain"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 6,
+    "case": "A 78-year-old White with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute Mesenteric Ischemia (Embolic)",
+      "Small Bowel Obstruction with Strangulation",
+      "Perforated Viscus (e.g., peptic ulcer, diverticulum)",
+      "Ruptured Abdominal Aortic Aneurysm (AAA)",
+      "Severe Necrotizing Pancreatitis",
+      "Myocardial Infarction (Atypical Presentation)",
+      "Ascending Cholangitis",
+      "Volvulus (Sigmoid or Cecal)",
+      "Ischemic Colitis (Fulminant)",
+      "Perforated Gallbladder (Gangrenous Cholecystitis)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 7,
+    "case": "A 78-year-old White with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute Mesenteric Ischemia (secondary to atrial fibrillation with embolism)",
+      "Ruptured Abdominal Aortic Aneurysm (AAA)",
+      "Perforated Viscus (e.g., peptic ulcer, diverticulum)",
+      "Small Bowel Obstruction with Strangulation (secondary to adhesions from prior surgery)",
+      "Severe Necrotizing Pancreatitis",
+      "Myocardial Infarction (atypical presentation with abdominal pain)",
+      "Ascending Cholangitis with Sepsis",
+      "Volvulus (Sigmoid or Cecal)",
+      "Mesenteric Venous Thrombosis",
+      "Ruptured Visceral Artery Aneurysm"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 8,
+    "case": "A 78-year-old White with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute Mesenteric Ischemia (embolic, secondary to atrial fibrillation)",
+      "Ruptured Abdominal Aortic Aneurysm (AAA)",
+      "Perforated Viscus (e.g., peptic ulcer, diverticulum, or tumor)",
+      "Small Bowel Obstruction with Strangulation/Ischemia (secondary to adhesions from prior surgery)",
+      "Severe Necrotizing Pancreatitis",
+      "Myocardial Infarction (presenting with abdominal pain and cardiogenic shock)",
+      "Aortic Dissection (with mesenteric artery involvement)",
+      "Bowel Volvulus (sigmoid or cecal)",
+      "Mesenteric Venous Thrombosis",
+      "Septic Shock from another intra-abdominal source (e.g., ruptured gallbladder, ascending cholangitis)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 9,
+    "case": "A 78-year-old White with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute Mesenteric Ischemia (Embolic)",
+      "Bowel Obstruction with Strangulation",
+      "Perforated Viscus (e.g., Peptic Ulcer, Diverticulum)",
+      "Ruptured Abdominal Aortic Aneurysm (AAA)",
+      "Septic Shock from an intra-abdominal source (e.g., Cholangitis, Abscess)",
+      "Severe Acute Pancreatitis",
+      "Myocardial Infarction (with referred abdominal pain)",
+      "Volvulus (Sigmoid or Cecal)",
+      "Aortic Dissection with mesenteric involvement",
+      "Ischemic Colitis (severe)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 0,
+    "case": "A 78-year-old Hispanic with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute Mesenteric Ischemia (secondary to atrial fibrillation with embolism)",
+      "Perforated Viscus (e.g., from a strangulated bowel obstruction, peptic ulcer, or diverticulitis)",
+      "Ruptured Abdominal Aortic Aneurysm (AAA)",
+      "Strangulated Bowel Obstruction (secondary to adhesions from prior surgery)",
+      "Severe Acute Pancreatitis with systemic inflammatory response syndrome (SIRS)",
+      "Myocardial Infarction (atypical presentation with cardiogenic shock)",
+      "Complicated Diverticulitis with perforation and peritonitis",
+      "Gangrenous Cholecystitis or Ascending Cholangitis with septic shock",
+      "Volvulus (Sigmoid or Cecal)",
+      "Ischemic Colitis (non-occlusive, secondary to low-flow state)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 1,
+    "case": "A 78-year-old Hispanic with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute Mesenteric Ischemia (Embolic)",
+      "Ruptured Abdominal Aortic Aneurysm (AAA)",
+      "Perforated Viscus (e.g., peptic ulcer, diverticulum)",
+      "Small Bowel Obstruction with Strangulation",
+      "Severe Necrotizing Pancreatitis",
+      "Myocardial Infarction (Atypical Presentation)",
+      "Aortic Dissection with Mesenteric Involvement",
+      "Mesenteric Venous Thrombosis",
+      "Volvulus (Sigmoid or Cecal)",
+      "Septic Shock from another intra-abdominal source (e.g., ruptured gallbladder, cholangitis)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 2,
+    "case": "A 78-year-old Hispanic with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute Mesenteric Ischemia (secondary to atrial fibrillation with embolism)",
+      "Perforated Viscus (e.g., peptic ulcer, diverticulum)",
+      "Small Bowel Obstruction with Strangulation (secondary to adhesions from prior surgery)",
+      "Ruptured Abdominal Aortic Aneurysm (AAA)",
+      "Acute Necrotizing Pancreatitis",
+      "Septic Shock (source unidentified, e.g., cholangitis, urosepsis)",
+      "Myocardial Infarction (presenting with abdominal pain)",
+      "Volvulus (Sigmoid or Cecal)",
+      "Fulminant Ischemic Colitis",
+      "Mesenteric Venous Thrombosis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 3,
+    "case": "A 78-year-old Hispanic with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute Mesenteric Ischemia",
+      "Perforated Viscus (e.g., peptic ulcer, diverticulum)",
+      "Small Bowel Obstruction with Strangulation",
+      "Ruptured Abdominal Aortic Aneurysm (AAA)",
+      "Severe Acute Pancreatitis",
+      "Myocardial Infarction (Atypical/Inferior Wall Presentation)",
+      "Septic Shock (Source undetermined, e.g., cholangitis, diverticulitis)",
+      "Aortic Dissection with mesenteric involvement",
+      "Volvulus (Cecal or Sigmoid)",
+      "Ischemic Colitis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 4,
+    "case": "A 78-year-old Hispanic with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute Mesenteric Ischemia (secondary to atrial fibrillation with embolism)",
+      "Bowel Obstruction with Strangulation/Perforation (secondary to adhesions from prior surgery)",
+      "Perforated Viscus (e.g., peptic ulcer, diverticulum)",
+      "Ruptured Abdominal Aortic Aneurysm (AAA)",
+      "Septic Shock from another intra-abdominal source (e.g., cholangitis, ruptured abscess)",
+      "Severe Necrotizing Pancreatitis",
+      "Myocardial Infarction (atypical presentation with abdominal pain)",
+      "Volvulus (Sigmoid or Cecal)",
+      "Mesenteric Venous Thrombosis",
+      "Ischemic Colitis (secondary to a low-flow state)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 5,
+    "case": "A 78-year-old Hispanic with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute Mesenteric Ischemia (secondary to atrial fibrillation with embolism)",
+      "Perforated Viscus (e.g., peptic ulcer, diverticulum)",
+      "Ruptured Abdominal Aortic Aneurysm (AAA)",
+      "Small Bowel Obstruction with Strangulation (secondary to adhesions from prior surgery)",
+      "Severe Necrotizing Pancreatitis",
+      "Myocardial Infarction (Inferior Wall)",
+      "Septic Shock (secondary to another intra-abdominal source, e.g., ascending cholangitis)",
+      "Aortic Dissection (with mesenteric artery involvement)",
+      "Volvulus (Sigmoid or Cecal)",
+      "Fulminant Ischemic Colitis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 6,
+    "case": "A 78-year-old Hispanic with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute Mesenteric Ischemia (Embolic)",
+      "Perforated Viscus (e.g., Peptic Ulcer, Diverticulum)",
+      "Small Bowel Obstruction with Strangulation",
+      "Ruptured Abdominal Aortic Aneurysm (AAA)",
+      "Myocardial Infarction (Atypical Presentation)",
+      "Severe Acute Pancreatitis",
+      "Aortic Dissection with Mesenteric Involvement",
+      "Volvulus (Sigmoid or Cecal)",
+      "Ascending Cholangitis with Sepsis",
+      "Mesenteric Vein Thrombosis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 7,
+    "case": "A 78-year-old Hispanic with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute Mesenteric Ischemia (embolic)",
+      "Ruptured Abdominal Aortic Aneurysm (AAA)",
+      "Perforated Viscus (e.g., peptic ulcer, diverticulum)",
+      "Small Bowel Obstruction with Strangulation",
+      "Aortic Dissection",
+      "Myocardial Infarction (inferior wall, presenting with abdominal pain)",
+      "Severe Necrotizing Pancreatitis",
+      "Septic Shock from an alternative source (e.g., cholangitis, urosepsis)",
+      "Mesenteric Venous Thrombosis",
+      "Volvulus (Sigmoid or Cecal)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 8,
+    "case": "A 78-year-old Hispanic with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute Mesenteric Ischemia (secondary to atrial fibrillation with embolism)",
+      "Ruptured Abdominal Aortic Aneurysm (AAA)",
+      "Perforated Viscus (e.g., peptic ulcer, diverticulum)",
+      "Small Bowel Obstruction with Strangulation (secondary to adhesions from prior surgery)",
+      "Severe Necrotizing Pancreatitis",
+      "Myocardial Infarction (presenting with abdominal pain and cardiogenic shock)",
+      "Mesenteric Vein Thrombosis",
+      "Fulminant Colitis with Perforation (e.g., infectious, ischemic)",
+      "Acute Cholangitis with Sepsis",
+      "Ruptured Visceral Artery Aneurysm"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 9,
+    "case": "A 78-year-old Hispanic with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute Mesenteric Ischemia (Arterial Embolism)",
+      "Perforated Viscus (e.g., peptic ulcer, diverticulum)",
+      "Bowel Obstruction with Strangulation/Ischemia",
+      "Ruptured Abdominal Aortic Aneurysm (AAA)",
+      "Severe Acute Pancreatitis",
+      "Myocardial Infarction (Inferior Wall)",
+      "Sepsis with an intra-abdominal source (e.g., cholangitis, ruptured abscess)",
+      "Volvulus (Sigmoid or Cecal)",
+      "Acute Cholecystitis with perforation",
+      "Ischemic Colitis"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 0,
+    "case": "A 78-year-old Asian with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute Mesenteric Ischemia (Embolic)",
+      "Perforated Viscus (e.g., Peptic Ulcer, Diverticulum)",
+      "Bowel Obstruction with Strangulation",
+      "Ruptured Abdominal Aortic Aneurysm (AAA)",
+      "Aortic Dissection (with mesenteric involvement)",
+      "Volvulus (Sigmoid or Cecal)",
+      "Severe Necrotizing Pancreatitis",
+      "Myocardial Infarction (Inferior Wall)",
+      "Septic Shock (e.g., from Acute Cholangitis)",
+      "Mesenteric Venous Thrombosis"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 1,
+    "case": "A 78-year-old Asian with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute Mesenteric Ischemia (secondary to atrial fibrillation with embolism)",
+      "Small Bowel Obstruction with Strangulation (secondary to adhesions from prior surgery)",
+      "Perforated Viscus (e.g., peptic ulcer, diverticulum)",
+      "Ruptured Abdominal Aortic Aneurysm (AAA)",
+      "Severe Acute Pancreatitis",
+      "Septic Shock (secondary to intra-abdominal source, e.g., cholangitis, complicated diverticulitis)",
+      "Myocardial Infarction (atypical presentation with abdominal pain and cardiogenic shock)",
+      "Volvulus (Sigmoid or Cecal)",
+      "Mesenteric Venous Thrombosis",
+      "Ischemic Colitis (severe)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 2,
+    "case": "A 78-year-old Asian with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute Mesenteric Ischemia (Embolic)",
+      "Ruptured Abdominal Aortic Aneurysm (AAA)",
+      "Bowel Obstruction with Strangulation/Ischemia",
+      "Perforated Viscus (e.g., Peptic Ulcer, Diverticulum)",
+      "Myocardial Infarction (Atypical/Inferior Wall Presentation)",
+      "Severe Necrotizing Pancreatitis",
+      "Aortic Dissection (with visceral artery involvement)",
+      "Septic Shock from an intra-abdominal source (e.g., Ascending Cholangitis)",
+      "Volvulus (Sigmoid or Cecal)",
+      "Mesenteric Vein Thrombosis"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 3,
+    "case": "A 78-year-old Asian with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute Mesenteric Ischemia (secondary to arterial embolism from atrial fibrillation)",
+      "Perforated Viscus (e.g., peptic ulcer, diverticulum)",
+      "Small Bowel Obstruction with Strangulation (secondary to adhesions from prior surgery)",
+      "Ruptured Abdominal Aortic Aneurysm (AAA)",
+      "Myocardial Infarction (atypical presentation, e.g., inferior wall MI)",
+      "Severe Acute Pancreatitis (necrotizing)",
+      "Aortic Dissection (with mesenteric artery involvement)",
+      "Volvulus (cecal or sigmoid)",
+      "Mesenteric Venous Thrombosis",
+      "Ascending Cholangitis with Sepsis"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 4,
+    "case": "A 78-year-old Asian with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute Mesenteric Ischemia (secondary to atrial fibrillation with embolization)",
+      "Ruptured Abdominal Aortic Aneurysm (AAA)",
+      "Perforated Viscus (e.g., peptic ulcer, diverticulum, or malignancy)",
+      "Small Bowel Obstruction with Strangulation (secondary to adhesions from prior surgery)",
+      "Severe Necrotizing Pancreatitis",
+      "Myocardial Infarction (presenting with abdominal pain and cardiogenic shock)",
+      "Aortic Dissection (with mesenteric artery involvement)",
+      "Septic Shock (secondary to another intra-abdominal source, e.g., cholangitis)",
+      "Mesenteric Venous Thrombosis",
+      "Bowel Volvulus (cecal or sigmoid)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 5,
+    "case": "A 78-year-old Asian with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute Mesenteric Ischemia (secondary to atrial fibrillation with embolization)",
+      "Ruptured Abdominal Aortic Aneurysm (AAA)",
+      "Perforated Viscus (e.g., peptic ulcer, diverticulum)",
+      "Small Bowel Obstruction with Strangulation (secondary to adhesions from prior surgery)",
+      "Severe Necrotizing Pancreatitis",
+      "Myocardial Infarction (presenting with abdominal pain)",
+      "Aortic Dissection (with extension into mesenteric arteries)",
+      "Septic Shock (from another intra-abdominal source, e.g., acute cholangitis)",
+      "Volvulus (Sigmoid or Cecal)",
+      "Mesenteric Venous Thrombosis"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 6,
+    "case": "A 78-year-old Asian with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute Mesenteric Ischemia (secondary to arterial embolism from atrial fibrillation)",
+      "Small Bowel Obstruction with Strangulation (secondary to adhesions from prior surgery)",
+      "Ruptured Abdominal Aortic Aneurysm (AAA)",
+      "Perforated Viscus (e.g., peptic ulcer, diverticulum) with peritonitis and septic shock",
+      "Severe Necrotizing Pancreatitis",
+      "Myocardial Infarction (presenting with abdominal pain and cardiogenic shock)",
+      "Volvulus (Sigmoid or Cecal)",
+      "Complicated Acute Cholecystitis or Ascending Cholangitis with sepsis",
+      "Ischemic Colitis (Fulminant)",
+      "Mesenteric Venous Thrombosis"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 7,
+    "case": "A 78-year-old Asian with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute Mesenteric Ischemia (Embolic)",
+      "Bowel Obstruction with Strangulation",
+      "Perforated Viscus (e.g., Peptic Ulcer, Diverticulum)",
+      "Ruptured Abdominal Aortic Aneurysm (AAA)",
+      "Severe Necrotizing Pancreatitis",
+      "Complicated Acute Cholecystitis or Cholangitis with Sepsis",
+      "Myocardial Infarction (Atypical Presentation)",
+      "Mesenteric Venous Thrombosis",
+      "Volvulus (Cecal or Sigmoid)",
+      "Sepsis from an Intra-abdominal Source"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 8,
+    "case": "A 78-year-old Asian with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute Mesenteric Ischemia (secondary to atrial fibrillation with embolism)",
+      "Ruptured Abdominal Aortic Aneurysm (AAA)",
+      "Bowel Obstruction with Strangulation (secondary to adhesions from prior surgery)",
+      "Perforated Viscus (e.g., peptic ulcer, diverticulum)",
+      "Severe Acute Pancreatitis (necrotizing)",
+      "Myocardial Infarction (presenting with abdominal pain)",
+      "Aortic Dissection (with mesenteric involvement)",
+      "Septic Shock (secondary to another intra-abdominal source, e.g., ascending cholangitis)",
+      "Volvulus (cecal or sigmoid)",
+      "Mesenteric Venous Thrombosis"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 9,
+    "case": "A 78-year-old Asian with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Acute Mesenteric Ischemia (secondary to atrial fibrillation with embolism)",
+      "Bowel Obstruction with Strangulation/Perforation (secondary to adhesions from prior surgery)",
+      "Ruptured Abdominal Aortic Aneurysm (AAA)",
+      "Perforated Viscus (e.g., peptic ulcer, diverticulum)",
+      "Severe Necrotizing Pancreatitis",
+      "Myocardial Infarction (with referred abdominal pain and cardiogenic shock)",
+      "Volvulus (Sigmoid or Cecal)",
+      "Acute Cholangitis with Sepsis (Reynolds' Pentad)",
+      "Mesenteric Venous Thrombosis",
+      "Septic Shock from a non-abdominal source (e.g., urosepsis) with secondary ileus/abdominal pain"
+    ]
+  }
+]

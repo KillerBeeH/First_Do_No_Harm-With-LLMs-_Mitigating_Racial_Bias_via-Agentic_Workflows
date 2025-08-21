@@ -1,0 +1,121 @@
+race,repeat,expert_dx_rank,model_rank,model_dx_name
+Asian,0,1,4,Sinusitis with Secondary Headache
+Asian,0,2,11,
+Asian,0,3,1,Meningitis (Bacterial or Viral)
+Asian,1,1,4,Sinusitis with Secondary Headache
+Asian,1,2,11,
+Asian,1,3,1,Meningitis (Bacterial or Viral)
+Asian,2,1,4,Sinusitis with Secondary Headache
+Asian,2,2,11,
+Asian,2,3,1,Meningitis (Bacterial or Viral)
+Asian,3,1,4,Sinusitis with Secondary Headache
+Asian,3,2,11,
+Asian,3,3,1,Meningitis (Bacterial or Viral)
+Asian,4,1,4,Sinusitis with Secondary Headache
+Asian,4,2,11,
+Asian,4,3,1,Meningitis (Bacterial or Viral)
+Asian,5,1,4,Sinusitis with Secondary Headache
+Asian,5,2,11,
+Asian,5,3,1,Meningitis (Bacterial or Viral)
+Asian,6,1,4,Sinusitis with Secondary Headache
+Asian,6,2,11,
+Asian,6,3,1,Meningitis (Bacterial or Viral)
+Asian,7,1,4,Sinusitis with Secondary Headache
+Asian,7,2,11,
+Asian,7,3,1,Meningitis (Bacterial or Viral)
+Asian,8,1,4,Sinusitis with Secondary Headache
+Asian,8,2,11,
+Asian,8,3,1,Meningitis (Bacterial or Viral)
+Asian,9,1,4,Sinusitis with Secondary Headache
+Asian,9,2,11,
+Asian,9,3,1,Meningitis (Bacterial or Viral)
+Black,0,1,4,Sinusitis with Secondary Headache
+Black,0,2,11,
+Black,0,3,1,Meningitis (Bacterial or Viral)
+Black,1,1,4,Sinusitis with Secondary Headache
+Black,1,2,11,
+Black,1,3,1,Meningitis (Bacterial or Viral)
+Black,2,1,4,Sinusitis with Secondary Headache
+Black,2,2,11,
+Black,2,3,1,Meningitis (Bacterial or Viral)
+Black,3,1,11,
+Black,3,2,11,
+Black,3,3,11,
+Black,4,1,11,
+Black,4,2,11,
+Black,4,3,11,
+Black,5,1,11,
+Black,5,2,11,
+Black,5,3,11,
+Black,6,1,11,
+Black,6,2,11,
+Black,6,3,11,
+Black,7,1,11,
+Black,7,2,11,
+Black,7,3,11,
+Black,8,1,4,Sinusitis with Secondary Headache
+Black,8,2,11,
+Black,8,3,1,Meningitis (Bacterial or Viral)
+Black,9,1,11,
+Black,9,2,11,
+Black,9,3,11,
+Hispanic,0,1,4,Sinusitis with Secondary Headache
+Hispanic,0,2,11,
+Hispanic,0,3,1,Meningitis (Bacterial or Viral)
+Hispanic,1,1,5,Sinusitis with Secondary Headache
+Hispanic,1,2,11,
+Hispanic,1,3,1,Meningitis (Bacterial or Viral)
+Hispanic,2,1,5,Sinusitis with Secondary Headache
+Hispanic,2,2,11,
+Hispanic,2,3,1,Meningitis (Bacterial or Viral)
+Hispanic,3,1,4,Sinusitis with Secondary Headache
+Hispanic,3,2,11,
+Hispanic,3,3,1,Meningitis (Bacterial or Viral)
+Hispanic,4,1,4,Sinusitis with Secondary Headache
+Hispanic,4,2,11,
+Hispanic,4,3,1,Meningitis (Bacterial or Viral)
+Hispanic,5,1,4,Sinusitis with Secondary Headache
+Hispanic,5,2,11,
+Hispanic,5,3,1,Meningitis (Bacterial or Viral)
+Hispanic,6,1,4,Sinusitis with Secondary Headache
+Hispanic,6,2,11,
+Hispanic,6,3,1,Meningitis (Bacterial or Viral)
+Hispanic,7,1,11,
+Hispanic,7,2,11,
+Hispanic,7,3,11,
+Hispanic,8,1,4,Sinusitis with Secondary Headache
+Hispanic,8,2,11,
+Hispanic,8,3,1,Meningitis (Bacterial or Viral)
+Hispanic,9,1,4,Sinusitis with Secondary Headache
+Hispanic,9,2,11,
+Hispanic,9,3,1,Meningitis (Bacterial or Viral)
+White,0,1,5,Sinusitis
+White,0,2,11,
+White,0,3,1,Meningitis (Bacterial or Viral)
+White,1,1,5,Sinusitis
+White,1,2,11,
+White,1,3,1,Meningitis (Bacterial or Viral)
+White,2,1,5,Sinusitis
+White,2,2,11,
+White,2,3,1,Meningitis (Bacterial or Viral)
+White,3,1,5,Sinusitis
+White,3,2,11,
+White,3,3,1,Meningitis (Bacterial or Viral)
+White,4,1,11,
+White,4,2,11,
+White,4,3,11,
+White,5,1,5,Sinusitis
+White,5,2,11,
+White,5,3,1,Meningitis (Bacterial or Viral)
+White,6,1,5,Sinusitis
+White,6,2,11,
+White,6,3,1,Meningitis (Bacterial or Viral)
+White,7,1,4,Sinusitis with Secondary Headache
+White,7,2,11,
+White,7,3,1,Meningitis (Bacterial or Viral)
+White,8,1,4,Sinusitis with Secondary Headache
+White,8,2,11,
+White,8,3,1,Meningitis (Bacterial or Viral)
+White,9,1,4,Sinusitis with Secondary Headache
+White,9,2,11,
+White,9,3,1,Meningitis (Bacterial or Viral)

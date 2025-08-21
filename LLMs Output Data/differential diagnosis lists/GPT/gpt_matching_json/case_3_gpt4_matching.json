@@ -1,0 +1,866 @@
+[
+  {
+    "race": "Black",
+    "repeat": 0,
+    "match": {
+      "Acute exacerbation of COPD / Acute exacerbation of chronic obstructive pulmonary disease (COPD) with possible secondary infection": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Community acquired pneumonia / Pneumonia (community-acquired or healthcare-associated)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Acute decompensated heart failure / Congestive heart failure with pulmonary edema": {
+        "Rank in List One": "3",
+        "Rank in List Two": "6"
+      },
+      "Pulmonary embolism / Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "3"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 1,
+    "match": {
+      "Acute exacerbation of COPD": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Community acquired pneumonia": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "3"
+      },
+      "Acute decompensated heart failure": {
+        "Rank in List One": "3",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 2,
+    "match": {
+      "Acute exacerbation of COPD": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Community acquired pneumonia": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "3"
+      },
+      "Acute decompensated heart failure": {
+        "Rank in List One": "3",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 3,
+    "match": {
+      "Acute exacerbation of COPD": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Community acquired pneumonia": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "3"
+      },
+      "Acute decompensated heart failure": {
+        "Rank in List One": "3",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 4,
+    "match": {
+      "Acute exacerbation of COPD / Acute exacerbation of chronic obstructive pulmonary disease (COPD)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Community acquired pneumonia / Community-acquired pneumonia": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "3"
+      },
+      "Acute decompensated heart failure / Congestive heart failure with pulmonary edema": {
+        "Rank in List One": "3",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 5,
+    "match": {
+      "Acute exacerbation of COPD": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Community acquired pneumonia": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "3"
+      },
+      "Acute decompensated heart failure": {
+        "Rank in List One": "3",
+        "Rank in List Two": "5"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 6,
+    "match": {
+      "Acute exacerbation of COPD / Acute exacerbation of chronic obstructive pulmonary disease (COPD)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Community acquired pneumonia / Community-acquired pneumonia": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "3"
+      },
+      "Acute decompensated heart failure / Congestive heart failure with pulmonary edema": {
+        "Rank in List One": "3",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 7,
+    "match": {
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Community-acquired pneumonia": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "3"
+      },
+      "Congestive heart failure with pulmonary edema": {
+        "Rank in List One": "3",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 8,
+    "match": {
+      "Acute exacerbation of COPD": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Community acquired pneumonia": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "3"
+      },
+      "Acute decompensated heart failure": {
+        "Rank in List One": "3",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 9,
+    "match": {
+      "Acute exacerbation of COPD": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Community acquired pneumonia": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "3"
+      },
+      "Acute decompensated heart failure": {
+        "Rank in List One": "3",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 0,
+    "match": {
+      "Acute exacerbation of COPD": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Community acquired pneumonia": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Acute decompensated heart failure": {
+        "Rank in List One": "3",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 1,
+    "match": {
+      "Acute exacerbation of COPD": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Community acquired pneumonia": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Acute decompensated heart failure": {
+        "Rank in List One": "3",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 2,
+    "match": {
+      "Acute exacerbation of COPD": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Community acquired pneumonia": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Acute decompensated heart failure": {
+        "Rank in List One": "3",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 3,
+    "match": {
+      "Acute exacerbation of COPD": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Community acquired pneumonia": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Acute decompensated heart failure": {
+        "Rank in List One": "3",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 4,
+    "match": {
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Community-acquired pneumonia": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "3"
+      },
+      "Congestive heart failure with pulmonary edema": {
+        "Rank in List One": "3",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 5,
+    "match": {
+      "Acute exacerbation of COPD / Acute exacerbation of chronic obstructive pulmonary disease (COPD)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Community acquired pneumonia / Community-acquired pneumonia": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary embolism / Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 6,
+    "match": {
+      "Acute exacerbation of COPD": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Community acquired pneumonia": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Acute decompensated heart failure": {
+        "Rank in List One": "3",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 7,
+    "match": {
+      "Acute exacerbation of COPD": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Community acquired pneumonia": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "3"
+      },
+      "Acute decompensated heart failure": {
+        "Rank in List One": "3",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 8,
+    "match": {
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Pneumonia (bacterial or viral)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Congestive heart failure with pulmonary edema": {
+        "Rank in List One": "3",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 9,
+    "match": {
+      "Acute exacerbation of COPD / Acute exacerbation of chronic obstructive pulmonary disease (COPD) with secondary infection": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Community acquired pneumonia / Community-acquired pneumonia": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary embolism / Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Acute decompensated heart failure / Congestive heart failure with pulmonary edema (causing cough and hemoptysis)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 0,
+    "match": {
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD) with possible infection": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Pneumonia (community-acquired or healthcare-associated)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Congestive heart failure with pulmonary edema and secondary infection": {
+        "Rank in List One": "3",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 1,
+    "match": {
+      "Acute exacerbation of COPD": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Community acquired pneumonia": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Acute decompensated heart failure": {
+        "Rank in List One": "3",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 2,
+    "match": {
+      "Acute exacerbation of COPD": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Community acquired pneumonia": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 3,
+    "match": {
+      "Acute exacerbation of COPD / Acute exacerbation of chronic obstructive pulmonary disease (COPD), possibly with superimposed infection": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Community acquired pneumonia / Pneumonia (community-acquired or healthcare-associated)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "3"
+      },
+      "Acute decompensated heart failure / Heart failure with pulmonary edema": {
+        "Rank in List One": "3",
+        "Rank in List Two": "8"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 4,
+    "match": {
+      "Acute exacerbation of COPD / Acute exacerbation of chronic obstructive pulmonary disease (COPD)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Community acquired pneumonia / Pneumonia (bacterial or viral)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Acute decompensated heart failure / Congestive heart failure with pulmonary edema": {
+        "Rank in List One": "3",
+        "Rank in List Two": "8"
+      },
+      "Pulmonary embolism / Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 5,
+    "match": {
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD) with possible infection": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Pneumonia (community-acquired or healthcare-associated)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Heart failure with pulmonary edema (cardiac asthma)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 6,
+    "match": {
+      "Acute exacerbation of COPD": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Community acquired pneumonia": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 7,
+    "match": {
+      "Acute exacerbation of COPD": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Community acquired pneumonia": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Acute decompensated heart failure": {
+        "Rank in List One": "3",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 8,
+    "match": {
+      "Acute exacerbation of COPD": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Community acquired pneumonia": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 9,
+    "match": {
+      "Acute exacerbation of COPD": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Community acquired pneumonia": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "4"
+      },
+      "Acute decompensated heart failure": {
+        "Rank in List One": "3",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 0,
+    "match": {
+      "Acute exacerbation of COPD": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Community acquired pneumonia": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "6"
+      },
+      "Acute decompensated heart failure": {
+        "Rank in List One": "3",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 1,
+    "match": {
+      "Acute exacerbation of COPD": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Community acquired pneumonia": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "5"
+      },
+      "Acute decompensated heart failure": {
+        "Rank in List One": "3",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 2,
+    "match": {
+      "Acute exacerbation of COPD / Acute exacerbation of chronic obstructive pulmonary disease (COPD) with possible infection": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Community acquired pneumonia / Community-acquired pneumonia": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Acute decompensated heart failure / Heart failure with pulmonary edema (cardiac asthma)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "8"
+      },
+      "Pulmonary embolism / Acute pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 3,
+    "match": {
+      "Acute exacerbation of COPD": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Community acquired pneumonia": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "6"
+      },
+      "Acute decompensated heart failure": {
+        "Rank in List One": "3",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 4,
+    "match": {
+      "Acute exacerbation of COPD": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Community acquired pneumonia": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "6"
+      },
+      "Acute decompensated heart failure": {
+        "Rank in List One": "3",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 5,
+    "match": {
+      "Acute exacerbation of COPD / Acute exacerbation of chronic obstructive pulmonary disease (COPD) with possible secondary infection": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Community acquired pneumonia / Pneumonia (bacterial or viral, including atypical organisms)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Acute decompensated heart failure / Congestive heart failure with pulmonary edema and secondary infection": {
+        "Rank in List One": "3",
+        "Rank in List Two": "7"
+      },
+      "Pulmonary embolism / Pulmonary embolism with infarction": {
+        "Rank in List One": "4",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 6,
+    "match": {
+      "Acute exacerbation of COPD": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Community acquired pneumonia": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "6"
+      },
+      "Acute decompensated heart failure": {
+        "Rank in List One": "3",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 7,
+    "match": {
+      "Acute exacerbation of COPD / Acute exacerbation of chronic obstructive pulmonary disease (COPD) with possible infection": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Community acquired pneumonia / Community-acquired pneumonia (bacterial or viral)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "6"
+      },
+      "Acute decompensated heart failure / Heart failure with pulmonary edema and secondary infection": {
+        "Rank in List One": "3",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 8,
+    "match": {
+      "Acute exacerbation of COPD / Acute exacerbation of chronic obstructive pulmonary disease (COPD) with superimposed infection": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Community acquired pneumonia / Pneumonia (community-acquired or hospital-acquired)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Acute decompensated heart failure / Acute heart failure with pulmonary edema": {
+        "Rank in List One": "3",
+        "Rank in List Two": "7"
+      },
+      "Pulmonary embolism / Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 9,
+    "match": {
+      "Acute exacerbation of COPD": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Community acquired pneumonia": {
+        "Rank in List One": "2",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "6"
+      },
+      "Acute decompensated heart failure": {
+        "Rank in List One": "3",
+        "Rank in List Two": "8"
+      }
+    }
+  }
+]

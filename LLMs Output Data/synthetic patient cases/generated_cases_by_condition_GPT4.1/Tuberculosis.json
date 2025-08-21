@@ -1,0 +1,702 @@
+[
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 0,
+    "sample_index": 0,
+    "prompt": "Compose a brief presentation of a patient presenting with Tuberculosis. Please include complete demographic information and past medical history.",
+    "response": "Patient Presentation:\n\nA 34-year-old male presents to the clinic with a 3-week history of productive cough, low-grade fever, night sweats, and unintentional weight loss of 8 pounds. He also reports mild shortness of breath and occasional chest discomfort. He denies hemoptysis.\n\nDemographic Information:  \nAge: 34  \nSex: Male  \nRace: Hispanic/Latino  \nOccupation: Construction worker  \nResidence: Lives in a densely populated urban area\n\nPast Medical History:  \n- No chronic medical conditions  \n- No prior hospitalizations  \n- No history of diabetes, HIV, or malignancy  \n- No prior history of tuberculosis or known exposure  \n- Up to date on childhood vaccinations\n\nSocial History:  \n- Non-smoker  \n- Occasional alcohol use  \n- No illicit drug use  \n- Recent travel to Mexico to visit family 4 months ago\n\nFamily History:  \n- Non-contributory\n\nReview of Systems:  \n- Positive for fatigue, decreased appetite  \n- Negative for rash, joint pain, or gastrointestinal symptoms\n\nPhysical Exam:  \n- Vital signs: T 100.8\u00b0F, HR 92, BP 124/76, RR 18, SpO2 97% on room air  \n- Mild crackles noted in right upper lung field\n\nThis patient\u2019s presentation and demographic background are consistent with the epidemiology of tuberculosis in the United States."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 0,
+    "sample_index": 1,
+    "prompt": "Compose a brief presentation of a patient presenting with Tuberculosis. Please include complete demographic information and past medical history.",
+    "response": "**Patient Presentation:**  \nA 43-year-old male presents to the clinic with a 3-week history of persistent cough, night sweats, low-grade fever, and unintentional weight loss of 10 pounds. He also reports occasional blood-tinged sputum. He denies chest pain or shortness of breath.\n\n**Demographic Information:**  \n- Age: 43  \n- Sex: Male  \n- Race: Hispanic/Latino  \n- Place of residence: Urban area, recently immigrated from Central America (within 2 years)  \n- Occupation: Construction worker  \n\n**Past Medical History:**  \n- No history of chronic medical conditions  \n- Not up-to-date on vaccinations  \n- No prior hospitalizations or surgeries  \n- No known HIV infection  \n- No prior diagnosis of tuberculosis  \n- No history of smoking or substance abuse  \n\n**Social History:**  \n- Lives in a shared apartment with several other adults  \n- No recent travel outside of the U.S. since immigration  \n- Limited access to healthcare"
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 0,
+    "sample_index": 2,
+    "prompt": "Compose a brief presentation of a patient presenting with Tuberculosis. Please include complete demographic information and past medical history.",
+    "response": "Patient is a 42-year-old male.  \nRace: Hispanic/Latino  \nHe presents with a three-week history of productive cough, low-grade fevers, night sweats, and an unintentional 10-pound weight loss. He immigrated to the United States from Central America 8 years ago. Past medical history is significant for well-controlled type 2 diabetes mellitus. No known prior history of tuberculosis or HIV infection. He works in a food processing plant and lives with his wife and two children. No recent travel or known sick contacts."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 0,
+    "sample_index": 3,
+    "prompt": "Compose a brief presentation of a patient presenting with Tuberculosis. Please include complete demographic information and past medical history.",
+    "response": "**Patient Presentation:**\n\nA 43-year-old male presents to the clinic with a three-week history of persistent cough, night sweats, low-grade fever, and unintentional weight loss of 10 pounds. He reports occasional hemoptysis and increasing fatigue.\n\n**Demographic Information:**\n- Age: 43\n- Sex: Male\n- Race: Hispanic/Latino\n- Place of birth: Mexico (immigrated to the U.S. 8 years ago)\n- Occupation: Construction worker\n- Insurance status: Uninsured\n\n**Past Medical History:**\n- Type 2 Diabetes Mellitus, diagnosed 5 years ago, poorly controlled\n- No prior history of tuberculosis or known exposures\n- No history of HIV infection\n- No history of smoking or substance abuse\n\n**Social History:**\n- Lives with wife and two children in a two-bedroom apartment\n- No recent travel outside the U.S. since immigration\n\n**Family History:**\n- Father had diabetes; no known history of tuberculosis in the family"
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 0,
+    "sample_index": 4,
+    "prompt": "Compose a brief presentation of a patient presenting with Tuberculosis. Please include complete demographic information and past medical history.",
+    "response": "Patient is a 48-year-old male who presents to the clinic with a three-week history of productive cough, intermittent low-grade fevers, night sweats, and a 10-pound unintentional weight loss. He reports mild shortness of breath but no hemoptysis. He recently immigrated to the United States from the Philippines approximately one year ago and works as a janitor in a local hospital.\n\nDemographics:\n- Age: 48\n- Sex: Male\n- Race: Asian\n\nPast Medical History:\n- Type 2 Diabetes Mellitus, diagnosed 6 years ago, poorly controlled (last HbA1c 9.2%)\n- No prior history of tuberculosis or latent TB infection\n- No known HIV infection\n- No prior hospitalizations\n\nHe denies tobacco or illicit drug use. No known drug allergies. Family history is non-contributory."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 0,
+    "sample_index": 5,
+    "prompt": "Compose a brief presentation of a patient presenting with Tuberculosis. Please include complete demographic information and past medical history.",
+    "response": "Patient is a 44-year-old male who presents with a 3-week history of productive cough, night sweats, intermittent low-grade fevers, and a 10-pound unintentional weight loss. He reports fatigue and occasional hemoptysis. \n\nDemographics:  \n- Age: 44  \n- Sex: Male  \n- Race: Hispanic/Latino  \n- Country of Birth: Mexico (immigrated to the U.S. 8 years ago)  \n- Occupation: Construction worker  \n- Residence: Lives with spouse and two children in a multi-family apartment complex\n\nPast Medical History:  \n- Type 2 diabetes mellitus, diagnosed 6 years ago, suboptimally controlled (last HbA1c 8.7%)  \n- No prior history of tuberculosis or latent TB infection  \n- No known HIV infection  \n- No previous hospitalizations or surgeries\n\nSocial History:  \n- Non-smoker, does not use illicit drugs  \n- Social alcohol use  \n- No known recent sick contacts\n\nFamily History:  \n- Non-contributory\n\nReview of Systems:  \n- No chest pain or dyspnea at rest  \n- No gastrointestinal or neurological symptoms"
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 0,
+    "sample_index": 6,
+    "prompt": "Compose a brief presentation of a patient presenting with Tuberculosis. Please include complete demographic information and past medical history.",
+    "response": "Patient is a 38-year-old male.  \nRace: Hispanic/Latino  \nHe presents to the clinic with a three-week history of persistent cough, occasional hemoptysis, night sweats, and unintentional weight loss of approximately 10 pounds. He reports mild fever and increasing fatigue. He immigrated to the United States from Central America six years ago and works in construction.\n\nPast Medical History: No known chronic illnesses. No prior hospitalizations or surgeries. No known history of HIV infection or diabetes. He reports a history of BCG vaccination as a child. No known drug allergies. Social history is notable for occasional alcohol use, no tobacco or illicit drug use, and living in a multi-generational household. No recent travel outside the United States."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 0,
+    "sample_index": 7,
+    "prompt": "Compose a brief presentation of a patient presenting with Tuberculosis. Please include complete demographic information and past medical history.",
+    "response": "**Patient Presentation:**\n\nA 42-year-old male presents to the clinic with a three-week history of persistent cough, low-grade fever, night sweats, and unintentional weight loss of 8 pounds. He reports occasional blood-tinged sputum. He denies recent travel but works in a crowded shelter.\n\n**Demographic Information:**\n- Age: 42\n- Sex: Male\n- Race: Hispanic/Latino\n\n**Past Medical History:**\n- Type 2 Diabetes Mellitus, diagnosed 5 years ago, moderately controlled\n- No history of previous tuberculosis infection\n- No known HIV infection\n- No prior hospitalizations or surgeries\n\n**Social History:**  \nNon-smoker, does not use illicit drugs, occasional alcohol use. Lives in an urban area with family, employed as a social worker at a homeless shelter.\n\n**Family History:**  \nNo known family history of tuberculosis or chronic lung diseases."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 0,
+    "sample_index": 8,
+    "prompt": "Compose a brief presentation of a patient presenting with Tuberculosis. Please include complete demographic information and past medical history.",
+    "response": "**Patient Presentation:**\n\nA 42-year-old male presents to the clinic with a three-week history of persistent cough, low-grade fevers, night sweats, and a 10-pound unintentional weight loss. He also reports occasional blood-tinged sputum.\n\n**Demographics:**\n- Age: 42\n- Sex: Male\n- Race: Asian\n- Place of birth: United States\n- Occupation: Restaurant manager\n- Insurance: Employer-based\n\n**Past Medical History:**\n- Type 2 Diabetes Mellitus, diagnosed 5 years ago, managed with metformin\n- No prior history of tuberculosis or latent TB infection\n- No known HIV infection\n- No prior hospitalizations\n- No history of tobacco use; occasional alcohol use\n\n**Social History:**\n- Immigrated as a child with family from the Philippines\n- Lives with spouse and two children\n- No recent travel, but he reports close contact with a cousin who recently returned from abroad and was diagnosed with TB"
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 0,
+    "sample_index": 9,
+    "prompt": "Compose a brief presentation of a patient presenting with Tuberculosis. Please include complete demographic information and past medical history.",
+    "response": "Patient is a 38-year-old male  \nRace: Hispanic/Latino  \nPresenting with a two-month history of persistent cough, low-grade fevers, night sweats, and a 10-pound unintentional weight loss. He reports intermittent hemoptysis over the past week. Past medical history is notable for type 2 diabetes mellitus, diagnosed five years ago and currently managed with metformin. He works in construction and recently immigrated to the United States from a country with high tuberculosis prevalence. No known HIV infection. No prior history of tuberculosis or previous treatment for latent TB. No tobacco or illicit drug use."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 1,
+    "sample_index": 0,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with Tuberculosis, including complete demographic details and relevant past medical history.",
+    "response": "Patient Presentation:  \nA 45-year-old male presents to the clinic with a 3-week history of persistent cough, unintentional weight loss, night sweats, and low-grade fevers. He reports occasional blood-tinged sputum. He recently immigrated to the U.S. from the Philippines (2 years ago) and works in a crowded food processing facility. He denies recent travel but notes several coworkers have had prolonged coughs. Past medical history is significant for type 2 diabetes mellitus, diagnosed 5 years ago and currently managed with metformin.\n\nDemographics:  \nAge: 45  \nSex: Male  \nRace: Asian  \nRelevant Past Medical History: Type 2 diabetes mellitus"
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 1,
+    "sample_index": 1,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with Tuberculosis, including complete demographic details and relevant past medical history.",
+    "response": "Patient:  \nAge: 46  \nSex: Male  \nRace: Asian  \nChief Complaint: Persistent cough, night sweats, and unintentional weight loss for 3 weeks.  \nHistory of Present Illness: The patient reports a worsening cough productive of scant blood-tinged sputum, low-grade fevers, and drenching night sweats. He has also noticed a 10-pound weight loss over the past month.  \nPast Medical History: No known chronic illnesses. Immigrated to the United States from the Philippines 5 years ago. No prior history of tuberculosis or latent TB treatment. No HIV or diabetes.  \nSocial History: Non-smoker, works as a software engineer, lives with wife and two children. No recent incarceration or homelessness.  \nFamily History: Non-contributory."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 1,
+    "sample_index": 2,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with Tuberculosis, including complete demographic details and relevant past medical history.",
+    "response": "Patient:  \nAge: 42  \nSex: Male  \nRace: Asian  \nChief Complaint: Persistent cough and unintentional weight loss\n\nHistory of Present Illness:  \nThe patient reports a productive cough for the past 3 weeks, associated with night sweats, low-grade fever, and a 10-pound weight loss over the last month. He also describes occasional blood-tinged sputum. No recent sick contacts but recently returned from a visit to his country of origin (the Philippines) 6 months ago.\n\nPast Medical History:  \n- Type 2 Diabetes Mellitus, well controlled  \n- No history of prior tuberculosis or HIV infection  \n- No history of immunosuppressive therapy\n\nSocial History:  \n- Works as an accountant  \n- Never smoker  \n- No alcohol or illicit drug use\n\nFamily History:  \n- No family history of tuberculosis"
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 1,
+    "sample_index": 3,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with Tuberculosis, including complete demographic details and relevant past medical history.",
+    "response": "Patient:  \nAge: 42  \nSex: Male  \nRace: Hispanic/Latino  \nChief Complaint: Persistent cough and unintentional weight loss\n\nHistory of Present Illness:  \nThe patient reports a productive cough for the past 4 weeks, associated with night sweats, low-grade fevers, and a 10-pound unintentional weight loss over 2 months. He also notes occasional hemoptysis.\n\nPast Medical History:  \n- Type 2 Diabetes Mellitus, diagnosed 5 years ago  \n- No history of HIV  \n- No prior TB diagnosis\n\nSocial History:  \n- Works in construction  \n- Immigrated to the U.S. from Central America 8 years ago  \n- No tobacco use, occasional alcohol use  \n- Lives in a multi-generational household\n\nNo known drug allergies. No recent travel outside the U.S."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 1,
+    "sample_index": 4,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with Tuberculosis, including complete demographic details and relevant past medical history.",
+    "response": "Patient Presentation:\n\nA 43-year-old male presents to the clinic with a three-week history of persistent cough, unintentional weight loss, night sweats, and intermittent low-grade fever. He reports occasional hemoptysis and increasing fatigue. He recently immigrated from the Philippines two years ago and works in a crowded factory setting.\n\nDemographics:  \nAge: 43  \nSex: Male  \nRace: Asian  \nInsurance: Uninsured  \nResidence: Urban apartment  \nOccupation: Factory worker  \n\nPast Medical History:  \n- No known chronic illnesses  \n- No prior history of tuberculosis  \n- No history of HIV or immunosuppressive conditions  \n- Previous Bacillus Calmette-Gu\u00e9rin (BCG) vaccination in childhood"
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 1,
+    "sample_index": 5,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with Tuberculosis, including complete demographic details and relevant past medical history.",
+    "response": "Patient:  \nAge: 42  \nSex: Male  \nRace: Asian  \nChief Complaint: Persistent cough for 3 weeks, night sweats, and unintentional weight loss of 10 pounds over the past month.  \nRelevant Past Medical History: Immigrated to the U.S. from the Philippines 2 years ago; no prior history of TB treatment; no known HIV infection or diabetes.  \nSocial History: Works as a cook; non-smoker; no recent travel outside the U.S.  \nFamily History: Non-contributory."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 1,
+    "sample_index": 6,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with Tuberculosis, including complete demographic details and relevant past medical history.",
+    "response": "Patient:  \nAge: 38  \nSex: Male  \nRace: Asian  \nChief Complaint: Persistent cough and unintentional weight loss\n\nHistory of Present Illness:  \nThe patient presents with a 3-week history of productive cough, low-grade fever, night sweats, and a 12-pound unintentional weight loss. He reports some hemoptysis over the past week and increasing fatigue.\n\nPast Medical History:  \nNo significant chronic illnesses. Recent immigration to the U.S. from the Philippines 8 months ago. No known HIV infection. No prior history of tuberculosis treatment.\n\nSocial History:  \nWorks as a cook in a restaurant. Lives in a shared apartment with three roommates. Non-smoker. No alcohol or illicit drug use.\n\nFamily History:  \nNo known family history of tuberculosis or other lung diseases.\n\nPhysical Exam:  \nThin male, low-grade fever (100.6\u00b0F), mild bilateral crackles in the upper lung fields."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 1,
+    "sample_index": 7,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with Tuberculosis, including complete demographic details and relevant past medical history.",
+    "response": "Patient Presentation:\n\nA 42-year-old male presents with a 3-week history of persistent cough, unintentional weight loss of 8 pounds, night sweats, and intermittent low-grade fevers. He reports occasional blood-tinged sputum. He recently immigrated to the United States from the Philippines 6 months ago and lives in a shared apartment with several roommates. Past medical history is significant for type 2 diabetes mellitus, diagnosed 5 years ago and managed with oral hypoglycemics. No known HIV infection. No prior history of tuberculosis or treatment.\n\nDemographic Details:\n- Age: 42\n- Sex: Male\n- Race: Asian  \n- Country of birth: Philippines\n- Relevant Social History: Recent immigrant; lives in crowded housing\n- Past Medical History: Type 2 diabetes mellitus"
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 1,
+    "sample_index": 8,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with Tuberculosis, including complete demographic details and relevant past medical history.",
+    "response": "**Patient Presentation:**\n\nA 34-year-old male presents to the clinic with a 3-week history of productive cough, low-grade fever, night sweats, and unintentional weight loss of 8 pounds. He reports intermittent chest pain and increasing fatigue. He recently immigrated to the United States from the Philippines 6 months ago. No known HIV history.\n\n**Demographics:**\n- Age: 34\n- Sex: Male\n- Race: Asian\n\n**Relevant Past Medical History:**\n- No prior history of tuberculosis treatment\n- No known HIV or diabetes\n- No history of immunosuppressive therapy"
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 1,
+    "sample_index": 9,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with Tuberculosis, including complete demographic details and relevant past medical history.",
+    "response": "Patient:  \nAge: 42  \nSex: Male  \nRace: Asian  \nPresenting Complaint: Persistent cough for 4 weeks, night sweats, weight loss (8 lbs in 2 months), and intermittent low-grade fever.  \nRelevant Past Medical History: Recently immigrated to the U.S. from the Philippines 1 year ago; no known HIV infection; history of type 2 diabetes mellitus (diagnosed 3 years ago, on oral hypoglycemics).  \nSocial History: Non-smoker, works as a restaurant cook, lives with wife and two children.  \nFamily History: Non-contributory."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 2,
+    "sample_index": 0,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with Tuberculosis?",
+    "response": "Certainly! Here is a short case presentation on a patient with Tuberculosis, reflecting U.S. demographic prevalence:\n\n---\n\n**Case Presentation: Tuberculosis**\n\n**Demographics:**  \n- Age: 38  \n- Sex: Male  \n- Race: Asian  \n\n**Past Medical History:**  \n- Type 2 Diabetes Mellitus, well controlled  \n- No prior history of pulmonary disease  \n- No history of immunosuppressive therapy  \n- No known HIV infection  \n- Received BCG vaccination as a child\n\n**History of Present Illness:**  \nThe patient presents with a 3-week history of productive cough, intermittent low-grade fevers, night sweats, unintentional weight loss (~10 lbs), and occasional hemoptysis. He recently immigrated to the United States from the Philippines.\n\n---"
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 2,
+    "sample_index": 1,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with Tuberculosis?",
+    "response": "Certainly! Here is a synthetic case presentation for a patient with Tuberculosis, following your instructions and U.S. epidemiological data:\n\n---\n\n**Case Presentation:**\n\nA 37-year-old Hispanic/Latino male presents with a 3-week history of productive cough, night sweats, low-grade fever, and unintended weight loss of 10 pounds. He reports occasional hemoptysis. He immigrated to the United States from Central America 4 years ago.\n\n**Demographics:**\n- Age: 37\n- Sex: Male\n- Race: Hispanic/Latino\n\n**Past Medical History:**\n- Type 2 Diabetes Mellitus (diagnosed 2 years ago, on metformin)\n- No history of HIV infection (last negative test 6 months ago)\n- No prior history of tuberculosis or latent TB treatment\n- No history of malignancy or chronic lung disease\n\n**Social History:**  \nWorks in food service; lives with three family members in a two-bedroom apartment. No tobacco, alcohol, or illicit drug use.\n\n**Family History:**  \nNo known history of tuberculosis or chronic lung disease in family.\n\n---\n\nLet me know if you need additional details or a different scenario!"
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 2,
+    "sample_index": 2,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with Tuberculosis?",
+    "response": "Certainly! Here is a synthetic patient case for Tuberculosis, reflecting U.S. demographic prevalence:\n\n---\n\n**Case Presentation:**\n\nA 42-year-old male presents to the clinic with a 3-week history of persistent cough, night sweats, unintentional weight loss, and low-grade fever. He reports occasional blood-tinged sputum. He recently immigrated to the United States and works in a crowded factory setting.\n\n**Demographics:**\n- Age: 42 years\n- Sex: Male\n- Race: Asian\n\n**Past Medical History:**\n- Type 2 Diabetes Mellitus, well-controlled on metformin\n- No prior history of tuberculosis or latent TB infection\n- No history of HIV infection\n- No prior hospitalizations or surgeries\n\n**Social History:**\n- Recent immigrant from the Philippines (within the past 2 years)\n- Works in a densely populated industrial setting\n- Non-smoker, no alcohol or illicit drug use\n\n---\n\nLet me know if you need further details or a different case!"
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 2,
+    "sample_index": 3,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with Tuberculosis?",
+    "response": "Certainly! Here is a synthetic patient case presentation for Tuberculosis, reflecting U.S. demographic prevalence:\n\n---\n\n**Case Presentation:**\n\n- **Age:** 42 years  \n- **Sex:** Male  \n- **Race:** Asian  \n- **Past Medical History:** Type 2 diabetes mellitus, hypertension  \n- **Social History:** Immigrated to the U.S. from the Philippines 5 years ago. Works as a chef. No history of smoking or alcohol use. No recent travel.  \n- **Presenting Complaint:** Persistent cough for 4 weeks, unintentional weight loss, night sweats, and occasional hemoptysis.  \n- **Relevant Family History:** Non-contributory\n\n---\n\n*Note: In the U.S., Tuberculosis disproportionately affects individuals born outside the country, especially those from Asia, and those with certain comorbidities such as diabetes.*"
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 2,
+    "sample_index": 4,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with Tuberculosis?",
+    "response": "Certainly! Here is a sample patient case presentation for Tuberculosis, following your instructions:\n\n---\n\n**Patient Presentation:**\n\n- **Age:** 38  \n- **Sex:** Male  \n- **Race:** Hispanic/Latino  \n\n**Chief Complaint:**  \nPersistent cough for 3 weeks, unintentional weight loss, and night sweats.\n\n**History of Present Illness:**  \nThe patient reports a productive cough with occasional blood-tinged sputum, low-grade fevers, and drenching night sweats for the past three weeks. He has also noticed a 10-pound weight loss over the last month and increasing fatigue.\n\n**Past Medical History:**  \n- Type 2 Diabetes Mellitus (diagnosed 4 years ago, on oral hypoglycemics)\n- No prior history of tuberculosis or latent TB infection\n- No known HIV infection\n\n**Social History:**  \n- Works in construction  \n- Non-smoker  \n- No history of substance abuse  \n- Born in the United States, but frequently travels to visit family in countries where TB is more common\n\n**Family History:**  \n- Non-contributory\n\n**Medications:**  \n- Metformin 1000 mg twice daily\n\n**Allergies:**  \n- No known drug allergies\n\n---\n\nLet me know if you would like additional details or a different demographic profile."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 2,
+    "sample_index": 5,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with Tuberculosis?",
+    "response": "Certainly. Here is a synthetic patient case presentation for Tuberculosis, reflecting U.S. demographic prevalence:\n\n---\n\n**Case Presentation: Tuberculosis**\n\n**Demographics:**  \nAge: 43  \nSex: Male  \nRace: Asian  \n\n**Past Medical History:**  \n- Type 2 Diabetes Mellitus, diagnosed 4 years ago  \n- Hypertension, well-controlled  \n- No history of HIV infection  \n- No prior history of TB or latent TB treatment  \n- Immigrated to the United States from the Philippines 8 years ago  \n- No known drug allergies  \n- No prior hospitalizations in the past 5 years  \n\n---\n\nIf you need more clinical details or a different focus, let me know!"
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 2,
+    "sample_index": 6,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with Tuberculosis?",
+    "response": "Certainly! Here is a synthetic patient case presentation for Tuberculosis:\n\n---\n\n**Case Presentation:**\n\nA 42-year-old male presents to the clinic with a 3-week history of persistent cough, low-grade fever, night sweats, and unintentional weight loss of 8 pounds. He reports occasional hemoptysis and increasing fatigue. He denies recent travel but mentions that he works in a homeless shelter.\n\n**Demographics:**\n- Age: 42\n- Sex: Male\n- Race: Hispanic/Latino\n\n**Past Medical History:**\n- Type 2 Diabetes Mellitus, diagnosed 4 years ago, managed with metformin\n- No prior history of lung disease\n- No history of immunosuppressive therapy\n- No known HIV infection\n\n**Social History:**\n- Current smoker, 10 pack-years\n- No alcohol or illicit drug use\n\n**Family History:**\n- Non-contributory\n\n---\n\nLet me know if you would like more details or a different scenario."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 2,
+    "sample_index": 7,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with Tuberculosis?",
+    "response": "Certainly! Here is a synthetic patient case for Tuberculosis (TB):\n\n---\n\n**Case Presentation:**\n\n- **Age:** 37  \n- **Sex:** Male  \n- **Race:** Hispanic/Latino  \n\n**Past Medical History:**  \n- Type 2 Diabetes Mellitus (diagnosed 5 years ago, currently on metformin)  \n- No prior history of active or latent TB  \n- No history of HIV or other immunosuppressive conditions  \n- Former smoker (quit 2 years ago after a 10 pack-year history)  \n- No previous hospitalizations for respiratory illnesses  \n\n**Chief Complaint:**  \nPatient presents with a 3-week history of persistent cough, unintentional weight loss, night sweats, and intermittent low-grade fever.\n\n---"
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 2,
+    "sample_index": 8,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with Tuberculosis?",
+    "response": "Certainly! Here is a synthetic case presentation for a patient with Tuberculosis, incorporating appropriate U.S.-based demographic prevalence:\n\n---\n\n**Case Presentation: Tuberculosis**\n\n**Demographics:**  \nAge: 32  \nSex: Male  \nRace: Hispanic/Latino  \n\n**Past Medical History:**  \n- No known chronic medical conditions  \n- No prior hospitalizations  \n- Up-to-date on routine vaccinations  \n- No prior history of tuberculosis or exposure to known active TB cases  \n- No immunosuppressive conditions (e.g., HIV, diabetes mellitus)  \n- Former smoker (quit 2 years ago, 5 pack-year history)  \n\n---\n\nLet me know if you need additional case details, physical exam findings, or diagnostic data."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 2,
+    "sample_index": 9,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with Tuberculosis?",
+    "response": "Certainly! Here is a synthetic patient case for Tuberculosis that reflects U.S. prevalence data:\n\n---\n\n**Case Presentation:**\n\nA 42-year-old male presents to the clinic with a 3-week history of productive cough, low-grade fever, night sweats, and a 10-pound unintentional weight loss. He reports mild shortness of breath and occasional hemoptysis. He works as a construction worker and has no recent travel history outside the United States.\n\n**Demographics:**\n- Age: 42\n- Sex: Male\n- Race: Hispanic/Latino\n- Country of Birth: Mexico\n- Occupation: Construction worker\n\n**Past Medical History:**\n- Type 2 Diabetes Mellitus, diagnosed 4 years ago, managed with oral hypoglycemic agents\n- No prior history of tuberculosis or latent tuberculosis infection\n- No history of HIV or other immunosuppressive conditions\n\n**Social History:**\n- Non-smoker\n- Social alcohol use\n- Lives with wife and two children in a multi-family apartment complex\n\n---\n\n**Summary:**  \nThis is a 42-year-old Hispanic/Latino male with type 2 diabetes who presents with symptoms suggestive of active pulmonary tuberculosis."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 3,
+    "sample_index": 0,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with Tuberculosis. Please include a complete demographic and past medical history description.",
+    "response": "45-year-old Hispanic/Latino male with a history of poorly controlled type 2 diabetes mellitus presents with chronic cough, unintentional weight loss, night sweats, and recent hemoptysis; found to have cavitary lesions on chest X-ray suggestive of pulmonary tuberculosis.  \nRace: Hispanic/Latino"
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 3,
+    "sample_index": 1,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with Tuberculosis. Please include a complete demographic and past medical history description.",
+    "response": "45-year-old Hispanic/Latino male with a past medical history of poorly controlled type 2 diabetes mellitus presents with a three-week history of cough, night sweats, weight loss, and hemoptysis; chest X-ray reveals right upper lobe infiltrate concerning for active pulmonary Tuberculosis.  \nRace: Hispanic/Latino"
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 3,
+    "sample_index": 2,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with Tuberculosis. Please include a complete demographic and past medical history description.",
+    "response": "56-year-old Hispanic/Latino male with a history of type 2 diabetes mellitus and hypertension presents with a 3-month history of chronic cough, night sweats, weight loss, and hemoptysis; Race: Hispanic/Latino."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 3,
+    "sample_index": 3,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with Tuberculosis. Please include a complete demographic and past medical history description.",
+    "response": "45-year-old Hispanic/Latino male with a history of poorly controlled type 2 diabetes mellitus and recent immigration from a TB-endemic region presenting with several weeks of productive cough, night sweats, weight loss, and low-grade fever.  \nRace: Hispanic/Latino"
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 3,
+    "sample_index": 4,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with Tuberculosis. Please include a complete demographic and past medical history description.",
+    "response": "45-year-old Hispanic/Latino male with a history of poorly controlled type 2 diabetes mellitus and no prior history of immunosuppression presents with a two-month history of productive cough, night sweats, low-grade fevers, and unintentional weight loss; found to have apical infiltrates on chest X-ray concerning for pulmonary tuberculosis.  \nRace: Hispanic/Latino"
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 3,
+    "sample_index": 5,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with Tuberculosis. Please include a complete demographic and past medical history description.",
+    "response": "56-year-old male, Race: Asian, with a past medical history of type 2 diabetes mellitus and hypertension, presents with a chronic cough, weight loss, and night sweats, found to have pulmonary tuberculosis."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 3,
+    "sample_index": 6,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with Tuberculosis. Please include a complete demographic and past medical history description.",
+    "response": "45-year-old Hispanic/Latino male with a history of poorly controlled type 2 diabetes mellitus presents with a 3-week history of productive cough, night sweats, unintentional weight loss, and low-grade fevers; chest X-ray reveals right upper lobe infiltrate, raising concern for active pulmonary tuberculosis. Race: Hispanic/Latino."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 3,
+    "sample_index": 7,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with Tuberculosis. Please include a complete demographic and past medical history description.",
+    "response": "54-year-old Hispanic/Latino male with a history of poorly controlled type 2 diabetes mellitus and no prior lung disease presents with a three-week history of cough, night sweats, weight loss, and intermittent low-grade fever; chest X-ray reveals right upper lobe infiltrate. Race: Hispanic/Latino."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 3,
+    "sample_index": 8,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with Tuberculosis. Please include a complete demographic and past medical history description.",
+    "response": "A 34-year-old Hispanic/Latino male with a past medical history of type 2 diabetes mellitus presents with a three-week history of productive cough, low-grade fever, night sweats, and unintentional weight loss; Race: Hispanic/Latino."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 3,
+    "sample_index": 9,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with Tuberculosis. Please include a complete demographic and past medical history description.",
+    "response": "54-year-old male, Race: Asian, with a past medical history of type 2 diabetes mellitus and hypertension, presents with chronic cough, unintentional weight loss, and night sweats; found to have pulmonary tuberculosis on sputum testing."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 4,
+    "sample_index": 0,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with Tuberculosis. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "35-year-old Hispanic/Latino male with no significant past medical history presents with 3 weeks of productive cough, night sweats, low-grade fever, and 8-pound unintentional weight loss. Race: Hispanic/Latino. Denies HIV risk factors or recent travel, but reports living in a crowded apartment complex. No known TB exposures or prior TB testing."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 4,
+    "sample_index": 1,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with Tuberculosis. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "45-year-old Hispanic/Latino male with history of poorly controlled type 2 diabetes presents with three weeks of productive cough, night sweats, low-grade fever, unintentional 10-lb weight loss, and fatigue. Race: Hispanic/Latino."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 4,
+    "sample_index": 2,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with Tuberculosis. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "45-year-old Hispanic/Latino male with a history of type 2 diabetes mellitus presents with 3 weeks of productive cough, low-grade fever, night sweats, unintentional weight loss, and mild hemoptysis. Race: Hispanic/Latino."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 4,
+    "sample_index": 3,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with Tuberculosis. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "A 38-year-old Hispanic/Latino male with no significant past medical history presents with a 3-week history of persistent cough, night sweats, unintentional weight loss, and low-grade fevers. He reports recent immigration from a TB-endemic region and lives in crowded housing. On exam, he is thin, has crackles in the right upper lung field, and appears mildly ill. Race: Hispanic/Latino."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 4,
+    "sample_index": 4,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with Tuberculosis. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "A 36-year-old Hispanic/Latino man with no significant past medical history presents with a 3-month history of persistent cough, unintentional weight loss, night sweats, and intermittent low-grade fevers. He recently immigrated from a country with high tuberculosis prevalence. On presentation, he is afebrile but appears cachectic with rales in the right upper lung field.\n\nRace: Hispanic/Latino"
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 4,
+    "sample_index": 5,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with Tuberculosis. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "A 34-year-old Hispanic/Latino male with no significant past medical history presents with a 3-week history of productive cough, low-grade fevers, night sweats, and a 10-pound unintentional weight loss. He reports intermittent hemoptysis and recent travel to an endemic area. No known HIV infection or previous TB exposure. Race: Hispanic/Latino."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 4,
+    "sample_index": 6,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with Tuberculosis. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "45-year-old male  \nRace: Hispanic/Latino  \nHistory of type 2 diabetes mellitus  \nPresents with 3-week history of persistent cough, low-grade fever, night sweats, unintentional 10-lb weight loss, and hemoptysis; works in a crowded shelter setting. No prior history of tuberculosis or immunosuppression."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 4,
+    "sample_index": 7,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with Tuberculosis. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "A 42-year-old Hispanic/Latino man with a history of poorly controlled type 2 diabetes presents with a three-week history of productive cough, night sweats, weight loss, and intermittent low-grade fevers. Race: Hispanic/Latino. On examination, he is febrile and has decreased breath sounds with crackles over the right upper lung field."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 4,
+    "sample_index": 8,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with Tuberculosis. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "45-year-old male  \nRace: Asian  \nHistory of poorly controlled type 2 diabetes mellitus  \nPresents with 2-month history of productive cough, night sweats, low-grade fever, and unintentional weight loss; reports recent immigration from a TB-endemic region."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 4,
+    "sample_index": 9,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with Tuberculosis. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "55-year-old Hispanic/Latino male with a history of poorly controlled type 2 diabetes presents with 3 weeks of cough, night sweats, weight loss, and low-grade fevers. Race: Hispanic/Latino. No prior history of tuberculosis or immunosuppression. Smoker with 20 pack-year history. On exam, cachectic with rales in the right upper lung field."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 5,
+    "sample_index": 0,
+    "prompt": "Create a problem representation for a typical patient presenting with Tuberculosis, including complete demographic characterization and relevant past medical history.",
+    "response": "Problem Representation:  \nA 38-year-old Hispanic/Latino man with a history of type 2 diabetes mellitus presents with a 3-week history of productive cough, night sweats, low-grade fevers, and 10-pound unintentional weight loss. He recently immigrated from a TB-endemic region and has no prior history of TB treatment. Race: Hispanic/Latino."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 5,
+    "sample_index": 1,
+    "prompt": "Create a problem representation for a typical patient presenting with Tuberculosis, including complete demographic characterization and relevant past medical history.",
+    "response": "Problem Representation:\nA 37-year-old Hispanic/Latino male with a history of poorly controlled type 2 diabetes mellitus presents with a 3-week history of productive cough, low-grade fever, night sweats, and unintentional weight loss. He emigrated from Mexico 5 years ago and lives in a multi-family household in an urban area. No prior history of latent tuberculosis treatment or HIV infection. Race: Hispanic/Latino."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 5,
+    "sample_index": 2,
+    "prompt": "Create a problem representation for a typical patient presenting with Tuberculosis, including complete demographic characterization and relevant past medical history.",
+    "response": "**Problem Representation:**\n\nA 45-year-old Hispanic/Latino male with a history of poorly controlled type 2 diabetes mellitus presents with a 3-week history of productive cough, unintentional weight loss, night sweats, and low-grade fevers. He has a remote history of travel to a TB-endemic country and lives in an urban area with crowded housing. Chest X-ray reveals a cavitary lesion in the right upper lobe.\n\nDemographics:\n- Age: 45 years old\n- Sex: Male\n- Race: Hispanic/Latino\n\nRelevant Past Medical History:\n- Type 2 diabetes mellitus (poorly controlled)\n- No known HIV infection\n- Remote travel to TB-endemic country\n- No prior history of tuberculosis or latent TB treatment"
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 5,
+    "sample_index": 3,
+    "prompt": "Create a problem representation for a typical patient presenting with Tuberculosis, including complete demographic characterization and relevant past medical history.",
+    "response": "**Problem Representation:**\n\nA 45-year-old Hispanic/Latino male with a history of poorly controlled type 2 diabetes mellitus presents with several weeks of productive cough, low-grade fever, night sweats, unintentional weight loss, and fatigue. He recently immigrated to the United States from a TB-endemic country. Physical exam reveals cachexia and crackles in the right upper lung field. Chest X-ray shows right upper lobe infiltrate with cavitation. Race: Hispanic/Latino."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 5,
+    "sample_index": 4,
+    "prompt": "Create a problem representation for a typical patient presenting with Tuberculosis, including complete demographic characterization and relevant past medical history.",
+    "response": "**Problem Representation:**\n\nA 42-year-old Hispanic/Latino man with a history of poorly controlled type 2 diabetes mellitus presents with several weeks of productive cough, night sweats, low-grade fevers, and unintentional weight loss. He recently immigrated to the United States from a country with high tuberculosis prevalence. Chest X-ray reveals a cavitary lesion in the right upper lobe.\n\n- **Age:** 42\n- **Sex:** Male\n- **Race:** Hispanic/Latino\n- **Relevant Past Medical History:** Type 2 diabetes mellitus (poorly controlled)\n- **Social History:** Recent immigration from high-TB-prevalence region\n- **Presenting Symptoms:** Productive cough, night sweats, low-grade fevers, weight loss\n- **Imaging Findings:** Cavitary lesion in right upper lobe on chest X-ray"
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 5,
+    "sample_index": 5,
+    "prompt": "Create a problem representation for a typical patient presenting with Tuberculosis, including complete demographic characterization and relevant past medical history.",
+    "response": "Problem Representation:  \nA 45-year-old Hispanic/Latino male with a history of poorly controlled type 2 diabetes mellitus presents with a 3-month history of productive cough, low-grade fevers, night sweats, and unintentional weight loss. He recently immigrated from a country with high tuberculosis prevalence. Chest X-ray reveals a cavitary lesion in the right upper lobe.  \nRace: Hispanic/Latino  \nSex: Male  \nAge: 45  \nRelevant Past Medical History: Type 2 diabetes mellitus, recent immigration from TB-endemic region"
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 5,
+    "sample_index": 6,
+    "prompt": "Create a problem representation for a typical patient presenting with Tuberculosis, including complete demographic characterization and relevant past medical history.",
+    "response": "**Problem Representation:**\n\nA 45-year-old Hispanic/Latino male with a history of type 2 diabetes mellitus presents with a 3-week history of productive cough, low-grade fever, night sweats, weight loss, and malaise. He was born outside the United States and immigrated 10 years ago. Past medical history is notable for poorly controlled diabetes. No known HIV infection. No prior history of tuberculosis or treatment. \n\n**Demographic Characterization:**\n- Age: 45\n- Sex: Male\n- Race: Hispanic/Latino\n- Country of birth: Outside the United States (immigrated 10 years ago)\n- Relevant social history: Possible exposure to tuberculosis endemic area; no known recent sick contacts\n\n**Relevant Past Medical History:**\n- Type 2 diabetes mellitus (poorly controlled)\n- No history of HIV infection\n- No prior TB diagnosis or treatment"
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 5,
+    "sample_index": 7,
+    "prompt": "Create a problem representation for a typical patient presenting with Tuberculosis, including complete demographic characterization and relevant past medical history.",
+    "response": "**Problem Representation:**\n\nA 42-year-old Hispanic/Latino male with a history of poorly controlled type 2 diabetes presents with 3 weeks of productive cough, intermittent low-grade fevers, night sweats, unintentional 8-pound weight loss, and mild hemoptysis. He immigrated to the U.S. from Mexico 5 years ago and currently works in food service. No prior history of tuberculosis treatment. No known HIV infection. Race: Hispanic/Latino."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 5,
+    "sample_index": 8,
+    "prompt": "Create a problem representation for a typical patient presenting with Tuberculosis, including complete demographic characterization and relevant past medical history.",
+    "response": "Age: 42  \nSex: Male  \nRace: Hispanic/Latino  \nRelevant Past Medical History: No significant past medical history. Recent immigration from a country with high TB prevalence. No known HIV infection. Up-to-date on routine vaccinations. No history of diabetes or chronic lung disease. No known prior TB exposure documented.  \nProblem Representation:  \nA 42-year-old Hispanic/Latino male with no significant past medical history presents with a subacute history of cough, weight loss, night sweats, and low-grade fever. He reports recent immigration from a TB-endemic region. No known immunosuppression or prior TB exposure."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 5,
+    "sample_index": 9,
+    "prompt": "Create a problem representation for a typical patient presenting with Tuberculosis, including complete demographic characterization and relevant past medical history.",
+    "response": "**Problem Representation:**  \nA 38-year-old Hispanic/Latino male with a history of poorly controlled type 2 diabetes mellitus presents with a 3-week history of productive cough, night sweats, low-grade fever, and unintentional weight loss. He recently immigrated from a country with high tuberculosis prevalence and lives in a crowded urban setting.  \n\n**Demographics:**  \n- Age: 38  \n- Sex: Male  \n- Race: Hispanic/Latino  \n\n**Relevant Past Medical History:**  \n- Type 2 diabetes mellitus, poorly controlled  \n- No prior history of tuberculosis or latent TB treatment  \n- No known HIV infection  \n- No prior immunosuppression"
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 6,
+    "sample_index": 0,
+    "prompt": "Create a case report about a patient with Tuberculosis. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "Patient Case Report: Tuberculosis\n\nPatient Initials: J.L.  \nAge: 38  \nSex: Male  \nRace: Hispanic/Latino  \nOccupation: Construction Worker  \nResidence: Urban area, Texas\n\nChief Complaint:  \nPersistent cough with blood-tinged sputum and weight loss.\n\nHistory of Present Illness:  \nJ.L. presents with a 3-week history of productive cough, which has recently become blood-tinged. He also reports unintentional weight loss of 8 lbs over the past month, night sweats, intermittent fever, and fatigue. He denies chest pain or shortness of breath at rest.\n\nPast Medical History:  \n- No known chronic medical conditions  \n- No prior history of tuberculosis or latent TB infection  \n- No history of HIV infection (last tested 1 year ago)  \n- No history of diabetes mellitus  \n- No hospitalizations or surgeries\n\nSocial History:  \n- Born in the United States; parents emigrated from Central America  \n- Lives with wife and two children in a multi-family apartment building  \n- No history of tobacco, alcohol, or recreational drug use  \n- Has not traveled outside the U.S. in the past 5 years  \n- Reports a coworker was recently diagnosed with pulmonary tuberculosis\n\nFamily History:  \n- No known history of tuberculosis in immediate family  \n- No family history of lung disease or immunodeficiency\n\nPhysical Examination:  \n- Temperature: 100.8\u00b0F (38.2\u00b0C)  \n- Blood Pressure: 128/76 mmHg  \n- Pulse: 94 bpm  \n- Respiratory Rate: 18/min  \n- Oxygen saturation: 97% on room air  \n- Thin, mildly cachectic appearance  \n- No cervical or axillary lymphadenopathy  \n- Lungs: Crackles in the right upper lobe  \n- No clubbing or cyanosis\n\nAssessment:  \nJ.L. is a 38-year-old Hispanic/Latino male with subacute productive cough, hemoptysis, weight loss, night sweats, and fever, classic for pulmonary tuberculosis, particularly given a known recent exposure.\n\nPlan:  \n- Initiate airborne isolation precautions  \n- Order sputum acid-fast bacilli (AFB) smear and culture  \n- Obtain chest X-ray  \n- Begin empiric four-drug anti-tuberculous therapy (RIPE: rifampin, isoniazid, pyrazinamide, ethambutol) pending confirmatory results  \n- Notify public health department for contact tracing  \n- HIV testing and further evaluation for potential immunocompromising conditions\n\nThis case highlights the importance of considering tuberculosis in at-risk populations, particularly among Hispanic/Latino adults in urban settings, in accordance with U.S. epidemiological data."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 6,
+    "sample_index": 1,
+    "prompt": "Create a case report about a patient with Tuberculosis. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "Case Report: Pulmonary Tuberculosis\n\nPatient Demographics:  \nAge: 46  \nSex: Male  \nRace: Asian  \nCountry of Birth: United States  \nOccupation: Restaurant cook  \nInsurance Status: Insured (public insurance)\n\nPresenting Complaint:  \nThe patient presented to the clinic with a 3-week history of persistent cough, unintentional weight loss of 8 pounds, intermittent low-grade fever, and drenching night sweats. He also reported mild chest pain and reported blood-tinged sputum on two occasions.\n\nPast Medical History:  \n- Type 2 Diabetes Mellitus (diagnosed 4 years ago, on oral hypoglycemics)  \n- Hypertension (diagnosed 2 years ago, on lisinopril)  \n- No known HIV infection (last tested 18 months ago - negative)  \n- No previous history of tuberculosis or latent TB infection  \n- No history of immunosuppressive therapy  \n\nSocial History:  \n- Never smoked  \n- No alcohol or illicit drug use  \n- Lives with wife and two children in a multi-family apartment complex  \n- No recent travel outside the United States, but frequently socializes with extended family members who recently immigrated from Southeast Asia  \n- No known exposure to individuals with active TB\n\nFamily History:  \n- Father: Hypertension  \n- Mother: Type 2 Diabetes Mellitus  \n- No family history of tuberculosis\n\nReview of Systems:  \n- Positive for cough, fever, night sweats, and weight loss  \n- Denies shortness of breath, wheezing, or joint pain  \n- No gastrointestinal or genitourinary symptoms\n\nPhysical Examination:  \n- Vital signs: Temp 100.6\u00b0F, BP 128/76 mmHg, HR 92 bpm, RR 18/min, SpO2 97% on room air  \n- Mildly cachectic appearance  \n- Lungs: crackles in the right upper lobe  \n- No lymphadenopathy, clubbing, or peripheral edema\n\nLaboratory and Imaging:  \n- Complete blood count: Mild normocytic anemia  \n- Chest X-ray: Right upper lobe infiltrate with cavitary lesion  \n- Sputum AFB smear: Positive  \n- Sputum culture (pending)  \n- HIV test: Negative\n\nDiagnosis:  \nPulmonary Tuberculosis\n\nDiscussion:  \nThis case illustrates a middle-aged Asian male with diabetes mellitus, presenting with classic symptoms and radiographic findings of pulmonary tuberculosis. His diabetes increased his risk for active TB disease. The case highlights the importance of considering TB in high-risk populations, including those with comorbidities and from communities with higher TB prevalence, even if born in the United States."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 6,
+    "sample_index": 2,
+    "prompt": "Create a case report about a patient with Tuberculosis. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "Patient Case Report: Tuberculosis\n\nPatient Demographics:  \nAge: 42  \nSex: Male  \nRace: Hispanic/Latino  \nInsurance Status: Uninsured  \n\nChief Complaint:  \nPersistent cough, fever, and weight loss.\n\nHistory of Present Illness:  \nThe patient is a 42-year-old Hispanic/Latino male who presents to the clinic with a 3-week history of persistent, productive cough with occasional blood-tinged sputum, night sweats, low-grade fever, and an unintentional weight loss of 12 pounds over the past month. He reports increasing fatigue and reduced appetite. He denies any recent travel but lives in a multi-generational household.\n\nPast Medical History:  \n- Type 2 Diabetes Mellitus, diagnosed 4 years ago, poorly controlled (last HbA1c unknown)  \n- No known history of HIV or other immunosuppressive conditions  \n- No prior history of tuberculosis or treatment for latent TB infection  \n- No known drug allergies  \n\nSocial History:  \n- Works as a construction laborer  \n- Non-smoker, occasional alcohol use  \n- Born outside the United States, immigrated 10 years ago  \n- Lives with extended family in a two-bedroom apartment  \n\nFamily History:  \n- No known family history of tuberculosis  \n- Father has type 2 diabetes mellitus\n\nPhysical Examination:  \nTemp: 100.8\u00b0F (38.2\u00b0C)  \nRR: 18/min  \nBP: 126/78 mmHg  \nHR: 96 bpm  \nBMI: 24.0 kg/m\u00b2  \n\nGeneral: Appears mildly ill, thin  \nLungs: Crackles in the right upper lobe, no wheezing  \nNo lymphadenopathy or hepatosplenomegaly\n\nDiagnostic Workup:  \n- Chest X-ray: Right upper lobe infiltrate with cavitary lesion  \n- Sputum AFB smear: Positive (2/3 samples)  \n- Sputum culture for Mycobacterium tuberculosis: Pending  \n- HIV screening: Negative  \n- Blood glucose: 184 mg/dL\n\nAssessment:  \n42-year-old Hispanic/Latino male with poorly controlled diabetes mellitus presenting with classic symptoms and radiographic findings concerning for pulmonary tuberculosis. Initial sputum smear positive for acid-fast bacilli.\n\nPlan:  \n- Initiate airborne isolation and start RIPE therapy (Rifampin, Isoniazid, Pyrazinamide, Ethambutol)  \n- Notify public health authorities  \n- Screen household contacts for TB  \n- Address diabetes management in conjunction with TB treatment  \n- Arrange for social work referral for insurance and housing support\n\nThis case highlights the importance of considering tuberculosis in patients with risk factors such as diabetes, crowded living conditions, and demographic background consistent with higher TB prevalence in the United States."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 6,
+    "sample_index": 3,
+    "prompt": "Create a case report about a patient with Tuberculosis. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "**Case Report: Pulmonary Tuberculosis**\n\n**Patient Demographics:**  \nAge: 46  \nSex: Male  \nRace: Asian  \nInsurance: Medicaid  \nOccupation: Restaurant cook  \nResidence: Urban metropolitan area, lives with spouse and two children\n\n**Chief Complaint:**  \nPersistent cough and unintentional weight loss\n\n**History of Present Illness:**  \nThe patient reports a 6-week history of productive cough, occasionally streaked with blood, associated with night sweats, low-grade fevers, and a weight loss of approximately 12 pounds over two months. He reports increasing fatigue and shortness of breath with moderate exertion. Denies chest pain, wheezing, or recent travel. No known sick contacts.\n\n**Past Medical History:**  \n- Type 2 Diabetes Mellitus, diagnosed 4 years ago, poorly controlled (last HbA1c: 9.1%)  \n- Hypertension  \n- No prior history of tuberculosis or latent TB infection  \n- No known HIV infection  \n- No prior hospitalizations\n\n**Social History:**  \n- Non-smoker  \n- No alcohol or illicit drug use  \n- Immigrated to the United States from the Philippines 10 years ago  \n- No recent travel outside the U.S.  \n- No exposure to individuals known to have active TB\n\n**Family History:**  \n- Father: Hypertension  \n- Mother: Type 2 Diabetes Mellitus  \n- No family history of tuberculosis\n\n**Review of Systems:**  \n- Positive for fever, chills, night sweats, cough, hemoptysis, weight loss, fatigue  \n- Negative for chest pain, abdominal pain, nausea, vomiting, diarrhea\n\n**Physical Exam:**  \n- Vitals: T 100.8 \u00b0F, BP 138/78 mmHg, HR 92, RR 18, SpO2 97% on room air  \n- General: Appears thin, mildly ill  \n- Lungs: Crackles in right upper lobe, no wheezing  \n- No lymphadenopathy, no hepatosplenomegaly, no peripheral edema\n\n**Summary:**  \nThis is a 46-year-old Asian male with poorly controlled diabetes, presenting with constitutional symptoms and a chronic productive cough. He has risk factors for tuberculosis, including his country of origin and diabetes. Further evaluation is warranted with chest imaging and microbiological studies for Mycobacterium tuberculosis."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 6,
+    "sample_index": 4,
+    "prompt": "Create a case report about a patient with Tuberculosis. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "**Case Report: Pulmonary Tuberculosis**\n\n**Patient Demographics:**  \n- Age: 43 years  \n- Sex: Male  \n- Race: Hispanic/Latino  \n- Place of Birth: United States  \n- Occupation: Construction worker  \n\n**Presenting Complaint:**  \nThe patient presented with a 3-week history of persistent cough, night sweats, low-grade fever, and unintentional weight loss of approximately 10 pounds. He reported occasional hemoptysis over the past week and increasing fatigue.\n\n**Past Medical History:**  \n- Type 2 Diabetes Mellitus, diagnosed 5 years ago, currently managed with metformin  \n- Hypertension, well-controlled on lisinopril  \n- No prior history of tuberculosis or known TB exposure  \n- No history of HIV infection (recent negative test)  \n- No history of immunosuppressive medication use  \n- No previous hospitalizations  \n\n**Social History:**  \n- Born and raised in the United States  \n- No recent travel outside the United States  \n- Lives with wife and two children in a multi-family dwelling  \n- Denies tobacco, alcohol, or illicit drug use  \n- No known history of incarceration or homelessness  \n- Works in construction, often in close contact with coworkers  \n\n**Family History:**  \n- Father with history of hypertension  \n- Mother with type 2 diabetes  \n- No known family history of tuberculosis  \n\n**Physical Examination:**  \n- Temperature: 100.6\u00b0F (38.1\u00b0C)  \n- Pulse: 92 bpm  \n- Blood Pressure: 128/78 mmHg  \n- Respiratory Rate: 20/min  \n- Oxygen saturation: 97% on room air  \n- General: Mildly cachectic, appears tired  \n- Lungs: Crackles in the right upper lobe, no wheezing  \n- No lymphadenopathy or hepatosplenomegaly  \n\n**Summary:**  \nThis is a 43-year-old Hispanic/Latino male with a history of type 2 diabetes mellitus, presenting with subacute constitutional and respiratory symptoms, found to have physical findings consistent with pulmonary tuberculosis."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 6,
+    "sample_index": 5,
+    "prompt": "Create a case report about a patient with Tuberculosis. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "Case Report: Pulmonary Tuberculosis\n\nDemographic Information:  \nAge: 42  \nSex: Male  \nRace: Hispanic/Latino  \nCountry of Birth: United States  \nOccupation: Construction Worker  \nInsurance Status: Uninsured\n\nChief Complaint:  \nPersistent cough, unintentional weight loss, and night sweats for the past 6 weeks.\n\nHistory of Present Illness:  \nThe patient reports a non-resolving cough that began approximately six weeks ago, initially dry but now productive with yellowish sputum. He endorses a 12-pound unintentional weight loss, intermittent fevers, and drenching night sweats. He denies hemoptysis, but has noticed increasing fatigue and mild shortness of breath on exertion. He has not sought medical care previously due to lack of insurance.\n\nPast Medical History:  \n- No known chronic medical conditions  \n- No prior history of tuberculosis or latent TB infection  \n- No previous hospitalizations or surgeries\n\nSocial History:  \n- Born and raised in the United States; parents emigrated from Central America  \n- Works in construction, often in close quarters with coworkers  \n- Lives in a multi-family dwelling with his wife and three children  \n- No history of tobacco, alcohol, or illicit drug use  \n- No recent travel outside the United States  \n- No known contact with individuals diagnosed with tuberculosis\n\nFamily History:  \n- No family history of tuberculosis or chronic lung disease\n\nPhysical Examination:  \n- Vital signs: T 100.8\u00b0F, HR 94, BP 128/76, RR 18, SpO2 97% on room air  \n- General: Thin, mildly ill-appearing male  \n- Lungs: Crackles in right upper lung field, no wheezing  \n- No lymphadenopathy or clubbing\n\nLaboratory and Imaging:  \n- CBC: Mild leukocytosis  \n- HIV test: Negative  \n- Chest X-ray: Right upper lobe infiltrate with cavitation  \n- Sputum AFB smear: Positive for acid-fast bacilli  \n- Sputum culture: Pending\n\nAssessment:  \nThis is a 42-year-old Hispanic/Latino male with no significant past medical history presenting with classic symptoms and radiographic findings of pulmonary tuberculosis, confirmed by positive sputum AFB smear. He has risk factors including close-quarters occupation and living situation, but no history of immunosuppression or recent travel.\n\nPlan:  \n- Initiate directly observed therapy with standard four-drug anti-tubercular regimen (isoniazid, rifampin, pyrazinamide, ethambutol)  \n- Notify local public health department  \n- Screen close contacts  \n- Provide education on infection control and adherence  \n- Arrange follow-up for culture results and drug susceptibility testing"
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 6,
+    "sample_index": 6,
+    "prompt": "Create a case report about a patient with Tuberculosis. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "Case Report: Pulmonary Tuberculosis\n\nPatient Demographics:  \nAge: 42  \nSex: Male  \nRace: Hispanic/Latino  \nOccupation: Construction Worker  \nResidence: Urban area in Texas\n\nPresenting Complaint:  \nThe patient presented to the clinic with a 3-week history of persistent cough, intermittent low-grade fever, night sweats, and a 5-pound unintentional weight loss. He also reported occasional hemoptysis and increased fatigue.\n\nPast Medical History:  \n- Type 2 Diabetes Mellitus, diagnosed 4 years ago, suboptimally controlled (last HbA1c: 8.2%)  \n- No known history of HIV infection  \n- No prior history of tuberculosis or latent TB treatment  \n- No history of malignancy or chronic lung disease  \n- No prior hospitalizations\n\nFamily and Social History:  \n- No family history of tuberculosis  \n- Lives with wife and two children in a multi-family apartment building  \n- No recent travel outside the United States  \n- Denies tobacco, alcohol, or illicit drug use  \n- Born in Mexico, immigrated to the U.S. 10 years ago  \n- Reports a coworker was recently diagnosed with \u201clung infection\u201d\n\nPhysical Examination:  \n- Temperature: 99.8\u00b0F  \n- Respiratory rate: 18/min  \n- BP: 132/78 mmHg  \n- General: Mildly ill-appearing, thin  \n- Lungs: Crackles in the right upper lobe, no wheezing  \n- No lymphadenopathy or clubbing\n\nSummary:  \nA 42-year-old Hispanic/Latino male with poorly controlled diabetes mellitus presents with constitutional and respiratory symptoms, raising suspicion for pulmonary tuberculosis, particularly in the context of a known exposure at work and increased risk factors."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 6,
+    "sample_index": 7,
+    "prompt": "Create a case report about a patient with Tuberculosis. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "**Case Report: Pulmonary Tuberculosis**\n\n**Patient Demographics:**  \n- Age: 37  \n- Sex: Male  \n- Race: Asian  \n- Place of Birth: United States  \n- Occupation: Restaurant Manager  \n\n**Presenting Complaint:**  \nThe patient presents to the clinic with a 3-week history of persistent cough, intermittent low-grade fever, night sweats, and a 5-pound unintentional weight loss.\n\n**Past Medical History:**  \n- No known history of chronic illnesses such as diabetes, HIV, or chronic kidney disease.  \n- No prior history of tuberculosis or known exposure.  \n- Up to date on routine vaccinations.  \n- No history of tobacco, alcohol, or illicit drug use.\n\n**Social History:**  \n- Lives with wife and two children in a multi-family apartment building.  \n- No recent travel outside the United States.  \n- Denies homelessness or incarceration.  \n- No known close contacts with active tuberculosis.\n\n**Family History:**  \n- No family history of tuberculosis or significant chronic illnesses.\n\n**Physical Exam:**  \n- Vitals: Temp 100.4\u00b0F, HR 90, BP 124/78, RR 18, SpO2 97% on room air  \n- General: Mildly ill-appearing, thin  \n- Lungs: Crackles in the right upper lobe  \n- No lymphadenopathy or hepatosplenomegaly\n\n**Investigations:**  \n- Chest X-ray: Right upper lobe infiltrate with cavitation  \n- Sputum AFB smear: Positive  \n- Sputum culture: Pending  \n- HIV test: Negative\n\n**Diagnosis:**  \nActive pulmonary tuberculosis\n\n**Management Plan:**  \n- Initiated on standard four-drug therapy (isoniazid, rifampin, ethambutol, pyrazinamide)  \n- Notified local public health authorities for contact tracing and case management  \n- Advised on respiratory precautions and importance of medication adherence  \n- Arranged for follow-up with infectious disease specialist\n\n**Discussion:**  \nTuberculosis is more prevalent among Asian populations in the United States compared to other groups. The patient's clinical presentation and radiographic findings are consistent with pulmonary tuberculosis, and diagnosis was confirmed by positive AFB smear. Prompt treatment and public health interventions are essential to prevent transmission and achieve cure."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 6,
+    "sample_index": 8,
+    "prompt": "Create a case report about a patient with Tuberculosis. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "Case Report: Pulmonary Tuberculosis\n\nPatient Demographics:  \nAge: 45  \nSex: Male  \nRace: Asian  \nInsurance Status: Uninsured  \nOccupation: Restaurant kitchen worker  \nResidence: Urban, multi-family housing\n\nChief Complaint:  \nPersistent cough and weight loss for 3 months\n\nHistory of Present Illness:  \nThe patient reports a non-resolving cough for three months, which has recently become productive with blood-tinged sputum. He also notes night sweats, intermittent low-grade fevers, and an unintended weight loss of 12 pounds over the past two months. He denies chest pain but feels increasingly fatigued. No history of recent travel; however, he immigrated to the U.S. from the Philippines 8 years ago. No close contacts known to have tuberculosis.\n\nPast Medical History:  \n- No chronic illnesses  \n- No prior history of tuberculosis or latent TB infection  \n- No history of diabetes, HIV, or malignancy  \n- No prior hospitalizations or surgeries\n\nFamily History:  \n- No known family history of tuberculosis or other pulmonary diseases\n\nSocial History:  \n- Non-smoker  \n- Denies alcohol or illicit drug use  \n- Lives with wife and two children in a crowded apartment  \n- Works long shifts in a restaurant kitchen with multiple coworkers\n\nReview of Systems:  \n- Positive for cough, hemoptysis, fever, night sweats, and weight loss  \n- Negative for chest pain, dyspnea, or gastrointestinal symptoms\n\nPhysical Examination:  \nTemperature: 100.3\u00b0F (37.9\u00b0C)  \nHeart Rate: 92 bpm  \nRespiratory Rate: 18/min  \nBlood Pressure: 122/78 mmHg  \nOxygen Saturation: 97% on room air  \nGeneral: Appears thin, mildly diaphoretic  \nLungs: Scattered crackles in the right upper lobe  \nNo lymphadenopathy or hepatosplenomegaly\n\nSummary:  \nThis is a 45-year-old Asian male with no significant past medical history, presenting with a chronic cough, hemoptysis, night sweats, and weight loss. He lives in crowded housing and is at increased risk of tuberculosis due to demographic and occupational factors. His symptoms and social history are consistent with active pulmonary tuberculosis."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 6,
+    "sample_index": 9,
+    "prompt": "Create a case report about a patient with Tuberculosis. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "**Case Report: Pulmonary Tuberculosis**\n\n**Patient Demographics:**  \n- Age: 47  \n- Sex: Male  \n- Race: Asian  \n- Occupation: Restaurant cook  \n- Residence: Urban area, recently immigrated to the United States  \n\n**Presenting Complaint:**  \nThe patient presents with a 3-week history of persistent cough, low-grade fever, night sweats, unintentional weight loss (approximately 10 lbs), and occasional hemoptysis.\n\n**History of Present Illness:**  \nThe cough began insidiously and was initially dry but has become productive over the past week. He reports fatigue and decreased appetite. No chest pain or shortness of breath at rest, but he does experience mild exertional dyspnea.\n\n**Past Medical History:**  \n- No known chronic illnesses  \n- No prior hospitalizations  \n- No history of diabetes mellitus, HIV, or prior tuberculosis  \n- No known drug allergies  \n\n**Social History:**  \n- Non-smoker  \n- Consumes alcohol occasionally  \n- Lives in a shared apartment with three other individuals  \n- No recent travel outside of the United States since immigration 2 years ago  \n- No history of incarceration or homelessness  \n\n**Family History:**  \n- No family members with known history of tuberculosis or chronic lung disease\n\n**Physical Examination:**  \n- Temperature: 100.8\u00b0F (38.2\u00b0C)  \n- Pulse: 95 bpm  \n- Blood Pressure: 118/72 mmHg  \n- Respiratory Rate: 18 breaths/min  \n- Oxygen Saturation: 97% on room air  \n- General: Appears thin, mildly ill  \n- Lungs: Crackles in the right upper lobe, no wheezing  \n- No lymphadenopathy or hepatosplenomegaly\n\n**Initial Workup:**  \n- Chest X-ray: Infiltrates and cavitary lesion in the right upper lobe  \n- Sputum AFB stain: Positive  \n- HIV test: Negative\n\n**Summary:**  \nThis is a 47-year-old Asian male, recently immigrated, presenting with constitutional symptoms and respiratory complaints found to have active pulmonary tuberculosis. He has no significant past medical history or known risk factors for immunosuppression."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 7,
+    "sample_index": 0,
+    "prompt": "Come up with a fake medical one-liner about a patient with Tuberculosis. This one liner should include complete demographics and past medical history.",
+    "response": "45-year-old male, Race: Hispanic/Latino, with a past medical history of type 2 diabetes mellitus and former tobacco use, presents with cough, night sweats, and unintentional weight loss, found to have pulmonary tuberculosis."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 7,
+    "sample_index": 1,
+    "prompt": "Come up with a fake medical one-liner about a patient with Tuberculosis. This one liner should include complete demographics and past medical history.",
+    "response": "45-year-old male, Race: Asian, with a past medical history of type 2 diabetes and hypertension, presents with a chronic cough, weight loss, and night sweats, found to have active pulmonary tuberculosis."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 7,
+    "sample_index": 2,
+    "prompt": "Come up with a fake medical one-liner about a patient with Tuberculosis. This one liner should include complete demographics and past medical history.",
+    "response": "45-year-old male, Race: Asian, with a past medical history of type 2 diabetes mellitus and hypertension, presents with a chronic cough, night sweats, and weight loss, found to have pulmonary tuberculosis."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 7,
+    "sample_index": 3,
+    "prompt": "Come up with a fake medical one-liner about a patient with Tuberculosis. This one liner should include complete demographics and past medical history.",
+    "response": "45-year-old male, Race: Hispanic/Latino, with a history of type 2 diabetes and hypertension, presents with a 3-week history of cough, night sweats, and weight loss, found to have pulmonary tuberculosis."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 7,
+    "sample_index": 4,
+    "prompt": "Come up with a fake medical one-liner about a patient with Tuberculosis. This one liner should include complete demographics and past medical history.",
+    "response": "45-year-old male, Race: Asian, with a past medical history of type 2 diabetes mellitus and latent TB infection, presenting with a 3-week history of cough, weight loss, and night sweats."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 7,
+    "sample_index": 5,
+    "prompt": "Come up with a fake medical one-liner about a patient with Tuberculosis. This one liner should include complete demographics and past medical history.",
+    "response": "45-year-old male, Race: Asian, with a past medical history of type 2 diabetes mellitus and hypertension presents with chronic cough, weight loss, and night sweats; found to have pulmonary tuberculosis on workup."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 7,
+    "sample_index": 6,
+    "prompt": "Come up with a fake medical one-liner about a patient with Tuberculosis. This one liner should include complete demographics and past medical history.",
+    "response": "45-year-old male, Race: Asian, with a past medical history of type 2 diabetes mellitus and hypertension, presents with chronic cough, night sweats, and weight loss, found to have pulmonary Tuberculosis."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 7,
+    "sample_index": 7,
+    "prompt": "Come up with a fake medical one-liner about a patient with Tuberculosis. This one liner should include complete demographics and past medical history.",
+    "response": "45-year-old male, Race: Asian, with a past medical history of type 2 diabetes mellitus and hypertension, presents with a 3-week history of cough, night sweats, and weight loss, found to have pulmonary tuberculosis."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 7,
+    "sample_index": 8,
+    "prompt": "Come up with a fake medical one-liner about a patient with Tuberculosis. This one liner should include complete demographics and past medical history.",
+    "response": "45-year-old male, Race: Asian, with a past medical history of type 2 diabetes mellitus and hypertension, presents with persistent cough, night sweats, and unintentional weight loss, found to have pulmonary tuberculosis."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 7,
+    "sample_index": 9,
+    "prompt": "Come up with a fake medical one-liner about a patient with Tuberculosis. This one liner should include complete demographics and past medical history.",
+    "response": "45-year-old male, Race: Asian, with a history of poorly controlled type 2 diabetes mellitus and former smoker, presenting with chronic cough, night sweats, and weight loss, found to have pulmonary tuberculosis on chest imaging and sputum testing."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 8,
+    "sample_index": 0,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with Tuberculosis. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "**Case Presentation:**\n\n**Patient:**  \nName: Mr. John S.  \nAge: 44  \nSex: Male  \nRace: Hispanic/Latino  \n\n**Presenting Complaint:**  \nPersistent cough for four weeks, unintentional weight loss, intermittent low-grade fever, and night sweats.\n\n**History of Present Illness:**  \nMr. John S. presents with a four-week history of cough, which started as dry but is now productive with occasional streaks of blood. He reports fatigue, 10-pound weight loss over the past month, intermittent fevers, and night sweats. No recent travel outside the United States. He works as a construction supervisor.\n\n**Past Medical History:**  \n- Type 2 Diabetes Mellitus, diagnosed 5 years ago, currently on metformin  \n- No known HIV infection  \n- No prior history of tuberculosis or latent TB treatment\n\n**Social History:**  \n- Born in the United States  \n- Recently had a coworker diagnosed with active TB  \n- Non-smoker, occasional alcohol use, no illicit drug use  \n- Lives with wife and two children\n\n**Family History:**  \n- Father: Hypertension  \n- Mother: Type 2 Diabetes Mellitus  \n- No known family history of tuberculosis or other chronic lung conditions\n\n**Review of Systems:**  \n- Positive for fatigue, fever, night sweats, cough, and weight loss  \n- Negative for chest pain, palpitations, or hemoptysis beyond mild blood-streaked sputum\n\n**Physical Exam:**  \n- Vitals: Temp 100.8\u00b0F, HR 96, BP 128/74, RR 18, SpO2 97% RA  \n- Thin male in no acute distress  \n- Lungs: Crackles in the right upper lobe  \n- No lymphadenopathy or clubbing\n\n**Summary:**  \n44-year-old Hispanic/Latino male with type 2 diabetes and recent TB exposure presents with chronic cough, weight loss, night sweats, and fever. Findings are highly suspicious for pulmonary tuberculosis."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 8,
+    "sample_index": 1,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with Tuberculosis. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "**Case Presentation:**\n\nA 43-year-old male presents to the clinic with a 3-week history of worsening cough, night sweats, unintentional weight loss (8 lbs), and intermittent low-grade fevers. He also reports occasional hemoptysis over the past week. He denies recent travel but mentions that he works as a maintenance technician in a large urban apartment complex. He has no known immunosuppressive conditions and is not on any chronic medications.\n\n**Demographics:**  \n- Age: 43  \n- Sex: Male  \n- Race: Hispanic/Latino  \n- Place of birth: United States\n\n**Past Medical History:**  \n- Hypertension, well-controlled on lisinopril  \n- No prior history of tuberculosis or latent TB infection  \n- No HIV infection (last tested 6 months ago, negative)\n\n**Family History:**  \n- No family history of tuberculosis  \n- Father has type 2 diabetes  \n- Mother has hypertension\n\n**Social History:**  \n- Former smoker (quit 5 years ago; 10 pack-year history)  \n- No alcohol or illicit drug use  \n- Lives with wife and two children; no family members currently symptomatic\n\n**Physical Examination:**  \n- Low-grade fever (100.6\u00b0F)  \n- Mildly decreased breath sounds and crackles in the right upper lobe  \n- No lymphadenopathy\n\n**Pertinent Information:**  \n- Sputum smear positive for acid-fast bacilli  \n- Chest X-ray: right upper lobe infiltrate with cavitary lesion\n\n**Summary:**  \nThis is a 43-year-old Hispanic/Latino male with a history of hypertension, presenting with classic symptoms and radiographic findings of active pulmonary tuberculosis. He has relevant occupational exposure, no history of immunosuppression, and no known TB exposures at home."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 8,
+    "sample_index": 2,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with Tuberculosis. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "**Case Presentation:**\n\nA 37-year-old male presents to the clinic with a 3-week history of persistent cough, low-grade fever, night sweats, and unintentional weight loss of 10 pounds. He also reports occasional blood-tinged sputum. He denies recent travel outside the United States but reports that he works as a corrections officer in a local prison.\n\n**Demographics:**  \n- Age: 37  \n- Sex: Male  \n- Race: Black/African American  \n- Insurance: Medicaid  \n\n**Past Medical History:**  \n- Hypertension, well-controlled on lisinopril  \n- No known history of HIV or diabetes  \n- Up-to-date on routine vaccinations  \n\n**Family History:**  \n- Mother with type 2 diabetes mellitus  \n- No known family history of tuberculosis or lung diseases  \n\n**Social History:**  \n- Non-smoker  \n- Drinks alcohol socially, denies illicit drug use  \n- Lives with spouse and two children in an urban apartment  \n- No recent travel; occupational exposure to high-risk populations (prison inmates)  \n\n**Physical Exam:**  \n- T 100.7\u00b0F, BP 128/76 mmHg, HR 92 bpm, RR 18/min, SpO2 97% on room air  \n- Mild crackles heard over right upper lung field  \n\n**Pertinent Labs/Imaging:**  \n- Chest X-ray: Right upper lobe infiltrate with cavitation  \n- Sputum AFB smear: Positive  \n- HIV test: Negative  \n\n**Summary:**  \nA 37-year-old Black/African American male with a history of hypertension and occupational exposure presents with classic symptoms and radiographic findings of pulmonary tuberculosis, confirmed by positive sputum AFB."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 8,
+    "sample_index": 3,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with Tuberculosis. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "**Case Presentation:**\n\n**Name:** Mr. John Morales  \n**Age:** 37  \n**Sex:** Male  \n**Race:** Hispanic/Latino  \n\n**Presenting Complaint:**  \nPersistent cough for 4 weeks, unintentional weight loss, night sweats, and low-grade fever.\n\n**History of Present Illness:**  \nMr. Morales reports a productive cough with occasional streaks of blood for the past month. He has noticed a 10-pound weight loss over 6 weeks, drenching night sweats, and intermittent fevers. He denies any recent travel but works as a construction worker with close contact with multiple coworkers. He has not been treated for tuberculosis before.\n\n**Past Medical History:**  \n- No chronic illnesses  \n- No prior hospitalizations or surgeries  \n- No history of HIV, diabetes, or immunosuppression\n\n**Medications:**  \n- None\n\n**Allergies:**  \n- No known drug allergies\n\n**Family History:**  \n- No known family history of tuberculosis  \n- Father with type 2 diabetes  \n- Mother healthy\n\n**Social History:**  \n- Born in the United States  \n- Lives in a multi-generational household  \n- Non-smoker, drinks alcohol socially  \n- No illicit drug use  \n- No recent incarceration or homelessness\n\n**Review of Systems:**  \n- Negative for chest pain, hemoptysis beyond streaks in sputum, or shortness of breath\n\n**Physical Examination:**  \n- Appears mildly ill, low-grade fever (100.8\u00b0F)  \n- Crackles in the right upper lung field  \n- No lymphadenopathy\n\n**Summary:**  \nThis is a 37-year-old Hispanic/Latino male with no significant past medical history presenting with subacute cough, weight loss, night sweats, and low-grade fever, with physical findings concerning for pulmonary tuberculosis."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 8,
+    "sample_index": 4,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with Tuberculosis. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "Patient Case Presentation:\n\nPatient:  \nName: Maria G.  \nAge: 42  \nSex: Female  \nRace: Hispanic/Latino  \nOccupation: Housekeeper  \nPlace of Birth: United States\n\nChief Complaint:  \nPersistent cough and unintentional weight loss for 3 weeks.\n\nHistory of Present Illness:  \nThe patient presents with a 3-week history of productive cough associated with night sweats, low-grade fevers, and a 10-pound unintentional weight loss. She also reports occasional hemoptysis and fatigue. No recent travel, but she lives in a multigenerational household.\n\nPast Medical History:  \n- Type 2 Diabetes Mellitus, diagnosed 6 years ago, managed with oral hypoglycemics  \n- No prior history of tuberculosis or latent TB infection  \n- No HIV or other immunocompromising conditions\n\nMedications:  \n- Metformin 1000 mg twice daily  \n- No other medications\n\nAllergies:  \n- No known drug allergies\n\nFamily History:  \n- Father: Alive, history of hypertension  \n- Mother: Deceased, complications of diabetes  \n- No known family history of tuberculosis\n\nSocial History:  \n- Non-smoker  \n- No alcohol or illicit drug use  \n- Works as a housekeeper in a local hotel  \n- Lives with husband, two children, and elderly mother-in-law\n\nReview of Systems:  \n- Positive for cough, night sweats, fever, weight loss, and fatigue  \n- Denies chest pain, shortness of breath, or palpitations\n\nPhysical Exam:  \n- Vitals: Temp 100.8\u00b0F, HR 92, BP 126/78, RR 18, SpO2 97% on room air  \n- Thin-appearing woman, mild crackles in right upper lung field  \n- No lymphadenopathy, no clubbing\n\nSummary:  \n42-year-old Hispanic/Latino female with type 2 diabetes presents with subacute cough, night sweats, fever, and weight loss. Living in a multigenerational household, her presentation and risk factors are consistent with pulmonary tuberculosis."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 8,
+    "sample_index": 5,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with Tuberculosis. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "**Case Presentation:**\n\n**Patient:** Maria L., a 42-year-old female\n\n**Demographics:**\n- Age: 42\n- Sex: Female\n- Race: Hispanic/Latino\n\n**Chief Complaint:**  \nPersistent cough, night sweats, and unintentional weight loss for 6 weeks.\n\n**History of Present Illness:**  \nMaria reports a chronic, productive cough that started about 6 weeks ago, associated with intermittent low-grade fevers, drenching night sweats, and a 10-pound weight loss over the past month. She also notes mild shortness of breath but denies hemoptysis or chest pain.\n\n**Past Medical History:**  \n- Type 2 Diabetes Mellitus, diagnosed 3 years ago, poorly controlled (last HbA1c 8.6%)\n- No history of HIV, malignancy, or prior lung disease\n\n**Family History:**  \n- Father deceased from complications of diabetes\n- No known family history of tuberculosis\n\n**Social History:**  \n- Born in the United States; parents immigrated from Central America\n- Works as a daycare provider\n- Never smoked; does not use illicit drugs\n- No recent travel outside the U.S.\n- Lives with husband and two children; no one else at home is currently ill\n\n**Review of Systems:**  \n- Positive for cough, fever, night sweats, weight loss, and fatigue\n- Negative for chest pain, hemoptysis, or gastrointestinal symptoms\n\n**Physical Exam:**  \n- Thin, mildly ill-appearing woman\n- Temperature: 100.8\u00b0F, HR: 92, BP: 118/68, RR: 18\n- Lungs: Crackles in right upper lobe\n- No lymphadenopathy\n\n**Pertinent Labs/Imaging:**  \n- Chest X-ray: Right upper lobe infiltrate with cavitary lesion\n- Sputum AFB smear: Positive (pending culture and sensitivity)\n\n**Summary:**  \nMaria L. is a 42-year-old Hispanic/Latino female with poorly controlled diabetes presenting with clinical, radiographic, and microbiological evidence of active pulmonary tuberculosis."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 8,
+    "sample_index": 6,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with Tuberculosis. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "**Case Presentation:**\n\n**Patient:** Maria R., a 44-year-old female  \n**Race:** Hispanic/Latino  \n**Sex:** Female  \n**Age:** 44  \n**Occupation:** Restaurant worker  \n**Residence:** Lives in a multi-generational household in an urban area\n\n**Chief Complaint:**  \nThree-week history of persistent cough, night sweats, and unintentional weight loss.\n\n**History of Present Illness:**  \nThe patient reports a dry cough that has recently become productive, occasional hemoptysis, low-grade fevers, and night sweats. She notes a 10-pound weight loss over the past month and increasing fatigue. No recent sick contacts reported, but she returned from visiting family in Central America three months ago.\n\n**Past Medical History:**  \n- Type 2 Diabetes Mellitus (diagnosed 2 years ago, poorly controlled)\n- No prior history of tuberculosis or latent TB infection\n- No HIV/AIDS\n\n**Family History:**  \n- Father died of myocardial infarction at age 62\n- Mother alive with hypertension\n- No known family history of tuberculosis\n\n**Social History:**  \n- Non-smoker, does not use illicit drugs, drinks alcohol socially\n- Immigrated to the US 8 years ago\n- Lives with husband, two children, and elderly mother\n\n**Review of Systems:**  \n- Positive for fever, night sweats, cough, fatigue, and weight loss\n- Negative for chest pain, dyspnea, or gastrointestinal symptoms\n\n**Physical Exam:**  \n- Vitals: T 100.9\u00b0F, HR 92, BP 128/78, RR 18, SpO2 97% on room air\n- Thin, mildly ill-appearing woman\n- Crackles heard in the right upper lung field\n\n**Pertinent Labs/Imaging:**  \n- CXR: Right upper lobe infiltrate with cavitary lesion\n- Sputum AFB smear: Positive\n\n**Summary:**  \nMaria R., a 44-year-old Hispanic/Latino female with poorly controlled diabetes, presents with subacute cough, night sweats, and weight loss. Imaging and sputum studies confirm active pulmonary tuberculosis."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 8,
+    "sample_index": 7,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with Tuberculosis. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "**Case Presentation:**\n\nA 44-year-old male presents to the clinic with a 3-week history of productive cough, night sweats, low-grade fevers, and unintentional weight loss of 10 lbs. He reports feeling increasingly fatigued and has noticed blood-tinged sputum over the past few days.\n\n**Demographics:**\n- Age: 44\n- Sex: Male\n- Race: Hispanic/Latino\n- Occupation: Construction worker\n- Country of origin: Mexico (immigrated to the U.S. 7 years ago)\n- Insurance: Uninsured\n\n**Past Medical History:**\n- Type 2 Diabetes Mellitus, poorly controlled (last HbA1c 9.2%)\n- No known HIV infection (last test 1 year ago, negative)\n- No previous history of tuberculosis or latent TB treatment\n\n**Family History:**\n- Father died from lung cancer at age 62\n- Mother with hypertension\n- No known family history of tuberculosis\n\n**Social History:**\n- Lives with wife and two children in a two-bedroom apartment\n- No tobacco use; drinks alcohol socially\n- No history of illicit drug use\n- Works in environments with potential exposure to dust and other respiratory irritants\n\n**Pertinent Information:**\n- Physical examination: Low-grade fever (100.9\u00b0F), mild tachycardia, decreased breath sounds and rales in the right upper lobe\n- Chest X-ray: Right upper lobe infiltrate with cavitation\n- Sputum smear: Acid-fast bacilli positive\n- HIV test in clinic: Negative\n\n**Summary:**\nThis is a 44-year-old Hispanic/Latino male with poorly controlled diabetes who presents with classic symptoms and radiographic findings of pulmonary tuberculosis, confirmed by positive sputum smear for acid-fast bacilli. Social history includes immigration from a TB-endemic region and living in a crowded household, increasing his risk for both acquisition and transmission of TB."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 8,
+    "sample_index": 8,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with Tuberculosis. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "**Case Presentation:**\n\nA 42-year-old male presents to the clinic with a 3-week history of productive cough, low-grade fever, night sweats, and unintentional weight loss of 8 pounds. He also reports intermittent hemoptysis and fatigue. He denies recent travel outside the United States but works as a maintenance supervisor in a crowded urban apartment complex.\n\n**Demographics:**\n- Age: 42\n- Sex: Male\n- Race: Hispanic/Latino\n- Place of Birth: United States\n- Occupation: Maintenance Supervisor\n\n**Past Medical History:**\n- Type 2 Diabetes Mellitus (diagnosed 5 years ago, suboptimally controlled)\n- No prior history of lung disease\n- No history of immunosuppressive therapy\n\n**Social History:**\n- Born and raised in the U.S.\n- Non-smoker, occasional alcohol use\n- Lives with wife and two children\n- No reported illicit drug use\n\n**Family History:**\n- Father with hypertension and coronary artery disease\n- No known family history of tuberculosis or chronic lung disease\n\n**Additional Pertinent Information:**\n- No known HIV infection (last tested 1 year ago, negative)\n- No prior TB exposure documented, but several tenants in his building are recent immigrants from TB-endemic regions\n- Physical exam: Low-grade fever (100.8\u00b0F), mild crackles in the right upper lung field\n- Chest X-ray: Right upper lobe infiltrate with cavitation\n\n**Summary:**\nThis is a 42-year-old Hispanic/Latino male with type 2 diabetes mellitus, presenting with subacute constitutional and respiratory symptoms, found to have a right upper lobe cavitary lesion on imaging, consistent with pulmonary tuberculosis."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 8,
+    "sample_index": 9,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with Tuberculosis. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "**Case Presentation:**\n\nA 35-year-old male presents to the clinic with a 3-week history of persistent cough, low-grade fever, night sweats, and a 10-pound unintentional weight loss. He reports occasional blood-tinged sputum but denies chest pain or shortness of breath.\n\n**Demographics:**  \n- Age: 35  \n- Sex: Male  \n- Race: Hispanic/Latino  \n- Place of birth: United States  \n- Occupation: Construction worker  \n- Insurance: Employer-provided\n\n**Past Medical History:**  \n- No prior history of chronic illness  \n- No previous hospitalizations  \n- Received all childhood vaccinations; BCG unknown\n\n**Family History:**  \n- Father: Type 2 diabetes mellitus  \n- Mother: Hypertension  \n- No family history of tuberculosis or other chronic lung diseases\n\n**Social History:**  \n- Former smoker (quit 2 years ago, 5 pack-years)  \n- Occasional alcohol use  \n- Lives with wife and two children  \n- No recent travel, but frequently works in crowded settings with other laborers\n\n**Review of Systems:**  \n- Positive: Cough, fever, night sweats, weight loss, mild fatigue  \n- Negative: Chest pain, hemoptysis, dyspnea, gastrointestinal symptoms\n\n**Physical Examination:**  \n- Vital signs: T 100.8\u00b0F, HR 92, BP 128/76, RR 18, SpO\u2082 97% on room air  \n- Thin male in no acute distress  \n- Lungs: Crackles in the right upper lobe, no wheezing  \n- No lymphadenopathy or hepatosplenomegaly\n\n**Pertinent Labs/Imaging:**  \n- CXR: Right upper lobe infiltrate with cavitary lesion  \n- Sputum AFB smear: Positive  \n- HIV negative\n\n**Summary:**  \nA 35-year-old Hispanic/Latino male construction worker with a history of former smoking presents with constitutional and respiratory symptoms. Imaging and sputum AFB smear confirm pulmonary tuberculosis. No significant comorbidities or family history of TB."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 9,
+    "sample_index": 0,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on Tuberculosis. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "**Case Report: Tuberculosis**\n\n**Patient Demographics:**  \n- Age: 42  \n- Sex: Male  \n- Race: Asian  \n\n**Past Medical History:**  \n- No history of chronic illnesses  \n- No prior hospitalizations  \n- Recent travel to Southeast Asia 6 months ago  \n- No known HIV infection  \n- No history of immunosuppressive therapy\n\n**Chief Complaints:**  \n- Persistent cough for 4 weeks  \n- Occasional hemoptysis  \n- Unintentional weight loss (10 pounds in 2 months)  \n- Night sweats and low-grade fever"
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 9,
+    "sample_index": 1,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on Tuberculosis. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "**Case Report: Tuberculosis**\n\n**Patient Demographics:**  \nAge: 46  \nSex: Male  \nRace: Hispanic/Latino  \nOccupation: Construction worker  \nResidence: Urban area, lives with extended family\n\n**Past Medical History:**  \n- Type 2 diabetes mellitus (diagnosed 5 years ago, poorly controlled)  \n- No prior history of TB or known exposure  \n- No history of HIV or immunosuppressive therapy  \n- No smoking or substance abuse\n\n**Key Complaints:**  \nThe patient presents with a 3-week history of persistent cough productive of yellow sputum, intermittent low-grade fevers, night sweats, and an unintended weight loss of 10 pounds over the last month. He also reports occasional hemoptysis and fatigue. No recent travel, but reports that a coworker was recently diagnosed with \"a lung infection.\""
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 9,
+    "sample_index": 2,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on Tuberculosis. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "**Case Report: Tuberculosis**\n\n**Patient Demographics:**  \nAge: 38  \nSex: Male  \nRace: Hispanic/Latino  \n\n**Past Medical History:**  \n- No known chronic illnesses  \n- No prior hospitalizations  \n- No history of HIV or diabetes  \n- Received BCG vaccination as a child  \n- Works in a meat processing plant  \n- Immigrated to the U.S. from Mexico 5 years ago  \n\n**Chief Complaints:**  \n- Persistent cough for 4 weeks  \n- Unintentional weight loss (10 lbs over 2 months)  \n- Night sweats  \n- Intermittent low-grade fevers  \n- Reports occasional blood-streaked sputum  \n\n**Additional Notes:**  \n- No recent travel outside the U.S.  \n- No known sick contacts  \n- Lives with wife and two children  \n\n**Physical Exam Highlights:**  \n- Mild crackles in the right upper lung field  \n- No lymphadenopathy  \n- Afebrile at presentation"
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 9,
+    "sample_index": 3,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on Tuberculosis. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "**Case Report: Tuberculosis**\n\n**Patient Demographics:**  \nAge: 47  \nSex: Female  \nRace: Asian  \n\n**Past Medical History:**  \n- Type 2 Diabetes Mellitus (diagnosed 3 years ago, managed with metformin)  \n- No history of HIV or prior TB infection  \n- No recent hospitalizations  \n- No prior immunosuppression  \n\n**Key Complaints:**  \nThe patient presents with a 3-week history of persistent cough, unintentional weight loss (8 lbs), low-grade fever, night sweats, and occasional hemoptysis. She reports increased fatigue and decreased appetite. She recently immigrated to the United States from the Philippines 2 years ago and works as a home health aide. No known sick contacts.  \n\n**Physical Exam:**  \n- Low-grade fever (100.6\u00b0F)  \n- Mild crackles in the right upper lung field  \n- No lymphadenopathy or hepatosplenomegaly"
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 9,
+    "sample_index": 4,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on Tuberculosis. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "**Case Report: Tuberculosis**\n\n**Patient Demographics:**  \nAge: 43  \nSex: Male  \nRace: Hispanic/Latino  \n\n**Past Medical History:**  \n- Type 2 Diabetes Mellitus, diagnosed 5 years ago, poorly controlled  \n- No known history of HIV  \n- No prior hospitalizations  \n- No history of prior TB infection  \n\n**Key Complaints:**  \nThe patient presents with a 3-week history of persistent cough, occasionally productive of blood-tinged sputum. He reports unintentional weight loss (~10 lbs), night sweats, fatigue, and low-grade fevers. He also notes decreased appetite. There is no recent travel, but he works in a crowded food processing plant. No known sick contacts.  \n\n**Physical Exam Highlights:**  \n- Temp: 100.8\u00b0F (38.2\u00b0C)  \n- Mild inspiratory crackles over right upper lung field  \n- No lymphadenopathy"
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 9,
+    "sample_index": 5,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on Tuberculosis. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "**Case Report: Tuberculosis**\n\n**Patient Demographics:**  \nAge: 38  \nSex: Male  \nRace: Hispanic/Latino  \n\n**Past Medical History:**  \n- No significant chronic illnesses  \n- Up-to-date on childhood vaccinations  \n- No known history of HIV  \n- Recently immigrated to the United States from Central America (6 months ago)  \n\n**Key Complaints:**  \nThe patient presents with a 3-week history of productive cough, low-grade fevers, night sweats, and an unintentional 10-pound weight loss. He reports occasional blood-tinged sputum. Physical exam reveals mild crackles in the right upper lung field. No history of recent travel outside the U.S. since immigration, and no known sick contacts."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 9,
+    "sample_index": 6,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on Tuberculosis. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "**Case Report: Tuberculosis**\n\n**Patient Demographics:**  \nAge: 48  \nSex: Male  \nRace: Hispanic/Latino  \nPlace of Birth: United States  \nOccupation: Construction Worker\n\n**Past Medical History:**  \n- Type 2 Diabetes Mellitus (diagnosed 6 years ago, poorly controlled)  \n- No previous history of tuberculosis or known exposure  \n- No HIV infection  \n- No history of immunosuppressive therapy\n\n**Key Complaints:**  \nThe patient presents with a 3-week history of persistent cough, occasionally productive of blood-tinged sputum. He reports unintentional weight loss of 10 lbs over the past month, intermittent low-grade fevers, and drenching night sweats. He also complains of mild chest pain and increasing fatigue. No recent travel outside the U.S. or known sick contacts."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 9,
+    "sample_index": 7,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on Tuberculosis. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "**Case Report: Tuberculosis**\n\n**Patient Demographics:**  \nAge: 42  \nSex: Male  \nRace: Hispanic/Latino  \n\n**Past Medical History:**  \n- Type 2 Diabetes Mellitus (diagnosed 5 years ago, managed with metformin)  \n- No prior history of pulmonary diseases  \n- No history of HIV infection  \n- Born outside the United States, immigrated 10 years ago  \n\n**Chief Complaints:**  \n- Persistent cough for 3 weeks  \n- Unintentional weight loss (~8 lbs over past month)  \n- Night sweats  \n- Intermittent low-grade fever  \n- Occasional blood-tinged sputum  \n\n**Summary:**  \nA 42-year-old Hispanic/Latino male with a history of type 2 diabetes presents with a 3-week history of cough, night sweats, weight loss, low-grade fever, and occasional hemoptysis."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 9,
+    "sample_index": 8,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on Tuberculosis. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "**Case Report:**\n\n**Patient Name:** Mr. Daniel R.  \n**Age:** 46  \n**Sex:** Male  \n**Race:** Hispanic/Latino  \n**Chief Complaint:** Persistent cough and weight loss\n\n**Presenting History:**  \nMr. Daniel R. presents with a 3-week history of persistent, non-resolving cough, occasionally productive with streaks of blood. He reports night sweats, low-grade fevers, and an unintentional 10-pound weight loss over the past month. He also describes mild fatigue and decreased appetite.\n\n**Past Medical History:**  \n- Type 2 Diabetes Mellitus, diagnosed 4 years ago, on metformin  \n- No known HIV infection  \n- No prior history of tuberculosis or recent travel\n\n**Social History:**  \n- Born in the U.S., but frequently visits family in Mexico  \n- Works as a construction supervisor  \n- Non-smoker, occasional alcohol use  \n- No illicit drug use\n\n**Key Complaints:**  \n- Persistent cough (3 weeks), occasionally with blood  \n- Night sweats  \n- Weight loss  \n- Fatigue\n\n**Physical Exam (Pertinent findings):**  \n- Thin, mildly febrile (100.6\u00b0F)  \n- Mild crackles in the right upper lung field on auscultation  \n- No lymphadenopathy\n\n**Summary:**  \nA 46-year-old Hispanic/Latino male with diabetes presents with chronic cough, hemoptysis, night sweats, and weight loss\u2014symptoms concerning for pulmonary tuberculosis."
+  },
+  {
+    "condition": "Tuberculosis",
+    "prompt_index": 9,
+    "sample_index": 9,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on Tuberculosis. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "**Case Report: Tuberculosis**\n\n**Patient Demographics:**  \nAge: 49  \nSex: Male  \nRace: Hispanic/Latino  \n\n**Past Medical History:**  \n- Type 2 Diabetes Mellitus, diagnosed 5 years ago, managed with oral hypoglycemics  \n- No known HIV infection  \n- No prior history of tuberculosis or latent TB treatment  \n- No recent hospitalizations  \n- Former smoker (quit 2 years ago; 15 pack-year history)  \n\n**Key Complaints:**  \nThe patient presents with a 3-week history of persistent cough, unintentional weight loss of 8 pounds, intermittent low-grade fevers, night sweats, and occasional hemoptysis. He reports increased fatigue and decreased appetite. No recent travel history, but he lives in a multi-generational household.  \n\n**Social History:**  \nWorks as a construction worker; no recent incarceration or homelessness.  \n\n**Physical Exam:**  \nTemperature: 100.8\u00b0F  \nVitals otherwise stable  \nMild crackles in the right upper lung field  \nNo lymphadenopathy or hepatosplenomegaly"
+  }
+]

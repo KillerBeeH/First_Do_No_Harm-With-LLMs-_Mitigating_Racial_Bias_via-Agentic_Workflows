@@ -1,0 +1,1042 @@
+[
+  {
+    "race": "Black",
+    "repeat": 0,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Tension Headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Cluster Headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Medication Overuse Headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "7"
+      },
+      "Intracranial Neoplasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "8"
+      },
+      "Intracranial Aneurysm": {
+        "Rank in List One": "7",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 1,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Tension Headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Cluster Headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Medication Overuse Headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "7"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 2,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Tension Headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Cluster Headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Medication Overuse Headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "7"
+      },
+      "Intracranial Neoplasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 3,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Tension Headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Cluster Headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Medication Overuse Headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "7"
+      },
+      "Intracranial Neoplasm/Brain Tumor": {
+        "Rank in List One": "6",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 4,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Tension Headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Cluster Headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Medication Overuse Headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "7"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Intracranial Neoplasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 5,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Tension Headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Cluster Headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Medication Overuse Headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "7"
+      },
+      "Intracranial Neoplasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 6,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Tension Headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Cluster Headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Medication Overuse Headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "7"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Intracranial Neoplasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 7,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Tension Headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Cluster Headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Medication Overuse Headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "7"
+      },
+      "Intracranial Neoplasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 8,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Tension Headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Cluster Headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Medication Overuse Headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "7"
+      },
+      "Intracranial Neoplasm/Brain Tumor": {
+        "Rank in List One": "6",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 9,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Tension Headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Cluster Headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Medication Overuse Headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "7"
+      },
+      "Intracranial Neoplasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 0,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Tension Headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Cluster Headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Medication Overuse Headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 1,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Tension Headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Cluster Headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Medication Overuse Headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 2,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Tension Headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Cluster Headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Medication Overuse Headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 3,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Tension Headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Cluster Headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Medication Overuse Headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 4,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Tension Headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Cluster Headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Medication Overuse Headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 5,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Tension Headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Cluster Headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Medication Overuse Headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 6,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Tension Headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Cluster Headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Medication Overuse Headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 7,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Medication overuse headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "9"
+      },
+      "Tension headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 8,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Medication overuse headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "6"
+      },
+      "Tension headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 9,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Tension Headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Cluster Headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Medication Overuse Headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 0,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Tension Headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Cluster Headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Medication Overuse Headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 1,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Tension Headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Cluster Headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Medication Overuse Headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 2,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Tension Headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Cluster Headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Medication Overuse Headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 3,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Tension Headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Cluster Headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Medication Overuse Headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 4,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Tension Headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Cluster Headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Medication Overuse Headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 5,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Tension Headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Cluster Headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Medication Overuse Headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 6,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Tension Headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Cluster Headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Medication Overuse Headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 7,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Tension Headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Cluster Headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Medication Overuse Headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 8,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Tension Headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Cluster Headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Medication Overuse Headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 9,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Tension Headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Cluster Headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Medication Overuse Headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 0,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Tension Headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Cluster Headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 1,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Tension Headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Cluster Headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 2,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Tension Headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Cluster Headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 3,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Tension Headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Cluster Headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 4,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Tension Headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Cluster Headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 5,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Tension Headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Cluster Headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 6,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Tension Headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Cluster Headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 7,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Tension Headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Cluster Headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 8,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Tension Headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Cluster Headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 9,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Tension Headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Cluster Headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      }
+    }
+  }
+]

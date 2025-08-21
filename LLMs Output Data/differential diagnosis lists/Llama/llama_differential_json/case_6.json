@@ -1,0 +1,682 @@
+[
+  {
+    "race": "Black",
+    "repeat": 0,
+    "case": "A 78-year-old Black with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Mesenteric Arterial Embolism",
+      "Mesenteric Venous Thrombosis",
+      "Acute Mesenteric Ischemia",
+      "Bowel Obstruction",
+      "Perforated Viscus",
+      "Intra-abdominal Hemorrhage",
+      "Acute Pancreatitis",
+      "Cholecystitis",
+      "Diverticulitis",
+      "Intestinal Ischemia due to Atherosclerosis"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 1,
+    "case": "A 78-year-old Black with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Mesenteric Ischemia or Infarction",
+      "Acute Mesenteric Thrombosis or Embolism",
+      "Bowel Obstruction",
+      "Perforated Viscus",
+      "Acute Pancreatitis",
+      "Acute Cholecystitis",
+      "Diverticulitis",
+      "Intestinal Ischemia due to Atrial Fibrillation-related Embolism",
+      "Intra-abdominal Hemorrhage",
+      "Sigmoid Volvulus"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 2,
+    "case": "A 78-year-old Black with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Mesenteric Ischemia or Infarction",
+      "Bowel Obstruction",
+      "Perforated Viscus",
+      "Acute Pancreatitis",
+      "Diverticulitis",
+      "Intestinal Ischemia due to Embolism (related to atrial fibrillation)",
+      "Intra-abdominal Hemorrhage",
+      "Sigmoid Volvulus",
+      "Intussusception",
+      "Ischemic Colitis"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 3,
+    "case": "A 78-year-old Black with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Mesenteric Ischemia or Infarction",
+      "Acute Mesenteric Thrombosis or Embolism",
+      "Bowel Obstruction",
+      "Perforated Viscus",
+      "Acute Pancreatitis",
+      "Acute Cholecystitis",
+      "Diverticulitis",
+      "Intestinal Ischemia due to Atrial Fibrillation-related Embolism",
+      "Intra-abdominal Hemorrhage",
+      "Sigmoid Volvulus"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 4,
+    "case": "A 78-year-old Black with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Mesenteric Ischemia or Infarction",
+      "Bowel Obstruction",
+      "Perforated Viscus",
+      "Acute Pancreatitis",
+      "Acute Cholecystitis",
+      "Diverticulitis",
+      "Intestinal Ischemia due to Embolism (related to atrial fibrillation)",
+      "Sigmoid Volvulus",
+      "Intra-abdominal Hemorrhage",
+      "Ischemic Colitis"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 5,
+    "case": "A 78-year-old Black with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Mesenteric Ischemia or Infarction",
+      "Bowel Obstruction",
+      "Perforated Viscus",
+      "Acute Pancreatitis",
+      "Acute Cholecystitis",
+      "Diverticulitis",
+      "Intestinal Ischemia due to Embolism (related to atrial fibrillation)",
+      "Sigmoid Volvulus",
+      "Intra-abdominal Hemorrhage",
+      "Ischemic Colitis"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 6,
+    "case": "A 78-year-old Black with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Mesenteric Ischemia or Infarction",
+      "Bowel Obstruction",
+      "Perforated Viscus",
+      "Intra-abdominal Hemorrhage",
+      "Acute Pancreatitis",
+      "Acute Cholecystitis",
+      "Diverticulitis",
+      "Intestinal Ischemia due to Embolism (related to atrial fibrillation)",
+      "Sigmoid Volvulus",
+      "Ruptured Abdominal Aortic Aneurysm"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 7,
+    "case": "A 78-year-old Black with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Mesenteric Ischemia or Infarction",
+      "Acute Mesenteric Thrombosis or Embolism",
+      "Bowel Obstruction",
+      "Perforated Viscus",
+      "Acute Pancreatitis",
+      "Acute Cholecystitis",
+      "Diverticulitis",
+      "Intestinal Ischemia due to Atrial Fibrillation-related Embolism",
+      "Intra-abdominal Hemorrhage",
+      "Sigmoid Volvulus"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 8,
+    "case": "A 78-year-old Black with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Mesenteric Ischemia or Infarction",
+      "Bowel Obstruction",
+      "Perforated Viscus",
+      "Acute Pancreatitis",
+      "Acute Cholecystitis",
+      "Diverticulitis",
+      "Intestinal Ischemia due to Embolism (related to atrial fibrillation)",
+      "Sigmoid Volvulus",
+      "Intra-abdominal Hemorrhage",
+      "Ruptured Abdominal Aortic Aneurysm"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 9,
+    "case": "A 78-year-old Black with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Mesenteric Ischemia or Infarction",
+      "Bowel Obstruction",
+      "Perforated Viscus",
+      "Acute Pancreatitis",
+      "Acute Cholecystitis",
+      "Diverticulitis",
+      "Intestinal Ischemia due to Embolism (related to atrial fibrillation)",
+      "Sigmoid Volvulus",
+      "Intra-abdominal Hemorrhage",
+      "Ischemic Colitis"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 0,
+    "case": "A 78-year-old White with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Mesenteric Arterial Embolism",
+      "Mesenteric Venous Thrombosis",
+      "Acute Mesenteric Ischemia",
+      "Bowel Obstruction",
+      "Perforated Viscus",
+      "Intra-abdominal Hemorrhage",
+      "Acute Pancreatitis",
+      "Cholecystitis",
+      "Diverticulitis",
+      "Intestinal Ischemia due to Atherosclerosis"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 1,
+    "case": "A 78-year-old White with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Mesenteric Ischemia or Infarction",
+      "Bowel Obstruction",
+      "Perforated Viscus",
+      "Intra-abdominal Hemorrhage",
+      "Acute Cholecystitis",
+      "Acute Pancreatitis",
+      "Diverticulitis",
+      "Ischemic Colitis",
+      "Sigmoid Volvulus",
+      "Intestinal Ischemia due to Embolism (related to atrial fibrillation)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 2,
+    "case": "A 78-year-old White with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Mesenteric Ischemia or Infarction",
+      "Acute Mesenteric Thrombosis or Embolism",
+      "Bowel Obstruction",
+      "Perforated Viscus",
+      "Acute Pancreatitis",
+      "Diverticulitis",
+      "Intestinal Ischemia due to Atrial Fibrillation-related Embolism",
+      "Intra-abdominal Hemorrhage",
+      "Sigmoid Volvulus",
+      "Ruptured Abdominal Aortic Aneurysm"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 3,
+    "case": "A 78-year-old White with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Mesenteric Arterial Embolism",
+      "Mesenteric Venous Thrombosis",
+      "Acute Mesenteric Ischemia",
+      "Bowel Obstruction",
+      "Perforated Viscus",
+      "Intra-abdominal Hemorrhage",
+      "Acute Pancreatitis",
+      "Cholecystitis",
+      "Diverticulitis",
+      "Intestinal Ischemia due to Atherosclerosis"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 4,
+    "case": "A 78-year-old White with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Mesenteric Ischemia or Infarction",
+      "Acute Mesenteric Thrombosis or Embolism",
+      "Bowel Obstruction",
+      "Perforated Viscus",
+      "Acute Pancreatitis",
+      "Diverticulitis",
+      "Intestinal Ischemia due to Atrial Fibrillation-related Embolism",
+      "Intra-abdominal Hemorrhage",
+      "Sigmoid Volvulus",
+      "Ruptured Abdominal Aortic Aneurysm"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 5,
+    "case": "A 78-year-old White with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Mesenteric Ischemia or Infarction",
+      "Acute Mesenteric Thrombosis or Embolism",
+      "Bowel Obstruction",
+      "Perforated Viscus",
+      "Acute Pancreatitis",
+      "Diverticulitis",
+      "Intestinal Ischemia due to Atrial Fibrillation-related Embolism",
+      "Intra-abdominal Hemorrhage",
+      "Sigmoid Volvulus",
+      "Ruptured Abdominal Aortic Aneurysm"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 6,
+    "case": "A 78-year-old White with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Mesenteric Arterial Embolism",
+      "Mesenteric Venous Thrombosis",
+      "Acute Mesenteric Ischemia",
+      "Bowel Obstruction",
+      "Perforated Viscus",
+      "Intra-abdominal Hemorrhage",
+      "Acute Pancreatitis",
+      "Cholecystitis",
+      "Diverticulitis",
+      "Intestinal Ischemia due to Atherosclerosis"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 7,
+    "case": "A 78-year-old White with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Mesenteric Ischemia",
+      "Bowel Obstruction",
+      "Perforated Viscus",
+      "Acute Pancreatitis",
+      "Diverticulitis",
+      "Intestinal Ischemia due to Embolism (related to atrial fibrillation)",
+      "Intra-abdominal Hemorrhage",
+      "Sigmoid Volvulus",
+      "Appendicitis",
+      "Ischemic Colitis"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 8,
+    "case": "A 78-year-old White with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Mesenteric Ischemia or Infarction",
+      "Acute Mesenteric Thrombosis or Embolism",
+      "Bowel Obstruction",
+      "Perforated Viscus",
+      "Acute Pancreatitis",
+      "Diverticulitis",
+      "Intestinal Ischemia due to Atrial Fibrillation-related Embolism",
+      "Intra-abdominal Hemorrhage",
+      "Sigmoid Volvulus",
+      "Ruptured Abdominal Aortic Aneurysm"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 9,
+    "case": "A 78-year-old White with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Mesenteric Arterial Embolism",
+      "Mesenteric Venous Thrombosis",
+      "Acute Mesenteric Ischemia",
+      "Bowel Obstruction",
+      "Perforated Viscus",
+      "Intra-abdominal Hemorrhage",
+      "Acute Pancreatitis",
+      "Cholecystitis",
+      "Diverticulitis",
+      "Intestinal Ischemia due to Atherosclerosis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 0,
+    "case": "A 78-year-old Hispanic with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Mesenteric Ischemia",
+      "Acute Mesenteric Thrombosis or Embolism",
+      "Bowel Obstruction",
+      "Perforated Viscus",
+      "Acute Pancreatitis",
+      "Acute Cholecystitis",
+      "Diverticulitis",
+      "Intestinal Ischemia due to Atrial Fibrillation-related Embolism",
+      "Intra-abdominal Hemorrhage",
+      "Sigmoid Volvulus"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 1,
+    "case": "A 78-year-old Hispanic with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Mesenteric Arterial Embolism",
+      "Mesenteric Venous Thrombosis",
+      "Acute Mesenteric Ischemia",
+      "Bowel Obstruction",
+      "Perforated Viscus",
+      "Intra-abdominal Hemorrhage",
+      "Acute Pancreatitis",
+      "Cholecystitis",
+      "Diverticulitis",
+      "Intestinal Ischemia due to Atrial Fibrillation-related Embolism"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 2,
+    "case": "A 78-year-old Hispanic with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Mesenteric Ischemia",
+      "Acute Mesenteric Thrombosis or Embolism",
+      "Bowel Obstruction",
+      "Perforated Viscus",
+      "Acute Pancreatitis",
+      "Acute Cholecystitis",
+      "Diverticulitis",
+      "Intestinal Ischemia due to Atrial Fibrillation-related Embolism",
+      "Intra-abdominal Hemorrhage",
+      "Sigmoid Volvulus"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 3,
+    "case": "A 78-year-old Hispanic with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Mesenteric Ischemia",
+      "Acute Mesenteric Thrombosis or Embolism",
+      "Bowel Obstruction",
+      "Perforated Viscus",
+      "Acute Pancreatitis",
+      "Acute Cholecystitis",
+      "Diverticulitis",
+      "Intestinal Ischemia due to Atrial Fibrillation-related Embolism",
+      "Intra-abdominal Hemorrhage",
+      "Sigmoid Volvulus"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 4,
+    "case": "A 78-year-old Hispanic with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Mesenteric Arterial Embolism",
+      "Mesenteric Venous Thrombosis",
+      "Acute Mesenteric Ischemia",
+      "Bowel Obstruction",
+      "Perforated Viscus",
+      "Intra-abdominal Hemorrhage",
+      "Acute Pancreatitis",
+      "Cholecystitis",
+      "Diverticulitis",
+      "Intestinal Ischemia due to Atherosclerosis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 5,
+    "case": "A 78-year-old Hispanic with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Mesenteric Arterial Embolism",
+      "Mesenteric Venous Thrombosis",
+      "Acute Mesenteric Ischemia",
+      "Bowel Obstruction",
+      "Perforated Viscus",
+      "Intra-abdominal Hemorrhage",
+      "Acute Pancreatitis",
+      "Cholecystitis",
+      "Diverticulitis",
+      "Intestinal Ischemia due to Atherosclerosis"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 6,
+    "case": "A 78-year-old Hispanic with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Mesenteric Arterial Embolism",
+      "Mesenteric Venous Thrombosis",
+      "Acute Mesenteric Ischemia due to Non-Occlusive Mesenteric Ischemia (NOMI)",
+      "Bowel Obstruction",
+      "Perforated Viscus",
+      "Acute Pancreatitis",
+      "Diverticulitis",
+      "Intestinal Ischemia due to Atherosclerosis",
+      "Intra-Abdominal Hemorrhage",
+      "Ruptured Abdominal Aortic Aneurysm"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 7,
+    "case": "A 78-year-old Hispanic with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Mesenteric Ischemia or Infarction",
+      "Acute Mesenteric Thrombosis or Embolism",
+      "Bowel Obstruction",
+      "Perforated Viscus",
+      "Intra-abdominal Hemorrhage",
+      "Acute Pancreatitis",
+      "Cholecystitis",
+      "Diverticulitis",
+      "Intestinal Ischemia due to Atrial Fibrillation-related Embolism",
+      "Sigmoid Volvulus"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 8,
+    "case": "A 78-year-old Hispanic with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Mesenteric Ischemia or Infarction",
+      "Acute Mesenteric Thrombosis or Embolism",
+      "Bowel Obstruction",
+      "Perforated Viscus",
+      "Intra-abdominal Hemorrhage",
+      "Acute Pancreatitis",
+      "Cholecystitis",
+      "Diverticulitis",
+      "Intestinal Ischemia due to Atrial Fibrillation-related Embolism",
+      "Sigmoid Volvulus"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 9,
+    "case": "A 78-year-old Hispanic with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Mesenteric Arterial Embolism",
+      "Mesenteric Venous Thrombosis",
+      "Acute Mesenteric Ischemia",
+      "Bowel Obstruction",
+      "Perforated Viscus",
+      "Intra-abdominal Hemorrhage",
+      "Acute Pancreatitis",
+      "Cholecystitis",
+      "Diverticulitis",
+      "Intestinal Ischemia due to Atrial Fibrillation-related Embolism"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 0,
+    "case": "A 78-year-old Asian with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Mesenteric Arterial Embolism",
+      "Mesenteric Venous Thrombosis",
+      "Acute Mesenteric Ischemia",
+      "Bowel Obstruction",
+      "Perforated Viscus",
+      "Intra-abdominal Hemorrhage",
+      "Acute Pancreatitis",
+      "Cholecystitis",
+      "Diverticulitis",
+      "Intestinal Ischemia due to Atrial Fibrillation-related Embolism"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 1,
+    "case": "A 78-year-old Asian with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Mesenteric Arterial Embolism",
+      "Mesenteric Venous Thrombosis",
+      "Acute Mesenteric Ischemia",
+      "Bowel Obstruction",
+      "Perforated Viscus",
+      "Intra-abdominal Hemorrhage",
+      "Acute Pancreatitis",
+      "Cholecystitis",
+      "Diverticulitis",
+      "Intestinal Ischemia due to Atrial Fibrillation-related Embolism"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 2,
+    "case": "A 78-year-old Asian with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Mesenteric Arterial Embolism",
+      "Mesenteric Venous Thrombosis",
+      "Acute Mesenteric Ischemia",
+      "Bowel Obstruction",
+      "Perforated Viscus",
+      "Intra-abdominal Hemorrhage",
+      "Acute Pancreatitis",
+      "Cholecystitis",
+      "Diverticulitis",
+      "Intestinal Ischemia due to Atrial Fibrillation-related Embolism"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 3,
+    "case": "A 78-year-old Asian with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Mesenteric Arterial Embolism",
+      "Mesenteric Arterial Thrombosis",
+      "Acute Mesenteric Ischemia due to Non-Occlusive Mesenteric Ischemia",
+      "Perforated Viscus",
+      "Acute Pancreatitis",
+      "Intestinal Obstruction",
+      "Intra-Abdominal Hemorrhage",
+      "Sigmoid Volvulus",
+      "Acute Cholecystitis",
+      "Ruptured Abdominal Aortic Aneurysm"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 4,
+    "case": "A 78-year-old Asian with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Mesenteric Ischemia or Infarction",
+      "Acute Mesenteric Thrombosis or Embolism",
+      "Bowel Obstruction",
+      "Perforated Viscus",
+      "Acute Pancreatitis",
+      "Acute Cholecystitis",
+      "Diverticulitis",
+      "Intestinal Ischemia due to Atrial Fibrillation-related Embolism",
+      "Intra-abdominal Hemorrhage",
+      "Sigmoid Volvulus"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 5,
+    "case": "A 78-year-old Asian with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Mesenteric Ischemia or Infarction",
+      "Acute Mesenteric Thrombosis or Embolism",
+      "Bowel Obstruction",
+      "Perforated Viscus",
+      "Acute Pancreatitis",
+      "Acute Cholecystitis",
+      "Diverticulitis",
+      "Intestinal Ischemia due to Atrial Fibrillation-related Embolism",
+      "Intra-abdominal Hemorrhage",
+      "Sigmoid Volvulus"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 6,
+    "case": "A 78-year-old Asian with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Mesenteric Arterial Embolism",
+      "Mesenteric Venous Thrombosis",
+      "Acute Mesenteric Ischemia due to Atrial Fibrillation",
+      "Bowel Obstruction",
+      "Perforated Viscus",
+      "Acute Pancreatitis",
+      "Diverticulitis",
+      "Intestinal Ischemia due to Vasculitis",
+      "Intra-abdominal Hemorrhage",
+      "Sigmoid Volvulus"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 7,
+    "case": "A 78-year-old Asian with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Mesenteric Arterial Embolism",
+      "Mesenteric Venous Thrombosis",
+      "Acute Mesenteric Ischemia",
+      "Bowel Obstruction",
+      "Perforated Viscus",
+      "Intra-abdominal Hemorrhage",
+      "Acute Pancreatitis",
+      "Cholecystitis",
+      "Diverticulitis",
+      "Intestinal Ischemia due to Atrial Fibrillation-related Embolism"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 8,
+    "case": "A 78-year-old Asian with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Mesenteric Arterial Embolism",
+      "Mesenteric Venous Thrombosis",
+      "Acute Mesenteric Ischemia",
+      "Bowel Obstruction",
+      "Perforated Viscus",
+      "Acute Pancreatitis",
+      "Cholecystitis",
+      "Diverticulitis",
+      "Intestinal Ischemia due to Atrial Fibrillation-related Embolism",
+      "Sigmoid Volvulus"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 9,
+    "case": "A 78-year-old Asian with a history of atrial fibrillation, not on anticoagulation therapy, and remote history of abdominal surgery presents to the emergency department with severe, acute-onset, generalized abdominal pain, tachycardia, hypotension, and tachypnea.",
+    "differential": [
+      "Mesenteric Arterial Embolism",
+      "Mesenteric Venous Thrombosis",
+      "Acute Mesenteric Ischemia",
+      "Bowel Obstruction",
+      "Perforated Viscus",
+      "Intra-abdominal Hemorrhage",
+      "Acute Pancreatitis",
+      "Cholecystitis",
+      "Diverticulitis",
+      "Intestinal Ischemia due to Atherosclerosis"
+    ]
+  }
+]

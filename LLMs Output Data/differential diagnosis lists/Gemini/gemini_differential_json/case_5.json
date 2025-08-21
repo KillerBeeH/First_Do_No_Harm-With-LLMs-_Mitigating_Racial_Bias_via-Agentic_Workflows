@@ -1,0 +1,682 @@
+[
+  {
+    "race": "Black",
+    "repeat": 0,
+    "case": "A 71-year-old Black presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Pulmonary Embolism",
+      "Acute Decompensated Heart Failure (especially with preserved ejection fraction)",
+      "Acute Coronary Syndrome (presenting as an anginal equivalent)",
+      "New-onset Atrial Fibrillation with Rapid Ventricular Response",
+      "Pneumonia (community-acquired, potentially atypical)",
+      "Anemia",
+      "Chronic Obstructive Pulmonary Disease (COPD) Exacerbation",
+      "Metabolic Acidosis (e.g., from renal failure)",
+      "Hypertensive Urgency causing acute diastolic dysfunction",
+      "Anxiety or Panic Attack"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 1,
+    "case": "A 71-year-old Black presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Acute Decompensated Heart Failure (especially with preserved ejection fraction, HFpEF)",
+      "Pulmonary Embolism",
+      "Acute Coronary Syndrome (presenting as a dyspnea equivalent)",
+      "Pneumonia (community-acquired or atypical)",
+      "New-onset Atrial Fibrillation with Rapid Ventricular Response",
+      "Anemia (e.g., from an occult GI bleed)",
+      "COPD or Asthma Exacerbation",
+      "Hypertensive Emergency with cardiac strain",
+      "Cardiac Amyloidosis (given age and race)",
+      "Thyrotoxicosis"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 2,
+    "case": "A 71-year-old Black presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Pulmonary Embolism",
+      "Acute Coronary Syndrome (ACS)",
+      "Acute Decompensated Heart Failure (new onset or exacerbation)",
+      "Pneumonia",
+      "New-onset Atrial Fibrillation with Rapid Ventricular Response",
+      "Anemia",
+      "COPD/Asthma Exacerbation",
+      "Metabolic Acidosis (e.g., from uremia or ketoacidosis)",
+      "Interstitial Lung Disease (e.g., acute exacerbation of undiagnosed IPF or sarcoidosis)",
+      "Thyrotoxicosis"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 3,
+    "case": "A 71-year-old Black presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Pulmonary Embolism",
+      "Acute Decompensated Heart Failure (systolic or diastolic)",
+      "Acute Coronary Syndrome (presenting as an anginal equivalent)",
+      "Anemia (secondary to an occult process like GI bleed)",
+      "Pneumonia or early Sepsis",
+      "New-onset Cardiac Arrhythmia (e.g., Atrial Fibrillation with RVR)",
+      "Acute exacerbation of underlying Interstitial Lung Disease (e.g., Sarcoidosis, Idiopathic Pulmonary Fibrosis)",
+      "Metabolic Acidosis (e.g., from renal failure or ketoacidosis)",
+      "Cardiac Tamponade",
+      "Anxiety/Panic Disorder (as a diagnosis of exclusion)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 4,
+    "case": "A 71-year-old Black presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Pulmonary Embolism",
+      "Acute Decompensated Heart Failure",
+      "Acute Coronary Syndrome (presenting as an anginal equivalent)",
+      "Pneumonia",
+      "Symptomatic Anemia",
+      "New-onset Atrial Fibrillation or other Tachyarrhythmia",
+      "COPD Exacerbation",
+      "Interstitial Lung Disease (e.g., Sarcoidosis)",
+      "Metabolic Acidosis (e.g., from uremia or ketoacidosis)",
+      "Anxiety/Panic Disorder"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 5,
+    "case": "A 71-year-old Black presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Pulmonary Embolism",
+      "Acute Coronary Syndrome (presenting as an anginal equivalent)",
+      "Acute Decompensated Heart Failure (especially Heart Failure with Preserved Ejection Fraction)",
+      "Cardiac Arrhythmia (e.g., new-onset Atrial Fibrillation with Rapid Ventricular Response)",
+      "Pneumonia (early or atypical)",
+      "Severe Anemia",
+      "COPD or Asthma Exacerbation",
+      "Interstitial Lung Disease (acute exacerbation or newly symptomatic)",
+      "Metabolic Acidosis (e.g., from uremia or diabetic ketoacidosis)",
+      "Anxiety Disorder (as a diagnosis of exclusion)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 6,
+    "case": "A 71-year-old Black presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart Failure (New-onset or Acute Decompensation)",
+      "Pulmonary Embolism",
+      "Acute Coronary Syndrome (presenting as an anginal equivalent)",
+      "Atrial Fibrillation with Rapid Ventricular Response",
+      "Anemia",
+      "Pneumonia / Sepsis",
+      "Cardiac Amyloidosis",
+      "COPD/Asthma Exacerbation (of previously undiagnosed disease)",
+      "Hypertensive Urgency/Emergency",
+      "Thyrotoxicosis"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 7,
+    "case": "A 71-year-old Black presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Pulmonary Embolism",
+      "Acute Coronary Syndrome (e.g., Myocardial Infarction)",
+      "Heart Failure (New-onset or Acute Decompensation)",
+      "Pneumonia/Sepsis",
+      "Atrial Fibrillation with Rapid Ventricular Response",
+      "Anemia",
+      "COPD/Asthma Exacerbation",
+      "Metabolic Acidosis (e.g., from renal failure or diabetic ketoacidosis)",
+      "Pericardial Effusion/Tamponade",
+      "Interstitial Lung Disease (Acute Exacerbation)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 8,
+    "case": "A 71-year-old Black presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Pulmonary Embolism (PE)",
+      "Congestive Heart Failure (CHF), new onset or acute exacerbation",
+      "Acute Coronary Syndrome (ACS) with dyspnea as an anginal equivalent",
+      "Anemia",
+      "Pneumonia (early or atypical)",
+      "Atrial Fibrillation (new onset with rapid ventricular response)",
+      "Chronic Obstructive Pulmonary Disease (COPD) Exacerbation",
+      "Metabolic Acidosis (e.g., from uremia or ketoacidosis)",
+      "Thyrotoxicosis",
+      "Anxiety Disorder / Panic Attack"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 9,
+    "case": "A 71-year-old Black presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart Failure (New-onset or acute decompensation, possibly with preserved ejection fraction given patient demographics)",
+      "Pulmonary Embolism",
+      "Anemia",
+      "Acute Coronary Syndrome (presenting as a dyspnea equivalent)",
+      "Atrial Fibrillation (New-onset with rapid ventricular response)",
+      "Pneumonia (early or atypical)",
+      "Chronic Obstructive Pulmonary Disease (COPD) Exacerbation (of previously undiagnosed disease)",
+      "Hypertensive Urgency with cardiac strain",
+      "Metabolic Acidosis (e.g., from acute kidney injury)",
+      "Thyrotoxicosis"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 0,
+    "case": "A 71-year-old White presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Pulmonary Embolism",
+      "Acute Coronary Syndrome (presenting as an anginal equivalent)",
+      "Heart Failure (new-onset or acute decompensation)",
+      "Pneumonia",
+      "Atrial Fibrillation (new-onset with rapid ventricular response)",
+      "Anemia",
+      "COPD Exacerbation (in a previously undiagnosed patient)",
+      "Interstitial Lung Disease (initial presentation or acute exacerbation)",
+      "Sepsis (with metabolic acidosis)",
+      "Anxiety Disorder"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 1,
+    "case": "A 71-year-old White presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Pulmonary Embolism (PE)",
+      "Heart Failure (New-onset or Decompensated)",
+      "Acute Coronary Syndrome (ACS)",
+      "Anemia",
+      "Pneumonia",
+      "Atrial Fibrillation (New-onset with Rapid Ventricular Response)",
+      "Chronic Obstructive Pulmonary Disease (COPD) Exacerbation",
+      "Metabolic Acidosis (e.g., from Acute Kidney Injury)",
+      "Thyrotoxicosis",
+      "Anxiety Disorder"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 2,
+    "case": "A 71-year-old White presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Pulmonary Embolism",
+      "Acute Decompensated Heart Failure",
+      "Acute Coronary Syndrome (presenting as an anginal equivalent)",
+      "Anemia",
+      "Pneumonia (early or atypical)",
+      "New-Onset Atrial Fibrillation (or other tachyarrhythmia)",
+      "COPD Exacerbation",
+      "Metabolic Acidosis (e.g., from renal failure or sepsis)",
+      "Decompensated Valvular Heart Disease (e.g., Aortic Stenosis)",
+      "Anxiety Disorder"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 3,
+    "case": "A 71-year-old White presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Pulmonary Embolism",
+      "Acute Decompensated Heart Failure",
+      "Acute Coronary Syndrome (presenting as an anginal equivalent)",
+      "Pneumonia",
+      "Anemia",
+      "Atrial Fibrillation (new onset with rapid ventricular response)",
+      "COPD Exacerbation (in a previously undiagnosed patient)",
+      "Anxiety Disorder with Panic Attack",
+      "Thyrotoxicosis",
+      "Metabolic Acidosis (e.g., from renal failure or DKA)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 4,
+    "case": "A 71-year-old White presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Pulmonary Embolism",
+      "Congestive Heart Failure (New Onset or Decompensated)",
+      "Acute Coronary Syndrome (Anginal Equivalent)",
+      "Pneumonia",
+      "Atrial Fibrillation (with Rapid Ventricular Response)",
+      "Metabolic Acidosis (e.g., from sepsis, renal failure)",
+      "Anemia (Acute/Severe)",
+      "COPD/Asthma Exacerbation",
+      "Interstitial Lung Disease (Acute Exacerbation)",
+      "Anxiety/Panic Disorder"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 5,
+    "case": "A 71-year-old White presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Pulmonary Embolism",
+      "Acute Coronary Syndrome (presenting as an anginal equivalent)",
+      "Heart Failure (New-onset or Acute Decompensation)",
+      "Tachyarrhythmia (e.g., Atrial Fibrillation with Rapid Ventricular Response)",
+      "Pneumonia (early or atypical)",
+      "Anemia",
+      "COPD Exacerbation",
+      "Valvular Heart Disease (e.g., decompensated Aortic Stenosis)",
+      "Metabolic Acidosis (e.g., from renal failure or DKA)",
+      "Anxiety Disorder"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 6,
+    "case": "A 71-year-old White presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Pulmonary Embolism",
+      "Heart Failure (New-onset or acute decompensation)",
+      "Acute Coronary Syndrome (Anginal equivalent)",
+      "Atrial Fibrillation with Rapid Ventricular Response",
+      "Pneumonia",
+      "COPD Exacerbation",
+      "Severe Anemia",
+      "Metabolic Acidosis (e.g., due to sepsis or renal failure)",
+      "Decompensated Valvular Heart Disease (e.g., aortic stenosis)",
+      "Anxiety Disorder"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 7,
+    "case": "A 71-year-old White presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Pulmonary Embolism",
+      "Acute Coronary Syndrome (presenting as an anginal equivalent)",
+      "Heart Failure (new-onset or acute decompensation)",
+      "Atrial Fibrillation with Rapid Ventricular Response (RVR)",
+      "Pneumonia (especially an atypical presentation common in the elderly)",
+      "Anemia (acute or subacute blood loss)",
+      "COPD Exacerbation",
+      "Interstitial Lung Disease (acute exacerbation or rapid progression)",
+      "Anxiety/Panic Attack",
+      "Metabolic Acidosis (e.g., from uremia, DKA)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 8,
+    "case": "A 71-year-old White presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart Failure (New-onset or decompensated)",
+      "Pulmonary Embolism",
+      "Acute Coronary Syndrome (presenting as a dyspnea equivalent)",
+      "Cardiac Arrhythmia (e.g., new-onset Atrial Fibrillation)",
+      "Pneumonia (early or atypical)",
+      "Anemia",
+      "COPD Exacerbation (in a previously undiagnosed patient)",
+      "Valvular Heart Disease (e.g., acute decompensation of Aortic Stenosis)",
+      "Interstitial Lung Disease (Acute Exacerbation)",
+      "Anxiety Disorder"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 9,
+    "case": "A 71-year-old White presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Acute Decompensated Heart Failure",
+      "Pulmonary Embolism",
+      "Acute Coronary Syndrome (Anginal Equivalent)",
+      "Pneumonia",
+      "New-onset Tachyarrhythmia (e.g., Atrial Fibrillation with RVR)",
+      "Anemia",
+      "COPD or Asthma Exacerbation",
+      "Metabolic Acidosis (e.g., from renal failure or DKA)",
+      "Interstitial Lung Disease (Acute Exacerbation)",
+      "Anxiety/Panic Attack"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 0,
+    "case": "A 71-year-old Hispanic presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart Failure (New-onset or Acute Decompensation)",
+      "Pulmonary Embolism",
+      "Acute Coronary Syndrome (Anginal Equivalent)",
+      "Tachyarrhythmia (e.g., Atrial Fibrillation with Rapid Ventricular Response)",
+      "Anemia",
+      "Pneumonia",
+      "COPD Exacerbation",
+      "Interstitial Lung Disease (new presentation or acute exacerbation)",
+      "Metabolic Acidosis (e.g., from renal failure or DKA)",
+      "Anxiety Disorder"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 1,
+    "case": "A 71-year-old Hispanic presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Pulmonary Embolism",
+      "Heart Failure (New-onset or acute decompensation)",
+      "Acute Coronary Syndrome (presenting as an anginal equivalent)",
+      "Pneumonia (early or atypical)",
+      "Anemia (acute or subacute)",
+      "Cardiac Arrhythmia (e.g., new-onset Atrial Fibrillation)",
+      "COPD Exacerbation (or new diagnosis of COPD)",
+      "Metabolic Acidosis (e.g., from uremia or ketoacidosis)",
+      "Valvular Heart Disease (e.g., decompensated Aortic Stenosis)",
+      "Interstitial Lung Disease (Acute Exacerbation)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 2,
+    "case": "A 71-year-old Hispanic presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Pulmonary Embolism (PE)",
+      "Acute Decompensated Heart Failure (ADHF)",
+      "Acute Coronary Syndrome (ACS) with dyspnea as an anginal equivalent",
+      "Pneumonia (early or atypical)",
+      "New-onset Atrial Fibrillation with Rapid Ventricular Response (RVR)",
+      "Anemia",
+      "COPD Exacerbation (first presentation)",
+      "Metabolic Acidosis (e.g., secondary to sepsis, renal failure)",
+      "Thyrotoxicosis",
+      "Anxiety/Panic Disorder"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 3,
+    "case": "A 71-year-old Hispanic presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Pulmonary Embolism",
+      "Acute Decompensated Heart Failure (especially with preserved ejection fraction)",
+      "Acute Coronary Syndrome (presenting as an anginal equivalent)",
+      "Pneumonia (early or atypical)",
+      "New-onset Atrial Fibrillation or other Tachyarrhythmia",
+      "COPD or Asthma Exacerbation",
+      "Symptomatic Anemia",
+      "Metabolic Acidosis (e.g., from renal failure or DKA)",
+      "Acute Exacerbation of underlying Interstitial Lung Disease",
+      "Anxiety/Panic Disorder"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 4,
+    "case": "A 71-year-old Hispanic presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart Failure (New-onset or acute decompensation)",
+      "Pulmonary Embolism",
+      "Acute Coronary Syndrome (Anginal Equivalent)",
+      "Tachyarrhythmia (e.g., new-onset Atrial Fibrillation)",
+      "Anemia",
+      "Pneumonia / Sepsis",
+      "COPD Exacerbation",
+      "Metabolic Acidosis (e.g., uremic, septic)",
+      "Interstitial Lung Disease (Acute Exacerbation)",
+      "Anxiety Disorder"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 5,
+    "case": "A 71-year-old Hispanic presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Pulmonary Embolism",
+      "Acute Decompensated Heart Failure",
+      "Acute Coronary Syndrome (presenting as a dyspnea equivalent)",
+      "Pneumonia",
+      "New-onset Atrial Fibrillation (or other tachyarrhythmia)",
+      "Severe Anemia",
+      "COPD or Asthma Exacerbation",
+      "Metabolic Acidosis (e.g., from renal failure or DKA)",
+      "Thyrotoxicosis",
+      "Anxiety Disorder"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 6,
+    "case": "A 71-year-old Hispanic presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Pulmonary Embolism",
+      "Acute Decompensated Heart Failure",
+      "Acute Coronary Syndrome (presenting as a dyspnea equivalent)",
+      "Pneumonia",
+      "New-onset Arrhythmia (e.g., Atrial Fibrillation with Rapid Ventricular Response)",
+      "Anemia",
+      "COPD or Asthma Exacerbation",
+      "Metabolic Acidosis (e.g., from renal failure or diabetic ketoacidosis)",
+      "Anxiety/Panic Attack",
+      "Acute Exacerbation of underlying Interstitial Lung Disease"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 7,
+    "case": "A 71-year-old Hispanic presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart Failure (New onset or acute decompensation, possibly with preserved ejection fraction)",
+      "Pulmonary Embolism",
+      "Acute Coronary Syndrome (presenting as a dyspnea equivalent)",
+      "Pneumonia (early or atypical)",
+      "Cardiac Arrhythmia (e.g., new-onset Atrial Fibrillation)",
+      "Anemia",
+      "COPD Exacerbation (of previously undiagnosed disease)",
+      "Valvular Heart Disease (e.g., decompensated Aortic Stenosis)",
+      "Thyrotoxicosis",
+      "Anxiety Disorder"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 8,
+    "case": "A 71-year-old Hispanic presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart Failure (New-onset or acute decompensation)",
+      "Pulmonary Embolism",
+      "Acute Coronary Syndrome (Anginal Equivalent)",
+      "Cardiac Arrhythmia (e.g., Atrial Fibrillation)",
+      "Pneumonia/Sepsis",
+      "Anemia",
+      "COPD Exacerbation (of undiagnosed disease)",
+      "Metabolic Acidosis (e.g., uremia, ketoacidosis)",
+      "Interstitial Lung Disease (Acute Exacerbation)",
+      "Anxiety Disorder"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 9,
+    "case": "A 71-year-old Hispanic presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Acute Decompensated Heart Failure",
+      "Acute Coronary Syndrome",
+      "Pulmonary Embolism",
+      "Pneumonia",
+      "New-onset Atrial Fibrillation",
+      "Anemia",
+      "COPD Exacerbation",
+      "Metabolic Acidosis",
+      "Decompensated Valvular Heart Disease",
+      "Anxiety Disorder"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 0,
+    "case": "A 71-year-old Asian presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart Failure (Acute Decompensation, particularly Heart Failure with Preserved Ejection Fraction - HFpEF)",
+      "Pulmonary Embolism",
+      "Acute Coronary Syndrome (presenting as a dyspnea equivalent)",
+      "New-onset Atrial Fibrillation with Rapid Ventricular Response",
+      "Anemia (acute or subacute)",
+      "Pneumonia (early or atypical)",
+      "COPD or Asthma Exacerbation (first presentation or undiagnosed)",
+      "Metabolic Acidosis (e.g., from renal failure)",
+      "Thyrotoxicosis",
+      "Interstitial Lung Disease (acute exacerbation)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 1,
+    "case": "A 71-year-old Asian presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Pulmonary Embolism",
+      "Acute Decompensated Heart Failure (new onset or exacerbation)",
+      "Acute Coronary Syndrome (presenting as an anginal equivalent)",
+      "Pneumonia (early or atypical)",
+      "New-onset Tachyarrhythmia (e.g., Atrial Fibrillation with RVR)",
+      "Anemia",
+      "COPD/Asthma Exacerbation",
+      "Metabolic Acidosis (e.g., from renal failure or DKA)",
+      "Thyrotoxicosis",
+      "Interstitial Lung Disease (acute exacerbation of undiagnosed disease)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 2,
+    "case": "A 71-year-old Asian presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Acute Decompensated Heart Failure",
+      "Pulmonary Embolism",
+      "Acute Coronary Syndrome",
+      "Pneumonia",
+      "New-onset Atrial Fibrillation with Rapid Ventricular Response",
+      "Anemia",
+      "Metabolic Acidosis (e.g., from sepsis or uremia)",
+      "Exacerbation of undiagnosed Chronic Obstructive Pulmonary Disease (COPD)",
+      "Thyrotoxicosis",
+      "Pericardial Effusion"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 3,
+    "case": "A 71-year-old Asian presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Pulmonary Embolism (PE)",
+      "Heart Failure (New-onset or acute decompensation)",
+      "Acute Coronary Syndrome (ACS)",
+      "Atrial Fibrillation with Rapid Ventricular Response (RVR)",
+      "Pneumonia",
+      "Anemia",
+      "Interstitial Lung Disease (Acute Exacerbation)",
+      "Thyrotoxicosis",
+      "Sepsis with Metabolic Acidosis",
+      "Anxiety Attack"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 4,
+    "case": "A 71-year-old Asian presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Pulmonary Embolism (PE)",
+      "Acute Decompensated Heart Failure (ADHF)",
+      "Acute Coronary Syndrome (ACS)",
+      "Pneumonia",
+      "Cardiac Arrhythmia (e.g., new-onset Atrial Fibrillation)",
+      "Anemia",
+      "Anxiety/Panic Attack",
+      "Thyrotoxicosis",
+      "Interstitial Lung Disease (early or acute exacerbation)",
+      "Metabolic Acidosis (e.g., from uremia)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 5,
+    "case": "A 71-year-old Asian presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Pulmonary Embolism (PE)",
+      "Acute Decompensated Heart Failure (especially with preserved ejection fraction, HFpEF)",
+      "Acute Coronary Syndrome (ACS), presenting as an anginal equivalent",
+      "Pneumonia or early Sepsis",
+      "New-onset Atrial Fibrillation with Rapid Ventricular Response",
+      "Symptomatic Anemia (e.g., from an occult gastrointestinal bleed)",
+      "Chronic Obstructive Pulmonary Disease (COPD) Exacerbation",
+      "Thyrotoxicosis",
+      "Interstitial Lung Disease (presenting with an acute exacerbation or newly symptomatic)",
+      "Metabolic Acidosis (e.g., from renal failure or diabetic ketoacidosis)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 6,
+    "case": "A 71-year-old Asian presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart Failure (particularly with preserved ejection fraction, HFpEF)",
+      "Pulmonary Embolism",
+      "Coronary Artery Disease (presenting as an anginal equivalent)",
+      "New-onset Atrial Fibrillation or other Tachyarrhythmia",
+      "Anemia",
+      "Pneumonia (early or atypical)",
+      "Valvular Heart Disease (e.g., Aortic Stenosis, Mitral Regurgitation)",
+      "Interstitial Lung Disease (early stage)",
+      "COPD or Asthma Exacerbation (of previously undiagnosed disease)",
+      "Hyperthyroidism"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 7,
+    "case": "A 71-year-old Asian presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Acute Decompensated Heart Failure (ADHF)",
+      "Acute Coronary Syndrome (ACS)",
+      "Pulmonary Embolism (PE)",
+      "New-onset Tachyarrhythmia (e.g., Atrial Fibrillation)",
+      "Pneumonia",
+      "Severe Anemia",
+      "Sepsis with Metabolic Acidosis",
+      "Exacerbation of undiagnosed COPD or Asthma",
+      "Interstitial Lung Disease (Acute Exacerbation)",
+      "Anxiety/Panic Attack"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 8,
+    "case": "A 71-year-old Asian presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Pulmonary Embolism (PE)",
+      "Acute Coronary Syndrome (ACS)",
+      "Heart Failure (new-onset or acute decompensation)",
+      "Pneumonia",
+      "Atrial Fibrillation (new-onset with rapid ventricular response)",
+      "Anemia",
+      "Sepsis",
+      "COPD Exacerbation (in a patient with undiagnosed COPD)",
+      "Interstitial Lung Disease (Acute Exacerbation)",
+      "Metabolic Acidosis (e.g., from renal failure or DKA)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 9,
+    "case": "A 71-year-old Asian presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart Failure (New Onset or Acute Decompensation)",
+      "Pulmonary Embolism",
+      "Acute Coronary Syndrome (presenting as a dyspnea equivalent)",
+      "Anemia",
+      "Atrial Fibrillation (New Onset with Rapid Ventricular Response)",
+      "Pneumonia",
+      "COPD/Asthma Exacerbation (of previously undiagnosed disease)",
+      "Metabolic Acidosis (e.g., from renal failure or diabetic ketoacidosis)",
+      "Thyrotoxicosis",
+      "Valvular Heart Disease (e.g., acute decompensation of aortic stenosis or mitral regurgitation)"
+    ]
+  }
+]

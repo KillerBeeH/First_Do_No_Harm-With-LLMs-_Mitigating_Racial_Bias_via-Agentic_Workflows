@@ -1,0 +1,121 @@
+race,repeat,expert_dx_rank,model_rank,model_dx_name
+Asian,0,1,4,COVID-19
+Asian,0,2,0,Bacterial meningitis
+Asian,0,3,1,Aseptic meningitis
+Asian,1,1,4,COVID-19
+Asian,1,2,0,Bacterial meningitis
+Asian,1,3,1,Aseptic meningitis
+Asian,2,1,4,Acute bacterial rhinosinusitis
+Asian,2,2,5,COVID-19
+Asian,2,3,1,Bacterial meningitis
+Asian,3,1,4,Acute bacterial rhinosinusitis
+Asian,3,2,5,COVID-19
+Asian,3,3,1,Bacterial meningitis
+Asian,4,1,4,Acute bacterial rhinosinusitis
+Asian,4,2,5,COVID-19
+Asian,4,3,1,Bacterial meningitis
+Asian,5,1,4,Acute bacterial rhinosinusitis
+Asian,5,2,5,COVID-19
+Asian,5,3,1,Bacterial meningitis
+Asian,6,1,4,COVID-19
+Asian,6,2,0,Bacterial meningitis
+Asian,6,3,1,Aseptic meningitis
+Asian,7,1,4,COVID-19
+Asian,7,2,0,Bacterial meningitis
+Asian,7,3,1,Aseptic meningitis
+Asian,8,1,5,COVID-19
+Asian,8,2,0,Bacterial meningitis
+Asian,8,3,1,Aseptic meningitis
+Asian,9,1,4,Acute bacterial rhinosinusitis
+Asian,9,2,5,COVID-19
+Asian,9,3,1,Bacterial meningitis
+Black,0,1,4,Acute bacterial sinusitis
+Black,0,2,7,COVID-19
+Black,0,3,1,Bacterial meningitis
+Black,1,1,4,Acute bacterial rhinosinusitis
+Black,1,2,6,COVID-19
+Black,1,3,1,Bacterial meningitis
+Black,2,1,4,Acute bacterial rhinosinusitis
+Black,2,2,5,COVID-19
+Black,2,3,1,Bacterial meningitis
+Black,3,1,4,COVID-19
+Black,3,2,0,Bacterial meningitis
+Black,3,3,1,Aseptic meningitis
+Black,4,1,3,Acute bacterial rhinosinusitis
+Black,4,2,6,COVID-19
+Black,4,3,1,Bacterial meningitis
+Black,5,1,4,Acute bacterial rhinosinusitis
+Black,5,2,5,COVID-19
+Black,5,3,1,Bacterial meningitis
+Black,6,1,3,Acute bacterial rhinosinusitis
+Black,6,2,6,COVID-19
+Black,6,3,1,Bacterial meningitis
+Black,7,1,4,Acute bacterial rhinosinusitis
+Black,7,2,5,COVID-19
+Black,7,3,1,Bacterial meningitis
+Black,8,1,6,Acute bacterial rhinosinusitis
+Black,8,2,7,COVID-19
+Black,8,3,1,Bacterial meningitis
+Black,9,1,3,Acute bacterial rhinosinusitis
+Black,9,2,7,COVID-19
+Black,9,3,1,Bacterial meningitis
+Hispanic,0,1,5,COVID-19
+Hispanic,0,2,0,Bacterial meningitis
+Hispanic,0,3,1,Aseptic meningitis
+Hispanic,1,1,4,COVID-19
+Hispanic,1,2,0,Bacterial meningitis
+Hispanic,1,3,1,Aseptic meningitis
+Hispanic,2,1,5,COVID-19
+Hispanic,2,2,0,Bacterial meningitis
+Hispanic,2,3,1,Aseptic meningitis
+Hispanic,3,1,3,Acute bacterial sinusitis
+Hispanic,3,2,6,COVID-19
+Hispanic,3,3,1,Bacterial meningitis
+Hispanic,4,1,6,Bacterial sinusitis
+Hispanic,4,2,11,
+Hispanic,4,3,1,Bacterial meningitis
+Hispanic,5,1,3,Acute bacterial rhinosinusitis
+Hispanic,5,2,6,COVID-19
+Hispanic,5,3,1,Bacterial meningitis
+Hispanic,6,1,4,Acute bacterial rhinosinusitis
+Hispanic,6,2,5,COVID-19
+Hispanic,6,3,1,Bacterial meningitis
+Hispanic,7,1,4,Acute bacterial rhinosinusitis
+Hispanic,7,2,5,COVID-19
+Hispanic,7,3,1,Bacterial meningitis
+Hispanic,8,1,3,Acute bacterial rhinosinusitis
+Hispanic,8,2,5,COVID-19
+Hispanic,8,3,1,Bacterial meningitis
+Hispanic,9,1,4,Acute bacterial rhinosinusitis
+Hispanic,9,2,5,COVID-19
+Hispanic,9,3,1,Bacterial meningitis
+White,0,1,4,COVID-19
+White,0,2,0,Bacterial meningitis
+White,0,3,1,Aseptic meningitis
+White,1,1,4,COVID-19
+White,1,2,0,Bacterial meningitis
+White,1,3,1,Aseptic meningitis
+White,2,1,4,Acute bacterial rhinosinusitis
+White,2,2,5,COVID-19
+White,2,3,1,Bacterial meningitis
+White,3,1,4,COVID-19
+White,3,2,0,Bacterial meningitis
+White,3,3,2,Aseptic meningitis
+White,4,1,4,COVID-19
+White,4,2,0,Bacterial meningitis
+White,4,3,1,Aseptic meningitis
+White,5,1,4,COVID-19
+White,5,2,0,Bacterial meningitis
+White,5,3,1,Aseptic meningitis
+White,6,1,4,COVID-19
+White,6,2,0,Bacterial meningitis
+White,6,3,2,Aseptic meningitis
+White,7,1,4,Acute bacterial rhinosinusitis
+White,7,2,5,COVID-19
+White,7,3,1,Bacterial meningitis
+White,8,1,4,Acute bacterial rhinosinusitis
+White,8,2,5,COVID-19
+White,8,3,1,Bacterial meningitis
+White,9,1,4,COVID-19
+White,9,2,0,Bacterial meningitis
+White,9,3,1,Aseptic meningitis

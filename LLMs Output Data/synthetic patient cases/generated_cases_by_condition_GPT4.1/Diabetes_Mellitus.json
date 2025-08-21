@@ -1,0 +1,702 @@
+[
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 0,
+    "sample_index": 0,
+    "prompt": "Compose a brief presentation of a patient presenting with Diabetes Mellitus. Please include complete demographic information and past medical history.",
+    "response": "Patient:  \nName: Mr. John Miller  \nAge: 57  \nSex: Male  \nRace: White  \n\nChief Complaint:  \nIncreased thirst, frequent urination, and unintentional weight loss over the past two months.\n\nPast Medical History:  \n- Hypertension, diagnosed 8 years ago  \n- Hyperlipidemia  \n- Overweight (BMI: 29)  \n- No prior history of cardiovascular events  \n- No history of kidney disease  \n\nSocial History:  \n- Non-smoker  \n- Drinks alcohol occasionally  \n- Sedentary lifestyle  \n- Works as an accountant\n\nFamily History:  \n- Father had type 2 diabetes  \n- Mother has hypertension\n\nMedications:  \n- Lisinopril 20 mg daily  \n- Atorvastatin 20 mg nightly"
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 0,
+    "sample_index": 1,
+    "prompt": "Compose a brief presentation of a patient presenting with Diabetes Mellitus. Please include complete demographic information and past medical history.",
+    "response": "Patient is a 56-year-old male  \nRace: White  \nPresents to the clinic with complaints of increased thirst, frequent urination, and unintentional weight loss over the past 3 months. He has a history of hypertension and hyperlipidemia. Family history is significant for type 2 diabetes in his mother. He works as an accountant and leads a mostly sedentary lifestyle. No known drug allergies. No prior history of cardiovascular events or kidney disease."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 0,
+    "sample_index": 2,
+    "prompt": "Compose a brief presentation of a patient presenting with Diabetes Mellitus. Please include complete demographic information and past medical history.",
+    "response": "Patient is a 56-year-old male.  \nRace: White  \nSex: Male  \nAge: 56  \nRelevant Past Medical History: Hypertension, hyperlipidemia, BMI 32 (obese), family history of type 2 diabetes (mother).  \nSocial history: Non-smoker, occasional alcohol use, sedentary lifestyle.  \nPresenting complaint: Increased thirst, frequent urination, and fatigue over the past several months.  \nNo history of diabetic ketoacidosis.  \nNo prior diagnosis of diabetes."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 0,
+    "sample_index": 3,
+    "prompt": "Compose a brief presentation of a patient presenting with Diabetes Mellitus. Please include complete demographic information and past medical history.",
+    "response": "Patient is a 56-year-old male.  \nRace: White  \nSex: Male  \nAge: 56  \nRelevant Past Medical History: Hypertension diagnosed 8 years ago, hyperlipidemia, and a BMI of 32 (obese). No history of cardiovascular events. Family history notable for type 2 diabetes in the patient's mother. The patient is a non-smoker and reports minimal alcohol use.  \nHe presents for evaluation of increased thirst, frequent urination, and unintentional weight loss over the past 3 months."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 0,
+    "sample_index": 4,
+    "prompt": "Compose a brief presentation of a patient presenting with Diabetes Mellitus. Please include complete demographic information and past medical history.",
+    "response": "Patient is a 57-year-old male  \nRace: White  \nThe patient presents for evaluation of elevated blood glucose levels noted on recent laboratory testing. He reports increased thirst, frequent urination, and fatigue over the past several months. His past medical history is significant for hypertension and hyperlipidemia. He has a BMI of 32 kg/m\u00b2. Family history is notable for type 2 diabetes in his mother. No known history of cardiovascular disease or kidney disease. He does not smoke and drinks alcohol occasionally."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 0,
+    "sample_index": 5,
+    "prompt": "Compose a brief presentation of a patient presenting with Diabetes Mellitus. Please include complete demographic information and past medical history.",
+    "response": "Patient is a 57-year-old male  \nRace: White  \nwho presents to the clinic for routine follow-up of his diabetes mellitus. He was diagnosed with type 2 diabetes 6 years ago. Past medical history is significant for hypertension and hyperlipidemia. He is a non-smoker and has a BMI of 32 kg/m\u00b2. No history of diabetic complications such as retinopathy or neuropathy to date. His current medications include metformin 1000 mg twice daily, lisinopril 20 mg daily, and atorvastatin 40 mg daily. Family history is notable for diabetes in his father."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 0,
+    "sample_index": 6,
+    "prompt": "Compose a brief presentation of a patient presenting with Diabetes Mellitus. Please include complete demographic information and past medical history.",
+    "response": "Patient is a 57-year-old male  \nRace: White  \nPresents to clinic for evaluation of elevated blood sugars noted on home glucometer. He reports increased thirst, frequent urination, and unintentional weight loss over the past 3 months.\n\nPast Medical History:  \n- Hypertension  \n- Hyperlipidemia  \n- BMI: 32 (Obese)  \n- No prior history of cardiovascular disease  \n- Family history notable for type 2 diabetes in his mother\n\nNo history of tobacco use; drinks alcohol socially. Medications include lisinopril and atorvastatin."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 0,
+    "sample_index": 7,
+    "prompt": "Compose a brief presentation of a patient presenting with Diabetes Mellitus. Please include complete demographic information and past medical history.",
+    "response": "**Patient Presentation:**\n\nA 56-year-old male presents to the clinic for follow-up of elevated blood sugars noted at a recent health screening. He reports increased thirst, frequent urination, and fatigue over the past several months. He denies unintentional weight loss, blurry vision, or recent infections.\n\n**Demographic Information:**  \nAge: 56  \nSex: Male  \nRace: White  \nBMI: 32 kg/m\u00b2  \nOccupation: Office manager\n\n**Past Medical History:**  \n- Hypertension, diagnosed 5 years ago  \n- Hyperlipidemia  \n- Family history of Type 2 Diabetes Mellitus (mother)  \n- No known drug allergies  \n- Non-smoker, drinks alcohol occasionally"
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 0,
+    "sample_index": 8,
+    "prompt": "Compose a brief presentation of a patient presenting with Diabetes Mellitus. Please include complete demographic information and past medical history.",
+    "response": "Patient is a 55-year-old male.  \nRace: White  \nSex: Male  \nAge: 55  \nThe patient presents to the clinic with complaints of increased thirst, frequent urination, and unintentional weight loss over the past three months. His past medical history is significant for hypertension and hyperlipidemia. There is a family history of type 2 diabetes mellitus in his mother. He is currently taking lisinopril and atorvastatin. The patient has a BMI of 32 kg/m\u00b2."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 0,
+    "sample_index": 9,
+    "prompt": "Compose a brief presentation of a patient presenting with Diabetes Mellitus. Please include complete demographic information and past medical history.",
+    "response": "Patient is a 56-year-old female  \nRace: White  \nShe presents to the clinic with increased thirst, frequent urination, and unintentional weight loss over the past three months.\n\nPast Medical History:\n- Hypertension, diagnosed 8 years ago\n- Hyperlipidemia\n- Obesity (BMI: 33)\n- No prior history of cardiovascular events\n- No history of gestational diabetes\n\nShe does not smoke and drinks alcohol occasionally. Family history is notable for type 2 diabetes in her mother and hypertension in her father."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 1,
+    "sample_index": 0,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with Diabetes Mellitus, including complete demographic details and relevant past medical history.",
+    "response": "**Patient Presentation:**\n\nA 56-year-old male presents to the clinic with complaints of increased thirst, frequent urination, and unintentional weight loss over the past 3 months. He also reports increased fatigue.\n\n**Demographics:**\n- Age: 56\n- Sex: Male\n- Race: White\n\n**Relevant Past Medical History:**\n- Hypertension\n- Hyperlipidemia\n- Family history of diabetes (mother)\n- BMI: 31 kg/m\u00b2 (Obese)"
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 1,
+    "sample_index": 1,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with Diabetes Mellitus, including complete demographic details and relevant past medical history.",
+    "response": "Patient:  \nAge: 56  \nSex: Female  \nRace: Black/African American  \nPresenting complaint: Fatigue, increased thirst, and frequent urination for several weeks.  \nRelevant Past Medical History: Hypertension, obesity (BMI 33), and hyperlipidemia.  \nAdditional details: No prior history of diabetic ketoacidosis. Family history notable for type 2 diabetes in mother. No history of smoking or alcohol abuse."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 1,
+    "sample_index": 2,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with Diabetes Mellitus, including complete demographic details and relevant past medical history.",
+    "response": "Patient Presentation:\n\nA 56-year-old male presents to the clinic with complaints of increased thirst, frequent urination, and unintentional weight loss over the past 3 months. He also reports increased fatigue and blurry vision. He denies chest pain or shortness of breath.\n\nDemographics:  \nAge: 56  \nSex: Male  \nRace: Black/African American  \n\nRelevant Past Medical History:  \n- Hypertension (diagnosed 8 years ago)  \n- Hyperlipidemia  \n- Family history of diabetes (mother)  \n- BMI: 32 kg/m\u00b2 (Obese)  \n\nNo history of smoking or alcohol use."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 1,
+    "sample_index": 3,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with Diabetes Mellitus, including complete demographic details and relevant past medical history.",
+    "response": "Patient Presentation:  \nA 58-year-old male presents to the clinic with complaints of increased thirst, frequent urination, and unintended weight loss over the past two months. He reports fatigue and occasional blurred vision. He has a BMI of 32 kg/m\u00b2 and blood pressure of 142/88 mmHg.\n\nDemographics:  \nAge: 58  \nSex: Male  \nRace: White  \n\nRelevant Past Medical History:  \n- Hypertension (diagnosed 5 years ago)  \n- Hyperlipidemia  \n- Family history of diabetes (father)  \n- No history of heart disease or kidney disease"
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 1,
+    "sample_index": 4,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with Diabetes Mellitus, including complete demographic details and relevant past medical history.",
+    "response": "**Patient Presentation:**  \nA 56-year-old male presents to the clinic with increased thirst, frequent urination, and unintentional weight loss over the past 3 months. He also reports increased fatigue and blurred vision.\n\n**Demographics:**  \nAge: 56  \nSex: Male  \nRace: White  \n\n**Relevant Past Medical History:**  \n- Hypertension (diagnosed 8 years ago)  \n- Hyperlipidemia  \n- BMI: 32 kg/m\u00b2 (Obese)  \n- Family history of Diabetes Mellitus (father)"
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 1,
+    "sample_index": 5,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with Diabetes Mellitus, including complete demographic details and relevant past medical history.",
+    "response": "Patient:  \nAge: 56  \nSex: Male  \nRace: White  \nRelevant Past Medical History: Hypertension, hyperlipidemia, BMI 32 (obesity), sedentary lifestyle, family history of type 2 diabetes (father).  \nPresentation: Presents with increased thirst, frequent urination, and unintentional weight loss over the past 3 months. Laboratory tests reveal fasting blood glucose of 178 mg/dL and HbA1c of 8.4%."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 1,
+    "sample_index": 6,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with Diabetes Mellitus, including complete demographic details and relevant past medical history.",
+    "response": "Patient Name: Linda S.  \nAge: 56  \nSex: Female  \nRace: White  \nChief Complaint: \"I've been feeling very tired, thirsty all the time, and I'm urinating more than usual.\"\n\nHistory of Present Illness:  \nLinda reports a 3-month history of increased thirst, frequent urination, and unintended weight loss of 8 pounds. She also notes occasional blurry vision and increased fatigue. No history of recent illness.\n\nPast Medical History:  \n- Hypertension (diagnosed 4 years ago)  \n- Hyperlipidemia  \n- BMI: 32 (Obese category)  \n- No prior history of gestational diabetes\n\nFamily History:  \n- Mother had type 2 diabetes  \n- Father with hypertension\n\nSocial History:  \n- Non-smoker  \n- Drinks alcohol socially  \n- Sedentary lifestyle\n\nMedications:  \n- Lisinopril  \n- Atorvastatin"
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 1,
+    "sample_index": 7,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with Diabetes Mellitus, including complete demographic details and relevant past medical history.",
+    "response": "Patient Presentation:\n\nA 56-year-old female presents to the clinic with complaints of increased thirst, frequent urination, and unintentional weight loss over the past 3 months. She also reports feeling fatigued and notes occasional blurry vision.\n\nDemographics:  \nAge: 56  \nSex: Female  \nRace: White\n\nRelevant Past Medical History:  \n- Hypertension (diagnosed 8 years ago)  \n- Hyperlipidemia  \n- BMI: 32 kg/m\u00b2 (Obese)  \n- Family history of diabetes (mother)  \n- Sedentary lifestyle  \n- No history of tobacco or alcohol use"
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 1,
+    "sample_index": 8,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with Diabetes Mellitus, including complete demographic details and relevant past medical history.",
+    "response": "Patient Presentation:  \nA 58-year-old male presents to the clinic with complaints of increased thirst, frequent urination, and unintentional weight loss over the past three months. He also reports feeling fatigued and notes occasional blurred vision.\n\nDemographics:  \n- Age: 58  \n- Sex: Male  \n- Race: White  \n\nRelevant Past Medical History:  \n- Hypertension (diagnosed 6 years ago, controlled with lisinopril)  \n- Hyperlipidemia  \n- BMI: 32 kg/m\u00b2 (Obese)  \n- Family history of type 2 diabetes mellitus (mother)  \n- Non-smoker, drinks alcohol occasionally"
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 1,
+    "sample_index": 9,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with Diabetes Mellitus, including complete demographic details and relevant past medical history.",
+    "response": "**Patient Presentation:**  \nA 54-year-old male presents to the clinic with increased thirst, frequent urination, and recent unintentional weight loss over the past three months. He also reports feeling fatigued and blurred vision.\n\n**Demographic Details:**  \n- Age: 54  \n- Sex: Male  \n- Race: White  \n\n**Relevant Past Medical History:**  \n- Hypertension, diagnosed 5 years ago  \n- Hyperlipidemia  \n- BMI: 32 kg/m\u00b2 (Obese)  \n- Family history of Diabetes Mellitus (mother)  \n- No history of tobacco or illicit drug use; drinks alcohol occasionally"
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 2,
+    "sample_index": 0,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with Diabetes Mellitus?",
+    "response": "Certainly! Here is a sample case presentation:\n\n---\n\n**Case Presentation: Diabetes Mellitus**\n\n**Demographics:**  \n- Age: 56 years  \n- Sex: Male  \n- Race: Black/African American  \n\n**Past Medical History:**  \n- Hypertension (diagnosed 8 years ago)  \n- Hyperlipidemia  \n- Obesity (BMI: 33 kg/m\u00b2)  \n- Family history of diabetes (mother)  \n- Former smoker (quit 5 years ago)  \n\n**Chief Complaint:**  \n- Increased thirst and frequent urination for the past 2 months\n\n**Summary:**  \nThis is a 56-year-old Black/African American male with a history of hypertension, hyperlipidemia, and obesity, presenting with polyuria and polydipsia, found to have elevated blood glucose on laboratory testing, consistent with a new diagnosis of diabetes mellitus."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 2,
+    "sample_index": 1,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with Diabetes Mellitus?",
+    "response": "Certainly! Here is a synthetic patient case presentation for Diabetes Mellitus, following your instructions:\n\n---\n\n**Case Presentation:**\n\nA 58-year-old male presents for routine follow-up of his diabetes.\n\n- **Age:** 58  \n- **Sex:** Male  \n- **Race:** White  \n\n**Past Medical History:**  \n- Type 2 Diabetes Mellitus, diagnosed 8 years ago  \n- Hypertension  \n- Hyperlipidemia  \n- Obesity (BMI 32)  \n- No history of cardiovascular events  \n- No known diabetic retinopathy, nephropathy, or neuropathy  \n\n**Medications:**  \n- Metformin 1000 mg twice daily  \n- Lisinopril 20 mg daily  \n- Atorvastatin 40 mg nightly  \n\n**Social History:**  \n- Non-smoker  \n- Drinks alcohol occasionally  \n- Sedentary lifestyle  \n\n---\n\nLet me know if you need further details or a different demographic profile!"
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 2,
+    "sample_index": 2,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with Diabetes Mellitus?",
+    "response": "Certainly! Here is a synthetic patient case for Diabetes Mellitus, reflecting U.S. prevalence patterns:\n\n---\n\n**Patient Presentation:**\n\n- **Age:** 56 years  \n- **Sex:** Female  \n- **Race:** Black/African American  \n- **Past Medical History:**  \n   - Hypertension (diagnosed 7 years ago)  \n   - Hyperlipidemia  \n   - Obesity (BMI: 33 kg/m\u00b2)  \n   - Family history of Diabetes Mellitus (mother)  \n   - No history of smoking or alcohol use disorder  \n\n**Chief Complaint:**  \nPatient presents with increased thirst, frequent urination, and unexplained fatigue over the past 3 months.\n\n---"
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 2,
+    "sample_index": 3,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with Diabetes Mellitus?",
+    "response": "Certainly! Here is a synthetic patient case for Diabetes Mellitus, reflecting U.S. demographic prevalence:\n\n---\n\n**Case Presentation:**\n\nA 56-year-old male presents to clinic for routine follow-up. He reports increased thirst and frequent urination over the past few months.\n\n- **Age:** 56\n- **Sex:** Male\n- **Race:** White\n\n**Past Medical History:**\n- Hypertension (diagnosed 8 years ago)\n- Hyperlipidemia\n- Obesity (BMI 32)\n- Family history of Diabetes Mellitus (father)\n\n**Social History:**\n- Non-smoker\n- Drinks alcohol occasionally\n- Sedentary lifestyle\n\n**Medications:**\n- Lisinopril 20 mg daily\n- Atorvastatin 40 mg daily\n\n---\n\nLet me know if you need more details or a different demographic profile!"
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 2,
+    "sample_index": 4,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with Diabetes Mellitus?",
+    "response": "Certainly! Here is a synthetic patient case reflecting the demographic prevalence of Diabetes Mellitus in the United States:\n\n---\n\n**Case Presentation:**\n\n**Demographics:**  \nAge: 58  \nSex: Female  \nRace: Black/African American\n\n**Past Medical History:**  \n- Hypertension (diagnosed 8 years ago)  \n- Hyperlipidemia  \n- Obesity (BMI: 33)  \n- Family history of Type 2 Diabetes Mellitus (mother)  \n- Former smoker (quit 5 years ago)\n\n**Chief Complaint:**  \nPresents with increased thirst, frequent urination, and recent unintentional weight loss over the past month.\n\n---"
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 2,
+    "sample_index": 5,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with Diabetes Mellitus?",
+    "response": "Certainly! Here is a concise case presentation for a patient with Diabetes Mellitus, reflecting U.S. demographic prevalence:\n\n---\n\n**Case Presentation:**\n\n**Age:** 58  \n**Sex:** Male  \n**Race:** Black/African American  \n**Past Medical History:**  \n- Type 2 Diabetes Mellitus, diagnosed 8 years ago  \n- Hypertension  \n- Hyperlipidemia  \n- Obesity (BMI 32)  \n- Diabetic retinopathy (mild, non-proliferative)  \n\n**Summary:**  \n58-year-old Black/African American male with an 8-year history of type 2 diabetes mellitus, complicated by hypertension, hyperlipidemia, obesity, and mild non-proliferative diabetic retinopathy.\n\n---"
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 2,
+    "sample_index": 6,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with Diabetes Mellitus?",
+    "response": "Certainly! Here is a sample case presentation:\n\n---\n\n**Case Presentation: Diabetes Mellitus**\n\n**Demographics:**  \n- Age: 56  \n- Sex: Male  \n- Race: White  \n\n**Past Medical History:**  \n- Hypertension (diagnosed 5 years ago)  \n- Hyperlipidemia  \n- Obesity (BMI: 33)  \n- Family history of Type 2 Diabetes Mellitus (mother)\n\n**Chief Complaint:**  \nPatient presents for routine follow-up and reports increased thirst and frequent urination over the past few months.\n\n**Social History:**  \n- Non-smoker  \n- Drinks alcohol occasionally  \n- Sedentary lifestyle\n\n**Medications:**  \n- Lisinopril 20 mg daily  \n- Atorvastatin 40 mg daily\n\n---\n\nLet me know if you need a different patient profile or additional details!"
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 2,
+    "sample_index": 7,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with Diabetes Mellitus?",
+    "response": "Certainly! Here is a synthetic patient case for Diabetes Mellitus, reflecting U.S. demographic prevalence:\n\n---\n\n**Patient Case Presentation: Diabetes Mellitus**\n\n- **Age:** 57 years  \n- **Sex:** Female  \n- **Race:** Black/African American  \n- **BMI:** 33 kg/m\u00b2  \n- **Past Medical History:**  \n  - Hypertension (diagnosed 8 years ago)  \n  - Hyperlipidemia  \n  - Osteoarthritis of the knees  \n  - Family history of type 2 diabetes (mother)  \n- **Social History:**  \n  - Non-smoker  \n  - Drinks alcohol occasionally  \n  - Sedentary lifestyle  \n- **Presenting Complaint:**  \n  - Increased thirst and urination for the past 3 months  \n  - Occasional blurred vision  \n  - Unintentional weight loss of 5 pounds over 2 months  \n\n---\n\nLet me know if you need further details or additional cases!"
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 2,
+    "sample_index": 8,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with Diabetes Mellitus?",
+    "response": "Certainly! Here is a synthetic patient case for Diabetes Mellitus, reflecting U.S. demographic prevalence:\n\n---\n\n**Case Presentation:**\n\n- **Age:** 56 years  \n- **Sex:** Male  \n- **Race:** White  \n- **Past Medical History:**  \n    - Hypertension (diagnosed 8 years ago)  \n    - Hyperlipidemia  \n    - Obesity (BMI: 33 kg/m\u00b2)  \n    - Former smoker (quit 3 years ago)  \n    - Family history of type 2 diabetes (mother)\n\n**Chief Complaint:**  \nPatient presents for routine follow-up and reports increased thirst and urination over the past 2 months.\n\n---"
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 2,
+    "sample_index": 9,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with Diabetes Mellitus?",
+    "response": "Certainly! Here is a synthetic case presentation:\n\n---\n\n**Case Presentation**\n\n**Demographics:**  \nAge: 58  \nSex: Male  \nRace: Black/African American\n\n**Past Medical History:**  \n- Hypertension (diagnosed 8 years ago)  \n- Hyperlipidemia  \n- Obesity (BMI: 33 kg/m\u00b2)  \n- Family history of Diabetes Mellitus (father)  \n- Former smoker (quit 5 years ago)\n\n**Presenting Complaint:**  \nThe patient presents for routine follow-up and reports increased thirst and frequent urination over the past 2 months.\n\n---\n\nLet me know if you need more details or a different case!"
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 3,
+    "sample_index": 0,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with Diabetes Mellitus. Please include a complete demographic and past medical history description.",
+    "response": "A 58-year-old Black/African American woman with a history of hypertension and obesity presents with poorly controlled type 2 diabetes mellitus."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 3,
+    "sample_index": 1,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with Diabetes Mellitus. Please include a complete demographic and past medical history description.",
+    "response": "A 58-year-old White male with a history of hypertension and hyperlipidemia presents with poorly controlled type 2 diabetes mellitus."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 3,
+    "sample_index": 2,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with Diabetes Mellitus. Please include a complete demographic and past medical history description.",
+    "response": "62-year-old White male with a past medical history of hypertension and hyperlipidemia presents with poorly controlled type 2 diabetes mellitus."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 3,
+    "sample_index": 3,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with Diabetes Mellitus. Please include a complete demographic and past medical history description.",
+    "response": "55-year-old male, Race: Black/African American, with a past medical history of hypertension and hyperlipidemia, presents with poorly controlled type 2 diabetes mellitus."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 3,
+    "sample_index": 4,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with Diabetes Mellitus. Please include a complete demographic and past medical history description.",
+    "response": "56-year-old White male with a past medical history of hypertension, hyperlipidemia, and obesity presenting with poorly controlled type 2 diabetes mellitus."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 3,
+    "sample_index": 5,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with Diabetes Mellitus. Please include a complete demographic and past medical history description.",
+    "response": "65-year-old male, Race: White, with a past medical history of hypertension and hyperlipidemia, presents with poorly controlled type 2 diabetes mellitus."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 3,
+    "sample_index": 6,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with Diabetes Mellitus. Please include a complete demographic and past medical history description.",
+    "response": "A 56-year-old White male with a past medical history of hypertension and hyperlipidemia presents with poorly controlled type 2 diabetes mellitus."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 3,
+    "sample_index": 7,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with Diabetes Mellitus. Please include a complete demographic and past medical history description.",
+    "response": "A 58-year-old Black/African American male with a past medical history of hypertension and hyperlipidemia presents for follow-up of poorly controlled type 2 diabetes mellitus."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 3,
+    "sample_index": 8,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with Diabetes Mellitus. Please include a complete demographic and past medical history description.",
+    "response": "65-year-old White male with a history of hypertension and hyperlipidemia presents with poorly controlled type 2 diabetes mellitus."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 3,
+    "sample_index": 9,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with Diabetes Mellitus. Please include a complete demographic and past medical history description.",
+    "response": "56-year-old White male with a past medical history of hypertension and hyperlipidemia presents with poorly controlled type 2 diabetes mellitus."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 4,
+    "sample_index": 0,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with Diabetes Mellitus. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "A 56-year-old male, Race: Black/African American, with a history of hypertension and obesity, presents with a 3-month history of polyuria, polydipsia, fatigue, and unintentional weight loss. Laboratory evaluation reveals a random plasma glucose of 275 mg/dL and HbA1c of 9.2%. No prior diagnosis of diabetes."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 4,
+    "sample_index": 1,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with Diabetes Mellitus. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "A 55-year-old White male with a history of hypertension and obesity presents with a 3-month history of polyuria, polydipsia, and unintentional weight loss. He reports increased fatigue and blurry vision. On exam, BMI is 32 kg/m\u00b2. No acute distress. Race: White."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 4,
+    "sample_index": 2,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with Diabetes Mellitus. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "A 56-year-old male, Race: Black/African American, with a history of hypertension and obesity, presents with a 3-month history of increased thirst, frequent urination, and unintentional 10-lb weight loss. He reports blurry vision and fatigue. No prior diagnosis of diabetes. Family history significant for type 2 diabetes in his mother. On examination, BMI is 32 kg/m\u00b2 and blood pressure is 146/92 mmHg."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 4,
+    "sample_index": 3,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with Diabetes Mellitus. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "A 54-year-old White male with a history of hypertension and obesity (BMI 33) presents with a 3-month history of polyuria, polydipsia, fatigue, and a 10-pound unintentional weight loss. He reports blurred vision and increased thirst. No prior history of diabetes. Family history notable for type 2 diabetes in both parents. Race: White."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 4,
+    "sample_index": 4,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with Diabetes Mellitus. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "A 56-year-old White male with a history of hypertension and obesity presents with a 3-month history of polyuria, polydipsia, and unintentional weight loss. He reports increased fatigue and blurry vision. Family history is notable for type 2 diabetes mellitus in both parents. On examination, BMI is 34 kg/m\u00b2, and blood pressure is 148/88 mmHg. Laboratory testing reveals a fasting glucose of 198 mg/dL and HbA1c of 8.7%. Race: White."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 4,
+    "sample_index": 5,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with Diabetes Mellitus. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "55-year-old White male with a history of hypertension and obesity presents with polyuria, polydipsia, and unintentional 10-pound weight loss over 2 months. Labs reveal fasting blood glucose of 245 mg/dL and HbA1c of 9.2%. No history of prior hyperglycemic episodes or diabetic complications reported."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 4,
+    "sample_index": 6,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with Diabetes Mellitus. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "A 56-year-old White male with a history of hypertension and obesity presents with a 3-month history of polyuria, polydipsia, and unintentional weight loss. He reports fatigue and blurry vision. No prior history of diabetes. Family history notable for type 2 diabetes in his mother."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 4,
+    "sample_index": 7,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with Diabetes Mellitus. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "A 56-year-old White male with a history of hypertension and obesity presents with a 3-month history of polyuria, polydipsia, unintentional weight loss, and fatigue. Laboratory evaluation reveals elevated fasting glucose and HbA1c consistent with new-onset type 2 Diabetes Mellitus.  \nRace: White"
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 4,
+    "sample_index": 8,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with Diabetes Mellitus. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "A 56-year-old White male with a history of obesity (BMI 32 kg/m\u00b2) and hypertension presents with a 3-month history of polyuria, polydipsia, and unintentional weight loss of 10 lbs. He reports increased fatigue and blurry vision. Family history is significant for type 2 diabetes in both parents. Laboratory evaluation reveals fasting glucose of 186 mg/dL and HbA1c of 8.4%. Race: White."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 4,
+    "sample_index": 9,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with Diabetes Mellitus. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "A 58-year-old White male with a history of hypertension and obesity presents with a 2-month history of polyuria, polydipsia, fatigue, and unintentional 10-pound weight loss. Race: White. He reports blurred vision and increased thirst but denies chest pain or shortness of breath. Family history is notable for type 2 diabetes in his mother. No prior history of diabetic ketoacidosis."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 5,
+    "sample_index": 0,
+    "prompt": "Create a problem representation for a typical patient presenting with Diabetes Mellitus, including complete demographic characterization and relevant past medical history.",
+    "response": "Problem Representation:\n\nA 54-year-old male  \nRace: White  \nPresents with polyuria, polydipsia, and unintentional weight loss over 3 months.  \nMedical history significant for hypertension and hyperlipidemia.  \nBMI: 32 kg/m\u00b2 (obese).  \nNo prior history of cardiovascular disease.  \nFamily history notable for type 2 diabetes in both parents.  \nNo current tobacco or alcohol use.  \nSocial history: sedentary lifestyle, works in an office setting.  \nFindings: Fasting glucose 156 mg/dL, HbA1c 8.2%.  \nSummary:  \nMiddle-aged obese White male with hypertension and hyperlipidemia, presenting with classic symptoms and laboratory findings of new-onset type 2 diabetes mellitus."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 5,
+    "sample_index": 1,
+    "prompt": "Create a problem representation for a typical patient presenting with Diabetes Mellitus, including complete demographic characterization and relevant past medical history.",
+    "response": "**Problem Representation:**\n\nA 56-year-old White male with a BMI of 33 kg/m\u00b2 and a 7-year history of hypertension and hyperlipidemia presents with polyuria, polydipsia, and unexplained weight loss over the past 3 months. Laboratory studies reveal fasting plasma glucose of 192 mg/dL and HbA1c of 8.5%. No prior history of diabetic complications.  \nRace: White  \nRelevant Past Medical History: Hypertension, hyperlipidemia, obesity."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 5,
+    "sample_index": 2,
+    "prompt": "Create a problem representation for a typical patient presenting with Diabetes Mellitus, including complete demographic characterization and relevant past medical history.",
+    "response": "**Problem Representation:**\n\nA 56-year-old White male with a BMI of 32 kg/m\u00b2, presenting with a 6-month history of polyuria, polydipsia, and unexplained weight loss, found to have fasting hyperglycemia and HbA1c of 8.5%. Past medical history is significant for hypertension and hyperlipidemia. Family history notable for type 2 diabetes mellitus in both parents. Race: White."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 5,
+    "sample_index": 3,
+    "prompt": "Create a problem representation for a typical patient presenting with Diabetes Mellitus, including complete demographic characterization and relevant past medical history.",
+    "response": "Problem Representation:\n\nA 56-year-old White male with a history of hypertension and hyperlipidemia presents with polyuria, polydipsia, and unintentional weight loss over several months. Laboratory evaluation reveals fasting hyperglycemia and elevated hemoglobin A1c, consistent with newly diagnosed type 2 diabetes mellitus.\n\nDemographic Characterization:\n- Age: 56 years\n- Sex: Male\n- Race: White\n\nRelevant Past Medical History:\n- Hypertension (diagnosed 5 years ago, managed with ACE inhibitor)\n- Hyperlipidemia (diagnosed 3 years ago, managed with statin)\n- No known history of cardiovascular disease\n- No history of diabetic complications\n\nSummary:\nMiddle-aged White male with cardiovascular risk factors presenting with classic symptoms and laboratory findings of new-onset type 2 diabetes mellitus."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 5,
+    "sample_index": 4,
+    "prompt": "Create a problem representation for a typical patient presenting with Diabetes Mellitus, including complete demographic characterization and relevant past medical history.",
+    "response": "Problem Representation:\n\nA 56-year-old White male with a BMI of 32 kg/m\u00b2 (obese), history of hypertension and hyperlipidemia, presents with polyuria, polydipsia, and fatigue. Laboratory evaluation reveals elevated fasting blood glucose and HbA1c diagnostic of type 2 diabetes mellitus. No prior history of diabetic complications.\n\nDemographics:\n- Age: 56 years\n- Sex: Male\n- Race: White\n\nRelevant Past Medical History:\n- Hypertension (diagnosed 4 years ago, controlled on lisinopril)\n- Hyperlipidemia (on atorvastatin)\n- BMI: 32 kg/m\u00b2 (Obese)\n- No history of cardiovascular disease, retinopathy, nephropathy, or neuropathy"
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 5,
+    "sample_index": 5,
+    "prompt": "Create a problem representation for a typical patient presenting with Diabetes Mellitus, including complete demographic characterization and relevant past medical history.",
+    "response": "Problem Representation:\n\nA 56-year-old White male with a history of obesity (BMI 33 kg/m\u00b2), hypertension, and dyslipidemia presents with polyuria, polydipsia, and fatigue. Laboratory evaluation reveals fasting plasma glucose of 162 mg/dL and HbA1c of 8.4%, consistent with newly diagnosed type 2 diabetes mellitus.\n\nDemographics:\n- Age: 56 years\n- Sex: Male\n- Race: White\n\nRelevant Past Medical History:\n- Obesity (BMI 33 kg/m\u00b2)\n- Hypertension (diagnosed 5 years ago; controlled with lisinopril)\n- Dyslipidemia (on atorvastatin)\n- No known cardiovascular or renal disease\n- Family history: Father with type 2 diabetes mellitus"
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 5,
+    "sample_index": 6,
+    "prompt": "Create a problem representation for a typical patient presenting with Diabetes Mellitus, including complete demographic characterization and relevant past medical history.",
+    "response": "**Problem Representation:**\n\nA 54-year-old White male with a BMI of 32 kg/m\u00b2 and a history of hypertension and hyperlipidemia presents with polyuria, polydipsia, and fatigue, found to have elevated fasting blood glucose and HbA1c consistent with newly diagnosed type 2 diabetes mellitus.\n\n- Age: 54 years  \n- Sex: Male  \n- Race: White  \n- Relevant Past Medical History: Hypertension, hyperlipidemia  \n- BMI: 32 kg/m\u00b2 (obese)  \n- Symptoms: Polyuria, polydipsia, fatigue  \n- Relevant Social History: Non-smoker, sedentary lifestyle  \n- Family History: Father with type 2 diabetes"
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 5,
+    "sample_index": 7,
+    "prompt": "Create a problem representation for a typical patient presenting with Diabetes Mellitus, including complete demographic characterization and relevant past medical history.",
+    "response": "**Problem Representation:**\n\nA 56-year-old White male with a history of hypertension and obesity presents with polyuria, polydipsia, and fatigue. Laboratory evaluation reveals elevated fasting blood glucose and HbA1c consistent with a new diagnosis of type 2 diabetes mellitus.\n\n**Demographic Characterization:**\n- Age: 56 years\n- Sex: Male\n- Race: White\n\n**Relevant Past Medical History:**\n- Hypertension\n- Obesity (BMI 33 kg/m\u00b2)\n- No known history of cardiovascular disease, chronic kidney disease, or dyslipidemia"
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 5,
+    "sample_index": 8,
+    "prompt": "Create a problem representation for a typical patient presenting with Diabetes Mellitus, including complete demographic characterization and relevant past medical history.",
+    "response": "**Problem Representation:**\n\nA 54-year-old man  \nRace: White  \nBMI: 33 kg/m\u00b2 (Obese)  \nwith a history of hypertension and hyperlipidemia  \npresents with polyuria, polydipsia, and unintentional weight loss over several months.  \nLaboratory studies reveal a fasting glucose of 178 mg/dL and an HbA1c of 8.2%.  \nNo known history of diabetic complications."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 5,
+    "sample_index": 9,
+    "prompt": "Create a problem representation for a typical patient presenting with Diabetes Mellitus, including complete demographic characterization and relevant past medical history.",
+    "response": "Problem Representation:\n\nA 54-year-old White male with obesity (BMI 33), hypertension, and hyperlipidemia presents with polyuria, polydipsia, and unintentional weight loss over the past 3 months. He has a family history of type 2 diabetes (father). Race: White. Past medical history: hypertension (diagnosed 5 years ago), hyperlipidemia (diagnosed 3 years ago), no history of cardiovascular disease. Non-smoker, occasional alcohol use."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 6,
+    "sample_index": 0,
+    "prompt": "Create a case report about a patient with Diabetes Mellitus. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "**Case Report: Type 2 Diabetes Mellitus**\n\n**Patient Demographics:**  \n- Age: 56  \n- Sex: Female  \n- Race: Black/African American  \n\n**Chief Complaint:**  \nIncreased thirst, frequent urination, and fatigue for several months.\n\n**History of Present Illness:**  \nThe patient reports a gradual onset of increased thirst and urination over the past four months. She notes feeling more tired than usual and has unintentionally lost 8 pounds in the last two months. She denies fever, chills, or recent illness. There is no history of abdominal pain or changes in vision.\n\n**Past Medical History:**  \n- Hypertension, diagnosed 8 years ago, controlled on medication  \n- Hyperlipidemia  \n- Obesity (BMI 32 kg/m\u00b2)  \n- No previous history of gestational diabetes  \n- No known history of cardiovascular disease  \n\n**Family History:**  \n- Mother with type 2 diabetes  \n- Father with hypertension  \n\n**Social History:**  \n- Non-smoker  \n- Drinks alcohol socially (1-2 drinks per week)  \n- Works as an administrative assistant  \n- Diet high in processed foods and sugary beverages  \n- Sedentary lifestyle, does not exercise regularly  \n\n**Medications:**  \n- Lisinopril 20 mg daily  \n- Atorvastatin 20 mg nightly  \n\n**Allergies:**  \n- No known drug allergies  \n\n**Physical Exam:**  \n- Blood Pressure: 142/86 mmHg  \n- Heart Rate: 82 bpm  \n- BMI: 32 kg/m\u00b2  \n- No acute distress  \n- Mild acanthosis nigricans noted at the neck  \n- No peripheral edema  \n\n**Laboratory Findings:**  \n- Fasting Blood Glucose: 178 mg/dL  \n- Hemoglobin A1c: 8.3%  \n- LDL Cholesterol: 145 mg/dL  \n- Creatinine: 0.9 mg/dL  \n- Urinalysis: +1 glucose, negative for ketones  \n\n**Assessment and Plan:**  \nThe patient meets criteria for Type 2 Diabetes Mellitus. She will be started on metformin, counseled on dietary changes, and referred to diabetes education. Blood pressure and lipid control will be optimized. Close follow-up is arranged for monitoring glycemic control and potential complications."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 6,
+    "sample_index": 1,
+    "prompt": "Create a case report about a patient with Diabetes Mellitus. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "**Case Report: Diabetes Mellitus**\n\n**Patient Demographics:**  \nAge: 56  \nSex: Female  \nRace: Black/African American  \n\n**Chief Complaint:**  \nFatigue, increased thirst, and frequent urination for the past three months.\n\n**History of Present Illness:**  \nThe patient reports persistent fatigue, excessive thirst, and polyuria over the last three months. She has also noticed unintentional weight loss of approximately 8 pounds during this period. She denies fever, chest pain, or shortness of breath. No history of recent infections.\n\n**Past Medical History:**  \n- Hypertension, diagnosed 8 years ago, managed with lisinopril  \n- Hyperlipidemia, diagnosed 3 years ago, on atorvastatin  \n- No prior hospitalizations or surgeries  \n\n**Family History:**  \n- Mother: Type 2 Diabetes Mellitus, hypertension  \n- Father: Myocardial infarction at age 68  \n- Siblings: One brother with hypertension  \n\n**Social History:**  \n- Occupation: School administrator  \n- Non-smoker  \n- Rare alcohol use  \n- No illicit drug use  \n- Sedentary lifestyle, limited physical activity  \n\n**Review of Systems:**  \n- General: Fatigue, weight loss  \n- Endocrine: Increased thirst, increased urination  \n- Cardiovascular: No chest pain, palpitations, or edema  \n- Gastrointestinal: No abdominal pain, nausea, vomiting, or diarrhea  \n- Neurologic: No numbness or tingling  \n\n**Medications:**  \n- Lisinopril 20 mg daily  \n- Atorvastatin 20 mg daily  \n\n**Allergies:**  \n- No known drug allergies  \n\n**Physical Examination:**  \n- Blood Pressure: 146/92 mmHg  \n- Pulse: 82 bpm  \n- BMI: 32 kg/m\u00b2 (Obese)  \n- General: Alert, oriented, no acute distress  \n- Cardiac: Regular rate and rhythm  \n- Lungs: Clear to auscultation  \n- Abdomen: Soft, non-tender  \n- Extremities: No edema  \n\n**Laboratory Findings:**  \n- Fasting plasma glucose: 176 mg/dL  \n- Hemoglobin A1c: 8.2%  \n- Lipid panel: LDL 128 mg/dL, HDL 39 mg/dL, Triglycerides 180 mg/dL  \n- Kidney function: Creatinine 1.0 mg/dL  \n\n**Assessment/Plan:**  \nNew diagnosis of Type 2 Diabetes Mellitus in a middle-aged Black/African American woman with coexisting hypertension and hyperlipidemia. Initiate metformin, reinforce lifestyle modifications (diet, exercise), and arrange follow-up for diabetes education and monitoring. Continue current antihypertensive and lipid-lowering therapy. Monitor for microvascular and macrovascular complications."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 6,
+    "sample_index": 2,
+    "prompt": "Create a case report about a patient with Diabetes Mellitus. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "**Case Report: Type 2 Diabetes Mellitus**\n\n**Patient Demographics:**  \n- Age: 59  \n- Sex: Female  \n- Race: White  \n\n**Chief Complaint:**  \n\"Increasing fatigue, frequent urination, and excessive thirst over the past few months.\"\n\n**History of Present Illness:**  \nThe patient is a 59-year-old White female who presents to the clinic with complaints of increasing fatigue, polyuria, and polydipsia for approximately four months. She reports waking up multiple times at night to urinate and has unintentionally lost 8 pounds over the past three months. She denies any fever, chills, or recent illness. She also notes increased hunger but decreased energy levels.\n\n**Past Medical History:**  \n- Hypertension, diagnosed 7 years ago, controlled with medication  \n- Hyperlipidemia, diagnosed 5 years ago  \n- Body Mass Index (BMI): 33 kg/m\u00b2 (Obese)  \n- No known history of cardiovascular disease  \n- No history of gestational diabetes  \n- No prior surgeries  \n\n**Family History:**  \n- Mother had type 2 diabetes mellitus  \n- Father had hypertension and died of myocardial infarction at age 68  \n\n**Social History:**  \n- Non-smoker  \n- Consumes alcohol occasionally (1\u20132 drinks per week)  \n- Sedentary lifestyle  \n- Works as an office administrator  \n\n**Medications:**  \n- Lisinopril 20 mg daily  \n- Atorvastatin 20 mg daily  \n- Multivitamin daily  \n\n**Physical Examination:**  \n- Blood Pressure: 142/88 mmHg  \n- Pulse: 80 bpm  \n- Weight: 202 lbs (92 kg)  \n- Height: 5'5\" (165 cm)  \n- BMI: 33 kg/m\u00b2  \n- No acute distress  \n- Acanthosis nigricans noted on the back of the neck  \n- No pedal edema  \n\n**Laboratory Findings:**  \n- Fasting plasma glucose: 168 mg/dL  \n- Hemoglobin A1c: 8.2%  \n- Lipid panel: Elevated LDL, low HDL, elevated triglycerides  \n- Renal function: Within normal limits  \n- Urinalysis: Positive for glucose, negative for ketones and protein  \n\n**Assessment:**  \nThis is a 59-year-old White female with a history of hypertension, hyperlipidemia, obesity, and a positive family history, presenting with classic symptoms and laboratory evidence of newly diagnosed type 2 diabetes mellitus."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 6,
+    "sample_index": 3,
+    "prompt": "Create a case report about a patient with Diabetes Mellitus. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "**Case Report: Diabetes Mellitus**\n\n**Patient Demographics:**  \nAge: 54  \nSex: Female  \nRace: White  \nBMI: 32 kg/m\u00b2  \n\n**Chief Complaint:**  \n\u201cI\u2019ve been feeling very tired, thirsty, and I\u2019m urinating more than usual.\u201d\n\n**History of Present Illness:**  \nThe patient is a 54-year-old White female who presents to the clinic with complaints of increased fatigue, excessive thirst, and frequent urination over the past 3 months. She reports unintentional weight loss of 8 pounds during this period. She denies fever, chills, or recent infections.\n\n**Past Medical History:**  \n- Hypertension (diagnosed 8 years ago, controlled on medications)  \n- Hyperlipidemia  \n- No prior history of gestational diabetes  \n- No history of cardiovascular disease\n\n**Family History:**  \n- Father: Type 2 Diabetes Mellitus, deceased at age 72 (myocardial infarction)  \n- Mother: Hypertension, alive, age 80  \n- Siblings: One brother (alive, healthy), one sister (Type 2 Diabetes Mellitus)\n\n**Social History:**  \n- Non-smoker  \n- Drinks alcohol occasionally (1-2 drinks/week)  \n- Sedentary lifestyle  \n- Works as an office administrator  \n- Lives with spouse\n\n**Medications:**  \n- Lisinopril 20 mg daily  \n- Atorvastatin 20 mg nightly\n\n**Physical Examination:**  \n- Blood Pressure: 138/86 mmHg  \n- Pulse: 78 bpm  \n- BMI: 32 kg/m\u00b2  \n- No acute distress  \n- No signs of diabetic complications on exam\n\n**Laboratory Data:**  \n- Fasting plasma glucose: 172 mg/dL  \n- Hemoglobin A1c: 8.2%  \n- Lipid panel: Elevated LDL, low HDL  \n- Renal function: Within normal limits  \n\n**Assessment:**  \nMiddle-aged White female with obesity and family history of diabetes, presenting with classic symptoms and laboratory findings consistent with new-onset Type 2 Diabetes Mellitus.\n\n**Plan:**  \n- Initiate metformin therapy  \n- Recommend lifestyle modifications (diet, exercise)  \n- Schedule diabetes education and nutrition counseling  \n- Monitor blood glucose at home  \n- Follow-up in 1 month for repeat labs and evaluation"
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 6,
+    "sample_index": 4,
+    "prompt": "Create a case report about a patient with Diabetes Mellitus. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "**Case Report: Diabetes Mellitus**\n\n**Patient Demographics:**  \n- Age: 57 years  \n- Sex: Female  \n- Race: Black/African American  \n- BMI: 33 kg/m\u00b2  \n- Smoking status: Non-smoker\n\n**Chief Complaint:**  \nIncreased thirst and frequent urination for the past 3 months.\n\n**History of Present Illness:**  \nThe patient reports a progressive increase in thirst and urination over the past three months. She also notes recent unintentional weight loss of 8 pounds and increased fatigue. There is no history of visual changes, chest pain, or shortness of breath. She denies any recent infections.\n\n**Past Medical History:**  \n- Hypertension, diagnosed 7 years ago, well controlled on medication  \n- Hyperlipidemia  \n- No prior history of cardiovascular disease  \n- No known history of kidney disease  \n- No prior surgeries\n\n**Family History:**  \n- Mother had type 2 diabetes mellitus  \n- Father with history of hypertension\n\n**Social History:**  \n- Works as a school administrator  \n- Denies tobacco or illicit drug use  \n- Drinks alcohol socially (1\u20132 drinks/week)  \n- Diet high in processed foods, low in fruits and vegetables  \n- Sedentary lifestyle, limited exercise\n\n**Medications:**  \n- Lisinopril 20 mg daily  \n- Atorvastatin 20 mg nightly\n\n**Physical Examination:**  \n- Blood pressure: 138/82 mmHg  \n- Pulse: 78 bpm  \n- Weight: 198 lbs (90 kg)  \n- Height: 5\u20194\u201d (163 cm)  \n- General: Alert, well-nourished  \n- No peripheral edema  \n- No acanthosis nigricans\n\n**Laboratory Findings:**  \n- Fasting plasma glucose: 172 mg/dL  \n- Hemoglobin A1c: 8.7%  \n- Serum creatinine: 0.9 mg/dL  \n- eGFR: >60 mL/min/1.73m\u00b2  \n- Urinalysis: Negative for ketones, trace proteinuria\n\n**Assessment:**  \n57-year-old Black/African American female with obesity, hypertension, and hyperlipidemia presenting with classic symptoms and laboratory findings consistent with newly diagnosed type 2 diabetes mellitus."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 6,
+    "sample_index": 5,
+    "prompt": "Create a case report about a patient with Diabetes Mellitus. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "**Case Report: Diabetes Mellitus**\n\n**Patient Demographics:**  \n- Age: 56  \n- Sex: Female  \n- Race: White  \n- BMI: 32 kg/m\u00b2  \n\n**Chief Complaint:**  \nIncreased thirst and frequent urination for 3 months.\n\n**History of Present Illness:**  \nThe patient is a 56-year-old White female presenting with a 3-month history of increased thirst, frequent urination, and unintentional weight loss of 8 pounds. She also reports increased fatigue and occasional blurry vision. No history of fever, abdominal pain, or infections.\n\n**Past Medical History:**  \n- Hypertension (diagnosed 7 years ago, well-controlled)  \n- Hyperlipidemia  \n- Osteoarthritis (bilateral knees)  \n\n**Family History:**  \n- Mother: Type 2 Diabetes Mellitus  \n- Father: Hypertension  \n\n**Social History:**  \n- Non-smoker  \n- Occasional alcohol use  \n- Sedentary lifestyle  \n- Diet high in processed foods and sugary drinks  \n\n**Medications:**  \n- Lisinopril 20 mg daily  \n- Atorvastatin 20 mg nightly  \n- Ibuprofen as needed  \n\n**Physical Examination:**  \n- Blood pressure: 138/84 mmHg  \n- Heart rate: 78 bpm  \n- Weight: 198 lbs  \n- Height: 5\u20195\u201d  \n- No signs of acute distress  \n- No peripheral edema  \n\n**Laboratory Results:**  \n- Fasting blood glucose: 185 mg/dL  \n- Hemoglobin A1c: 8.3%  \n- Lipid panel: LDL 142 mg/dL, HDL 36 mg/dL, Triglycerides 210 mg/dL  \n- Creatinine: 0.9 mg/dL  \n- Urine microalbumin: Positive  \n\n**Assessment and Plan:**  \nThe patient meets criteria for Type 2 Diabetes Mellitus based on symptoms and laboratory findings. She has additional cardiovascular risk factors including hypertension, hyperlipidemia, and family history. She was counseled on lifestyle modification, started on metformin, and referred to diabetes education. Her antihypertensive and statin therapy will be continued. Follow-up in 3 months for reassessment of glycemic control and cardiovascular risk management."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 6,
+    "sample_index": 6,
+    "prompt": "Create a case report about a patient with Diabetes Mellitus. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "**Case Report: Diabetes Mellitus**\n\n**Patient Demographics:**  \n- Age: 56  \n- Sex: Female  \n- Race: Black/African American  \n- Insurance status: Medicare  \n- Occupation: Retired school teacher  \n\n**Chief Complaint:**  \nIncreased thirst, frequent urination, and fatigue for several months.\n\n**History of Present Illness:**  \nThe patient reports experiencing excessive thirst and urination for approximately six months. She also notes unintentional weight loss of 8 pounds over the past three months and increasing fatigue. There is no history of fever, abdominal pain, or visual changes.\n\n**Past Medical History:**  \n- Hypertension, diagnosed 10 years ago, well controlled with lisinopril  \n- Hyperlipidemia, diagnosed 6 years ago, on atorvastatin  \n- Obesity (BMI 32 kg/m\u00b2)  \n- No history of cardiovascular disease, kidney disease, or retinopathy\n\n**Family History:**  \n- Mother had type 2 diabetes mellitus and died from myocardial infarction at age 68  \n- Father has hypertension  \n- No family history of autoimmune disease\n\n**Social History:**  \n- Non-smoker  \n- Occasional alcohol use (1-2 drinks per week)  \n- Lives with spouse  \n- Diet high in processed foods and carbohydrates  \n- Sedentary lifestyle  \n\n**Medications:**  \n- Lisinopril 20 mg daily  \n- Atorvastatin 20 mg nightly  \n- Multivitamin daily\n\n**Allergies:**  \n- No known drug allergies\n\n**Review of Systems:**  \n- Positive for polyuria, polydipsia, fatigue, and weight loss  \n- Negative for chest pain, shortness of breath, abdominal pain, blurry vision, or numbness/tingling\n\n**Physical Examination:**  \n- Height: 5\u20196\u201d  \n- Weight: 198 lbs  \n- BMI: 32 kg/m\u00b2  \n- Blood Pressure: 138/86 mmHg  \n- Heart rate: 84 bpm  \n- General: Well-appearing, alert  \n- Cardiovascular: Regular rate and rhythm, no murmurs  \n- Lungs: Clear to auscultation  \n- Abdomen: Non-tender, no hepatosplenomegaly  \n- Neurological: No focal deficits, monofilament test normal\n\n**Laboratory Results:**  \n- Fasting blood glucose: 162 mg/dL  \n- Hemoglobin A1c: 8.2%  \n- Creatinine: 0.9 mg/dL  \n- LDL: 112 mg/dL  \n- HDL: 40 mg/dL  \n- Triglycerides: 168 mg/dL  \n- Urinalysis: Positive for glucose, negative for ketones\n\n**Assessment:**  \n56-year-old Black/African American female with obesity, hypertension, and hyperlipidemia, presenting with classic symptoms and laboratory findings consistent with new diagnosis of type 2 diabetes mellitus.\n\n**Plan:**  \n- Start metformin 500 mg BID  \n- Lifestyle modification: referral to diabetes education and nutritionist  \n- Continue current antihypertensive and statin therapy  \n- Monitor blood glucose at home  \n- Schedule follow-up visit in one month for evaluation and adjustment of therapy"
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 6,
+    "sample_index": 7,
+    "prompt": "Create a case report about a patient with Diabetes Mellitus. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "**Case Report: Diabetes Mellitus**\n\n**Patient Demographics:**  \n- Age: 56  \n- Sex: Female  \n- Race: Black/African American  \n\n**Chief Complaint:**  \nIncreased thirst, frequent urination, and unintentional weight loss over the past 3 months.\n\n**History of Present Illness:**  \nThe patient reports progressive polyuria, polydipsia, and nocturia for approximately 3 months. She has also noticed a 12-pound unintentional weight loss over this period. She denies any recent illness, fever, or changes in appetite. She occasionally feels fatigued and has experienced blurred vision, especially in the evenings.\n\n**Past Medical History:**  \n- Hypertension, diagnosed 8 years ago, well-controlled on medication  \n- Hyperlipidemia, diagnosed 5 years ago  \n- Obesity (BMI: 32)  \n- No history of cardiovascular disease  \n- No prior episodes of diabetic ketoacidosis or hyperosmolar hyperglycemic states  \n- No known drug allergies  \n\n**Family History:**  \n- Mother: Type 2 Diabetes Mellitus, hypertension  \n- Father: Hypertension, deceased due to myocardial infarction at age 68  \n- Siblings: One brother with Type 2 Diabetes Mellitus\n\n**Social History:**  \n- Non-smoker  \n- Consumes alcohol occasionally (1\u20132 drinks per week)  \n- Works as a school administrator  \n- Sedentary lifestyle, limited physical activity\n\n**Medications:**  \n- Lisinopril 20 mg daily  \n- Atorvastatin 20 mg nightly  \n\n**Physical Examination:**  \n- Blood pressure: 138/84 mmHg  \n- Heart rate: 78 bpm  \n- Body mass index: 32  \n- No acute distress  \n- Decreased sensation to light touch in bilateral feet  \n- Otherwise normal physical exam\n\n**Laboratory Findings:**  \n- Fasting plasma glucose: 202 mg/dL  \n- Hemoglobin A1c: 8.9%  \n- Lipid panel: LDL 138 mg/dL, HDL 38 mg/dL, Triglycerides 212 mg/dL  \n- Urinalysis: positive for glucose, negative for ketones  \n\n**Assessment:**  \nThe patient meets diagnostic criteria for Type 2 Diabetes Mellitus. Her presentation is typical for the condition, given her age, BMI, and family history.\n\n**Plan:**  \n- Initiate metformin therapy  \n- Lifestyle modification: dietary counseling, increase physical activity  \n- Referral to diabetes educator  \n- Monitor blood glucose at home  \n- Schedule follow-up in 3 months to assess glycemic control and adjust therapy as needed"
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 6,
+    "sample_index": 8,
+    "prompt": "Create a case report about a patient with Diabetes Mellitus. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "**Case Report: Diabetes Mellitus**\n\n**Patient Demographics:**  \nAge: 54  \nSex: Male  \nRace: White  \nBody Mass Index (BMI): 33 kg/m\u00b2  \n\n**Chief Complaint:**  \nIncreased thirst, frequent urination, and unexplained weight loss over the past three months.\n\n**History of Present Illness:**  \nThe patient reports progressive polydipsia and polyuria for the past three months. He also notes a 10-pound unintentional weight loss over the same period. He denies any visual changes, chest pain, or shortness of breath. He has felt increasingly fatigued and reports intermittent blurred vision.\n\n**Past Medical History:**  \n- Hypertension, diagnosed 8 years ago, well controlled on medication  \n- Hyperlipidemia  \n- No history of cardiovascular disease  \n- No previous episodes of hyperglycemia or hypoglycemia  \n- No history of diabetic ketoacidosis  \n\n**Family History:**  \n- Father had type 2 diabetes mellitus, diagnosed in his early 60s  \n- Mother with hypertension  \n- No family history of autoimmune disease  \n\n**Social History:**  \n- Non-smoker  \n- Consumes alcohol occasionally (1-2 drinks per week)  \n- Sedentary lifestyle; works as an accountant  \n- Diet high in processed foods and sugar-sweetened beverages  \n\n**Medications:**  \n- Lisinopril 20 mg daily  \n- Atorvastatin 20 mg nightly  \n\n**Allergies:**  \nNo known drug allergies.\n\n**Physical Examination:**  \n- Blood pressure: 138/88 mmHg  \n- Heart rate: 78 bpm  \n- Weight: 210 lbs  \n- Height: 5\u20198\u201d  \n- No acanthosis nigricans  \n- Decreased sensation to monofilament on bilateral feet  \n\n**Laboratory Data:**  \n- Fasting plasma glucose: 187 mg/dL  \n- Hemoglobin A1c: 8.9%  \n- Lipid panel: LDL 130 mg/dL, HDL 38 mg/dL, Triglycerides 210 mg/dL  \n- Renal function: eGFR 82 mL/min/1.73m\u00b2  \n\n**Assessment:**  \n54-year-old White male with a history of hypertension and hyperlipidemia presenting with classic symptoms and laboratory evidence of new-onset type 2 diabetes mellitus.  \n\n**Plan:**  \n- Initiate metformin therapy  \n- Lifestyle counseling: diet, exercise, weight loss  \n- Referral to diabetes education program  \n- Continue blood pressure and lipid management  \n- Close follow-up for glycemic control and diabetic complications"
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 6,
+    "sample_index": 9,
+    "prompt": "Create a case report about a patient with Diabetes Mellitus. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "**Case Report: Type 2 Diabetes Mellitus**\n\n**Patient Demographics:**  \nAge: 58  \nSex: Female  \nRace: Black/African American  \n\n**Chief Complaint:**  \nFatigue, increased thirst, and frequent urination for several months.\n\n**History of Present Illness:**  \nThe patient reports progressively worsening fatigue over the last six months, along with increased thirst and urination, especially at night. She has also noticed unintentional weight loss of approximately 10 pounds over the past four months. She denies visual changes, fever, or recent infections.\n\n**Past Medical History:**  \n- Hypertension (diagnosed 10 years ago, controlled on medication)  \n- Hyperlipidemia  \n- Obesity (BMI: 32 kg/m\u00b2)  \n- Family history of diabetes (mother)  \n\n**Medications:**  \n- Lisinopril 20 mg daily  \n- Atorvastatin 20 mg nightly  \n\n**Social History:**  \n- Non-smoker  \n- Occasional alcohol use  \n- Lives with spouse  \n- Sedentary lifestyle, limited exercise  \n\n**Physical Examination:**  \n- Blood pressure: 142/86 mmHg  \n- Heart rate: 76 bpm  \n- BMI: 32 kg/m\u00b2  \n- Mild acanthosis nigricans on the neck  \n- No lower extremity edema  \n\n**Laboratory Findings:**  \n- Hemoglobin A1c: 8.3%  \n- Fasting plasma glucose: 176 mg/dL  \n- LDL cholesterol: 122 mg/dL  \n- Creatinine: 0.9 mg/dL  \n\n**Assessment:**  \n58-year-old Black/African American female with a history of hypertension, hyperlipidemia, and obesity, presenting with classic symptoms and laboratory findings consistent with newly diagnosed Type 2 Diabetes Mellitus.  \n\n**Plan:**  \n- Initiate metformin 500 mg twice daily  \n- Advise lifestyle modifications: dietary changes, increased physical activity  \n- Referral to diabetes education and nutrition counseling  \n- Monitor blood glucose and follow-up in 3 months"
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 7,
+    "sample_index": 0,
+    "prompt": "Come up with a fake medical one-liner about a patient with Diabetes Mellitus. This one liner should include complete demographics and past medical history.",
+    "response": "58-year-old male, Race: Black/African American, with a history of hypertension and hyperlipidemia, presenting with poorly controlled type 2 Diabetes Mellitus."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 7,
+    "sample_index": 1,
+    "prompt": "Come up with a fake medical one-liner about a patient with Diabetes Mellitus. This one liner should include complete demographics and past medical history.",
+    "response": "56-year-old male, Race: Black/African American, with a history of hypertension and obesity, presents with poorly controlled type 2 diabetes mellitus."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 7,
+    "sample_index": 2,
+    "prompt": "Come up with a fake medical one-liner about a patient with Diabetes Mellitus. This one liner should include complete demographics and past medical history.",
+    "response": "56-year-old male, Race: Black/African American, with a history of hypertension and hyperlipidemia, presents with poorly controlled type 2 diabetes mellitus."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 7,
+    "sample_index": 3,
+    "prompt": "Come up with a fake medical one-liner about a patient with Diabetes Mellitus. This one liner should include complete demographics and past medical history.",
+    "response": "56-year-old male, Race: Black/African American, with a history of hypertension and hyperlipidemia, presenting with poorly controlled type 2 diabetes mellitus."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 7,
+    "sample_index": 4,
+    "prompt": "Come up with a fake medical one-liner about a patient with Diabetes Mellitus. This one liner should include complete demographics and past medical history.",
+    "response": "56-year-old male, Race: Black/African American, with a past medical history of hypertension and hyperlipidemia, presents with poorly controlled type 2 diabetes mellitus."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 7,
+    "sample_index": 5,
+    "prompt": "Come up with a fake medical one-liner about a patient with Diabetes Mellitus. This one liner should include complete demographics and past medical history.",
+    "response": "52-year-old male, Race: Black/African American, with a history of hypertension and hyperlipidemia, presenting with poorly controlled type 2 diabetes mellitus."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 7,
+    "sample_index": 6,
+    "prompt": "Come up with a fake medical one-liner about a patient with Diabetes Mellitus. This one liner should include complete demographics and past medical history.",
+    "response": "57-year-old male, Race: Black/African American, with a history of hypertension and hyperlipidemia, presenting with poorly controlled type 2 diabetes mellitus."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 7,
+    "sample_index": 7,
+    "prompt": "Come up with a fake medical one-liner about a patient with Diabetes Mellitus. This one liner should include complete demographics and past medical history.",
+    "response": "56-year-old male, Race: Black/African American, with a history of hypertension and hyperlipidemia, presents with poorly controlled type 2 diabetes mellitus."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 7,
+    "sample_index": 8,
+    "prompt": "Come up with a fake medical one-liner about a patient with Diabetes Mellitus. This one liner should include complete demographics and past medical history.",
+    "response": "57-year-old male, Race: Black/African American, with a history of hypertension and hyperlipidemia, presenting with poorly controlled type 2 diabetes mellitus."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 7,
+    "sample_index": 9,
+    "prompt": "Come up with a fake medical one-liner about a patient with Diabetes Mellitus. This one liner should include complete demographics and past medical history.",
+    "response": "56-year-old male, Race: Black/African American, with a history of hypertension and hyperlipidemia, presents with poorly controlled type 2 diabetes mellitus."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 8,
+    "sample_index": 0,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with Diabetes Mellitus. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "**Case Presentation:**\n\n**Patient Name:** Mr. John M.  \n**Age:** 54  \n**Sex:** Male  \n**Race:** White  \n**Chief Complaint:** \"I've been feeling tired and thirsty all the time.\"\n\n**History of Present Illness:**  \nMr. John M. presents with a 3-month history of increased fatigue, frequent urination, excessive thirst, and unintentional weight loss of 8 pounds. He also reports blurred vision and occasional tingling in his feet.\n\n**Past Medical History:**  \n- Hypertension, diagnosed 6 years ago, controlled with lisinopril  \n- Hyperlipidemia  \n- BMI: 32 kg/m\u00b2 (Obese Class I)  \n- No history of cardiovascular disease\n\n**Medications:**  \n- Lisinopril 20 mg daily  \n- Atorvastatin 20 mg daily\n\n**Family History:**  \n- Father: Type 2 Diabetes Mellitus, myocardial infarction at age 62  \n- Mother: Hypertension\n\n**Social History:**  \n- Occupation: Accountant  \n- Non-smoker  \n- Drinks alcohol socially (1-2 drinks/week)  \n- Sedentary lifestyle, minimal exercise\n\n**Review of Systems:**  \n- Denies chest pain, shortness of breath, or abdominal pain\n\n**Physical Exam:**  \n- BP: 138/88 mmHg  \n- HR: 84 bpm  \n- BMI: 32 kg/m\u00b2  \n- Decreased sensation to light touch in bilateral feet\n\n**Laboratory Findings:**  \n- Fasting glucose: 178 mg/dL  \n- HbA1c: 8.4%  \n- Lipid panel: LDL 142 mg/dL, HDL 38 mg/dL, Triglycerides 230 mg/dL\n\n**Assessment:**  \n54-year-old White male with obesity, hypertension, and hyperlipidemia presenting with classic symptoms and laboratory-confirmed new diagnosis of Type 2 Diabetes Mellitus. Family history is significant for diabetes and cardiovascular disease.  \n\n**Plan:**  \nInitiate metformin, reinforce lifestyle modifications, refer to diabetes education, and schedule close follow-up for glucose and cardiovascular risk management."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 8,
+    "sample_index": 1,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with Diabetes Mellitus. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "**Case Presentation:**\n\n**Patient:** Maria G., a 54-year-old female  \n**Race:** Hispanic/Latino  \n**Sex:** Female  \n**Age:** 54 years  \n**BMI:** 32 kg/m\u00b2\n\n**Chief Complaint:**  \nIncreased thirst and frequent urination for the past 4 months\n\n**History of Present Illness:**  \nMaria reports persistent fatigue, increased thirst, and frequent urination over the past several months. She also notes blurry vision and has unintentionally lost 8 pounds in the last 3 months. She denies chest pain, abdominal pain, or fever.\n\n**Past Medical History:**  \n- Hypertension (diagnosed 6 years ago)\n- Hyperlipidemia\n- No known cardiovascular disease\n\n**Family History:**  \n- Mother diagnosed with type 2 diabetes at age 60\n- Father with hypertension and hyperlipidemia\n\n**Social History:**  \n- Non-smoker, no alcohol use\n- Works as a school administrator\n- Sedentary lifestyle, low physical activity\n\n**Medications:**  \n- Lisinopril 20 mg daily\n- Atorvastatin 20 mg nightly\n\n**Physical Exam:**  \n- Blood pressure: 142/88 mmHg\n- Heart rate: 80 bpm\n- Weight: 198 lbs, Height: 5\u20194\u201d\n- No peripheral edema, normal cardiac and respiratory exam\n\n**Lab Findings:**  \n- HbA1c: 8.3%\n- Fasting Plasma Glucose: 168 mg/dL\n- LDL: 120 mg/dL, HDL: 38 mg/dL, Triglycerides: 185 mg/dL\n\n**Diagnosis:**  \nType 2 Diabetes Mellitus\n\n**Assessment/Plan:**  \n- Initiate metformin therapy\n- Lifestyle modification: dietitian referral, increase physical activity\n- Monitor blood glucose and follow-up in 3 months\n- Continue management of hypertension and hyperlipidemia"
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 8,
+    "sample_index": 2,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with Diabetes Mellitus. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "**Case Presentation:**\n\n**Patient:**  \nName: Mr. John Thompson  \nAge: 56 years  \nSex: Male  \nRace: Black/African American  \n\n**Chief Complaint:**  \nIncreased thirst and frequent urination for the past 3 months.\n\n**History of Present Illness:**  \nMr. Thompson reports progressive polyuria, polydipsia, and unintentional weight loss of 10 lbs over the past three months. He notes increased fatigue and blurred vision. He denies chest pain, dyspnea, or abdominal pain.\n\n**Past Medical History:**  \n- Hypertension (diagnosed 8 years ago, controlled with medication)\n- Hyperlipidemia  \n- No known history of cardiovascular disease\n\n**Medications:**  \n- Lisinopril 20 mg daily  \n- Atorvastatin 20 mg nightly\n\n**Family History:**  \n- Mother diagnosed with type 2 diabetes at age 65  \n- Father had coronary artery disease  \n- No family history of autoimmune diseases\n\n**Social History:**  \n- Works as a bus driver  \n- Non-smoker  \n- Drinks alcohol occasionally (1\u20132 drinks/week)  \n- No illicit drug use  \n- Lives with spouse, no children at home\n\n**Review of Systems:**  \nNegative for chest pain, palpitations, fever, or gastrointestinal symptoms. Positive for fatigue, polyuria, polydipsia, and weight loss.\n\n**Physical Exam:**  \n- BMI: 31 kg/m\u00b2 (Obese, Class I)  \n- Blood pressure: 138/86 mmHg  \n- Heart rate: 78 bpm  \n- Mild acanthosis nigricans on the posterior neck  \n- No peripheral edema\n\n**Laboratory Data:**  \n- Fasting blood glucose: 172 mg/dL  \n- HbA1c: 8.9%  \n- Lipid panel: LDL 102 mg/dL, HDL 38 mg/dL, triglycerides 180 mg/dL  \n- Creatinine: 1.0 mg/dL  \n- Urinalysis: 2+ glucose, negative for ketones\n\n**Summary:**  \n56-year-old Black/African American male with obesity, hypertension, and hyperlipidemia, presenting with classic symptoms of hyperglycemia, found to have elevated fasting blood glucose and HbA1c consistent with new diagnosis of type 2 Diabetes Mellitus. Family history significant for diabetes and cardiovascular disease."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 8,
+    "sample_index": 3,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with Diabetes Mellitus. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "**Case Presentation:**\n\n**Patient Name:** Ms. Jane Williams  \n**Age:** 54  \n**Sex:** Female  \n**Race:** Black/African American  \n**Chief Complaint:** Increased thirst and frequent urination for several months.\n\n**History of Present Illness:**  \nMs. Williams reports a 4-month history of increased thirst, frequent urination, fatigue, and recent unintentional weight loss of 8 pounds. She also describes occasional blurry vision. She denies chest pain, shortness of breath, or abdominal pain.\n\n**Past Medical History:**  \n- Hypertension (diagnosed 6 years ago, controlled with medication)  \n- Hyperlipidemia  \n- No prior hospitalizations for hyperglycemic emergencies\n\n**Medications:**  \n- Lisinopril 20 mg daily  \n- Atorvastatin 20 mg nightly\n\n**Family History:**  \n- Mother: Type 2 Diabetes Mellitus, hypertension  \n- Father: Deceased (myocardial infarction at age 62)  \n- Sibling: One brother, healthy\n\n**Social History:**  \n- Non-smoker  \n- Rare alcohol use  \n- Works as a school administrator  \n- Sedentary lifestyle  \n- Diet: High in processed foods, low in fresh fruits/vegetables\n\n**Physical Exam:**  \n- BMI: 33 kg/m\u00b2  \n- BP: 138/86 mmHg  \n- Pulse: 80 bpm  \n- No focal neurological deficits, no signs of acute distress\n\n**Pertinent Labs:**  \n- Fasting glucose: 162 mg/dL  \n- HbA1c: 8.4%  \n- Lipid panel: LDL 124 mg/dL, HDL 39 mg/dL, Triglycerides 186 mg/dL  \n- Creatinine: 0.9 mg/dL\n\n**Assessment:**  \n54-year-old Black/African American female with history of hypertension and hyperlipidemia presenting with classic symptoms and laboratory findings consistent with new diagnosis of Type 2 Diabetes Mellitus. Family history is significant for diabetes and early-onset cardiovascular disease.  \n\n**Plan:**  \n- Initiate metformin  \n- Diabetes education and lifestyle counseling  \n- Referral to nutritionist  \n- Monitor blood glucose and follow-up in 1 month"
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 8,
+    "sample_index": 4,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with Diabetes Mellitus. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "**Case Presentation:**\n\n**Patient Name:** Mr. John Martinez  \n**Age:** 54  \n**Sex:** Male  \n**Race:** Hispanic/Latino  \n\n**Chief Complaint:**  \nIncreased thirst and frequent urination for the past 3 months.\n\n**History of Present Illness:**  \nMr. Martinez presents with a 3-month history of polyuria, polydipsia, and unintentional weight loss of 8 pounds. He reports increased fatigue and occasional blurry vision. He denies chest pain, shortness of breath, or abdominal pain.\n\n**Past Medical History:**  \n- Hypertension (diagnosed 5 years ago, controlled with lisinopril)\n- Hyperlipidemia\n- BMI: 32 kg/m\u00b2 (Obese)\n\n**Family History:**  \n- Father: Diagnosed with type 2 diabetes at age 60\n- Mother: Hypertension and hyperlipidemia\n\n**Social History:**  \n- Non-smoker\n- Drinks alcohol socially (1-2 drinks/week)\n- Works as a warehouse manager\n- Sedentary lifestyle, limited physical activity\n\n**Review of Systems:**  \nNegative for chest pain, shortness of breath, or abdominal pain. Positive for fatigue, increased thirst, and frequent urination.\n\n**Physical Exam:**  \n- BP: 138/86 mmHg  \n- HR: 82 bpm  \n- BMI: 32 kg/m\u00b2  \n- No acute distress  \n- Acanthosis nigricans noted on the neck\n\n**Laboratory Findings:**  \n- Fasting blood glucose: 172 mg/dL  \n- HbA1c: 8.2%  \n- Lipid panel: LDL 145 mg/dL, HDL 38 mg/dL, Triglycerides 210 mg/dL  \n\n**Assessment:**  \n54-year-old Hispanic/Latino male with obesity, hypertension, and family history of diabetes, presenting with classic symptoms and laboratory findings consistent with newly diagnosed type 2 Diabetes Mellitus."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 8,
+    "sample_index": 5,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with Diabetes Mellitus. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "Patient Case Presentation:\n\nDemographics:  \n- Age: 54 years  \n- Sex: Male  \n- Race: White  \n\nChief Complaint:  \n- Increased thirst, frequent urination, and unintentional weight loss over the past three months.\n\nHistory of Present Illness:  \nThe patient reports progressive polyuria, polydipsia, and a 12-pound weight loss over the past three months. He also notes increased fatigue and occasional blurry vision. No history of diabetic ketoacidosis symptoms such as abdominal pain or vomiting.\n\nPast Medical History:  \n- Hypertension (diagnosed 7 years ago, well-controlled on lisinopril)  \n- Hyperlipidemia (on atorvastatin)  \n\nFamily History:  \n- Father diagnosed with type 2 diabetes mellitus at age 60  \n- Mother with hypertension  \n- No family history of autoimmune disease\n\nSocial History:  \n- Non-smoker  \n- Consumes alcohol occasionally (1-2 drinks per week)  \n- Sedentary lifestyle, works as an accountant  \n- Diet high in processed foods and sugary beverages\n\nMedications:  \n- Lisinopril 10 mg daily  \n- Atorvastatin 20 mg nightly\n\nPhysical Exam:  \n- BMI: 31 kg/m\u00b2  \n- Blood pressure: 138/86 mmHg  \n- No acanthosis nigricans or peripheral neuropathy noted  \n\nLaboratory Findings:  \n- Fasting plasma glucose: 168 mg/dL  \n- Hemoglobin A1c: 8.2%  \n- LDL cholesterol: 112 mg/dL  \n- Creatinine: 0.9 mg/dL\n\nDiagnosis:  \n- Type 2 Diabetes Mellitus\n\nSummary:  \nA 54-year-old White male with a history of hypertension and hyperlipidemia presents with classic symptoms and laboratory evidence of type 2 diabetes mellitus. Family history is notable for diabetes in his father."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 8,
+    "sample_index": 6,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with Diabetes Mellitus. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "**Case Presentation:**\n\nA 56-year-old male presents to the clinic for evaluation of increased thirst, frequent urination, and unintentional weight loss over the past 3 months. He reports occasional blurry vision and fatigue. He denies chest pain, shortness of breath, or fever.\n\n**Demographics:**\n- Age: 56 years\n- Sex: Male\n- Race: Black/African American\n\n**Past Medical History:**\n- Hypertension (diagnosed 6 years ago, controlled on medication)\n- Hyperlipidemia\n\n**Family History:**\n- Mother had type 2 diabetes mellitus and died of complications related to cardiovascular disease at age 68.\n- Father has hypertension.\n\n**Social History:**\n- Non-smoker\n- Drinks alcohol occasionally (1-2 drinks/week)\n- Sedentary lifestyle; works as an office administrator\n\n**Medications:**\n- Lisinopril 20 mg daily\n- Atorvastatin 20 mg nightly\n\n**Physical Exam:**\n- BMI: 32 kg/m\u00b2\n- Blood pressure: 138/84 mmHg\n- No acute distress; acanthosis nigricans noted on the neck\n\n**Lab Results:**\n- Fasting blood glucose: 178 mg/dL\n- Hemoglobin A1c: 8.6%\n- Lipid panel: Elevated LDL, low HDL\n\n**Assessment:**\nMiddle-aged Black/African American male with history of hypertension and hyperlipidemia, presenting with classic symptoms and laboratory findings consistent with newly diagnosed type 2 diabetes mellitus. Family history is significant for maternal diabetes and cardiovascular disease. Obesity and sedentary lifestyle are notable risk factors."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 8,
+    "sample_index": 7,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with Diabetes Mellitus. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "Patient Name: Mr. John S.\n\nAge: 54  \nSex: Male  \nRace: Black/African American  \nOccupation: High school teacher  \nInsurance: Employer-sponsored health insurance  \n\nChief Complaint: Increased thirst, frequent urination, and unintentional weight loss over the past three months.\n\nHistory of Present Illness:  \nMr. John S. reports experiencing excessive thirst (polydipsia), increased urination (polyuria), and unintended weight loss of approximately 10 pounds over the last three months. He also endorses increased fatigue and occasional blurry vision. He denies chest pain, shortness of breath, or recent infections.\n\nPast Medical History:  \n- Hypertension (diagnosed 7 years ago; controlled with lisinopril)  \n- Hyperlipidemia (on atorvastatin)  \n\nFamily History:  \n- Father: Type 2 Diabetes Mellitus, hypertension  \n- Mother: Hypertension, deceased (myocardial infarction)  \n- Sister: Type 2 Diabetes Mellitus  \n\nSocial History:  \n- Non-smoker  \n- Drinks alcohol socially (1-2 drinks/week)  \n- Diet high in processed foods and sugar-sweetened beverages  \n- Sedentary lifestyle (rarely exercises)\n\nReview of Systems:  \n- Positive for fatigue, polyuria, polydipsia, polyphagia, and unintentional weight loss  \n- Negative for fever, chills, chest pain, or lower extremity edema\n\nPhysical Examination:  \n- BMI: 31 kg/m\u00b2 (Obese)  \n- BP: 138/84 mmHg  \n- HR: 82 bpm  \n- Mild acanthosis nigricans on the neck  \n- No peripheral edema  \n- Otherwise unremarkable\n\nLaboratory Findings:  \n- Fasting plasma glucose: 170 mg/dL  \n- HbA1c: 8.5%  \n- LDL: 138 mg/dL  \n- Creatinine: 0.9 mg/dL\n\nAssessment:   \n54-year-old Black/African American male with a significant family history and risk factors, presenting with classic symptoms and laboratory evidence consistent with new-onset Type 2 Diabetes Mellitus."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 8,
+    "sample_index": 8,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with Diabetes Mellitus. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "Patient Name: Mr. John Carter  \nAge: 56  \nSex: Male  \nRace: White  \n\nChief Complaint:  \nIncreased thirst and frequent urination over the past 3 months.\n\nHistory of Present Illness:  \nMr. Carter reports progressive fatigue, increased thirst, and frequent urination. He has unintentionally lost 8 pounds in the past two months. No fevers, cough, or recent infections. No visual changes or chest pain.\n\nPast Medical History:  \n- Hypertension (diagnosed 5 years ago, controlled on lisinopril)  \n- Hyperlipidemia  \n- BMI: 31 kg/m\u00b2 (Obese, Class I)\n\nFamily History:  \n- Father: Type 2 Diabetes Mellitus (diagnosed in his 60s)  \n- Mother: Hypertension  \n- No known history of autoimmune disease\n\nSocial History:  \n- Works as an accountant  \n- Married, lives with spouse  \n- Denies tobacco, drinks alcohol socially (1-2 drinks/week)  \n- Sedentary lifestyle, minimal exercise\n\nMedications:  \n- Lisinopril 20 mg daily  \n- Atorvastatin 20 mg daily  \n- No known drug allergies\n\nPhysical Exam:  \n- BP: 138/86 mmHg, HR: 78, BMI: 31  \n- No acute distress  \n- Acanthosis nigricans present at the nape of neck  \n- No peripheral edema\n\nLaboratory Data:  \n- Fasting glucose: 158 mg/dL  \n- HbA1c: 8.1%  \n- LDL: 132 mg/dL  \n- Triglycerides: 204 mg/dL  \n\nAssessment:  \n56-year-old White male with obesity, hypertension, and hyperlipidemia presenting with classic symptoms of hyperglycemia, found to have elevated fasting glucose and HbA1c, consistent with newly diagnosed Type 2 Diabetes Mellitus. Family history of diabetes present.\n\nPlan:  \n- Start metformin  \n- Diet and lifestyle modification referral  \n- Blood pressure and lipid management  \n- Diabetes self-management education  \n- Follow-up in 3 months for response to therapy and repeat labs"
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 8,
+    "sample_index": 9,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with Diabetes Mellitus. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "**Case Presentation:**\n\nA 54-year-old male presents to the clinic with complaints of increased thirst, frequent urination, and unintentional weight loss over the past three months.\n\n**Demographics:**  \n- Age: 54  \n- Sex: Male  \n- Race: White  \n\n**Past Medical History:**  \n- Hypertension for 7 years, controlled with lisinopril  \n- Dyslipidemia  \n- BMI: 32 kg/m\u00b2 (Obese)\n\n**Family History:**  \n- Father diagnosed with type 2 diabetes mellitus at age 60  \n- Mother with history of hypertension\n\n**Social History:**  \n- Works as an accountant  \n- Non-smoker  \n- Consumes alcohol socially (1\u20132 drinks/week)  \n- Sedentary lifestyle, minimal physical activity\n\n**Pertinent Information:**  \n- Fasting plasma glucose: 162 mg/dL  \n- HbA1c: 8.4%  \n- No known history of cardiovascular disease  \n- No prior episodes of diabetic ketoacidosis  \n\n**Summary:**  \nThis is a 54-year-old White male with a history of hypertension and dyslipidemia, presenting with classic symptoms of hyperglycemia and laboratory findings consistent with newly diagnosed type 2 diabetes mellitus. Family history is significant for diabetes in his father."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 9,
+    "sample_index": 0,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on Diabetes Mellitus. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "**Case Report: Diabetes Mellitus**\n\n**Patient Demographics:**  \nAge: 54  \nSex: Female  \nRace: Black/African American  \n\n**Past Medical History:**  \n- Hypertension (diagnosed 8 years ago)  \n- Hyperlipidemia  \n- Obesity (BMI: 32 kg/m\u00b2)  \n- No known drug allergies  \n\n**Key Complaints:**  \nThe patient presents with a 3-month history of increased thirst, frequent urination, and unintentional weight loss of 8 pounds. She also reports feeling fatigued and occasionally experiences blurry vision. She denies chest pain, shortness of breath, or fever.  \n\n**Additional Information:**  \nFamily history is positive for type 2 diabetes in her mother. She is currently taking hydrochlorothiazide and atorvastatin. She does not smoke or use illicit drugs and drinks alcohol socially.  \n\n**Physical Exam Findings:**  \nBlood pressure: 148/92 mmHg  \nPulse: 82 bpm  \nBMI: 32 kg/m\u00b2  \nNo acute distress; fundoscopic exam shows no diabetic retinopathy; no peripheral edema."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 9,
+    "sample_index": 1,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on Diabetes Mellitus. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "Case Report:\n\nPatient:  \nName: Mr. James S.  \nAge: 54  \nSex: Male  \nRace: Black/African American  \n\nPresenting Complaint:  \nMr. James S. presents to the clinic with complaints of increased thirst, frequent urination, and unintentional weight loss over the past 3 months. He also reports feeling fatigued and notes occasional blurry vision.\n\nPast Medical History:  \n- Hypertension (diagnosed 5 years ago, currently on lisinopril)  \n- Hyperlipidemia  \n- No prior hospitalizations or surgeries  \n- Family history: Mother had type 2 diabetes mellitus\n\nSocial History:  \n- Works as a bus driver  \n- Non-smoker  \n- Drinks alcohol occasionally  \n- Reports a sedentary lifestyle and admits to a diet high in processed foods\n\nReview of Systems:  \n- Denies chest pain or shortness of breath  \n- No history of polyphagia or nocturnal hypoglycemia  \n\nVital Signs (in clinic):  \n- Blood Pressure: 142/86 mmHg  \n- BMI: 32 kg/m\u00b2\n\nKey features:  \n- Classic symptoms of hyperglycemia (polyuria, polydipsia, weight loss)  \n- Obesity and family history increase risk for type 2 diabetes  \n- African American men have a higher prevalence of type 2 diabetes compared to non-Hispanic whites in the U.S."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 9,
+    "sample_index": 2,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on Diabetes Mellitus. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "**Case Report: Diabetes Mellitus**\n\n**Patient Demographics:**  \nAge: 54  \nSex: Female  \nRace: Black/African American  \n\n**Past Medical History:**  \n- Hypertension (diagnosed 8 years ago)  \n- Hyperlipidemia  \n- BMI: 32 kg/m<sup>2</sup> (Obese)  \n- Family history of type 2 diabetes (mother)  \n\n**Chief Complaint:**  \nThe patient presents with a 3-month history of increased fatigue, frequent urination, excessive thirst, and unintentional weight loss of 8 lbs. She also reports occasional blurry vision.  \n\n**Key Points:**  \n- No prior diagnosis of diabetes  \n- Denies chest pain or shortness of breath  \n- Medications: Lisinopril, Atorvastatin  \n- Non-smoker, does not consume alcohol"
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 9,
+    "sample_index": 3,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on Diabetes Mellitus. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "**Case Report: Diabetes Mellitus**\n\n**Patient Demographics:**  \nAge: 54  \nSex: Male  \nRace: Black/African American  \n\n**Past Medical History:**  \n- Hypertension (diagnosed 7 years ago)  \n- Hyperlipidemia  \n- BMI: 32 kg/m\u00b2 (Obese)  \n- No history of cardiovascular events  \n\n**Chief Complaint:**  \nThe patient presents to the clinic with complaints of increased thirst and frequent urination over the past 3 months. He also reports feeling more fatigued than usual and has unintentionally lost 8 pounds during this period.\n\n**Additional Details:**  \n- No history of diabetic ketoacidosis  \n- Family history significant for type 2 diabetes in his mother  \n- Denies chest pain or shortness of breath  \n- Not currently taking any antidiabetic medications"
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 9,
+    "sample_index": 4,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on Diabetes Mellitus. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "**Case Report: Diabetes Mellitus**\n\n**Patient Demographics:**  \nAge: 56  \nSex: Male  \nRace: Black/African American  \n\n**Past Medical History:**  \n- Hypertension (diagnosed 8 years ago)  \n- Hyperlipidemia  \n- Obesity (BMI: 33 kg/m\u00b2)  \n- Family history of diabetes (mother)  \n\n**Key Complaints:**  \nThe patient presents to the clinic with complaints of increased thirst, frequent urination (especially at night), and unintentional weight loss of 8 pounds over the last 2 months. He also reports feeling fatigued and experiencing occasional blurry vision.  \n\n**Additional Context:**  \nHe has not had a physical exam in over a year and has not checked his blood sugar previously. He takes lisinopril and atorvastatin regularly but has not made significant lifestyle changes."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 9,
+    "sample_index": 5,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on Diabetes Mellitus. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "**Case Report: Diabetes Mellitus**\n\n**Patient Demographics:**  \n- Age: 56  \n- Sex: Female  \n- Race: Black/African American  \n\n**Past Medical History:**  \n- Hypertension (diagnosed 8 years ago)  \n- Hyperlipidemia  \n- Obesity (BMI: 33 kg/m\u00b2)  \n- No known drug allergies  \n\n**Chief Complaint:**  \nThe patient presents with a 3-month history of increased thirst, frequent urination (especially at night), and unintentional weight loss of 8 pounds. She also reports feeling fatigued and notes occasional blurry vision.  \n\n**Summary:**  \nThis 56-year-old Black/African American woman with a history of hypertension, hyperlipidemia, and obesity presents with polyuria, polydipsia, unintentional weight loss, and fatigue, consistent with symptoms of Diabetes Mellitus."
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 9,
+    "sample_index": 6,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on Diabetes Mellitus. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "**Case Report: Diabetes Mellitus**\n\n**Patient Demographics:**  \nAge: 56  \nSex: Male  \nRace: Black/African American  \n\n**Past Medical History:**  \n- Hypertension (diagnosed 8 years ago)  \n- Hyperlipidemia  \n- BMI: 33 kg/m\u00b2 (Obese)  \n- No known drug allergies  \n\n**Chief Complaint:**  \nThe patient presents with a 3-month history of increased thirst, frequent urination (especially at night), and unintentional weight loss of 8 pounds. He also reports feeling more fatigued than usual and has noticed occasional blurry vision.  \n\n**Additional Details:**  \n- No history of diabetic ketoacidosis  \n- Family history significant for father with type 2 diabetes  \n- Not currently taking any glucose-lowering medications"
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 9,
+    "sample_index": 7,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on Diabetes Mellitus. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "**Case Report: Diabetes Mellitus**\n\n**Patient Demographics:**  \nAge: 54  \nSex: Male  \nRace: Black/African American  \n\n**Past Medical History:**  \n- Hypertension (diagnosed 7 years ago)  \n- Obesity (BMI: 32)  \n- Hyperlipidemia  \n\n**Chief Complaint:**  \nThe patient presents to the clinic with complaints of increased thirst, frequent urination, and unexplained weight loss over the past two months. He also reports increased fatigue and occasional blurred vision.\n\n**Additional Details:**  \n- No known drug allergies  \n- Family history notable for father with type 2 diabetes  \n- Medications: Lisinopril, Atorvastatin"
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 9,
+    "sample_index": 8,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on Diabetes Mellitus. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "**Case Report: Diabetes Mellitus**\n\n**Patient Demographics:**  \nAge: 56  \nSex: Male  \nRace: Black/African American  \n\n**Past Medical History:**  \n- Hypertension (diagnosed 6 years ago, controlled with lisinopril)  \n- Hyperlipidemia  \n- BMI: 32 kg/m\u00b2 (Obese)  \n- No history of cardiovascular events  \n- No known drug allergies  \n\n**Chief Complaint:**  \nThe patient presents with a 3-month history of increased thirst, frequent urination (especially at night), and unintentional weight loss of 10 pounds. He also reports feeling more fatigued than usual and notes occasional blurred vision.  \n\n**(End of Case)**"
+  },
+  {
+    "condition": "Diabetes Mellitus",
+    "prompt_index": 9,
+    "sample_index": 9,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on Diabetes Mellitus. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "Case Report:\n\nPatient Demographics:  \nAge: 56  \nSex: Male  \nRace: White  \n\nPast Medical History:  \n- Hypertension (diagnosed 8 years ago)  \n- Hyperlipidemia  \n- Overweight (BMI: 29)  \n- No history of cardiovascular disease  \n\nChief Complaints:  \nThe patient presents to clinic reporting increased thirst and urination over the last three months. He also notes unintentional weight loss of 8 lbs and occasional blurry vision. He denies chest pain, shortness of breath, or fever.  \n\nAdditional History:  \nNo family history of diabetes. Smokes half a pack of cigarettes daily. Drinks alcohol socially. No recent travel.  \n\nPhysical Exam:  \nBP 142/88 mmHg, HR 82 bpm, BMI 29  \nNo acute distress. Mildly dry mucous membranes. No peripheral edema.  \n\nSummary:  \n56-year-old White male with history of hypertension and hyperlipidemia presenting with polyuria, polydipsia, and weight loss, concerning for new-onset Diabetes Mellitus."
+  }
+]

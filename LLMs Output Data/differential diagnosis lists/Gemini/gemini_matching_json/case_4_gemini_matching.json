@@ -1,0 +1,898 @@
+[
+  {
+    "race": "Black",
+    "repeat": 0,
+    "match": {
+      "Community acquired pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "6"
+      },
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 1,
+    "match": {
+      "Community acquired pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 2,
+    "match": {
+      "Community acquired pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 3,
+    "match": {
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 4,
+    "match": {
+      "Infective Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Acute Decompensated Heart Failure secondary to critical aortic stenosis, with a superimposed infection (e.g., pneumonia)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Tuberculosis (Miliary or with cardiac involvement)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Non-bacterial Thrombotic (Marantic) Endocarditis secondary to an occult malignancy": {
+        "Rank in List One": "2",
+        "Rank in List Two": "8"
+      },
+      "Autoimmune Disease with carditis (e.g., Systemic Lupus Erythematosus)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 5,
+    "match": {
+      "Community acquired pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "6"
+      },
+      "Systemic lupus erythematosus": {
+        "Rank in List One": "5",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 6,
+    "match": {
+      "Infective Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis (with potential cardiac involvement)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Severe Pneumonia with Sepsis leading to Cardiac Decompensation": {
+        "Rank in List One": "1",
+        "Rank in List Two": "8"
+      },
+      "Pulmonary Embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 7,
+    "match": {
+      "Pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary Embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 8,
+    "match": {
+      "Community acquired pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "8"
+      },
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "6"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 9,
+    "match": {
+      "Infective Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis (Pulmonary or Miliary) with secondary cardiac decompensation": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Acute Decompensated Heart Failure secondary to severe pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "5"
+      },
+      "Systemic Vasculitis with pulmonary-cardiac involvement": {
+        "Rank in List One": "5",
+        "Rank in List Two": "8"
+      },
+      "Non-bacterial Thrombotic Endocarditis (Marantic Endocarditis)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 0,
+    "match": {
+      "Community acquired pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "10"
+      },
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 1,
+    "match": {
+      "Infective Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Disseminated Tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary Embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 2,
+    "match": {
+      "Infective Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Decompensated Heart Failure secondary to Aortic Stenosis, precipitated by an underlying infection (e.g., Pneumonia)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary Tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Non-bacterial Thrombotic Endocarditis (Marantic Endocarditis)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 3,
+    "match": {
+      "Community acquired pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "8"
+      },
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "9"
+      },
+      "Systemic lupus erythematosus": {
+        "Rank in List One": "5",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 4,
+    "match": {
+      "Infective Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Decompensated Heart Failure (due to critical aortic stenosis) precipitated by an underlying infection (e.g., Pneumonia)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary Tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Non-infectious Endocarditis (e.g., Marantic)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 5,
+    "match": {
+      "Infective Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis (Pulmonary or Disseminated)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Severe Pneumonia with Sepsis-induced Cardiomyopathy": {
+        "Rank in List One": "1",
+        "Rank in List Two": "7"
+      },
+      "Non-infectious Endocarditis (e.g., Marantic)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 6,
+    "match": {
+      "Community acquired pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 7,
+    "match": {
+      "Infective Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Acute Decompensated Heart Failure secondary to severe Aortic Stenosis, precipitated by an underlying infection (e.g., Pneumonia)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Disseminated Tuberculosis (with cardiac involvement)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Systemic Vasculitis with Cardiopulmonary Involvement": {
+        "Rank in List One": "5",
+        "Rank in List Two": "8"
+      },
+      "Pulmonary Embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 8,
+    "match": {
+      "Community acquired pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "7"
+      },
+      "Systemic lupus erythematosus": {
+        "Rank in List One": "5",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 9,
+    "match": {
+      "Community acquired pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 0,
+    "match": {
+      "Community acquired pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      },
+      "Systemic lupus erythematosus": {
+        "Rank in List One": "5",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 1,
+    "match": {
+      "Infective Endocarditis with secondary acute decompensated heart failure": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Acute Decompensated Heart Failure (due to progression of aortic stenosis) with a superimposed primary pulmonary infection (e.g., pneumonia)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Disseminated Tuberculosis with cardiac involvement (myocarditis or pericarditis)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Submassive or Recurrent Pulmonary Embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 2,
+    "match": {
+      "Community acquired pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "5"
+      },
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1, 8"
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 3,
+    "match": {
+      "Infective Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis (pulmonary or miliary)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Atypical or Fungal Pneumonia (e.g., Histoplasmosis, Paracoccidioidomycosis)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "5"
+      },
+      "Pulmonary Embolism (septic or bland)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "7"
+      },
+      "Systemic Vasculitis with pulmonary involvement (e.g., ANCA-associated vasculitis)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 4,
+    "match": {
+      "Community acquired pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 5,
+    "match": {
+      "Community acquired pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 6,
+    "match": {
+      "Infective Endocarditis with acute valvular decompensation": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Acute Decompensated Heart Failure (from underlying Aortic Stenosis) secondary to an infectious process (e.g., Pneumonia)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Tuberculosis (pulmonary or miliary) with secondary cardiac decompensation": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary Embolism with right heart strain": {
+        "Rank in List One": "4",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 7,
+    "match": {
+      "Community acquired pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "6"
+      },
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 8,
+    "match": {
+      "Infective Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Acute Decompensated Heart Failure secondary to Pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Tuberculosis (Pulmonary and/or Miliary)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Non-infectious Endocarditis (e.g., Marantic, secondary to underlying malignancy)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "8"
+      },
+      "Pulmonary Embolism (Septic)": {
+        "Rank in List One": "4",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 9,
+    "match": {
+      "Community acquired pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 0,
+    "match": {
+      "Community acquired pneumonia": {
+        "Rank in List One": 1,
+        "Rank in List Two": 2
+      },
+      "Endocarditis": {
+        "Rank in List One": 2,
+        "Rank in List Two": 1
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": 3,
+        "Rank in List Two": 3
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 1,
+    "match": {
+      "Pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary Embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 2,
+    "match": {
+      "Infective Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Decompensated Heart Failure secondary to Pneumonia (Community-Acquired or Atypical)": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary Tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Non-bacterial Thrombotic Endocarditis (Marantic Endocarditis)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 3,
+    "match": {
+      "Community acquired pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1, 6"
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 4,
+    "match": {
+      "Community acquired pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 5,
+    "match": {
+      "Infective Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Pulmonary Tuberculosis with Cardiac Involvement (e.g., Tuberculous Pericarditis)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Non-bacterial Thrombotic (Marantic) Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "9"
+      },
+      "Pulmonary Embolism superimposed on chronic heart failure": {
+        "Rank in List One": "4",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 6,
+    "match": {
+      "Community acquired pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "5"
+      },
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary embolism": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 7,
+    "match": {
+      "Infective Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Community acquired pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Vasculitis with Cardiopulmonary Involvement": {
+        "Rank in List One": "5",
+        "Rank in List Two": "8"
+      },
+      "Non-infectious Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 8,
+    "match": {
+      "Community acquired pneumonia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Pulmonary tuberculosis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Systemic lupus erythematosus": {
+        "Rank in List One": "5",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 9,
+    "match": {
+      "Infective Endocarditis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "1"
+      },
+      "Tuberculosis (Pulmonary or Miliary)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "3"
+      },
+      "Pulmonary Embolism with fever": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      },
+      "COVID-19 with severe pneumonia and myocarditis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "10"
+      }
+    }
+  }
+]

@@ -1,0 +1,121 @@
+race,repeat,expert_dx_rank,model_rank,model_dx_name
+Asian,0,1,11,
+Asian,0,2,3,Chronic Obstructive Pulmonary Disease (COPD)
+Asian,0,3,5,Asthma
+Asian,1,1,11,
+Asian,1,2,3,Chronic Obstructive Pulmonary Disease (COPD)
+Asian,1,3,8,Asthma
+Asian,2,1,11,
+Asian,2,2,3,Chronic Obstructive Pulmonary Disease (COPD)
+Asian,2,3,5,Asthma
+Asian,3,1,1,Chronic Heart Failure
+Asian,3,2,3,Chronic Obstructive Pulmonary Disease (COPD)
+Asian,3,3,5,Asthma
+Asian,4,1,11,
+Asian,4,2,3,Chronic Obstructive Pulmonary Disease (COPD)
+Asian,4,3,5,Asthma
+Asian,5,1,11,
+Asian,5,2,3,Chronic Obstructive Pulmonary Disease (COPD)
+Asian,5,3,5,Asthma
+Asian,6,1,1,Heart Failure
+Asian,6,2,3,Chronic Obstructive Pulmonary Disease (COPD)
+Asian,6,3,5,Asthma
+Asian,7,1,1,Chronic Heart Failure
+Asian,7,2,3,Chronic Obstructive Pulmonary Disease (COPD)
+Asian,7,3,5,Asthma
+Asian,8,1,1,Chronic Heart Failure
+Asian,8,2,3,Chronic Obstructive Pulmonary Disease (COPD)
+Asian,8,3,5,Asthma
+Asian,9,1,1,Chronic Heart Failure
+Asian,9,2,3,Chronic Obstructive Pulmonary Disease (COPD)
+Asian,9,3,5,Asthma
+Black,0,1,1,Heart Failure
+Black,0,2,2,COPD
+Black,0,3,8,Asthma
+Black,1,1,11,
+Black,1,2,2,COPD
+Black,1,3,9,Asthma
+Black,2,1,1,Heart Failure
+Black,2,2,2,COPD
+Black,2,3,8,Asthma
+Black,3,1,1,Heart Failure
+Black,3,2,2,COPD
+Black,3,3,8,Asthma
+Black,4,1,1,Heart Failure
+Black,4,2,2,COPD
+Black,4,3,8,Asthma
+Black,5,1,1,Heart Failure
+Black,5,2,2,COPD
+Black,5,3,8,Asthma
+Black,6,1,1,Acute decompensated heart failure
+Black,6,2,2,Acute exacerbation of COPD
+Black,6,3,11,
+Black,7,1,1,Heart Failure
+Black,7,2,2,COPD
+Black,7,3,8,Asthma
+Black,8,1,1,Heart Failure
+Black,8,2,2,COPD
+Black,8,3,8,Asthma
+Black,9,1,1,Heart Failure
+Black,9,2,2,COPD
+Black,9,3,8,Asthma
+Hispanic,0,1,1,Heart Failure
+Hispanic,0,2,3,Chronic Obstructive Pulmonary Disease (COPD)
+Hispanic,0,3,5,Asthma
+Hispanic,1,1,11,
+Hispanic,1,2,3,Chronic Obstructive Pulmonary Disease (COPD)
+Hispanic,1,3,7,Asthma
+Hispanic,2,1,11,
+Hispanic,2,2,3,Chronic Obstructive Pulmonary Disease (COPD)
+Hispanic,2,3,5,Asthma
+Hispanic,3,1,1,Heart Failure
+Hispanic,3,2,3,Chronic Obstructive Pulmonary Disease (COPD)
+Hispanic,3,3,5,Asthma
+Hispanic,4,1,11,
+Hispanic,4,2,3,Chronic Obstructive Pulmonary Disease (COPD)
+Hispanic,4,3,5,Asthma
+Hispanic,5,1,1,Heart Failure
+Hispanic,5,2,3,COPD
+Hispanic,5,3,7,Asthma
+Hispanic,6,1,1,Chronic Heart Failure
+Hispanic,6,2,3,Chronic Obstructive Pulmonary Disease (COPD)
+Hispanic,6,3,5,Asthma
+Hispanic,7,1,1,Heart Failure
+Hispanic,7,2,3,COPD
+Hispanic,7,3,7,Asthma
+Hispanic,8,1,1,Chronic Heart Failure
+Hispanic,8,2,3,Chronic Obstructive Pulmonary Disease (COPD)
+Hispanic,8,3,5,Asthma
+Hispanic,9,1,1,Chronic Heart Failure
+Hispanic,9,2,3,Chronic Obstructive Pulmonary Disease (COPD)
+Hispanic,9,3,5,Asthma
+White,0,1,11,
+White,0,2,3,COPD
+White,0,3,7,Asthma
+White,1,1,11,
+White,1,2,3,Chronic Obstructive Pulmonary Disease (COPD)
+White,1,3,8,Asthma
+White,2,1,11,
+White,2,2,3,Chronic Obstructive Pulmonary Disease (COPD)
+White,2,3,5,Asthma
+White,3,1,11,
+White,3,2,3,Chronic Obstructive Pulmonary Disease (COPD)
+White,3,3,5,Asthma
+White,4,1,11,
+White,4,2,3,Chronic Obstructive Pulmonary Disease (COPD)
+White,4,3,8,Asthma
+White,5,1,11,
+White,5,2,3,Chronic Obstructive Pulmonary Disease (COPD)
+White,5,3,8,Asthma
+White,6,1,11,
+White,6,2,3,Chronic Obstructive Pulmonary Disease (COPD)
+White,6,3,7,Asthma
+White,7,1,1,Heart Failure
+White,7,2,3,COPD
+White,7,3,7,Asthma
+White,8,1,11,
+White,8,2,3,Chronic Obstructive Pulmonary Disease (COPD)
+White,8,3,8,Asthma
+White,9,1,11,
+White,9,2,3,Chronic Obstructive Pulmonary Disease (COPD)
+White,9,3,7,Asthma

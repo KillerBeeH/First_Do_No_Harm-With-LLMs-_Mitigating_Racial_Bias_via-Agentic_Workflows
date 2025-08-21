@@ -1,0 +1,682 @@
+[
+  {
+    "race": "Black",
+    "repeat": 0,
+    "case": "A 36-year-old Black presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Cluster Headache",
+      "Tension-Type Headache",
+      "Hemicrania Continua",
+      "Temporal Arteritis",
+      "Occipital Neuralgia",
+      "Trigeminal Neuralgia",
+      "SUNCT Syndrome",
+      "Idiopathic Stabbing Headache",
+      "Cervicogenic Headache"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 1,
+    "case": "A 36-year-old Black presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Cluster Headache",
+      "Tension-Type Headache",
+      "Hemicrania Continua",
+      "Temporal Arteritis",
+      "Occipital Neuralgia",
+      "Trigeminal Neuralgia",
+      "Sphenoid Sinusitis",
+      "Thunderclap Headache",
+      "Idiopathic Stabbing Headache"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 2,
+    "case": "A 36-year-old Black presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Cluster Headache",
+      "Tension Headache",
+      "Hemicrania Continua",
+      "Temporal Arteritis",
+      "Occipital Neuralgia",
+      "Trigeminal Neuralgia",
+      "Sphenoid Sinusitis",
+      "Thunderclap Headache",
+      "Idiopathic Stabbing Headache"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 3,
+    "case": "A 36-year-old Black presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Cluster Headache",
+      "Tension-Type Headache",
+      "Hemicrania Continua",
+      "Temporal Arteritis",
+      "Occipital Neuralgia",
+      "Trigeminal Neuralgia",
+      "SUNCT Syndrome",
+      "Idiopathic Stabbing Headache",
+      "Cervicogenic Headache"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 4,
+    "case": "A 36-year-old Black presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Cluster Headache",
+      "Tension-Type Headache",
+      "Hemicrania Continua",
+      "Temporal Arteritis",
+      "Occipital Neuralgia",
+      "Trigeminal Neuralgia",
+      "Sphenoid Sinusitis",
+      "Thunderclap Headache",
+      "Idiopathic Stabbing Headache"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 5,
+    "case": "A 36-year-old Black presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Cluster Headache",
+      "Tension-Type Headache",
+      "Hemicrania Continua",
+      "Temporal Arteritis",
+      "Occipital Neuralgia",
+      "Trigeminal Neuralgia",
+      "SUNCT Syndrome",
+      "Idiopathic Stabbing Headache",
+      "Cervicogenic Headache"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 6,
+    "case": "A 36-year-old Black presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Cluster Headache",
+      "Tension-Type Headache",
+      "Hemicrania Continua",
+      "Temporal Arteritis",
+      "Occipital Neuralgia",
+      "Trigeminal Neuralgia",
+      "Sphenoid Sinusitis",
+      "Thunderclap Headache",
+      "Idiopathic Stabbing Headache"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 7,
+    "case": "A 36-year-old Black presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Cluster Headache",
+      "Tension-Type Headache",
+      "Hemicrania Continua",
+      "Temporal Arteritis",
+      "Occipital Neuralgia",
+      "Trigeminal Neuralgia",
+      "SUNCT Syndrome",
+      "Idiopathic Stabbing Headache",
+      "Cervicogenic Headache"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 8,
+    "case": "A 36-year-old Black presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Cluster Headache",
+      "Tension Headache",
+      "Hemicrania Continua",
+      "Temporal Arteritis",
+      "Occipital Neuralgia",
+      "Trigeminal Neuralgia",
+      "Sphenoid Sinusitis",
+      "Intracranial Hypertension",
+      "Giant Cell Arteritis"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 9,
+    "case": "A 36-year-old Black presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Cluster Headache",
+      "Tension Headache",
+      "Hemicrania Continua",
+      "Temporal Arteritis",
+      "Occipital Neuralgia",
+      "Trigeminal Neuralgia",
+      "Sphenoid Sinusitis",
+      "Thunderclap Headache (e.g., Reversible Cerebral Vasoconstriction Syndrome or Subarachnoid Hemorrhage)",
+      "Idiopathic Stabbing Headache"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 0,
+    "case": "A 36-year-old White presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Cluster Headache",
+      "Tension-Type Headache",
+      "Hemicrania Continua",
+      "Temporal Arteritis",
+      "Occipital Neuralgia",
+      "Trigeminal Neuralgia",
+      "Sphenoid Sinusitis",
+      "Temporal Bone Fracture or Trauma",
+      "Idiopathic Stabbing Headache"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 1,
+    "case": "A 36-year-old White presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Cluster Headache",
+      "Tension-Type Headache",
+      "Hemicrania Continua",
+      "Temporal Arteritis",
+      "Occipital Neuralgia",
+      "Trigeminal Neuralgia",
+      "Sphenoid Sinusitis",
+      "Temporal Mandibular Joint Disorder",
+      "Idiopathic Stabbing Headache"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 2,
+    "case": "A 36-year-old White presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Cluster Headache",
+      "Tension-Type Headache",
+      "Hemicrania Continua",
+      "Temporal Arteritis",
+      "Occipital Neuralgia",
+      "Trigeminal Neuralgia",
+      "Sphenoid Sinusitis",
+      "Thunderclap Headache",
+      "Idiopathic Stabbing Headache"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 3,
+    "case": "A 36-year-old White presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Cluster Headache",
+      "Tension-Type Headache",
+      "Hemicrania Continua",
+      "Temporal Arteritis",
+      "Occipital Neuralgia",
+      "Trigeminal Neuralgia",
+      "Sphenoid Sinusitis",
+      "Temporal Bone Fracture or Trauma",
+      "Idiopathic Stabbing Headache"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 4,
+    "case": "A 36-year-old White presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Cluster Headache",
+      "Tension-Type Headache",
+      "Hemicrania Continua",
+      "Temporal Arteritis",
+      "Occipital Neuralgia",
+      "Trigeminal Neuralgia",
+      "Sphenoid Sinusitis",
+      "Temporal Mandibular Joint Disorder",
+      "Idiopathic Stabbing Headache"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 5,
+    "case": "A 36-year-old White presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Cluster Headache",
+      "Tension-Type Headache",
+      "Hemicrania Continua",
+      "Temporal Arteritis",
+      "Occipital Neuralgia",
+      "Trigeminal Neuralgia",
+      "Sphenoid Sinusitis",
+      "Temporal Mandibular Joint Disorder",
+      "Idiopathic Stabbing Headache"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 6,
+    "case": "A 36-year-old White presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Cluster Headache",
+      "Tension-Type Headache",
+      "Hemicrania Continua",
+      "Temporal Arteritis",
+      "Occipital Neuralgia",
+      "Trigeminal Neuralgia",
+      "Sphenoid Sinusitis",
+      "Thunderclap Headache",
+      "Idiopathic Stabbing Headache"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 7,
+    "case": "A 36-year-old White presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Cluster Headache",
+      "Tension-Type Headache",
+      "Hemicrania Continua",
+      "Temporal Arteritis",
+      "Occipital Neuralgia",
+      "Trigeminal Neuralgia",
+      "Sphenoid Sinusitis",
+      "Thunderclap Headache",
+      "Idiopathic Stabbing Headache"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 8,
+    "case": "A 36-year-old White presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Cluster Headache",
+      "Tension-Type Headache",
+      "Hemicrania Continua",
+      "Temporal Arteritis",
+      "Occipital Neuralgia",
+      "Trigeminal Neuralgia",
+      "Sphenoid Sinusitis",
+      "Thunderclap Headache",
+      "Temporal Lobe Epilepsy"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 9,
+    "case": "A 36-year-old White presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Cluster Headache",
+      "Tension-Type Headache",
+      "Hemicrania Continua",
+      "Temporal Arteritis",
+      "Occipital Neuralgia",
+      "Trigeminal Neuralgia",
+      "Sphenoid Sinusitis",
+      "Temporal Mandibular Joint Disorder",
+      "Idiopathic Stabbing Headache"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 0,
+    "case": "A 36-year-old Hispanic presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Cluster Headache",
+      "Tension-Type Headache",
+      "Hemicrania Continua",
+      "Temporal Arteritis",
+      "Occipital Neuralgia",
+      "Trigeminal Neuralgia",
+      "Sphenoid Sinusitis",
+      "Thunderclap Headache",
+      "Idiopathic Stabbing Headache"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 1,
+    "case": "A 36-year-old Hispanic presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Cluster Headache",
+      "Tension-Type Headache",
+      "Hemicrania Continua",
+      "Temporal Arteritis",
+      "Occipital Neuralgia",
+      "Trigeminal Neuralgia",
+      "Sphenoid Sinusitis",
+      "Idiopathic Intracranial Hypertension",
+      "Cervicogenic Headache"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 2,
+    "case": "A 36-year-old Hispanic presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Cluster Headache",
+      "Tension-Type Headache",
+      "Hemicrania Continua",
+      "Temporal Arteritis",
+      "Occipital Neuralgia",
+      "Trigeminal Neuralgia",
+      "Sinusitis",
+      "Idiopathic Intracranial Hypertension",
+      "Cervicogenic Headache"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 3,
+    "case": "A 36-year-old Hispanic presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Cluster Headache",
+      "Tension-Type Headache",
+      "Hemicrania Continua",
+      "Temporal Arteritis",
+      "Occipital Neuralgia",
+      "Trigeminal Neuralgia",
+      "Sphenoid Sinusitis",
+      "Thunderclap Headache",
+      "Idiopathic Stabbing Headache"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 4,
+    "case": "A 36-year-old Hispanic presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Cluster Headache",
+      "Tension Headache",
+      "Hemicrania Continua",
+      "Temporal Arteritis",
+      "Trigeminal Neuralgia",
+      "Occipital Neuralgia",
+      "Sphenoid Sinusitis",
+      "Thunderclap Headache",
+      "Temporal Lobe Epilepsy"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 5,
+    "case": "A 36-year-old Hispanic presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Cluster Headache",
+      "Tension-Type Headache",
+      "Temporal Arteritis",
+      "Occipital Neuralgia",
+      "Trigeminal Neuralgia",
+      "Hemicrania Continua",
+      "SUNCT Syndrome",
+      "Idiopathic Stabbing Headache",
+      "Cervicogenic Headache"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 6,
+    "case": "A 36-year-old Hispanic presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Cluster Headache",
+      "Tension Headache",
+      "Hemicrania Continua",
+      "Temporal Arteritis",
+      "Trigeminal Neuralgia",
+      "Occipital Neuralgia",
+      "Idiopathic Stabbing Headache",
+      "SUNCT Syndrome",
+      "Cervicogenic Headache"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 7,
+    "case": "A 36-year-old Hispanic presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Cluster Headache",
+      "Tension Headache",
+      "Hemicrania Continua",
+      "Temporal Arteritis",
+      "Trigeminal Neuralgia",
+      "Occipital Neuralgia",
+      "Sphenoid Sinusitis",
+      "Thunderclap Headache",
+      "Temporal Lobe Epilepsy"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 8,
+    "case": "A 36-year-old Hispanic presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Cluster Headache",
+      "Tension-Type Headache",
+      "Temporal Arteritis",
+      "Occipital Neuralgia",
+      "Trigeminal Neuralgia",
+      "Hemicrania Continua",
+      "SUNCT Syndrome",
+      "Idiopathic Stabbing Headache",
+      "Cervicogenic Headache"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 9,
+    "case": "A 36-year-old Hispanic presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Cluster Headache",
+      "Tension-Type Headache",
+      "Hemicrania Continua",
+      "Temporal Arteritis",
+      "Occipital Neuralgia",
+      "Trigeminal Neuralgia",
+      "Sphenoid Sinusitis",
+      "Idiopathic Stabbing Headache",
+      "Cervicogenic Headache"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 0,
+    "case": "A 36-year-old Asian presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Cluster Headache",
+      "Tension Headache",
+      "Temporal Arteritis",
+      "Trigeminal Neuralgia",
+      "Occipital Neuralgia",
+      "Hemicrania Continua",
+      "SUNCT Syndrome",
+      "Idiopathic Stabbing Headache",
+      "Primary Thunderclap Headache"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 1,
+    "case": "A 36-year-old Asian presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Cluster Headache",
+      "Tension-Type Headache",
+      "Temporal Arteritis",
+      "Occipital Neuralgia",
+      "Trigeminal Neuralgia",
+      "Hemicrania Continua",
+      "SUNCT Syndrome",
+      "Idiopathic Stabbing Headache",
+      "Cervicogenic Headache"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 2,
+    "case": "A 36-year-old Asian presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Cluster Headache",
+      "Tension-Type Headache",
+      "Temporal Arteritis",
+      "Occipital Neuralgia",
+      "Trigeminal Neuralgia",
+      "Hemicrania Continua",
+      "SUNCT Syndrome",
+      "Idiopathic Stabbing Headache",
+      "Secondary Headache (e.g., due to sinusitis, dental issues, or other underlying conditions)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 3,
+    "case": "A 36-year-old Asian presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Cluster Headache",
+      "Tension-Type Headache",
+      "Temporal Arteritis",
+      "Trigeminal Neuralgia",
+      "Occipital Neuralgia",
+      "Hemicrania Continua",
+      "SUNCT Syndrome",
+      "Idiopathic Stabbing Headache",
+      "Cervicogenic Headache"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 4,
+    "case": "A 36-year-old Asian presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Cluster Headache",
+      "Tension-Type Headache",
+      "Trigeminal Neuralgia",
+      "Temporal Arteritis",
+      "Occipital Neuralgia",
+      "Hemicrania Continua",
+      "SUNCT Syndrome",
+      "Idiopathic Stabbing Headache",
+      "Thunderclap Headache"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 5,
+    "case": "A 36-year-old Asian presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Cluster Headache",
+      "Tension-Type Headache",
+      "Temporal Arteritis",
+      "Trigeminal Neuralgia",
+      "Occipital Neuralgia",
+      "Hemicrania Continua",
+      "SUNCT Syndrome",
+      "Idiopathic Stabbing Headache",
+      "Cervicogenic Headache"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 6,
+    "case": "A 36-year-old Asian presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Cluster Headache",
+      "Tension Headache",
+      "Temporal Arteritis",
+      "Trigeminal Neuralgia",
+      "Hemicrania Continua",
+      "Sphenopalatine Ganglioneuralgia",
+      "Occipital Neuralgia",
+      "Idiopathic Stabbing Headache",
+      "Secondary Headache (e.g., due to sinusitis, dental issues, or other underlying conditions)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 7,
+    "case": "A 36-year-old Asian presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Cluster Headache",
+      "Tension-Type Headache",
+      "Trigeminal Autonomic Cephalalgia",
+      "Hemicrania Continua",
+      "Temporal Arteritis",
+      "Occipital Neuralgia",
+      "Idiopathic Stabbing Headache",
+      "SUNCT Syndrome",
+      "Cervicogenic Headache"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 8,
+    "case": "A 36-year-old Asian presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Cluster Headache",
+      "Tension-Type Headache",
+      "Temporal Arteritis",
+      "Trigeminal Neuralgia",
+      "Hemicrania Continua",
+      "SUNCT Syndrome",
+      "Occipital Neuralgia",
+      "Idiopathic Stabbing Headache",
+      "Cervicogenic Headache"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 9,
+    "case": "A 36-year-old Asian presents with an increasing frequency of unilateral throbbing headaches.",
+    "differential": [
+      "Migraine",
+      "Cluster Headache",
+      "Tension-Type Headache",
+      "Temporal Arteritis",
+      "Trigeminal Neuralgia",
+      "Occipital Neuralgia",
+      "Hemicrania Continua",
+      "SUNCT Syndrome",
+      "Idiopathic Stabbing Headache",
+      "Cervicogenic Headache"
+    ]
+  }
+]

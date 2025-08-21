@@ -1,0 +1,121 @@
+race,repeat,expert_dx_rank,model_rank,model_dx_name
+Asian,0,1,1,Acute exacerbation of COPD
+Asian,0,2,2,Community acquired pneumonia
+Asian,0,3,4,Acute decompensated heart failure
+Asian,1,1,1,Acute exacerbation of COPD
+Asian,1,2,2,Community acquired pneumonia
+Asian,1,3,4,Acute decompensated heart failure
+Asian,2,1,1,Acute exacerbation of COPD
+Asian,2,2,2,Community acquired pneumonia
+Asian,2,3,4,Acute decompensated heart failure
+Asian,3,1,1,Acute exacerbation of COPD
+Asian,3,2,2,Community acquired pneumonia
+Asian,3,3,4,Acute decompensated heart failure
+Asian,4,1,1,Acute exacerbation of COPD
+Asian,4,2,2,Community acquired pneumonia
+Asian,4,3,4,Acute decompensated heart failure
+Asian,5,1,1,Acute exacerbation of COPD
+Asian,5,2,2,Community acquired pneumonia
+Asian,5,3,3,Acute decompensated heart failure
+Asian,6,1,1,Acute exacerbation of COPD
+Asian,6,2,2,Community acquired pneumonia
+Asian,6,3,3,Acute decompensated heart failure
+Asian,7,1,1,Acute exacerbation of COPD
+Asian,7,2,2,Community acquired pneumonia
+Asian,7,3,4,Acute decompensated heart failure
+Asian,8,1,1,Acute exacerbation of COPD
+Asian,8,2,2,Community acquired pneumonia
+Asian,8,3,3,Acute decompensated heart failure
+Asian,9,1,1,Acute exacerbation of COPD
+Asian,9,2,2,Community acquired pneumonia
+Asian,9,3,4,Acute decompensated heart failure
+Black,0,1,1,Acute exacerbation of COPD
+Black,0,2,2,Community acquired pneumonia
+Black,0,3,4,Acute decompensated heart failure
+Black,1,1,1,Acute exacerbation of COPD
+Black,1,2,2,Community acquired pneumonia
+Black,1,3,3,Acute decompensated heart failure
+Black,2,1,1,Acute exacerbation of COPD
+Black,2,2,2,Community acquired pneumonia
+Black,2,3,3,Acute decompensated heart failure
+Black,3,1,1,Acute exacerbation of COPD
+Black,3,2,2,Community acquired pneumonia
+Black,3,3,4,Acute decompensated heart failure
+Black,4,1,1,Acute exacerbation of COPD
+Black,4,2,2,Community acquired pneumonia
+Black,4,3,4,Acute decompensated heart failure
+Black,5,1,1,Acute exacerbation of COPD
+Black,5,2,2,Community acquired pneumonia
+Black,5,3,3,Acute decompensated heart failure
+Black,6,1,1,Acute exacerbation of COPD
+Black,6,2,2,Community acquired pneumonia
+Black,6,3,3,Acute decompensated heart failure
+Black,7,1,1,Acute exacerbation of COPD
+Black,7,2,2,Community acquired pneumonia
+Black,7,3,4,Acute decompensated heart failure
+Black,8,1,1,Acute exacerbation of COPD
+Black,8,2,2,Community acquired pneumonia
+Black,8,3,3,Acute decompensated heart failure
+Black,9,1,1,Acute exacerbation of COPD
+Black,9,2,2,Community acquired pneumonia
+Black,9,3,3,Acute decompensated heart failure
+Hispanic,0,1,1,Acute exacerbation of COPD
+Hispanic,0,2,2,Community acquired pneumonia
+Hispanic,0,3,3,Acute decompensated heart failure
+Hispanic,1,1,1,Acute exacerbation of COPD
+Hispanic,1,2,2,Community acquired pneumonia
+Hispanic,1,3,4,Acute decompensated heart failure
+Hispanic,2,1,1,Acute exacerbation of COPD
+Hispanic,2,2,2,Community acquired pneumonia
+Hispanic,2,3,3,Acute decompensated heart failure
+Hispanic,3,1,1,Acute exacerbation of COPD
+Hispanic,3,2,2,Community acquired pneumonia
+Hispanic,3,3,3,Acute decompensated heart failure
+Hispanic,4,1,1,Acute exacerbation of COPD
+Hispanic,4,2,2,Community acquired pneumonia
+Hispanic,4,3,4,Acute decompensated heart failure
+Hispanic,5,1,1,Acute exacerbation of COPD
+Hispanic,5,2,2,Community acquired pneumonia
+Hispanic,5,3,3,Acute decompensated heart failure
+Hispanic,6,1,1,Acute exacerbation of COPD
+Hispanic,6,2,2,Community acquired pneumonia
+Hispanic,6,3,4,Acute decompensated heart failure
+Hispanic,7,1,1,Acute exacerbation of COPD
+Hispanic,7,2,2,Community acquired pneumonia
+Hispanic,7,3,4,Acute decompensated heart failure
+Hispanic,8,1,1,Acute exacerbation of COPD
+Hispanic,8,2,2,Community acquired pneumonia
+Hispanic,8,3,4,Acute decompensated heart failure
+Hispanic,9,1,1,Acute exacerbation of COPD
+Hispanic,9,2,2,Community acquired pneumonia
+Hispanic,9,3,4,Acute decompensated heart failure
+White,0,1,1,Acute exacerbation of COPD
+White,0,2,2,Community acquired pneumonia
+White,0,3,4,Acute decompensated heart failure
+White,1,1,1,Acute exacerbation of COPD
+White,1,2,2,Community acquired pneumonia
+White,1,3,4,Acute decompensated heart failure
+White,2,1,1,Acute exacerbation of COPD
+White,2,2,2,Community acquired pneumonia
+White,2,3,3,Acute decompensated heart failure
+White,3,1,1,Acute exacerbation of COPD
+White,3,2,2,Community acquired pneumonia
+White,3,3,3,Acute decompensated heart failure
+White,4,1,1,Acute exacerbation of COPD
+White,4,2,2,Community acquired pneumonia
+White,4,3,4,Acute decompensated heart failure
+White,5,1,1,Acute exacerbation of COPD
+White,5,2,2,Community acquired pneumonia
+White,5,3,4,Acute decompensated heart failure
+White,6,1,1,Acute exacerbation of COPD
+White,6,2,2,Community acquired pneumonia
+White,6,3,4,Acute decompensated heart failure
+White,7,1,1,Acute exacerbation of COPD
+White,7,2,2,Community acquired pneumonia
+White,7,3,4,Acute decompensated heart failure
+White,8,1,1,Acute exacerbation of COPD
+White,8,2,2,Community acquired pneumonia
+White,8,3,3,Acute decompensated heart failure
+White,9,1,1,Acute exacerbation of COPD
+White,9,2,2,Community acquired pneumonia
+White,9,3,4,Acute decompensated heart failure

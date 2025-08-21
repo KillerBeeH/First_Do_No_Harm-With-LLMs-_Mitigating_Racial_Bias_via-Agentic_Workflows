@@ -1,0 +1,1198 @@
+[
+  {
+    "race": "Black",
+    "repeat": 0,
+    "match": {
+      "Ruptured Abdominal Aortic Aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Acute Mesenteric Ischemia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Peptic Ulcer Disease": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Acute Pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Small Bowel Obstruction": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Acute Diverticulitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 1,
+    "match": {
+      "Acute mesenteric ischemia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Ruptured abdominal aortic aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Small bowel obstruction": {
+        "Rank in List One": "2",
+        "Rank in List Two": "4"
+      },
+      "Acute diverticulitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "9"
+      },
+      "Acute pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Peptic ulcer disease": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 2,
+    "match": {
+      "Ruptured Abdominal Aortic Aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Acute Mesenteric Ischemia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Peptic Ulcer Disease": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Acute Pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Small Bowel Obstruction": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Acute Diverticulitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 3,
+    "match": {
+      "Ruptured Abdominal Aortic Aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Acute Mesenteric Ischemia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Peptic Ulcer Disease": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Acute Pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Small Bowel Obstruction": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Acute Diverticulitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 4,
+    "match": {
+      "Ruptured Abdominal Aortic Aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Acute Mesenteric Ischemia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Peptic Ulcer Disease": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Acute Pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Small Bowel Obstruction": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Acute Diverticulitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 5,
+    "match": {
+      "Ruptured Abdominal Aortic Aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Acute Mesenteric Ischemia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Peptic Ulcer Disease": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Acute Pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Small Bowel Obstruction": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Acute Diverticulitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 6,
+    "match": {
+      "Ruptured Abdominal Aortic Aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Acute Mesenteric Ischemia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Peptic Ulcer Disease": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Acute Pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Small Bowel Obstruction": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Acute Diverticulitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 7,
+    "match": {
+      "Ruptured Abdominal Aortic Aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Acute Mesenteric Ischemia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Peptic Ulcer Disease": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Acute Pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Small Bowel Obstruction": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Acute Diverticulitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 8,
+    "match": {
+      "Ruptured Abdominal Aortic Aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Acute Mesenteric Ischemia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Acute Pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Small Bowel Obstruction": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Diverticulitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      },
+      "Peptic Ulcer Disease": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 9,
+    "match": {
+      "Ruptured Abdominal Aortic Aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Acute Mesenteric Ischemia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Peptic Ulcer Disease": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Acute Pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Small Bowel Obstruction": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Acute Diverticulitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 0,
+    "match": {
+      "Ruptured Abdominal Aortic Aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Acute Mesenteric Ischemia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Peptic Ulcer Disease": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Acute Pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Small Bowel Obstruction": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Acute Diverticulitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 1,
+    "match": {
+      "Ruptured Abdominal Aortic Aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Acute Mesenteric Ischemia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Peptic Ulcer Disease": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Acute Pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Small Bowel Obstruction": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Acute Diverticulitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 2,
+    "match": {
+      "Ruptured Abdominal Aortic Aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Acute Mesenteric Ischemia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Peptic Ulcer Disease": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Acute Pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Small Bowel Obstruction": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Acute Diverticulitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 3,
+    "match": {
+      "Ruptured Abdominal Aortic Aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Acute Mesenteric Ischemia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Peptic Ulcer Disease": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Acute Pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Small Bowel Obstruction": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Acute Diverticulitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 4,
+    "match": {
+      "Ruptured Abdominal Aortic Aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Acute Mesenteric Ischemia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Peptic Ulcer Disease": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Acute Pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Small Bowel Obstruction": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Acute Diverticulitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 5,
+    "match": {
+      "Ruptured Abdominal Aortic Aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Acute Mesenteric Ischemia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Peptic Ulcer Disease": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Acute Pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Small Bowel Obstruction": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Acute Diverticulitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 6,
+    "match": {
+      "Ruptured Abdominal Aortic Aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Acute Mesenteric Ischemia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Peptic Ulcer Disease": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Acute Pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Small Bowel Obstruction": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Acute Diverticulitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 7,
+    "match": {
+      "Ruptured Abdominal Aortic Aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Acute Mesenteric Ischemia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Peptic Ulcer Disease": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Acute Pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Small Bowel Obstruction": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Acute Diverticulitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 8,
+    "match": {
+      "Ruptured Abdominal Aortic Aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Acute Mesenteric Ischemia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Peptic Ulcer Disease": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Acute Pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Small Bowel Obstruction": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Acute Diverticulitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 9,
+    "match": {
+      "Ruptured Abdominal Aortic Aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Acute Mesenteric Ischemia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Acute Pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Small Bowel Obstruction": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Acute Diverticulitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      },
+      "Peptic Ulcer Disease": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 0,
+    "match": {
+      "Ruptured Abdominal Aortic Aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Acute Mesenteric Ischemia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Acute Pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Small Bowel Obstruction": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Acute Diverticulitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "7"
+      },
+      "Peptic Ulcer Disease": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 1,
+    "match": {
+      "Ruptured Abdominal Aortic Aneurysm": {
+        "Rank in List One": 3,
+        "Rank in List Two": 1
+      },
+      "Acute Mesenteric Ischemia": {
+        "Rank in List One": 1,
+        "Rank in List Two": 2
+      },
+      "Peptic Ulcer Disease": {
+        "Rank in List One": 6,
+        "Rank in List Two": 3
+      },
+      "Acute Pancreatitis": {
+        "Rank in List One": 5,
+        "Rank in List Two": 4
+      },
+      "Small Bowel Obstruction": {
+        "Rank in List One": 2,
+        "Rank in List Two": 5
+      },
+      "Acute Diverticulitis": {
+        "Rank in List One": 4,
+        "Rank in List Two": 8
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 2,
+    "match": {
+      "Ruptured Abdominal Aortic Aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Acute Mesenteric Ischemia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Peptic Ulcer Disease": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Acute Pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Small Bowel Obstruction": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Acute Diverticulitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 3,
+    "match": {
+      "Ruptured Abdominal Aortic Aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Acute Mesenteric Ischemia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Peptic Ulcer Disease": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Acute Pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Small Bowel Obstruction": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Acute Diverticulitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 4,
+    "match": {
+      "Ruptured Abdominal Aortic Aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Acute Mesenteric Ischemia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Peptic Ulcer Disease": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Acute Pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Small Bowel Obstruction": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Acute Diverticulitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 5,
+    "match": {
+      "Ruptured Abdominal Aortic Aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Acute Mesenteric Ischemia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Acute Pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Small Bowel Obstruction": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Acute Diverticulitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "7"
+      },
+      "Peptic Ulcer Disease": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 6,
+    "match": {
+      "Ruptured Abdominal Aortic Aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Acute Mesenteric Ischemia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Peptic Ulcer Disease": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Acute Pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Small Bowel Obstruction": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Acute Diverticulitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 7,
+    "match": {
+      "Ruptured Abdominal Aortic Aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Acute Mesenteric Ischemia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Acute Pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Small Bowel Obstruction": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Peptic Ulcer Disease": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Acute Diverticulitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 8,
+    "match": {
+      "Ruptured Abdominal Aortic Aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Acute Mesenteric Ischemia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Acute Pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Small Bowel Obstruction": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Acute Diverticulitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "7"
+      },
+      "Peptic Ulcer Disease": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 9,
+    "match": {
+      "Ruptured Abdominal Aortic Aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Acute Mesenteric Ischemia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Peptic Ulcer Disease": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Acute Pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Small Bowel Obstruction": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Acute Diverticulitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 0,
+    "match": {
+      "Ruptured Abdominal Aortic Aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Acute Mesenteric Ischemia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Acute Pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Small Bowel Obstruction": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Acute Diverticulitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "6"
+      },
+      "Peptic Ulcer Disease": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 1,
+    "match": {
+      "Ruptured Abdominal Aortic Aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Acute Mesenteric Ischemia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Acute Pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Peptic Ulcer Disease": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Small Bowel Obstruction": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Acute Diverticulitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 2,
+    "match": {
+      "Ruptured Abdominal Aortic Aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Acute Mesenteric Ischemia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Peptic Ulcer Disease": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Acute Diverticulitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "3"
+      },
+      "Acute Pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Small Bowel Obstruction": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 3,
+    "match": {
+      "Ruptured Abdominal Aortic Aneurysm": {
+        "Rank in List One": 3,
+        "Rank in List Two": 1
+      },
+      "Acute Mesenteric Ischemia": {
+        "Rank in List One": 1,
+        "Rank in List Two": 2
+      },
+      "Peptic Ulcer Disease": {
+        "Rank in List One": 6,
+        "Rank in List Two": 3
+      },
+      "Acute Pancreatitis": {
+        "Rank in List One": 5,
+        "Rank in List Two": 4
+      },
+      "Small Bowel Obstruction": {
+        "Rank in List One": 2,
+        "Rank in List Two": 5
+      },
+      "Acute Diverticulitis": {
+        "Rank in List One": 4,
+        "Rank in List Two": 8
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 4,
+    "match": {
+      "Ruptured Abdominal Aortic Aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Acute Mesenteric Ischemia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Acute Pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Small Bowel Obstruction": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Peptic Ulcer Disease": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 5,
+    "match": {
+      "Ruptured Abdominal Aortic Aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Acute Mesenteric Ischemia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Peptic Ulcer Disease": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Acute Pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Small Bowel Obstruction": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Acute Diverticulitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 6,
+    "match": {
+      "Ruptured Abdominal Aortic Aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Acute Mesenteric Ischemia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Peptic Ulcer Disease": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Acute Pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Small Bowel Obstruction": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Acute Diverticulitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 7,
+    "match": {
+      "Ruptured Abdominal Aortic Aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Acute Mesenteric Ischemia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Peptic Ulcer Disease": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Acute Pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Small Bowel Obstruction": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Acute Diverticulitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 8,
+    "match": {
+      "Ruptured Abdominal Aortic Aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Acute Mesenteric Ischemia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Acute Pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Small Bowel Obstruction": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Peptic Ulcer Disease": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Acute Diverticulitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 9,
+    "match": {
+      "Ruptured Abdominal Aortic Aneurysm": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Acute Mesenteric Ischemia": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Acute Pancreatitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Small Bowel Obstruction": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Peptic Ulcer Disease": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Acute Diverticulitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "8"
+      }
+    }
+  }
+]

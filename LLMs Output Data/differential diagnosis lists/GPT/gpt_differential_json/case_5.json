@@ -1,0 +1,682 @@
+[
+  {
+    "race": "Black",
+    "repeat": 0,
+    "case": "A 71-year-old Black presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure with preserved ejection fraction (HFpEF)",
+      "Atrial fibrillation with rapid ventricular response",
+      "Pulmonary embolism",
+      "Anemia",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation",
+      "Pneumonia (early or mild, not yet hypoxic)",
+      "Thyrotoxicosis",
+      "Anxiety/panic attack",
+      "Deconditioning or physical inactivity",
+      "Interstitial lung disease"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 1,
+    "case": "A 71-year-old Black presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure with preserved ejection fraction (HFpEF)",
+      "Anemia",
+      "Atrial fibrillation with rapid ventricular response",
+      "Pulmonary embolism (small or subsegmental, not causing hypoxemia)",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation (mild)",
+      "Early interstitial lung disease",
+      "Anxiety or panic disorder",
+      "Thyrotoxicosis",
+      "Pulmonary hypertension",
+      "Deconditioning or physical inactivity"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 2,
+    "case": "A 71-year-old Black presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure with preserved ejection fraction (HFpEF, diastolic heart failure)",
+      "Atrial fibrillation with rapid ventricular response",
+      "Pulmonary embolism (small or subsegmental, not causing hypoxemia)",
+      "Anemia",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation",
+      "Early interstitial lung disease",
+      "Deconditioning/physical inactivity",
+      "Anxiety or panic attack",
+      "Thyrotoxicosis",
+      "Early cardiac ischemia (atypical presentation)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 3,
+    "case": "A 71-year-old Black presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure with preserved ejection fraction (HFpEF)",
+      "Anemia",
+      "Atrial fibrillation with rapid ventricular response",
+      "Pulmonary hypertension",
+      "Anxiety or panic attack",
+      "Pulmonary embolism (small, not causing hypoxemia)",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation (mild or early)",
+      "Thyrotoxicosis",
+      "Early interstitial lung disease",
+      "Deconditioning or physical inactivity"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 4,
+    "case": "A 71-year-old Black presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure with preserved ejection fraction (HFpEF)",
+      "Anemia",
+      "Atrial fibrillation with rapid ventricular response",
+      "Pulmonary embolism (small or subsegmental, not causing hypoxemia)",
+      "Deconditioning or physical inactivity",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation (early or mild)",
+      "Early interstitial lung disease",
+      "Anxiety or panic attack",
+      "Thyrotoxicosis",
+      "Pulmonary hypertension"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 5,
+    "case": "A 71-year-old Black presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure with preserved or reduced ejection fraction (HFpEF/HFrEF)",
+      "Anemia (especially considering age and possible chronic disease)",
+      "Atrial fibrillation or other arrhythmia",
+      "Pulmonary hypertension",
+      "Pulmonary embolism (small or subsegmental, not causing hypoxemia)",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation (without hypoxemia)",
+      "Early interstitial lung disease",
+      "Thyrotoxicosis",
+      "Deconditioning or physical inactivity",
+      "Anxiety or panic disorder"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 6,
+    "case": "A 71-year-old Black presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure with preserved ejection fraction (HFpEF)",
+      "Anemia",
+      "Atrial fibrillation with rapid ventricular response",
+      "Pulmonary hypertension",
+      "Deconditioning",
+      "Obesity hypoventilation syndrome",
+      "Chronic obstructive pulmonary disease (COPD, early or mild)",
+      "Thyrotoxicosis",
+      "Pulmonary embolism (small or subsegmental, not causing hypoxemia)",
+      "Anxiety or panic attack"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 7,
+    "case": "A 71-year-old Black presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure with preserved ejection fraction (HFpEF)",
+      "Atrial fibrillation with rapid ventricular response",
+      "Pulmonary embolism (small, non-massive)",
+      "Anemia (e.g., from chronic disease or gastrointestinal blood loss)",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation",
+      "Early interstitial lung disease",
+      "Thyrotoxicosis",
+      "Anxiety or panic attack",
+      "Deconditioning or physical inactivity",
+      "Pulmonary hypertension"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 8,
+    "case": "A 71-year-old Black presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure with preserved ejection fraction (HFpEF)",
+      "Atrial fibrillation with rapid ventricular response",
+      "Anemia",
+      "Pulmonary embolism (small or subsegmental, not causing hypoxemia)",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation (mild)",
+      "Early interstitial lung disease",
+      "Deconditioning or physical inactivity",
+      "Anxiety or panic attack",
+      "Thyrotoxicosis",
+      "Pulmonary hypertension"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 9,
+    "case": "A 71-year-old Black presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure with preserved ejection fraction (HFpEF)",
+      "Atrial fibrillation with rapid ventricular response",
+      "Anemia",
+      "Pulmonary embolism (small/subsegmental or chronic, not causing hypoxemia)",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation (mild, early, or compensated)",
+      "Deconditioning or physical inactivity",
+      "Anxiety or panic attack",
+      "Thyrotoxicosis",
+      "Early interstitial lung disease",
+      "Pulmonary hypertension"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 0,
+    "case": "A 71-year-old White presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure with preserved ejection fraction (HFpEF)",
+      "Atrial fibrillation with rapid ventricular response",
+      "Anemia",
+      "Pulmonary embolism (small/subsegmental, not causing hypoxemia)",
+      "Deconditioning or physical inactivity",
+      "Thyrotoxicosis",
+      "Early interstitial lung disease",
+      "Anxiety/panic disorder",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation (mild, not hypoxemic)",
+      "Paroxysmal supraventricular tachycardia"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 1,
+    "case": "A 71-year-old White presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure with preserved ejection fraction (HFpEF)",
+      "Atrial fibrillation with rapid ventricular response",
+      "Anemia",
+      "Pulmonary embolism (small or subsegmental, not causing hypoxemia)",
+      "Deconditioning (related to age or recent illness)",
+      "Thyrotoxicosis",
+      "Anxiety or panic attack",
+      "Early interstitial lung disease",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation without hypoxemia",
+      "Acute coronary syndrome (e.g., unstable angina)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 2,
+    "case": "A 71-year-old White presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure with preserved ejection fraction (HFpEF)",
+      "Atrial fibrillation with rapid ventricular response",
+      "Pulmonary embolism (small or subsegmental, not causing hypoxemia)",
+      "Anemia",
+      "Deconditioning or physical inactivity",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation (early or mild, with preserved oxygenation)",
+      "Pneumonia (early or atypical, not yet causing hypoxemia)",
+      "Thyrotoxicosis",
+      "Anxiety or panic attack",
+      "Pulmonary hypertension (early or mild)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 3,
+    "case": "A 71-year-old White presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure with preserved ejection fraction (HFpEF)/diastolic heart failure",
+      "Atrial fibrillation with rapid ventricular response",
+      "Anemia",
+      "Pulmonary embolism (small or subsegmental, not causing hypoxemia)",
+      "Deconditioning/physical inactivity",
+      "Early interstitial lung disease",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation without hypoxemia",
+      "Pneumonia (early or mild, not yet causing hypoxemia)",
+      "Thyrotoxicosis",
+      "Anxiety or panic attack"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 4,
+    "case": "A 71-year-old White presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure with preserved ejection fraction (HFpEF)",
+      "Atrial fibrillation with rapid ventricular response",
+      "Pulmonary embolism (small or subsegmental, not causing hypoxemia)",
+      "Anemia",
+      "Deconditioning or physical inactivity",
+      "Anxiety or panic attack",
+      "Early interstitial lung disease",
+      "Mild chronic obstructive pulmonary disease (COPD)",
+      "Thyrotoxicosis",
+      "Medication-induced tachycardia (e.g., beta-agonists, anticholinergics)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 5,
+    "case": "A 71-year-old White presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure with preserved ejection fraction (HFpEF)",
+      "Atrial fibrillation with rapid ventricular response",
+      "Anemia",
+      "Pulmonary embolism (small or subsegmental, not causing hypoxemia)",
+      "Deconditioning or physical inactivity",
+      "Early interstitial lung disease",
+      "Thyrotoxicosis",
+      "Chronic obstructive pulmonary disease (mild, early, or exacerbation without hypoxemia)",
+      "Anxiety or panic attack",
+      "Pulmonary hypertension"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 6,
+    "case": "A 71-year-old White presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure with preserved ejection fraction (HFpEF)",
+      "Atrial fibrillation with rapid ventricular response",
+      "Anemia",
+      "Pulmonary embolism (small or subsegmental)",
+      "Deconditioning or physical inactivity",
+      "Early interstitial lung disease",
+      "Thyrotoxicosis",
+      "Anxiety or panic attack",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation without hypoxemia",
+      "Pulmonary hypertension"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 7,
+    "case": "A 71-year-old White presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure with preserved ejection fraction (HFpEF)",
+      "Atrial fibrillation with rapid ventricular response",
+      "Pulmonary embolism (small or subsegmental, not causing hypoxemia)",
+      "Anemia",
+      "Deconditioning or physical inactivity",
+      "Anxiety or panic attack",
+      "Early interstitial lung disease",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation (mild, compensated)",
+      "Thyrotoxicosis",
+      "Early onset infection/sepsis (e.g., pneumonia without hypoxemia)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 8,
+    "case": "A 71-year-old White presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure with preserved ejection fraction (HFpEF)",
+      "Atrial fibrillation with rapid ventricular response",
+      "Pulmonary embolism (small or subsegmental, not causing hypoxemia)",
+      "Anemia",
+      "Deconditioning or physical inactivity",
+      "Early interstitial lung disease",
+      "Chronic obstructive pulmonary disease (COPD), mild or early exacerbation",
+      "Thyrotoxicosis",
+      "Anxiety/panic attack",
+      "Coronary artery disease with exertional angina"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 9,
+    "case": "A 71-year-old White presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure with preserved ejection fraction (HFpEF)",
+      "Atrial fibrillation with rapid ventricular response",
+      "Anemia",
+      "Pulmonary embolism (small or subsegmental, not causing hypoxemia)",
+      "Deconditioning or physical inactivity",
+      "Chronic obstructive pulmonary disease (early or mild, with compensation)",
+      "Pneumonia (early or mild, without hypoxemia)",
+      "Thyrotoxicosis",
+      "Anxiety or panic attack",
+      "Interstitial lung disease (early)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 0,
+    "case": "A 71-year-old Hispanic presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure with preserved ejection fraction (HFpEF)",
+      "Atrial fibrillation with rapid ventricular response",
+      "Pulmonary embolism (small, subsegmental or non-massive)",
+      "Anemia (acute or chronic)",
+      "Deconditioning or physical inactivity",
+      "Thyrotoxicosis",
+      "Pneumonia (early or mild, especially atypical)",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation",
+      "Anxiety or panic attack",
+      "Interstitial lung disease (early or mild)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 1,
+    "case": "A 71-year-old Hispanic presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure with preserved ejection fraction (HFpEF)",
+      "Atrial fibrillation with rapid ventricular response",
+      "Anemia",
+      "Pulmonary embolism (small or subsegmental, not causing hypoxemia)",
+      "Deconditioning or physical inactivity",
+      "Early interstitial lung disease",
+      "Thyrotoxicosis",
+      "Anxiety or panic disorder",
+      "Chronic obstructive pulmonary disease (mild or early stage)",
+      "Coronary artery disease (angina equivalent)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 2,
+    "case": "A 71-year-old Hispanic presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure with preserved ejection fraction (HFpEF)",
+      "Atrial fibrillation with rapid ventricular response",
+      "Anemia",
+      "Pulmonary embolism (small or subsegmental, not causing hypoxemia)",
+      "Deconditioning or physical inactivity",
+      "Chronic obstructive pulmonary disease (early or mild, not yet hypoxemic)",
+      "Anxiety or panic attack",
+      "Thyrotoxicosis",
+      "Early interstitial lung disease",
+      "Valvular heart disease (e.g., aortic stenosis, mitral regurgitation)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 3,
+    "case": "A 71-year-old Hispanic presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure with preserved ejection fraction (HFpEF)",
+      "Atrial fibrillation with rapid ventricular response",
+      "Anemia",
+      "Pulmonary embolism (small/subsegmental, non-hypoxemic)",
+      "Deconditioning or physical inactivity",
+      "Anxiety or panic attack",
+      "Early interstitial lung disease",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation without hypoxemia",
+      "Thyrotoxicosis",
+      "Pulmonary hypertension"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 4,
+    "case": "A 71-year-old Hispanic presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure with preserved ejection fraction (HFpEF)",
+      "Atrial fibrillation with rapid ventricular response",
+      "Anemia",
+      "Pulmonary embolism (small or subsegmental, not causing hypoxemia)",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation (mild, early, or non-hypoxemic)",
+      "Anxiety/panic attack",
+      "Early interstitial lung disease",
+      "Thyrotoxicosis",
+      "Pulmonary hypertension",
+      "Deconditioning or physical inactivity"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 5,
+    "case": "A 71-year-old Hispanic presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure with preserved ejection fraction (HFpEF)",
+      "Atrial fibrillation with rapid ventricular response",
+      "Anemia",
+      "Pulmonary embolism (small, non-occlusive, or subsegmental)",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation (mild or early)",
+      "Pneumonia (early or mild, not yet causing hypoxemia)",
+      "Thyrotoxicosis",
+      "Anxiety/panic attack",
+      "Deconditioning or physical inactivity",
+      "Paroxysmal supraventricular tachycardia (PSVT)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 6,
+    "case": "A 71-year-old Hispanic presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure with preserved ejection fraction (HFpEF)",
+      "Atrial fibrillation with rapid ventricular response",
+      "Anemia",
+      "Pulmonary embolism (small or subsegmental, not causing hypoxemia)",
+      "Deconditioning or physical inactivity",
+      "Early interstitial lung disease",
+      "Thyrotoxicosis",
+      "Anxiety or panic attack",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation (mild, compensated)",
+      "Paroxysmal supraventricular tachycardia (PSVT)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 7,
+    "case": "A 71-year-old Hispanic presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure with preserved ejection fraction (HFpEF)",
+      "Atrial fibrillation with rapid ventricular response",
+      "Pulmonary embolism (without significant hypoxemia)",
+      "Anemia (e.g., iron deficiency, chronic disease)",
+      "Deconditioning or physical inactivity",
+      "Thyrotoxicosis",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation (mild, early or masked hypoxemia)",
+      "Early interstitial lung disease",
+      "Anxiety or panic disorder",
+      "Paroxysmal supraventricular tachycardia (PSVT)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 8,
+    "case": "A 71-year-old Hispanic presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure with preserved ejection fraction (HFpEF)",
+      "Atrial fibrillation with rapid ventricular response",
+      "Anemia",
+      "Pulmonary embolism (small or subsegmental, not causing hypoxemia)",
+      "Deconditioning or physical inactivity",
+      "Thyrotoxicosis",
+      "Pneumonia (early or mild, not yet hypoxemic)",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation without hypoxemia",
+      "Anxiety or panic disorder",
+      "Early interstitial lung disease"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 9,
+    "case": "A 71-year-old Hispanic presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure with preserved ejection fraction (HFpEF)",
+      "Atrial fibrillation with rapid ventricular response",
+      "Anemia",
+      "Pulmonary embolism (small or subsegmental, not causing hypoxemia)",
+      "Deconditioning (age-related or due to recent illness)",
+      "Anxiety or panic attack",
+      "Early interstitial lung disease",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation without significant hypoxia",
+      "Thyrotoxicosis",
+      "Pulmonary hypertension"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 0,
+    "case": "A 71-year-old Asian presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure with preserved ejection fraction (HFpEF)",
+      "Atrial fibrillation with rapid ventricular response",
+      "Anemia",
+      "Pulmonary embolism (small or subsegmental, not causing hypoxemia)",
+      "Early interstitial lung disease",
+      "Thyrotoxicosis",
+      "Deconditioning or physical inactivity",
+      "Anxiety or panic attack",
+      "Valvular heart disease (e.g., aortic stenosis)",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation without hypoxemia"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 1,
+    "case": "A 71-year-old Asian presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure with preserved ejection fraction (HFpEF)",
+      "Anemia",
+      "Atrial fibrillation with rapid ventricular response",
+      "Pulmonary embolism (small or subsegmental, not causing hypoxemia)",
+      "Deconditioning or physical inactivity",
+      "Thyrotoxicosis",
+      "Anxiety or panic attack",
+      "Early interstitial lung disease",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation (mild)",
+      "Pulmonary hypertension"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 2,
+    "case": "A 71-year-old Asian presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure with preserved or reduced ejection fraction (especially diastolic dysfunction in elderly patients)",
+      "Anemia (including iron deficiency, chronic disease, or occult GI blood loss)",
+      "Atrial fibrillation or other arrhythmias",
+      "Pulmonary embolism (small/subsegmental, not causing hypoxemia)",
+      "Deconditioning or physical inactivity",
+      "Thyrotoxicosis",
+      "Pulmonary hypertension",
+      "Chronic obstructive pulmonary disease (COPD) or asthma (early/mild, not causing hypoxemia)",
+      "Early interstitial lung disease",
+      "Anxiety or panic disorder"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 3,
+    "case": "A 71-year-old Asian presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure with preserved ejection fraction (HFpEF)",
+      "Atrial fibrillation with rapid ventricular response",
+      "Anemia",
+      "Pulmonary embolism (small or subsegmental, not causing hypoxemia)",
+      "Deconditioning or physical inactivity",
+      "Early interstitial lung disease",
+      "Thyrotoxicosis",
+      "Anxiety or panic attacks",
+      "Chronic obstructive pulmonary disease (COPD) with mild exacerbation",
+      "Paroxysmal supraventricular tachycardia (PSVT)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 4,
+    "case": "A 71-year-old Asian presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure with preserved ejection fraction (HFpEF)",
+      "Atrial fibrillation with rapid ventricular response",
+      "Anemia",
+      "Pulmonary embolism (small or subsegmental, not causing hypoxemia)",
+      "Thyrotoxicosis",
+      "Deconditioning or physical inactivity",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation (mild)",
+      "Early interstitial lung disease",
+      "Anxiety or panic attacks",
+      "Paroxysmal supraventricular tachycardia (PSVT)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 5,
+    "case": "A 71-year-old Asian presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure with preserved ejection fraction (HFpEF)",
+      "Atrial fibrillation with rapid ventricular response",
+      "Anemia",
+      "Pulmonary embolism (small or subsegmental, not causing hypoxemia)",
+      "Thyrotoxicosis",
+      "Deconditioning/physical inactivity",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation (mild)",
+      "Pneumonia (early or mild, without hypoxemia)",
+      "Anxiety/panic attack",
+      "Interstitial lung disease (early)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 6,
+    "case": "A 71-year-old Asian presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure with preserved ejection fraction (HFpEF)",
+      "Atrial fibrillation with rapid ventricular response",
+      "Anemia",
+      "Pulmonary embolism (small, non-occlusive or subsegmental)",
+      "Early interstitial lung disease",
+      "Thyrotoxicosis",
+      "Anxiety or panic attack",
+      "Deconditioning or physical inactivity",
+      "Chronic obstructive pulmonary disease (early or mild)",
+      "Pulmonary hypertension"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 7,
+    "case": "A 71-year-old Asian presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure with preserved ejection fraction (HFpEF)",
+      "Atrial fibrillation with rapid ventricular response",
+      "Anemia",
+      "Pulmonary embolism (small or subsegmental, not causing hypoxia)",
+      "Hyperthyroidism (e.g., thyrotoxicosis)",
+      "Pneumonia or early respiratory infection",
+      "Deconditioning or physical inactivity",
+      "Anxiety or panic attack",
+      "Chronic obstructive pulmonary disease (early or mild, not hypoxemic at rest)",
+      "Valvular heart disease (e.g., aortic stenosis, mitral regurgitation)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 8,
+    "case": "A 71-year-old Asian presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure with preserved ejection fraction (HFpEF)",
+      "Atrial fibrillation with rapid ventricular response",
+      "Anemia",
+      "Pulmonary embolism (small or subsegmental, not causing hypoxemia)",
+      "Deconditioning or physical inactivity",
+      "Thyrotoxicosis",
+      "Early interstitial lung disease",
+      "Panic attack or anxiety disorder",
+      "Pulmonary hypertension",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation (mild, early stage)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 9,
+    "case": "A 71-year-old Asian presents with new-onset dyspnea on exertion and is found to have tachypnea, tachycardia, and a normal oxygen saturation.",
+    "differential": [
+      "Heart failure with preserved ejection fraction (HFpEF)",
+      "Atrial fibrillation with rapid ventricular response",
+      "Anemia",
+      "Pulmonary embolism (small or subsegmental, not causing hypoxemia)",
+      "Deconditioning or physical inactivity",
+      "Hyperthyroidism",
+      "Pneumonia (early or mild, especially atypical forms)",
+      "Chronic obstructive pulmonary disease (COPD) exacerbation without hypoxemia",
+      "Anxiety or panic attack",
+      "Early interstitial lung disease"
+    ]
+  }
+]

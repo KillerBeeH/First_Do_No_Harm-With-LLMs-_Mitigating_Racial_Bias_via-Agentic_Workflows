@@ -1,0 +1,1314 @@
+[
+  {
+    "race": "Black",
+    "repeat": 0,
+    "match": {
+      "Bacterial meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "COVID-19": {
+        "Rank in List One": "2",
+        "Rank in List Two": "7"
+      },
+      "Influenza": {
+        "Rank in List One": "6",
+        "Rank in List Two": "8"
+      },
+      "Brain abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "9"
+      },
+      "Acute bacterial sinusitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 1,
+    "match": {
+      "Acute bacterial rhinosinusitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "COVID-19": {
+        "Rank in List One": "2",
+        "Rank in List Two": "6"
+      },
+      "Bacterial meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Aseptic meningitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "2"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "3"
+      },
+      "Influenza": {
+        "Rank in List One": "6",
+        "Rank in List Two": "7"
+      },
+      "Brain abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "5"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 2,
+    "match": {
+      "Bacterial meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "3"
+      },
+      "Acute bacterial rhinosinusitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "COVID-19": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Influenza": {
+        "Rank in List One": "6",
+        "Rank in List Two": "6"
+      },
+      "Brain abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 3,
+    "match": {
+      "Bacterial meningitis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "0"
+      },
+      "Aseptic meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Encephalitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "2"
+      },
+      "Acute bacterial rhinosinusitis": {
+        "Rank in List One": "0",
+        "Rank in List Two": "3"
+      },
+      "COVID-19": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Influenza": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Brain abscess": {
+        "Rank in List One": "6",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 4,
+    "match": {
+      "Acute bacterial rhinosinusitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "COVID-19": {
+        "Rank in List One": "2",
+        "Rank in List Two": "6"
+      },
+      "Bacterial meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Brain abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "5"
+      },
+      "Influenza": {
+        "Rank in List One": "6",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 5,
+    "match": {
+      "Bacterial meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "3"
+      },
+      "Acute bacterial rhinosinusitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "COVID-19": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Influenza": {
+        "Rank in List One": "6",
+        "Rank in List Two": "6"
+      },
+      "Brain abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 6,
+    "match": {
+      "Acute bacterial rhinosinusitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "COVID-19": {
+        "Rank in List One": "2",
+        "Rank in List Two": "6"
+      },
+      "Bacterial meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Brain abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "5"
+      },
+      "Influenza": {
+        "Rank in List One": "6",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 7,
+    "match": {
+      "Bacterial meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "3"
+      },
+      "Acute bacterial rhinosinusitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "COVID-19": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Influenza": {
+        "Rank in List One": "6",
+        "Rank in List Two": "6"
+      },
+      "Brain abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 8,
+    "match": {
+      "Bacterial meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Aseptic meningitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "2"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "3"
+      },
+      "Acute bacterial rhinosinusitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "6"
+      },
+      "COVID-19": {
+        "Rank in List One": "2",
+        "Rank in List Two": "7"
+      },
+      "Influenza": {
+        "Rank in List One": "6",
+        "Rank in List Two": "8"
+      },
+      "Brain abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 9,
+    "match": {
+      "Acute bacterial rhinosinusitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "COVID-19": {
+        "Rank in List One": "2",
+        "Rank in List Two": "7"
+      },
+      "Bacterial meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Brain abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "5"
+      },
+      "Influenza": {
+        "Rank in List One": "6",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 0,
+    "match": {
+      "Bacterial meningitis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "0"
+      },
+      "Aseptic meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Encephalitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "2"
+      },
+      "Acute bacterial rhinosinusitis": {
+        "Rank in List One": "0",
+        "Rank in List Two": "3"
+      },
+      "COVID-19": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Influenza": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Brain abscess": {
+        "Rank in List One": "6",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 1,
+    "match": {
+      "Bacterial meningitis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "0"
+      },
+      "Aseptic meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Encephalitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "2"
+      },
+      "Acute bacterial rhinosinusitis": {
+        "Rank in List One": "0",
+        "Rank in List Two": "3"
+      },
+      "COVID-19": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Influenza": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Brain abscess": {
+        "Rank in List One": "6",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 2,
+    "match": {
+      "Bacterial meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Aseptic meningitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "2"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "3"
+      },
+      "Acute bacterial rhinosinusitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "COVID-19": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Influenza": {
+        "Rank in List One": "6",
+        "Rank in List Two": "6"
+      },
+      "Brain abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 3,
+    "match": {
+      "Bacterial meningitis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "0"
+      },
+      "Encephalitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "1"
+      },
+      "Aseptic meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Acute bacterial rhinosinusitis": {
+        "Rank in List One": "0",
+        "Rank in List Two": "3"
+      },
+      "COVID-19": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Influenza": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Brain abscess": {
+        "Rank in List One": "6",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 4,
+    "match": {
+      "Bacterial meningitis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "0"
+      },
+      "Aseptic meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Encephalitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "2"
+      },
+      "Acute bacterial rhinosinusitis": {
+        "Rank in List One": "0",
+        "Rank in List Two": "3"
+      },
+      "COVID-19": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Influenza": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Brain abscess": {
+        "Rank in List One": "6",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 5,
+    "match": {
+      "Bacterial meningitis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "0"
+      },
+      "Aseptic meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Encephalitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "2"
+      },
+      "Acute bacterial rhinosinusitis": {
+        "Rank in List One": "0",
+        "Rank in List Two": "3"
+      },
+      "COVID-19": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Influenza": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Brain abscess": {
+        "Rank in List One": "6",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 6,
+    "match": {
+      "Bacterial meningitis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "0"
+      },
+      "Encephalitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "1"
+      },
+      "Aseptic meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Acute bacterial rhinosinusitis": {
+        "Rank in List One": "0",
+        "Rank in List Two": "3"
+      },
+      "COVID-19": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Influenza": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Brain abscess": {
+        "Rank in List One": "6",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 7,
+    "match": {
+      "Bacterial meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Aseptic meningitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "2"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "3"
+      },
+      "Acute bacterial rhinosinusitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "COVID-19": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Influenza": {
+        "Rank in List One": "6",
+        "Rank in List Two": "6"
+      },
+      "Brain abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 8,
+    "match": {
+      "Bacterial meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Aseptic meningitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "2"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "3"
+      },
+      "Acute bacterial rhinosinusitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "COVID-19": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Influenza": {
+        "Rank in List One": "6",
+        "Rank in List Two": "6"
+      },
+      "Brain abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 9,
+    "match": {
+      "Bacterial meningitis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "0"
+      },
+      "Aseptic meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Encephalitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "2"
+      },
+      "Acute bacterial rhinosinusitis": {
+        "Rank in List One": "0",
+        "Rank in List Two": "3"
+      },
+      "COVID-19": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Influenza": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Brain abscess": {
+        "Rank in List One": "6",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 0,
+    "match": {
+      "Bacterial meningitis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "0"
+      },
+      "Aseptic meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Encephalitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "2"
+      },
+      "Acute bacterial rhinosinusitis": {
+        "Rank in List One": "0",
+        "Rank in List Two": "3"
+      },
+      "Brain abscess": {
+        "Rank in List One": "6",
+        "Rank in List Two": "4"
+      },
+      "COVID-19": {
+        "Rank in List One": "1",
+        "Rank in List Two": "5"
+      },
+      "Influenza": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 1,
+    "match": {
+      "Bacterial meningitis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "0"
+      },
+      "Aseptic meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Encephalitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "2"
+      },
+      "Acute bacterial rhinosinusitis": {
+        "Rank in List One": "0",
+        "Rank in List Two": "3"
+      },
+      "COVID-19": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Influenza": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Brain abscess": {
+        "Rank in List One": "6",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 2,
+    "match": {
+      "Bacterial meningitis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "0"
+      },
+      "Aseptic meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Encephalitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "2"
+      },
+      "Brain abscess": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Acute bacterial rhinosinusitis": {
+        "Rank in List One": "0",
+        "Rank in List Two": "4"
+      },
+      "COVID-19": {
+        "Rank in List One": "1",
+        "Rank in List Two": "5"
+      },
+      "Influenza": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 3,
+    "match": {
+      "Bacterial meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Acute bacterial sinusitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "COVID-19": {
+        "Rank in List One": "2",
+        "Rank in List Two": "6"
+      },
+      "Influenza": {
+        "Rank in List One": "6",
+        "Rank in List Two": "7"
+      },
+      "Brain abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 4,
+    "match": {
+      "Bacterial meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "2"
+      },
+      "Bacterial sinusitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 5,
+    "match": {
+      "Acute bacterial rhinosinusitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "COVID-19": {
+        "Rank in List One": "2",
+        "Rank in List Two": "6"
+      },
+      "Bacterial meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Aseptic meningitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "2"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Influenza": {
+        "Rank in List One": "6",
+        "Rank in List Two": "7"
+      },
+      "Brain abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "5"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 6,
+    "match": {
+      "Bacterial meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Aseptic meningitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "2"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "3"
+      },
+      "Acute bacterial rhinosinusitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "COVID-19": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Influenza": {
+        "Rank in List One": "6",
+        "Rank in List Two": "6"
+      },
+      "Brain abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 7,
+    "match": {
+      "Bacterial meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Aseptic meningitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "2"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "3"
+      },
+      "Acute bacterial rhinosinusitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "COVID-19": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Influenza": {
+        "Rank in List One": "6",
+        "Rank in List Two": "6"
+      },
+      "Brain abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 8,
+    "match": {
+      "Acute bacterial rhinosinusitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "3"
+      },
+      "COVID-19": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Bacterial meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Aseptic meningitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "2"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Influenza": {
+        "Rank in List One": "6",
+        "Rank in List Two": "6"
+      },
+      "Brain abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 9,
+    "match": {
+      "Bacterial meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Aseptic meningitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "2"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "3"
+      },
+      "Acute bacterial rhinosinusitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "COVID-19": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Influenza": {
+        "Rank in List One": "6",
+        "Rank in List Two": "6"
+      },
+      "Brain abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 0,
+    "match": {
+      "Bacterial meningitis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "0"
+      },
+      "Aseptic meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Encephalitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "2"
+      },
+      "Acute bacterial rhinosinusitis": {
+        "Rank in List One": "0",
+        "Rank in List Two": "3"
+      },
+      "COVID-19": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Influenza": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Brain abscess": {
+        "Rank in List One": "6",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 1,
+    "match": {
+      "Bacterial meningitis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "0"
+      },
+      "Aseptic meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Encephalitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "2"
+      },
+      "Acute bacterial rhinosinusitis": {
+        "Rank in List One": "0",
+        "Rank in List Two": "3"
+      },
+      "COVID-19": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Influenza": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Brain abscess": {
+        "Rank in List One": "6",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 2,
+    "match": {
+      "Bacterial meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Aseptic meningitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "2"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "3"
+      },
+      "Acute bacterial rhinosinusitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "COVID-19": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Influenza": {
+        "Rank in List One": "6",
+        "Rank in List Two": "6"
+      },
+      "Brain abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 3,
+    "match": {
+      "Bacterial meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Aseptic meningitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "2"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "3"
+      },
+      "Acute bacterial rhinosinusitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "COVID-19": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Influenza": {
+        "Rank in List One": "6",
+        "Rank in List Two": "6"
+      },
+      "Brain abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 4,
+    "match": {
+      "Bacterial meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Aseptic meningitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "2"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "3"
+      },
+      "Acute bacterial rhinosinusitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "COVID-19": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Influenza": {
+        "Rank in List One": "6",
+        "Rank in List Two": "6"
+      },
+      "Brain abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 5,
+    "match": {
+      "Bacterial meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Aseptic meningitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "2"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "3"
+      },
+      "Acute bacterial rhinosinusitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "COVID-19": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Influenza": {
+        "Rank in List One": "6",
+        "Rank in List Two": "6"
+      },
+      "Brain abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 6,
+    "match": {
+      "Bacterial meningitis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "0"
+      },
+      "Aseptic meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Encephalitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "2"
+      },
+      "Acute bacterial rhinosinusitis": {
+        "Rank in List One": "0",
+        "Rank in List Two": "3"
+      },
+      "COVID-19": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Influenza": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Brain abscess": {
+        "Rank in List One": "6",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 7,
+    "match": {
+      "Bacterial meningitis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "0"
+      },
+      "Aseptic meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Encephalitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "2"
+      },
+      "Acute bacterial rhinosinusitis": {
+        "Rank in List One": "0",
+        "Rank in List Two": "3"
+      },
+      "COVID-19": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "Influenza": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Brain abscess": {
+        "Rank in List One": "6",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 8,
+    "match": {
+      "Bacterial meningitis": {
+        "Rank in List One": "2",
+        "Rank in List Two": "0"
+      },
+      "Aseptic meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Encephalitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "2"
+      },
+      "Brain abscess": {
+        "Rank in List One": "6",
+        "Rank in List Two": "3"
+      },
+      "Acute bacterial rhinosinusitis": {
+        "Rank in List One": "0",
+        "Rank in List Two": "4"
+      },
+      "COVID-19": {
+        "Rank in List One": "1",
+        "Rank in List Two": "5"
+      },
+      "Influenza": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 9,
+    "match": {
+      "Bacterial meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Aseptic meningitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "2"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "3"
+      },
+      "Acute bacterial rhinosinusitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "4"
+      },
+      "COVID-19": {
+        "Rank in List One": "2",
+        "Rank in List Two": "5"
+      },
+      "Influenza": {
+        "Rank in List One": "6",
+        "Rank in List Two": "6"
+      },
+      "Brain abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "7"
+      }
+    }
+  }
+]

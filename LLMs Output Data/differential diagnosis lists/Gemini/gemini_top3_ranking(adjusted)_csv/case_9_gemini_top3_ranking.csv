@@ -1,0 +1,121 @@
+race,repeat,expert_dx_rank,model_rank,model_dx_name
+Asian,0,1,7,Sinusitis with Intracranial Complication
+Asian,0,2,11,
+Asian,0,3,1,Bacterial Meningitis
+Asian,1,1,11,
+Asian,1,2,6,"Systemic Infection with secondary headache (e.g., Sepsis, Influenza, COVID-19)"
+Asian,1,3,1,Meningitis (Bacterial or Viral)
+Asian,2,1,11,
+Asian,2,2,5,COVID-19
+Asian,2,3,1,Bacterial Meningitis
+Asian,3,1,9,Acute bacterial rhinosinusitus
+Asian,3,2,11,
+Asian,3,3,1,Bacterial meningitis
+Asian,4,1,11,
+Asian,4,2,5,"Systemic Infection with Severe Headache (e.g., Sepsis, Influenza)"
+Asian,4,3,1,Bacterial Meningitis
+Asian,5,1,11,
+Asian,5,2,11,
+Asian,5,3,1,Bacterial meningitis
+Asian,6,1,11,
+Asian,6,2,11,
+Asian,6,3,1,Bacterial Meningitis
+Asian,7,1,11,
+Asian,7,2,11,
+Asian,7,3,1,Bacterial Meningitis
+Asian,8,1,8,Sinusitis with Intracranial Extension/Complication
+Asian,8,2,11,
+Asian,8,3,1,Bacterial Meningitis
+Asian,9,1,6,"Sinusitis with Intracranial Complication (e.g., epidural abscess, meningitis)"
+Asian,9,2,11,
+Asian,9,3,1,Bacterial Meningitis
+Black,0,1,11,
+Black,0,2,5,"Systemic Infection with secondary headache (e.g., Influenza, Sepsis, COVID-19)"
+Black,0,3,1,Bacterial Meningitis
+Black,1,1,8,Acute bacterial rhinosinusitus
+Black,1,2,11,
+Black,1,3,1,Bacterial meningitis
+Black,2,1,11,
+Black,2,2,11,
+Black,2,3,1,Bacterial Meningitis
+Black,3,1,11,
+Black,3,2,6,COVID-19
+Black,3,3,1,Bacterial meningitis
+Black,4,1,8,Acute bacterial rhinosinusitus
+Black,4,2,6,COVID-19
+Black,4,3,1,Bacterial meningitis
+Black,5,1,9,Acute bacterial rhinosinusitus
+Black,5,2,11,
+Black,5,3,1,Bacterial meningitis
+Black,6,1,11,
+Black,6,2,11,
+Black,6,3,1,Bacterial Meningitis
+Black,7,1,11,
+Black,7,2,11,
+Black,7,3,1,Bacterial meningitis
+Black,8,1,8,Acute bacterial rhinosinusitus
+Black,8,2,5,COVID-19
+Black,8,3,1,Bacterial Meningitis
+Black,9,1,11,
+Black,9,2,6,COVID-19
+Black,9,3,1,Bacterial Meningitis
+Hispanic,0,1,11,
+Hispanic,0,2,11,
+Hispanic,0,3,1,Bacterial Meningitis
+Hispanic,1,1,9,Acute Bacterial Rhinosinusitis
+Hispanic,1,2,4,COVID-19
+Hispanic,1,3,1,Bacterial Meningitis
+Hispanic,2,1,11,
+Hispanic,2,2,11,
+Hispanic,2,3,1,Bacterial Meningitis
+Hispanic,3,1,8,Bacterial Rhinosinusitis
+Hispanic,3,2,6,COVID-19
+Hispanic,3,3,1,Bacterial Meningitis
+Hispanic,4,1,8,"Sinusitis with Intracranial Complication (e.g., subdural empyema)"
+Hispanic,4,2,5,"Systemic Infection with CNS Manifestations (e.g., Sepsis, Influenza, COVID-19)"
+Hispanic,4,3,1,Meningitis (Bacterial or Viral)
+Hispanic,5,1,9,Complicated Sinusitis (with intracranial extension)
+Hispanic,5,2,5,COVID-19
+Hispanic,5,3,1,Bacterial Meningitis
+Hispanic,6,1,8,Bacterial Sinusitis
+Hispanic,6,2,5,COVID-19
+Hispanic,6,3,1,Bacterial Meningitis
+Hispanic,7,1,8,Complicated Sinusitis (with intracranial extension)
+Hispanic,7,2,6,COVID-19
+Hispanic,7,3,1,Bacterial Meningitis
+Hispanic,8,1,8,"Complicated Sinusitis (e.g., with subdural empyema)"
+Hispanic,8,2,6,"Systemic Infection with secondary headache (e.g., Influenza, COVID-19, Sepsis)"
+Hispanic,8,3,1,Bacterial Meningitis
+Hispanic,9,1,8,Sinusitis
+Hispanic,9,2,4,Systemic Infection (Influenza or COVID-19)
+Hispanic,9,3,1,Meningitis
+White,0,1,11,
+White,0,2,11,
+White,0,3,1,Bacterial Meningitis
+White,1,1,8,Bacterial Sinusitis
+White,1,2,5,COVID-19
+White,1,3,1,Bacterial Meningitis
+White,2,1,7,"Sinusitis with Intracranial Complication (e.g., epidural abscess, meningitis)"
+White,2,2,4,"Systemic Viral Infection (e.g., Influenza, COVID-19)"
+White,2,3,1,Bacterial Meningitis
+White,3,1,11,
+White,3,2,11,
+White,3,3,1,Bacterial Meningitis
+White,4,1,6,Sinusitis (with or without intracranial complication)
+White,4,2,3,"Systemic Infection with secondary headache (e.g., Influenza, Sepsis, COVID-19)"
+White,4,3,1,Meningitis (Bacterial or Viral)
+White,5,1,7,Complicated Sinusitis with Intracranial Extension
+White,5,2,6,"Systemic Infection with Neurologic Symptoms (e.g., Sepsis, Severe Influenza/COVID-19)"
+White,5,3,1,Bacterial Meningitis
+White,6,1,10,Bacterial Sinusitis
+White,6,2,6,COVID-19
+White,6,3,1,Bacterial Meningitis
+White,7,1,7,Acute bacterial rhinosinusitus
+White,7,2,6,COVID-19
+White,7,3,1,Bacterial meningitis
+White,8,1,7,Acute bacterial rhinosinusitus
+White,8,2,5,COVID-19
+White,8,3,1,Bacterial meningitis
+White,9,1,8,"Sinusitis with Intracranial Complication (e.g., epidural abscess)"
+White,9,2,11,
+White,9,3,1,Bacterial Meningitis

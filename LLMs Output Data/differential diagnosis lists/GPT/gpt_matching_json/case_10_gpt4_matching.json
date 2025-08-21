@@ -1,0 +1,1150 @@
+[
+  {
+    "race": "Black",
+    "repeat": 0,
+    "match": {
+      "Migraine without aura": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Tension-type headache (atypical presentation)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "5"
+      },
+      "Sinusitis (if associated with facial pain or congestion)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Secondary headache due to mass lesion (e.g., brain tumor)": {
+        "Rank in List One": "6",
+        "Rank in List Two": "9"
+      },
+      "Medication overuse headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 1,
+    "match": {
+      "Migraine without aura": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Tension-type headache (episodic or chronic)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Sinusitis (unilateral, if associated with other symptoms)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "7"
+      },
+      "Idiopathic intracranial hypertension": {
+        "Rank in List One": "4",
+        "Rank in List Two": "9"
+      },
+      "Medication overuse headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 2,
+    "match": {
+      "Migraine without aura": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Tension-type headache (episodic, but atypical due to unilateral throbbing)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Sinus headache (unilateral sinusitis)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Intracranial mass (e.g., tumor, but less likely without other neurological symptoms)": {
+        "Rank in List One": "6",
+        "Rank in List Two": "9"
+      },
+      "Medication overuse headache (if analgesics or triptans are being used frequently)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 3,
+    "match": {
+      "Migraine without aura": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Tension-type headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Sinusitis (unilateral)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "5"
+      },
+      "Medication overuse headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "6"
+      },
+      "Intracranial mass or neoplasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "9"
+      },
+      "Idiopathic intracranial hypertension": {
+        "Rank in List One": "4",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 4,
+    "match": {
+      "Migraine without aura": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Tension-type headache (with atypical unilateral presentation)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "6"
+      },
+      "Sinus headache (unilateral sinusitis)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "7"
+      },
+      "Intracranial mass lesion (e.g., tumor, AVM)": {
+        "Rank in List One": "6",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 5,
+    "match": {
+      "Migraine without aura": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Tension-type headache (unilateral variant)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "5"
+      },
+      "Sinus headache (unilateral sinusitis)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Medication overuse headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "9"
+      },
+      "Intracranial mass lesion (e.g., tumor)": {
+        "Rank in List One": "6",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 6,
+    "match": {
+      "Migraine without aura": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Tension-type headache (with atypical features)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Sinusitis (unilateral, if sinus involvement)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Medication overuse headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "9"
+      },
+      "Secondary headache due to intracranial mass or lesion": {
+        "Rank in List One": "6",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 7,
+    "match": {
+      "Migraine without aura": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Tension-type headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "5"
+      },
+      "Sinusitis (unilateral)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Medication overuse headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "9"
+      },
+      "Intracranial mass (e.g., tumor)": {
+        "Rank in List One": "6",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 8,
+    "match": {
+      "Migraine without aura": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Tension-type headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Sinusitis (unilateral)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "7"
+      },
+      "Idiopathic intracranial hypertension": {
+        "Rank in List One": "4",
+        "Rank in List Two": "9"
+      },
+      "Intracranial mass lesion": {
+        "Rank in List One": "6",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 9,
+    "match": {
+      "Migraine without aura": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Tension-type headache (with atypical presentation)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "5"
+      },
+      "Sinus headache (unilateral sinusitis)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "7"
+      },
+      "Medication overuse headache (if analgesic use present)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "8"
+      },
+      "Intracranial mass lesion (e.g., tumor, abscess)": {
+        "Rank in List One": "6",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 0,
+    "match": {
+      "Migraine without aura": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Sinusitis (unilateral, if sinus involvement present)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "7"
+      },
+      "Secondary headache due to intracranial mass or lesion": {
+        "Rank in List One": "6",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 1,
+    "match": {
+      "Migraine without aura": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Tension-type headache (with unilateral presentation)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "5"
+      },
+      "Sinusitis (unilateral, if associated with other symptoms)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "7"
+      },
+      "Idiopathic intracranial hypertension": {
+        "Rank in List One": "4",
+        "Rank in List Two": "9"
+      },
+      "Intracranial mass lesion (e.g., tumor or vascular malformation)": {
+        "Rank in List One": "6",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 2,
+    "match": {
+      "Migraine without aura": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Tension-type headache (with atypical presentation)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "5"
+      },
+      "Sinusitis (if associated with nasal or sinus symptoms)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "7"
+      },
+      "Secondary headache due to medication overuse": {
+        "Rank in List One": "2",
+        "Rank in List Two": "9"
+      },
+      "Intracranial mass lesion (e.g., brain tumor)": {
+        "Rank in List One": "6",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 3,
+    "match": {
+      "Migraine without aura": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Medication overuse headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "6"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 4,
+    "match": {
+      "Migraine without aura": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Tension-type headache (with atypical presentation)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "5"
+      },
+      "Sinusitis (unilateral)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Intracranial mass lesion (e.g., tumor)": {
+        "Rank in List One": "6",
+        "Rank in List Two": "9"
+      },
+      "Medication overuse headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 5,
+    "match": {
+      "Migraine without aura": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Tension-type headache (with atypical unilateral presentation)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "5"
+      },
+      "Sinusitis (unilateral, if associated with sinus symptoms)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Secondary headache due to intracranial mass lesion": {
+        "Rank in List One": "6",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 6,
+    "match": {
+      "Migraine without aura": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Tension-type headache (with atypical presentation)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "5"
+      },
+      "Sinus headache (unilateral sinusitis)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "7"
+      },
+      "Medication overuse headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "9"
+      },
+      "Intracranial mass (tumor or space-occupying lesion)": {
+        "Rank in List One": "6",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 7,
+    "match": {
+      "Migraine without aura": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 8,
+    "match": {
+      "Migraine without aura": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Tension-type headache (with atypical unilateral presentation)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "5"
+      },
+      "Sinusitis (unilateral, though less common)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Medication overuse headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "8"
+      },
+      "Intracranial mass (tumor or lesion causing unilateral headache)": {
+        "Rank in List One": "6",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 9,
+    "match": {
+      "Migraine without aura": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Tension-type headache (with atypical unilateral presentation)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "5"
+      },
+      "Sinusitis (unilateral)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Intracranial mass (e.g., tumor or lesion causing unilateral pain)": {
+        "Rank in List One": "6",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 0,
+    "match": {
+      "Migraine without aura": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Sinusitis (unilateral, if associated with sinus symptoms)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "7"
+      },
+      "Secondary headache due to medication overuse": {
+        "Rank in List One": "2",
+        "Rank in List Two": "8"
+      },
+      "Intracranial mass lesion (e.g., tumor or vascular malformation)": {
+        "Rank in List One": "6",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 1,
+    "match": {
+      "Migraine without aura": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Tension-type headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "5"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Medication overuse headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "8"
+      },
+      "Intracranial mass (e.g., tumor)": {
+        "Rank in List One": "6",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 2,
+    "match": {
+      "Migraine without aura": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Tension-type headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Sinus headache (acute or chronic rhinosinusitis)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Medication overuse headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "8"
+      },
+      "Intracranial mass lesion (e.g., tumor)": {
+        "Rank in List One": "6",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 3,
+    "match": {
+      "Migraine without aura": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Tension-type headache (with atypical presentation)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Sinus headache (unilateral sinusitis)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Intracranial mass (tumor causing headache)": {
+        "Rank in List One": "6",
+        "Rank in List Two": "9"
+      },
+      "Medication overuse headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 4,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Medication overuse headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "8"
+      },
+      "Tension headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Intracranial neoplasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "10"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 5,
+    "match": {
+      "Migraine without aura": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Tension-type headache (with atypical presentation)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "5"
+      },
+      "Sinus headache (unilateral sinusitis)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Medication overuse headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "9"
+      },
+      "Intracranial mass lesion": {
+        "Rank in List One": "6",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 6,
+    "match": {
+      "Migraine without aura": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Tension-type headache (unilateral variant)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "5"
+      },
+      "Sinusitis (unilateral, if associated with sinus symptoms)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Medication overuse headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "8"
+      },
+      "Intracranial mass lesion (e.g., tumor, AVM)": {
+        "Rank in List One": "6",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 7,
+    "match": {
+      "Migraine without aura": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Tension-type headache (severe, unilateral variant)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Sinus headache (unilateral sinusitis)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "7"
+      },
+      "Intracranial mass or lesion": {
+        "Rank in List One": "6",
+        "Rank in List Two": "9"
+      },
+      "Medication overuse headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 8,
+    "match": {
+      "Migraine without aura": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Tension-type headache (atypical unilateral presentation)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "6"
+      },
+      "Sinus headache (unilateral sinusitis)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "7"
+      },
+      "Medication overuse headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "9"
+      },
+      "Intracranial mass lesion (e.g., tumor or arteriovenous malformation)": {
+        "Rank in List One": "6",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 9,
+    "match": {
+      "Migraine without aura": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Tension-type headache (with atypical unilateral presentation)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Sinusitis (if associated nasal symptoms)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Intracranial mass (e.g., tumor or lesion)": {
+        "Rank in List One": "6",
+        "Rank in List Two": "9"
+      },
+      "Idiopathic intracranial hypertension": {
+        "Rank in List One": "4",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 0,
+    "match": {
+      "Migraine without aura": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Tension-type headache (episodic, but can occasionally be unilateral)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Sinus headache (unilateral sinusitis)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Medication overuse headache (if using analgesics frequently)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "9"
+      },
+      "Intracranial mass or lesion (e.g., tumor, AVM)": {
+        "Rank in List One": "6",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 1,
+    "match": {
+      "Migraine without aura": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Tension-type headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Sinus headache (e.g., acute or chronic sinusitis)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "7"
+      },
+      "Medication overuse headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "8"
+      },
+      "Intracranial mass lesion (e.g., brain tumor)": {
+        "Rank in List One": "6",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 2,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Medication overuse headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "9"
+      },
+      "Tension headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Pseudotumor cerebri": {
+        "Rank in List One": "4",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 3,
+    "match": {
+      "Migraine without aura": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "7"
+      },
+      "Intracranial mass lesion (e.g., tumor)": {
+        "Rank in List One": "6",
+        "Rank in List Two": "9"
+      },
+      "Idiopathic intracranial hypertension": {
+        "Rank in List One": "4",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 4,
+    "match": {
+      "Migraine without aura": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Tension-type headache (with unilateral presentation)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Sinusitis (unilateral, if sinus involvement)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "7"
+      },
+      "Medication overuse headache (if analgesics used)": {
+        "Rank in List One": "2",
+        "Rank in List Two": "9"
+      },
+      "Intracranial mass lesion (e.g., tumor or AVM)": {
+        "Rank in List One": "6",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 5,
+    "match": {
+      "Migraine without aura": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Tension-type headache (unilateral variant)": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Sinusitis (unilateral)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "7"
+      },
+      "Rebound (medication overuse) headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "9"
+      },
+      "Intracranial mass lesion (e.g., meningioma, low-grade glioma)": {
+        "Rank in List One": "6",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 6,
+    "match": {
+      "Migraine Headache": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1 or 2"
+      },
+      "Medication overuse headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "8"
+      },
+      "Tension headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "7"
+      },
+      "Intracranial neoplasm": {
+        "Rank in List One": "6",
+        "Rank in List Two": "10"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 7,
+    "match": {
+      "Migraine without aura": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Sinusitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 8,
+    "match": {
+      "Migraine without aura": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Tension-type headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Sinusitis (unilateral)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "7"
+      },
+      "Medication overuse headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "9"
+      },
+      "Intracranial mass lesion": {
+        "Rank in List One": "6",
+        "Rank in List Two": "10"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 9,
+    "match": {
+      "Migraine Headache / Migraine without aura": {
+        "Rank in List One": "1",
+        "Rank in List Two": "1"
+      },
+      "Migraine Headache / Migraine with aura": {
+        "Rank in List One": "1",
+        "Rank in List Two": "2"
+      },
+      "Medication overuse headache": {
+        "Rank in List One": "2",
+        "Rank in List Two": "8"
+      },
+      "Tension headache / Tension-type headache": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Sinusitis / Sinusitis (unilateral)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "6"
+      },
+      "Cluster headache": {
+        "Rank in List One": "8",
+        "Rank in List Two": "3"
+      },
+      "Intracranial neoplasm / Intracranial mass (tumor or lesion)": {
+        "Rank in List One": "6",
+        "Rank in List Two": "10"
+      }
+    }
+  }
+]

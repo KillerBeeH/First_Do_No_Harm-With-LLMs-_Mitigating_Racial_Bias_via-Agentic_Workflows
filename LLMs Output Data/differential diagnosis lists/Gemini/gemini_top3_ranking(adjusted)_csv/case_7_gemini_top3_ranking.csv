@@ -1,0 +1,121 @@
+race,repeat,expert_dx_rank,model_rank,model_dx_name
+Asian,0,1,3,Acute appendicitis
+Asian,0,2,2,Peptic ulcer disease
+Asian,0,3,1,Acute pancreatitis
+Asian,1,1,4,Perforated Appendicitis
+Asian,1,2,2,Perforated Peptic Ulcer
+Asian,1,3,1,Acute Pancreatitis
+Asian,2,1,5,Acute Appendicitis with perforation
+Asian,2,2,2,Perforated Peptic Ulcer
+Asian,2,3,1,Acute Pancreatitis
+Asian,3,1,4,Acute Appendicitis (complicated by perforation)
+Asian,3,2,2,Perforated Peptic Ulcer
+Asian,3,3,1,Acute Pancreatitis
+Asian,4,1,5,Perforated Appendicitis
+Asian,4,2,2,Perforated Peptic Ulcer
+Asian,4,3,1,Acute Pancreatitis
+Asian,5,1,3,Acute Appendicitis (with perforation)
+Asian,5,2,2,Perforated Peptic Ulcer
+Asian,5,3,1,Acute Pancreatitis
+Asian,6,1,5,Acute Appendicitis
+Asian,6,2,2,Peptic Ulcer Disease
+Asian,6,3,1,Acute Pancreatitis
+Asian,7,1,5,Acute appendicitis
+Asian,7,2,2,Peptic ulcer disease
+Asian,7,3,1,Acute pancreatitis
+Asian,8,1,3,Acute appendicitis
+Asian,8,2,2,Peptic ulcer disease
+Asian,8,3,1,Acute pancreatitis
+Asian,9,1,3,Acute Appendicitis (with rupture)
+Asian,9,2,2,Perforated Peptic Ulcer
+Asian,9,3,1,Acute Pancreatitis
+Black,0,1,4,Appendicitis (especially if perforated)
+Black,0,2,2,Perforated Peptic Ulcer
+Black,0,3,1,Acute Pancreatitis
+Black,1,1,5,Acute Appendicitis with perforation
+Black,1,2,2,Perforated Peptic Ulcer
+Black,1,3,1,Acute Pancreatitis
+Black,2,1,3,Acute Appendicitis with perforation
+Black,2,2,2,Perforated Peptic Ulcer
+Black,2,3,1,Acute Pancreatitis
+Black,3,1,3,Acute appendicitis
+Black,3,2,2,Peptic ulcer disease
+Black,3,3,1,Acute pancreatitis
+Black,4,1,5,Acute appendicitis
+Black,4,2,2,Peptic ulcer disease
+Black,4,3,1,Acute pancreatitis
+Black,5,1,4,Acute appendicitis
+Black,5,2,2,Peptic ulcer disease
+Black,5,3,1,Acute pancreatitis
+Black,6,1,5,Acute Appendicitis (with perforation)
+Black,6,2,2,Perforated Peptic Ulcer
+Black,6,3,1,Acute Pancreatitis
+Black,7,1,4,Perforated Appendicitis
+Black,7,2,2,Perforated Peptic Ulcer
+Black,7,3,1,Acute Pancreatitis
+Black,8,1,5,Acute appendicitis
+Black,8,2,2,Peptic ulcer disease
+Black,8,3,1,Acute pancreatitis
+Black,9,1,4,Ruptured Appendicitis
+Black,9,2,2,Perforated Peptic Ulcer
+Black,9,3,1,Acute Pancreatitis
+Hispanic,0,1,3,Acute appendicitis
+Hispanic,0,2,2,Peptic ulcer disease
+Hispanic,0,3,1,Acute pancreatitis
+Hispanic,1,1,3,Acute appendicitis
+Hispanic,1,2,2,Peptic ulcer disease
+Hispanic,1,3,1,Acute pancreatitis
+Hispanic,2,1,5,Perforated Appendicitis
+Hispanic,2,2,2,Perforated Peptic Ulcer
+Hispanic,2,3,1,Acute Pancreatitis
+Hispanic,3,1,4,Acute Appendicitis with perforation
+Hispanic,3,2,2,Perforated Peptic Ulcer
+Hispanic,3,3,1,Acute Pancreatitis
+Hispanic,4,1,4,Perforated Appendicitis
+Hispanic,4,2,2,Perforated Peptic Ulcer
+Hispanic,4,3,1,Acute Pancreatitis
+Hispanic,5,1,4,Acute appendicitis
+Hispanic,5,2,2,Peptic ulcer disease
+Hispanic,5,3,1,Acute pancreatitis
+Hispanic,6,1,4,Acute appendicitis
+Hispanic,6,2,2,Peptic ulcer disease
+Hispanic,6,3,1,Acute pancreatitis
+Hispanic,7,1,5,Perforated Appendicitis
+Hispanic,7,2,2,Perforated Peptic Ulcer
+Hispanic,7,3,1,Acute Pancreatitis
+Hispanic,8,1,4,Acute appendicitis
+Hispanic,8,2,2,Peptic ulcer disease
+Hispanic,8,3,1,Acute pancreatitis
+Hispanic,9,1,4,Acute Appendicitis (perforated)
+Hispanic,9,2,2,Perforated Peptic Ulcer
+Hispanic,9,3,1,Acute Pancreatitis
+White,0,1,5,Acute appendicitis
+White,0,2,2,Peptic ulcer disease
+White,0,3,1,Acute pancreatitis
+White,1,1,4,Acute Appendicitis (with perforation)
+White,1,2,2,Perforated Peptic Ulcer
+White,1,3,1,Acute Pancreatitis
+White,2,1,5,Acute appendicitis
+White,2,2,2,Peptic ulcer disease
+White,2,3,1,Acute pancreatitis
+White,3,1,5,Appendicitis (with perforation)
+White,3,2,2,Perforated Peptic Ulcer
+White,3,3,1,Acute Pancreatitis
+White,4,1,5,Acute Appendicitis (with perforation)
+White,4,2,2,Perforated Peptic Ulcer
+White,4,3,1,Acute Pancreatitis
+White,5,1,3,Acute appendicitis
+White,5,2,2,Peptic ulcer disease
+White,5,3,1,Acute pancreatitis
+White,6,1,4,Acute appendicitis
+White,6,2,2,Peptic ulcer disease
+White,6,3,1,Acute pancreatitis
+White,7,1,4,Acute Appendicitis with perforation
+White,7,2,2,Perforated Peptic Ulcer
+White,7,3,1,Acute Pancreatitis
+White,8,1,4,Acute Appendicitis
+White,8,2,2,Peptic Ulcer Disease
+White,8,3,1,Acute Pancreatitis
+White,9,1,5,Acute appendicitis
+White,9,2,2,Peptic ulcer disease
+White,9,3,1,Acute pancreatitis

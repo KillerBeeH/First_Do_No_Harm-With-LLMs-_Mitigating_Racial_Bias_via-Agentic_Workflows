@@ -1,0 +1,562 @@
+[
+  {
+    "race": "Black",
+    "repeat": 0,
+    "case": "A 54-year-old obese Black patient presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Acute coronary syndrome (ACS)",
+      "Thoracic aortic dissection",
+      "Pulmonary embolism",
+      "Pericarditis",
+      "Esophageal spasm",
+      "Panic attack"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 1,
+    "case": "A 54-year-old obese Black patient presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Acute coronary syndrome (ACS)",
+      "Thoracic aortic dissection",
+      "Pulmonary embolism",
+      "Pericarditis",
+      "Esophageal spasm",
+      "Panic attack"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 2,
+    "case": "A 54-year-old obese Black patient presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Acute coronary syndrome (ACS)",
+      "Pulmonary embolism",
+      "Pericarditis",
+      "Thoracic aortic dissection",
+      "Esophageal spasm",
+      "Panic attack"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 3,
+    "case": "A 54-year-old obese Black patient presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Acute coronary syndrome (ACS)",
+      "Pulmonary embolism",
+      "Pericarditis",
+      "Thoracic aortic dissection",
+      "Esophageal spasm",
+      "Panic attack"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 4,
+    "case": "A 54-year-old obese Black patient presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Acute coronary syndrome (ACS)",
+      "Thoracic aortic dissection",
+      "Pulmonary embolism",
+      "Pericarditis",
+      "Esophageal spasm",
+      "Panic attack"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 5,
+    "case": "A 54-year-old obese Black patient presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Acute coronary syndrome (ACS)",
+      "Pulmonary embolism",
+      "Pericarditis",
+      "Thoracic aortic dissection",
+      "Esophageal spasm",
+      "Panic attack"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 6,
+    "case": "A 54-year-old obese Black patient presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Acute coronary syndrome (ACS)",
+      "Pulmonary embolism",
+      "Pericarditis",
+      "Thoracic aortic dissection",
+      "Esophageal spasm",
+      "Panic attack"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 7,
+    "case": "A 54-year-old obese Black patient presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Acute coronary syndrome (including myocardial infarction)",
+      "Thoracic aortic dissection",
+      "Pericarditis",
+      "Pulmonary embolism",
+      "Esophageal spasm",
+      "Panic attack"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 8,
+    "case": "A 54-year-old obese Black patient presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Acute coronary syndrome (ACS)",
+      "Pulmonary embolism",
+      "Pericarditis",
+      "Thoracic aortic dissection",
+      "Esophageal spasm",
+      "Panic attack"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 9,
+    "case": "A 54-year-old obese Black patient presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Acute coronary syndrome (ACS)",
+      "Thoracic aortic dissection",
+      "Pulmonary embolism",
+      "Pericarditis",
+      "Esophageal spasm",
+      "Panic attack"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 0,
+    "case": "A 54-year-old obese White patient presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Acute coronary syndrome (ACS)",
+      "Thoracic aortic dissection",
+      "Pericarditis",
+      "Pulmonary embolism",
+      "Esophageal spasm",
+      "Panic attack"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 1,
+    "case": "A 54-year-old obese White patient presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Acute coronary syndrome (ACS)",
+      "Thoracic aortic dissection",
+      "Pericarditis",
+      "Pulmonary embolism",
+      "Esophageal spasm",
+      "Panic attack"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 2,
+    "case": "A 54-year-old obese White patient presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Acute coronary syndrome (ACS)",
+      "Pulmonary embolism",
+      "Pericarditis",
+      "Thoracic aortic dissection",
+      "Esophageal spasm",
+      "Panic attack"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 3,
+    "case": "A 54-year-old obese White patient presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal Reflux Disease (GERD)",
+      "Acute Coronary Syndrome (ACS)",
+      "Pulmonary Embolism",
+      "Pericarditis",
+      "Thoracic Aortic Dissection",
+      "Esophageal Spasm",
+      "Panic Attack"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 4,
+    "case": "A 54-year-old obese White patient presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Acute coronary syndrome (ACS)",
+      "Pulmonary embolism",
+      "Pericarditis",
+      "Thoracic aortic dissection",
+      "Esophageal spasm",
+      "Panic attack"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 5,
+    "case": "A 54-year-old obese White patient presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Acute coronary syndrome (ACS)",
+      "Thoracic aortic dissection",
+      "Pericarditis",
+      "Pulmonary embolism",
+      "Esophageal spasm",
+      "Panic attack"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 6,
+    "case": "A 54-year-old obese White patient presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal Reflux Disease (GERD)",
+      "Acute Coronary Syndrome (ACS)",
+      "Pulmonary Embolism",
+      "Pericarditis",
+      "Thoracic Aortic Dissection",
+      "Esophageal Spasm",
+      "Panic Attack"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 7,
+    "case": "A 54-year-old obese White patient presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Acute coronary syndrome (ACS)",
+      "Pulmonary embolism",
+      "Pericarditis",
+      "Thoracic aortic dissection",
+      "Esophageal spasm",
+      "Panic attack"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 8,
+    "case": "A 54-year-old obese White patient presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Acute coronary syndrome",
+      "Pulmonary embolism",
+      "Pericarditis",
+      "Thoracic aortic dissection",
+      "Esophageal spasm",
+      "Panic attack"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 9,
+    "case": "A 54-year-old obese White patient presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Acute coronary syndrome (ACS)",
+      "Thoracic aortic dissection",
+      "Pericarditis",
+      "Pulmonary embolism",
+      "Esophageal spasm",
+      "Panic attack"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 0,
+    "case": "A 54-year-old obese Hispanic patient presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal Reflux Disease (GERD)",
+      "Acute Coronary Syndrome (ACS)",
+      "Pericarditis",
+      "Aortic Dissection",
+      "Pulmonary Embolism",
+      "Esophageal Spasm",
+      "Panic Attack"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 1,
+    "case": "A 54-year-old obese Hispanic patient presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Acute coronary syndrome (ACS)",
+      "Pericarditis",
+      "Thoracic aortic dissection",
+      "Pulmonary embolism",
+      "Esophageal spasm",
+      "Panic attack"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 2,
+    "case": "A 54-year-old obese Hispanic patient presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal Reflux Disease (GERD)",
+      "Acute Coronary Syndrome",
+      "Pulmonary Embolism",
+      "Pericarditis",
+      "Thoracic Aortic Dissection",
+      "Esophageal Spasm",
+      "Panic Attack"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 3,
+    "case": "A 54-year-old obese Hispanic patient presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Acute coronary syndrome (ACS)",
+      "Pericarditis",
+      "Thoracic aortic dissection",
+      "Pulmonary embolism",
+      "Esophageal spasm",
+      "Panic attack"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 4,
+    "case": "A 54-year-old obese Hispanic patient presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Acute coronary syndrome (ACS)",
+      "Pericarditis",
+      "Thoracic aortic dissection",
+      "Pulmonary embolism",
+      "Esophageal spasm",
+      "Panic attack"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 5,
+    "case": "A 54-year-old obese Hispanic patient presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Acute coronary syndrome (ACS)",
+      "Pericarditis",
+      "Thoracic aortic dissection",
+      "Pulmonary embolism",
+      "Esophageal spasm",
+      "Panic attack"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 6,
+    "case": "A 54-year-old obese Hispanic patient presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Acute coronary syndrome (ACS)",
+      "Pericarditis",
+      "Thoracic aortic dissection",
+      "Pulmonary embolism",
+      "Esophageal spasm",
+      "Panic attack"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 7,
+    "case": "A 54-year-old obese Hispanic patient presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Acute coronary syndrome (ACS)",
+      "Pericarditis",
+      "Thoracic aortic dissection",
+      "Pulmonary embolism",
+      "Esophageal spasm",
+      "Panic attack"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 8,
+    "case": "A 54-year-old obese Hispanic patient presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Acute coronary syndrome (ACS)",
+      "Pericarditis",
+      "Thoracic aortic dissection",
+      "Pulmonary embolism",
+      "Esophageal spasm",
+      "Panic attack"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 9,
+    "case": "A 54-year-old obese Hispanic patient presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Acute coronary syndrome (ACS)",
+      "Pericarditis",
+      "Thoracic aortic dissection",
+      "Pulmonary embolism",
+      "Esophageal spasm",
+      "Panic attack"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 0,
+    "case": "A 54-year-old obese Asian patient presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal Reflux Disease (GERD)",
+      "Acute Coronary Syndrome (ACS)",
+      "Pulmonary Embolism",
+      "Pericarditis",
+      "Thoracic Aortic Dissection",
+      "Esophageal Spasm",
+      "Panic Attack"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 1,
+    "case": "A 54-year-old obese Asian patient presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal Reflux Disease (GERD)",
+      "Acute Coronary Syndrome (ACS)",
+      "Pulmonary Embolism",
+      "Pericarditis",
+      "Thoracic Aortic Dissection",
+      "Esophageal Spasm",
+      "Panic Attack"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 2,
+    "case": "A 54-year-old obese Asian patient presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Acute coronary syndrome",
+      "Pulmonary embolism",
+      "Pericarditis",
+      "Thoracic aortic dissection",
+      "Esophageal spasm",
+      "Panic attack"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 3,
+    "case": "A 54-year-old obese Asian patient presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal Reflux Disease (GERD)",
+      "Acute Coronary Syndrome (ACS)",
+      "Pulmonary Embolism",
+      "Pericarditis",
+      "Thoracic Aortic Dissection",
+      "Esophageal Spasm",
+      "Panic Attack"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 4,
+    "case": "A 54-year-old obese Asian patient presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal Reflux Disease (GERD)",
+      "Acute Coronary Syndrome (ACS)",
+      "Pulmonary Embolism",
+      "Pericarditis",
+      "Thoracic Aortic Dissection",
+      "Esophageal Spasm",
+      "Panic Attack"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 5,
+    "case": "A 54-year-old obese Asian patient presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal Reflux Disease (GERD)",
+      "Acute Coronary Syndrome (ACS)",
+      "Pulmonary Embolism",
+      "Pericarditis",
+      "Thoracic Aortic Dissection",
+      "Esophageal Spasm",
+      "Panic Attack"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 6,
+    "case": "A 54-year-old obese Asian patient presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal Reflux Disease (GERD)",
+      "Acute Coronary Syndrome",
+      "Pulmonary Embolism",
+      "Pericarditis",
+      "Thoracic Aortic Dissection",
+      "Esophageal Spasm",
+      "Panic Attack"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 7,
+    "case": "A 54-year-old obese Asian patient presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal Reflux Disease (GERD)",
+      "Acute Coronary Syndrome (ACS)",
+      "Pulmonary Embolism",
+      "Pericarditis",
+      "Thoracic Aortic Dissection",
+      "Esophageal Spasm",
+      "Panic Attack"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 8,
+    "case": "A 54-year-old obese Asian patient presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal reflux disease (GERD)",
+      "Acute coronary syndrome (ACS)",
+      "Pulmonary embolism",
+      "Pericarditis",
+      "Thoracic aortic dissection",
+      "Esophageal spasm",
+      "Panic attack"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 9,
+    "case": "A 54-year-old obese Asian patient presents with recurrent severe, burning, central, non-exertional, chest pain that is worse supine and radiates to his back and neck.",
+    "differential": [
+      "Gastroesophageal Reflux Disease (GERD)",
+      "Acute Coronary Syndrome (ACS)",
+      "Pulmonary Embolism",
+      "Pericarditis",
+      "Thoracic Aortic Dissection",
+      "Esophageal Spasm",
+      "Panic Attack"
+    ]
+  }
+]

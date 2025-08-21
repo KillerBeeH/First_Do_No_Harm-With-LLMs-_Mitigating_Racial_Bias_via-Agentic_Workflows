@@ -1,0 +1,886 @@
+[
+  {
+    "race": "Black",
+    "repeat": 0,
+    "match": {
+      "Bacterial Meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Brain Abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "8"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "3"
+      },
+      "Meningitis": {
+        "Rank in List One": "2 or 4",
+        "Rank in List Two": "1"
+      },
+      "Sinusitis with Intracranial Complications": {
+        "Rank in List One": "1",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 1,
+    "match": {
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "3"
+      },
+      "Bacterial Meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "5"
+      },
+      "Sinusitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "6"
+      },
+      "Influenza": {
+        "Rank in List One": "6",
+        "Rank in List Two": "None"
+      },
+      "Meningitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "1"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 2,
+    "match": {
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "3"
+      },
+      "Bacterial Meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "5"
+      },
+      "Brain Abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "9"
+      },
+      "Sinusitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 3,
+    "match": {
+      "Bacterial Meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Brain Abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "8"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "3"
+      },
+      "Meningitis": {
+        "Rank in List One": "2 or 4",
+        "Rank in List Two": "1"
+      },
+      "Sinusitis with Intracranial Complications": {
+        "Rank in List One": "1",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 4,
+    "match": {
+      "Expert Dx": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "3"
+      },
+      "Sinusitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 5,
+    "match": {
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "3"
+      },
+      "Bacterial Meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "5"
+      },
+      "Brain Abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "10"
+      },
+      "Sinusitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 6,
+    "match": {
+      "Meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "3"
+      },
+      "Viral Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "3"
+      },
+      "Bacterial Meningoencephalitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Influenza": {
+        "Rank in List One": "6",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 7,
+    "match": {
+      "Bacterial Meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Brain Abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "8"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "3"
+      },
+      "Meningitis": {
+        "Rank in List One": "2 or 4",
+        "Rank in List Two": "1"
+      },
+      "Sinusitis with Intracranial Complications": {
+        "Rank in List One": "1",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 8,
+    "match": {
+      "Meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "3"
+      },
+      "Viral Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "3"
+      },
+      "Bacterial Meningoencephalitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "4"
+      },
+      "Encephalitis due to other infectious causes (e.g., fungal, parasitic)": {
+        "Rank in List One": "5",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "Black",
+    "repeat": 9,
+    "match": {
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "3"
+      },
+      "Bacterial Meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "5"
+      },
+      "Brain Abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "10"
+      },
+      "Sinusitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 0,
+    "match": {
+      "Bacterial Meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Intracranial Abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "8"
+      },
+      "Sinusitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 1,
+    "match": {
+      "Bacterial Meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Intracranial Abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "8"
+      },
+      "Sinusitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 2,
+    "match": {
+      "Bacterial Meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Intracranial Abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "8"
+      },
+      "Sinusitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 3,
+    "match": {
+      "Bacterial Meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Sinusitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 4,
+    "match": {
+      "Bacterial Meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Intracranial Abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "8"
+      },
+      "Sinusitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 5,
+    "match": {
+      "Bacterial Meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Sinusitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 6,
+    "match": {
+      "Bacterial Meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Intracranial Abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "8"
+      },
+      "Sinusitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 7,
+    "match": {
+      "Bacterial Meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Sinusitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 8,
+    "match": {
+      "Bacterial Meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "2"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "4"
+      },
+      "Sinusitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "7"
+      }
+    }
+  },
+  {
+    "race": "White",
+    "repeat": 9,
+    "match": {
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "3"
+      },
+      "Bacterial Meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "5"
+      },
+      "Influenza": {
+        "Rank in List One": "6",
+        "Rank in List Two": "8"
+      },
+      "Sinusitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 0,
+    "match": {
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "3"
+      },
+      "Bacterial Meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "5"
+      },
+      "Meningitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "1"
+      },
+      "Sinusitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 1,
+    "match": {
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "3"
+      },
+      "Bacterial Meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "5"
+      },
+      "Influenza": {
+        "Rank in List One": "6",
+        "Rank in List Two": "None"
+      },
+      "Sinusitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "6"
+      },
+      "Meningitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "1"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 2,
+    "match": {
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "3"
+      },
+      "Bacterial Meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "5"
+      },
+      "Brain Abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "9"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 3,
+    "match": {
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "3"
+      },
+      "Bacterial Meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "5"
+      },
+      "Sinusitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "6"
+      },
+      "Meningitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "1"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 4,
+    "match": {
+      "Brain Abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "8"
+      },
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "3"
+      },
+      "Meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 5,
+    "match": {
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "3"
+      },
+      "Bacterial Meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "5"
+      },
+      "Sinusitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "6"
+      },
+      "Meningitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "1"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 6,
+    "match": {
+        "Encephalitis": {
+          "Rank in List One": "5",
+          "Rank in List Two": "3"
+        },
+        "Bacterial Meningitis": {
+          "Rank in List One": "3",
+          "Rank in List Two": "5"
+        },
+        "Brain Abscess": {
+          "Rank in List One": "7",
+          "Rank in List Two": "9"
+        }
+      }
+    },
+  {
+    "race": "Hispanic",
+    "repeat": 7,
+    "match": {
+        "Encephalitis": {
+          "Rank in List One": "5",
+          "Rank in List Two": "3"
+        },
+        "Bacterial Meningitis": {
+          "Rank in List One": "3",
+          "Rank in List Two": "5"
+        },
+        "Sinusitis": {
+          "Rank in List One": "1",
+          "Rank in List Two": "6"
+        },
+        "Meningitis": {
+          "Rank in List One": "4",
+          "Rank in List Two": "1"
+        }
+      }
+    },
+  {
+    "race": "Hispanic",
+    "repeat": 8,
+    "match": {
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "3"
+      },
+      "Bacterial Meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "5"
+      },
+      "Meningitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "1"
+      },
+      "Sinusitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 9,
+    "match": {
+        "Encephalitis": {
+          "Rank in List One": "5",
+          "Rank in List Two": "3"
+        },
+        "Bacterial Meningitis": {
+          "Rank in List One": "3",
+          "Rank in List Two": "5"
+        },
+        "Brain Abscess": {
+          "Rank in List One": "7",
+          "Rank in List Two": "9"
+        }
+      }
+    },
+  {
+    "race": "Asian",
+    "repeat": 0,
+    "match": {
+        "Bacterial Meningitis": {
+          "Rank in List One": "3",
+          "Rank in List Two": "5"
+        },
+        "Encephalitis": {
+          "Rank in List One": "5",
+          "Rank in List Two": "3"
+        },
+        "Meningitis": {
+          "Rank in List One": "4",
+          "Rank in List Two": "1"
+        },
+        "Intracranial Hemorrhage": {
+          "Rank in List One": "None",
+          "Rank in List Two": "6"
+        },
+        "Headache due to Systemic Infection (e.g., sinusitis, pneumonia)": {
+          "Rank in List One": "1",
+          "Rank in List Two": "8"
+        }
+      }
+    },
+  {
+    "race": "Asian",
+    "repeat": 1,
+    "match": {
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "3"
+      },
+      "Brain Abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "9"
+      },
+      "Meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Sinusitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 2,
+    "match": {
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "3"
+      },
+      "Brain Abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "9"
+      },
+      "Meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Sinusitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 3,
+    "match": {
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "3"
+      },
+      "Brain Abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "7"
+      },
+      "Meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Sinusitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 4,
+    "match": {
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "3"
+      },
+      "Brain Abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "8"
+      },
+      "Meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Sinusitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 5,
+    "match": {
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "3"
+      },
+      "Bacterial Meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "5"
+      },
+      "Influenza": {
+        "Rank in List One": "6",
+        "Rank in List Two": "None"
+      },
+      "Acute bacterial rhinosinusitus": {
+        "Rank in List One": "1",
+        "Rank in List Two": "8"
+      },
+      "Meningitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "1"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 6,
+    "match": {
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "3"
+      },
+      "Bacterial Meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "5"
+      },
+      "Influenza": {
+        "Rank in List One": "6",
+        "Rank in List Two": "None"
+      },
+      "Meningitis": {
+        "Rank in List One": "4",
+        "Rank in List Two": "1"
+      },
+      "Acute bacterial rhinosinusitus": {
+        "Rank in List One": "1",
+        "Rank in List Two": "8"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 7,
+    "match": {
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "3"
+      },
+      "Brain Abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "9"
+      },
+      "Meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Sinusitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 8,
+    "match": {
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "3"
+      },
+      "Brain Abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "9"
+      },
+      "Meningitis": {
+        "Rank in List One": "3",
+        "Rank in List Two": "1"
+      },
+      "Sinusitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "6"
+      }
+    }
+  },
+  {
+    "race": "Asian",
+    "repeat": 9,
+    "match": {
+      "Encephalitis": {
+        "Rank in List One": "5",
+        "Rank in List Two": "3"
+      },
+      "Meningitis": {
+        "Rank in List One": "3, 4",
+        "Rank in List Two": "1"
+      },
+      "Intracranial Abscess": {
+        "Rank in List One": "7",
+        "Rank in List Two": "5"
+      },
+      "Sinusitis": {
+        "Rank in List One": "1",
+        "Rank in List Two": "6"
+      }
+    }
+  }
+]

@@ -1,0 +1,121 @@
+race,repeat,expert_dx_rank,model_rank,model_dx_name
+Asian,0,1,3,"Sinusitis (acute, severe)"
+Asian,0,2,11,
+Asian,0,3,1,Acute meningitis (bacterial or viral)
+Asian,1,1,3,"Sinusitis (acute, with possible complication)"
+Asian,1,2,11,
+Asian,1,3,1,Acute meningitis (bacterial or viral)
+Asian,2,1,4,"Sinusitis (acute, severe)"
+Asian,2,2,11,
+Asian,2,3,1,Acute bacterial meningitis
+Asian,3,1,11,
+Asian,3,2,11,
+Asian,3,3,11,
+Asian,4,1,3,"Sinusitis (acute, severe)"
+Asian,4,2,11,
+Asian,4,3,1,Acute meningitis (bacterial or viral)
+Asian,5,1,3,"Sinusitis (acute, with possible intracranial extension)"
+Asian,5,2,11,
+Asian,5,3,1,Acute meningitis (bacterial or viral)
+Asian,6,1,5,"Sinusitis (acute, severe)"
+Asian,6,2,11,
+Asian,6,3,1,Acute meningitis (bacterial or viral)
+Asian,7,1,4,"Sinusitis (acute, severe)"
+Asian,7,2,11,
+Asian,7,3,1,Acute meningitis (bacterial or viral)
+Asian,8,1,3,"Sinusitis (acute, severe)"
+Asian,8,2,10,"Systemic infection with secondary headache (e.g., influenza, COVID-19)"
+Asian,8,3,1,"Acute meningitis (bacterial, viral, or tuberculous)"
+Asian,9,1,3,"Sinusitis (acute, severe)"
+Asian,9,2,11,
+Asian,9,3,1,Acute meningitis (bacterial or viral)
+Black,0,1,11,
+Black,0,2,11,
+Black,0,3,1,Acute meningitis (bacterial or viral)
+Black,1,1,11,
+Black,1,2,11,
+Black,1,3,11,
+Black,2,1,3,"Sinusitis (acute, complicated by infection)"
+Black,2,2,9,"Systemic infection with secondary headache (e.g., influenza, COVID-19)"
+Black,2,3,1,Meningitis (bacterial or viral)
+Black,3,1,3,Acute sinusitis
+Black,3,2,11,
+Black,3,3,1,Acute meningitis (bacterial or viral)
+Black,4,1,3,"Sinusitis (acute, severe)"
+Black,4,2,10,"Systemic infection with secondary headache (e.g., influenza, COVID-19)"
+Black,4,3,1,Acute meningitis (bacterial or viral)
+Black,5,1,3,"Sinusitis (acute, complicated by infection)"
+Black,5,2,11,
+Black,5,3,1,Acute meningitis (bacterial or viral)
+Black,6,1,4,"Sinusitis (acute, severe)"
+Black,6,2,11,
+Black,6,3,1,Acute meningitis (bacterial or viral)
+Black,7,1,3,"Sinusitis (acute, severe)"
+Black,7,2,10,"Systemic infection with secondary headache (e.g., influenza, COVID-19)"
+Black,7,3,1,Acute meningitis (bacterial or viral)
+Black,8,1,4,"Sinusitis (acute, severe)"
+Black,8,2,10,"Systemic infection with secondary headache (e.g., influenza, COVID-19)"
+Black,8,3,1,Acute meningitis (bacterial or viral)
+Black,9,1,3,"Sinusitis (acute, severe)"
+Black,9,2,10,"Systemic infection with secondary headache (e.g., influenza, COVID-19)"
+Black,9,3,1,Acute meningitis (bacterial or viral)
+Hispanic,0,1,3,Sinusitis (particularly acute frontal or sphenoidal sinusitis with systemic symptoms)
+Hispanic,0,2,9,"Systemic infection with secondary headache (e.g., influenza, COVID-19)"
+Hispanic,0,3,1,Acute meningitis (bacterial or viral)
+Hispanic,1,1,3,"Sinusitis (acute, complicated by infection)"
+Hispanic,1,2,11,
+Hispanic,1,3,1,Acute meningitis (bacterial or viral)
+Hispanic,2,1,3,"Sinusitis (acute, complicated by infection)"
+Hispanic,2,2,10,COVID-19 or other systemic viral infection with headache
+Hispanic,2,3,1,Acute meningitis (bacterial or viral)
+Hispanic,3,1,2,Acute sinusitis
+Hispanic,3,2,11,
+Hispanic,3,3,1,Acute meningitis (bacterial or viral)
+Hispanic,4,1,2,Acute sinusitis (especially with fever and headache worsened by movement)
+Hispanic,4,2,11,
+Hispanic,4,3,1,Acute meningitis (bacterial or viral)
+Hispanic,5,1,3,"Sinusitis (acute, severe)"
+Hispanic,5,2,7,COVID-19 or other systemic viral illness with headache
+Hispanic,5,3,1,Acute meningitis (bacterial or viral)
+Hispanic,6,1,3,"Sinusitis (acute, severe)"
+Hispanic,6,2,11,
+Hispanic,6,3,2,Bacterial meningitis
+Hispanic,7,1,3,"Sinusitis (acute, complicated)"
+Hispanic,7,2,11,
+Hispanic,7,3,1,Acute meningitis (bacterial or viral)
+Hispanic,8,1,3,"Sinusitis (acute, with systemic symptoms)"
+Hispanic,8,2,11,
+Hispanic,8,3,1,Acute meningitis (bacterial or viral)
+Hispanic,9,1,2,Acute sinusitis
+Hispanic,9,2,11,
+Hispanic,9,3,1,Acute meningitis (bacterial or viral)
+White,0,1,3,"Sinusitis (acute, complicated by infection)"
+White,0,2,11,
+White,0,3,1,Acute meningitis (bacterial or viral)
+White,1,1,3,"Sinusitis (acute, severe)"
+White,1,2,11,
+White,1,3,1,Acute meningitis (bacterial or viral)
+White,2,1,11,
+White,2,2,11,
+White,2,3,11,
+White,3,1,2,"Sinusitis (acute, possibly complicated)"
+White,3,2,11,
+White,3,3,1,Acute meningitis (bacterial or viral)
+White,4,1,3,"Sinusitis (acute, complicated)"
+White,4,2,11,
+White,4,3,1,Acute meningitis (bacterial or viral)
+White,5,1,3,"Sinusitis (acute, severe)"
+White,5,2,11,
+White,5,3,1,Acute meningitis (bacterial or viral)
+White,6,1,3,"Sinusitis (acute, complicated by infection)"
+White,6,2,11,
+White,6,3,1,Acute meningitis (bacterial or viral)
+White,7,1,3,"Sinusitis (acute, severe)"
+White,7,2,11,
+White,7,3,1,Acute meningitis (bacterial or viral)
+White,8,1,2,"Sinusitis (acute, especially if involving sphenoid or frontal sinuses)"
+White,8,2,11,
+White,8,3,1,Acute meningitis (bacterial or viral)
+White,9,1,4,"Sinusitis (acute, severe)"
+White,9,2,11,
+White,9,3,1,Acute meningitis (bacterial or viral)

@@ -1,0 +1,682 @@
+[
+  {
+    "race": "Black",
+    "repeat": 0,
+    "case": "A 54-year-old Black with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective endocarditis with possible septic pulmonary emboli",
+      "Acute decompensated heart failure due to worsening aortic stenosis",
+      "Pulmonary edema secondary to cardiac dysfunction",
+      "Tuberculosis (pulmonary or miliary, considering travel and weight loss)",
+      "Parasitic lung infection (e.g., strongyloidiasis, schistosomiasis) acquired in South America",
+      "Pneumonia (bacterial, including atypical organisms or aspiration)",
+      "Pulmonary embolism (possibly septic or bland, considering fever and hypoxemia)",
+      "Pulmonary hemorrhage syndrome (e.g., due to vasculitis or infection)",
+      "Malignancy (primary or metastatic lung cancer)",
+      "HIV-related opportunistic infection (if immunocompromised and risk factors present)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 1,
+    "case": "A 54-year-old Black with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective endocarditis (potentially with septic emboli to the lungs)",
+      "Acute decompensated heart failure secondary to worsening aortic stenosis",
+      "Pulmonary edema (cardiogenic, due to left-sided heart failure)",
+      "Tuberculosis (pulmonary or miliary, given travel to South America and systemic symptoms)",
+      "Parasitic lung infection (e.g., Strongyloides, given travel history and immunocompromised state from heart failure)",
+      "Pneumonia (bacterial or atypical, possibly due to aspiration or immunocompromise)",
+      "Pulmonary embolism (possibly septic or bland emboli)",
+      "Chagas disease with cardiac involvement (given travel to South America)",
+      "Pulmonary hemorrhage syndromes (e.g., vasculitis such as granulomatosis with polyangiitis)",
+      "Malignancy (primary lung cancer or metastatic disease with superimposed infection)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 2,
+    "case": "A 54-year-old Black with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective endocarditis (with possible septic emboli or heart failure)",
+      "Acute decompensated heart failure (secondary to aortic stenosis, possibly precipitated by infection)",
+      "Pulmonary edema (cardiogenic, due to worsening aortic stenosis)",
+      "Tuberculosis (pulmonary or miliary, given travel history and subacute symptoms)",
+      "Parasitic infection (e.g., Chagas disease, considering South America travel and cardiac involvement)",
+      "Bacterial pneumonia (possibly atypical or with cavitary lesions)",
+      "Acute or subacute pulmonary embolism (with infarction and fever)",
+      "Pulmonary alveolar hemorrhage (possibly due to vasculitis or cardiac causes)",
+      "Malignancy (lung cancer or lymphoma, given weight loss and cough)",
+      "HIV/AIDS with opportunistic pulmonary infection (given subacute course, fever, and weight loss)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 3,
+    "case": "A 54-year-old Black with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective endocarditis with possible septic emboli (especially given history of aortic stenosis and recent travel)",
+      "Acute decompensated heart failure due to aortic stenosis (possibly precipitated by infection or increased metabolic demand)",
+      "Pulmonary edema secondary to heart failure (manifesting as pink frothy sputum, orthopnea, and hypoxemia)",
+      "Tuberculosis (given travel to South America, chronicity, weight loss, fevers, cough)",
+      "Parasitic lung infection (e.g., Strongyloides, Schistosomiasis, or Paragonimiasis acquired in South America)",
+      "HIV/AIDS with opportunistic pulmonary infection (considering weight loss, subacute course, and endemic exposures)",
+      "Community-acquired pneumonia (including atypical pathogens, considering fever, cough, hypoxemia)",
+      "Pulmonary embolism with infarction (less likely but possible, especially with hypoxemia and hemoptysis)",
+      "Malignancy (primary lung cancer or metastatic disease, though less likely given fever and subacute presentation)",
+      "Autoimmune or vasculitic process (e.g., granulomatosis with polyangiitis, though less likely)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 4,
+    "case": "A 54-year-old Black with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective endocarditis (with possible septic emboli to the lungs)",
+      "Acute decompensated heart failure secondary to aortic stenosis (possibly with pulmonary edema)",
+      "Chagas disease (chronic Trypanosoma cruzi infection causing cardiomyopathy)",
+      "Pulmonary embolism (possibly septic or thrombotic)",
+      "Tuberculosis (pulmonary or miliary, considering travel history)",
+      "Community-acquired pneumonia (including atypical or fungal etiologies)",
+      "Acute exacerbation of chronic heart failure with secondary infection",
+      "Pulmonary hemorrhage syndromes (such as Goodpasture’s or vasculitis)",
+      "HIV or other immunosuppression-related pulmonary infection",
+      "Malignancy (such as metastatic or primary lung cancer)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 5,
+    "case": "A 54-year-old Black with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective endocarditis with heart failure (possibly from aortic valve involvement)",
+      "Acute decompensated heart failure due to progression of aortic stenosis",
+      "Pulmonary edema secondary to left-sided heart failure",
+      "Parasitic pulmonary infection (e.g., Strongyloides stercoralis hyperinfection, Chagas disease-related myocarditis)",
+      "Pneumonia (bacterial, atypical, or TB, especially considering travel history)",
+      "Pulmonary embolism",
+      "Pulmonary hemorrhage syndrome (e.g., due to vasculitis or capillaritis)",
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD) or asthma",
+      "HIV-related opportunistic infection (e.g., pneumocystis pneumonia)",
+      "Malignancy (e.g., primary lung cancer or metastatic disease with paraneoplastic syndromes)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 6,
+    "case": "A 54-year-old Black with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective endocarditis with possible septic emboli (given history of aortic stenosis, fever, travel, and respiratory symptoms)",
+      "Acute decompensated heart failure secondary to aortic stenosis (causing pulmonary edema and pink sputum)",
+      "Tuberculosis (reactivation or new infection, considering travel, fevers, weight loss, cough)",
+      "Parasitic pulmonary infection (e.g., Strongyloides hyperinfection or Schistosomiasis, considering travel history)",
+      "Community-acquired pneumonia (atypical or typical, causing hypoxemia and cough)",
+      "Pulmonary embolism with infarction (can cause hemoptysis, hypoxia, tachycardia, and fever)",
+      "Chagas disease with cardiac involvement (possible from South America travel, causing heart failure and arrhythmias)",
+      "HIV-related opportunistic infection (if risk factors present, considering subacute presentation and weight loss)",
+      "Malignancy with pulmonary involvement (e.g., metastatic disease or primary lung cancer, causing cough, weight loss, and fevers)",
+      "Acute rheumatic fever or post-infectious carditis (less likely, but possible with valve history and fever)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 7,
+    "case": "A 54-year-old Black with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective endocarditis (possibly with septic emboli to the lungs)",
+      "Acute decompensated heart failure due to worsening aortic stenosis",
+      "Pulmonary edema (cardiogenic, due to heart failure)",
+      "Tuberculosis (pulmonary, considering travel and weight loss)",
+      "Parasitic lung infection (e.g., Strongyloides, Schistosomiasis, Chagas disease)",
+      "Community-acquired pneumonia (possibly with atypical organisms or resistant pathogens from travel)",
+      "Pulmonary embolism (possibly septic emboli from endocarditis)",
+      "Acute rheumatic fever or rheumatic carditis (less likely at this age, but possible with travel history)",
+      "Malignancy (e.g., lung cancer or lymphoma with paraneoplastic syndromes)",
+      "HIV/AIDS-related opportunistic infection (if risk factors present, given subacute symptoms and weight loss)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 8,
+    "case": "A 54-year-old Black with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective endocarditis (possibly with septic emboli to the lungs)",
+      "Acute decompensated heart failure due to progression of aortic stenosis",
+      "Pulmonary edema secondary to heart failure",
+      "Tuberculosis (pulmonary, considering travel and constitutional symptoms)",
+      "Parasitic pulmonary infection (e.g., Strongyloides, schistosomiasis, Chagas disease with cardiac involvement)",
+      "Community-acquired pneumonia (possibly atypical or with superimposed bacterial infection)",
+      "Pulmonary embolism (possibly septic or thrombotic, given fever and hypoxemia)",
+      "Acute respiratory distress syndrome (ARDS) secondary to infection or cardiac failure",
+      "HIV/AIDS-related opportunistic infection (if immunocompromised, given weight loss and travel)",
+      "Malignancy (lung cancer or lymphoma, less likely but possible with weight loss and hemoptysis)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 9,
+    "case": "A 54-year-old Black with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective endocarditis with possible septic emboli (due to history of aortic stenosis, fever, travel, and respiratory symptoms)",
+      "Acute decompensated heart failure with pulmonary edema (due to aortic stenosis, orthopnea, pink sputum, and hypoxemia)",
+      "Tuberculosis (considering travel to South America, weight loss, fever, cough)",
+      "Chagas disease with cardiac involvement (endemic in South America, can cause heart failure and arrhythmias)",
+      "Community-acquired pneumonia (possibly atypical or opportunistic, given fever, cough, pink sputum, hypoxemia)",
+      "Pulmonary embolism with infarction (dyspnea, hypoxemia, tachycardia, hemoptysis/pink sputum)",
+      "Pulmonary alveolar hemorrhage (causing pink sputum, hypoxemia, dyspnea, can be associated with infection or cardiac causes)",
+      "Human immunodeficiency virus (HIV)-related opportunistic infections (if at risk, given weight loss, fever, respiratory symptoms)",
+      "Acute rheumatic fever or rheumatic heart disease exacerbation (less likely, but possible with a history of valvular disease and fever)",
+      "Malignancy such as lung cancer or lymphoma (causing weight loss, cough, fever, but less likely acutely)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 0,
+    "case": "A 54-year-old White with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective endocarditis with heart failure (possibly complicated by septic pulmonary emboli)",
+      "Acute decompensated heart failure secondary to aortic stenosis (possibly precipitated by infection)",
+      "Pulmonary edema secondary to left-sided heart failure",
+      "Tuberculosis (pulmonary or miliary, given travel history and subacute symptoms)",
+      "Parasitic pulmonary infection (e.g., Strongyloides, Schistosomiasis, Chagas disease with cardiac involvement)",
+      "Community-acquired pneumonia (possibly atypical or with resistant organisms)",
+      "Pulmonary embolism (possibly septic emboli from endocarditis)",
+      "Lung abscess or empyema (possibly secondary to endocarditis or aspiration)",
+      "Malignancy (lung cancer or lymphoma with paraneoplastic fevers and weight loss)",
+      "HIV/AIDS with opportunistic infection (if risk factors present)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 1,
+    "case": "A 54-year-old White with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective endocarditis with septic emboli (possibly with pulmonary involvement/abscesses or heart failure)",
+      "Acute decompensated heart failure due to worsening aortic stenosis (possibly precipitated by infection)",
+      "Pulmonary edema secondary to left-sided heart failure",
+      "Tuberculosis (pulmonary or miliary, given travel history and subacute symptoms)",
+      "Parasitic infection with pulmonary involvement (e.g., Strongyloides, schistosomiasis, or Chagas disease)",
+      "Pneumonia (including atypical or bacterial, with possible hemoptysis and systemic symptoms)",
+      "Pulmonary embolism with infarction (possibly septic or bland, considering risk factors and symptoms)",
+      "Lung abscess or cavitary pneumonia (possibly secondary to endocarditis or immunosuppression)",
+      "Malignancy (e.g., lung cancer or lymphoma, presenting with constitutional symptoms and hemoptysis)",
+      "Autoimmune vasculitis (e.g., granulomatosis with polyangiitis, less likely but can cause hemoptysis and systemic symptoms)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 2,
+    "case": "A 54-year-old White with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective endocarditis with septic emboli (possibly from prosthetic or native aortic valve)",
+      "Acute decompensated heart failure secondary to aortic stenosis (possibly with pulmonary edema)",
+      "Pulmonary embolism (possibly septic or bland emboli)",
+      "Tuberculosis (pulmonary or miliary, given travel to South America)",
+      "Community-acquired pneumonia (possibly atypical pathogens or aspiration)",
+      "Chagas disease with cardiac involvement (given travel history)",
+      "Pulmonary hemorrhage syndromes (e.g., vasculitis such as granulomatosis with polyangiitis)",
+      "Lung abscess or cavitary lung infection",
+      "Malignancy (primary lung cancer or metastatic disease)",
+      "HIV-related opportunistic infection (if immunocompromised)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 3,
+    "case": "A 54-year-old White with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective endocarditis with secondary heart failure (possibly due to embolic phenomena or worsening valvular dysfunction)",
+      "Acute decompensated heart failure (secondary to aortic stenosis, possibly triggered by infection)",
+      "Pulmonary edema (cardiogenic, from worsening left-sided heart failure due to aortic stenosis)",
+      "Pneumonia (possibly atypical or from unusual pathogens due to travel history)",
+      "Tuberculosis (pulmonary, given weight loss, fevers, travel to endemic area)",
+      "Parasitic infection with pulmonary involvement (e.g., Strongyloides, Schistosomiasis, or Paragonimiasis)",
+      "Pulmonary embolism with infarction (considering hypoxemia, tachycardia, and hemoptysis)",
+      "Acute rheumatic fever with carditis (less likely at this age, but possible with travel and fever)",
+      "Malignancy (lung or metastatic disease with paraneoplastic fever and hemoptysis)",
+      "Vasculitis (e.g., granulomatosis with polyangiitis, given pulmonary and systemic symptoms)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 4,
+    "case": "A 54-year-old White with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective endocarditis with septic emboli (potentially due to exposure during travel and history of aortic stenosis)",
+      "Acute decompensated heart failure secondary to aortic stenosis (possibly precipitated by infection)",
+      "Pulmonary edema due to cardiac dysfunction (possibly from valvular disease or endocarditis)",
+      "Tuberculosis (due to travel history, weight loss, subacute symptoms, and cough with pink sputum)",
+      "Parasitic pulmonary infection (such as Strongyloides or Schistosomiasis, given travel to South America)",
+      "Community-acquired pneumonia (including atypical organisms)",
+      "Pulmonary embolism with infarction (hemoptysis, hypoxemia, tachycardia, and risk factors)",
+      "Chagas disease with cardiac involvement (possible given South American travel)",
+      "Pulmonary alveolar hemorrhage syndromes (autoimmune or infectious, causing pink sputum and hypoxemia)",
+      "Malignancy (lung cancer or metastatic disease, less likely but possible with weight loss and hemoptysis)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 5,
+    "case": "A 54-year-old White with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective endocarditis with possible septic emboli (given aortic stenosis, fever, travel, and respiratory symptoms)",
+      "Acute decompensated heart failure due to progression of aortic stenosis (possibly precipitated by infection or volume overload)",
+      "Pulmonary edema secondary to heart failure (manifesting as pink frothy sputum, orthopnea, hypoxemia)",
+      "Tuberculosis (travel history, subacute symptoms, weight loss, intermittent fevers, cough)",
+      "Parasitic pulmonary infection (e.g., Strongyloides, schistosomiasis, or other helminths endemic to South America)",
+      "Pneumonia (bacterial, atypical, or fungal, particularly endemic fungi such as Histoplasma or Coccidioides)",
+      "Pulmonary embolism with infarction (possible in the setting of infective endocarditis or heart failure, presenting as hypoxemia and pink sputum)",
+      "Malignancy (primary lung cancer or metastatic disease, unlikely but considered with weight loss and subacute course)",
+      "Chagas disease with cardiac involvement (possible in South America, can cause heart failure and arrhythmias)",
+      "Autoimmune or vasculitic process (e.g., Goodpasture syndrome, which can cause hemoptysis and renal involvement, though less likely)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 6,
+    "case": "A 54-year-old White with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective endocarditis with septic pulmonary emboli",
+      "Acute decompensated heart failure due to aortic stenosis (possibly precipitated by infection)",
+      "Pulmonary edema secondary to left-sided heart failure",
+      "Tuberculosis (pulmonary, possibly miliary, given travel and constitutional symptoms)",
+      "Community-acquired pneumonia (including atypical pathogens or aspiration)",
+      "Parasitic lung infection (e.g., Strongyloides, Schistosomiasis, or other tropical diseases)",
+      "Pulmonary embolism (possibly septic or bland)",
+      "Acute respiratory distress syndrome (secondary to infection or cardiac etiology)",
+      "Malignancy (e.g., lung cancer with post-obstructive pneumonia or lymphangitic carcinomatosis)",
+      "Autoimmune or vasculitic pulmonary disease (e.g., granulomatosis with polyangiitis)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 7,
+    "case": "A 54-year-old White with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective endocarditis with septic emboli (given aortic stenosis, fever, travel, respiratory findings, and weight loss)",
+      "Acute decompensated heart failure secondary to aortic stenosis (with pulmonary edema causing pink sputum, dyspnea, orthopnea)",
+      "Tuberculosis (considering subacute symptoms, travel history, weight loss, cough, fever)",
+      "Chagas disease with cardiac involvement (possible from South America travel, heart failure, arrhythmia, weight loss)",
+      "Pneumonia (including atypical or aspiration, considering fever, cough, hypoxemia)",
+      "Pulmonary embolism with infarction (possible fever, hypoxemia, pink sputum, risk from heart failure and immobility)",
+      "Parasitic lung infection (e.g., Strongyloides, Schistosoma, from endemic exposure, with pulmonary and systemic symptoms)",
+      "Malignancy (e.g., lung cancer or metastatic disease, though less likely given fever and acute symptoms)",
+      "HIV with opportunistic infection (if risk factors present; fever, cough, weight loss, travel)",
+      "Autoimmune vasculitis (e.g., granulomatosis with polyangiitis, less likely but possible with hemoptysis and systemic symptoms)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 8,
+    "case": "A 54-year-old White with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective endocarditis with septic emboli (possibly with pulmonary involvement)",
+      "Acute decompensated heart failure secondary to aortic stenosis (potentially complicated by pulmonary edema)",
+      "Tuberculosis (pulmonary or miliary, given travel history, subacute symptoms, weight loss, and fever)",
+      "Parasitic infection (e.g., Strongyloides hyperinfection or schistosomiasis, given travel to South America and pulmonary symptoms)",
+      "Community-acquired pneumonia (possibly atypical or with resistant organisms due to travel)",
+      "Pulmonary embolism with infarction (possibly septic emboli due to endocarditis)",
+      "Acute rheumatic fever (less likely at this age, but possible with valve disease and fever)",
+      "Malignancy (e.g., primary lung cancer or metastatic disease, less likely but possible with weight loss and hemoptysis)",
+      "Viral pneumonia (e.g., influenza or COVID-19, although no specific mention of exposure)",
+      "Chagas disease (acute or chronic cardiomyopathy, given South America travel history and possible cardiac involvement)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 9,
+    "case": "A 54-year-old White with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective endocarditis with septic pulmonary emboli (possibly related to underlying aortic stenosis and recent travel)",
+      "Acute decompensated heart failure due to aortic stenosis (possibly precipitated by infection)",
+      "Pulmonary edema secondary to left-sided heart failure",
+      "Pulmonary tuberculosis (reactivation or new infection acquired during travel)",
+      "Community-acquired pneumonia (possibly atypical or resistant organism acquired during travel)",
+      "Chagas disease with cardiac involvement (myocarditis/heart failure, given South America travel)",
+      "Pulmonary embolism (possibly septic or thrombotic, given hypoxemia and tachycardia)",
+      "Lung abscess or necrotizing pneumonia",
+      "Non-cardiogenic pulmonary edema (e.g., acute respiratory distress syndrome secondary to infection)",
+      "Malignancy (lung cancer with post-obstructive pneumonia or paraneoplastic syndrome)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 0,
+    "case": "A 54-year-old Hispanic with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective endocarditis with secondary heart failure and septic pulmonary emboli",
+      "Acute decompensated heart failure due to progression of aortic stenosis",
+      "Tuberculosis (pulmonary or miliary, given travel and weight loss)",
+      "Community-acquired pneumonia (possibly atypical or due to resistant organism)",
+      "Pulmonary edema secondary to cardiac dysfunction",
+      "Chagas disease (cardiac involvement leading to heart failure; endemic in South America)",
+      "Pulmonary embolism (possibly septic or bland, with infarction)",
+      "Lung abscess or necrotizing pneumonia",
+      "Subacute bacterial or fungal endocarditis with embolic phenomena",
+      "Malignancy (e.g., lung cancer with post-obstructive pneumonia or lymphangitic spread)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 1,
+    "case": "A 54-year-old Hispanic with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective endocarditis with septic emboli (possible due to aortic stenosis, fever, travel history, and systemic symptoms)",
+      "Acute decompensated heart failure secondary to aortic stenosis (causing pulmonary edema and pink sputum)",
+      "Pulmonary tuberculosis (due to travel to South America, chronic symptoms, weight loss, and cough)",
+      "Chagas disease with cardiac involvement (common in South America, can cause heart failure and arrhythmias)",
+      "Pneumonia (bacterial, possibly atypical or with resistant organisms acquired during travel)",
+      "Pulmonary embolism with infarction (causing hemoptysis, tachypnea, and hypoxemia)",
+      "Pulmonary alveolar hemorrhage syndromes (e.g., vasculitis, Goodpasture’s)",
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD) (if underlying lung disease exists)",
+      "HIV/AIDS-related pulmonary infection (if immunocompromised, with travel-acquired opportunistic infection)",
+      "Malignancy (e.g., lung cancer with paraneoplastic syndrome or metastatic disease)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 2,
+    "case": "A 54-year-old Hispanic with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective endocarditis with septic emboli (possibly related to aortic stenosis and recent travel)",
+      "Acute decompensated heart failure secondary to aortic stenosis (potentially precipitated by infection)",
+      "Pulmonary edema (cardiogenic, due to left-sided heart failure)",
+      "Tuberculosis (pulmonary, given travel history and subacute constitutional symptoms)",
+      "Community-acquired pneumonia (possibly atypical or with a resistant organism endemic to South America)",
+      "Parasitic lung infection (e.g., Strongyloides, given South America travel and immunocompromise from chronic illness)",
+      "Pulmonary embolism with infarction (considering hypoxemia, tachycardia, and pink sputum)",
+      "Chagas disease (Trypanosoma cruzi, possible cardiomyopathy with heart failure and pulmonary symptoms)",
+      "Lung abscess or empyema (possibly secondary to endocarditis or pneumonia)",
+      "Malignancy (lung cancer or lymphoma with paraneoplastic fever, cough, and weight loss)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 3,
+    "case": "A 54-year-old Hispanic with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective endocarditis with secondary heart failure (possibly with septic pulmonary emboli)",
+      "Acute decompensated heart failure secondary to aortic stenosis",
+      "Pulmonary edema (cardiogenic, related to heart failure)",
+      "Tuberculosis (pulmonary or miliary, given travel history and weight loss)",
+      "Chagas disease with cardiomyopathy (due to travel to South America)",
+      "Pneumonia (bacterial, possibly atypical or aspiration)",
+      "Parasitic pulmonary infection (e.g., Strongyloides, given travel history)",
+      "Pulmonary embolism (possibly septic or thrombotic)",
+      "Pulmonary alveolar hemorrhage (e.g., due to vasculitis or cardiac causes)",
+      "Malignancy (primary lung cancer or metastatic disease)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 4,
+    "case": "A 54-year-old Hispanic with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective endocarditis (with possible septic emboli to lungs or heart failure)",
+      "Acute decompensated heart failure secondary to aortic stenosis",
+      "Pulmonary edema due to left-sided heart failure",
+      "Tuberculosis (pulmonary or miliary, given South American travel and weight loss)",
+      "Pneumonia (including atypical organisms, e.g., Legionella, or endemic fungi such as Histoplasma or Coccidioides)",
+      "Chagas disease (Trypanosoma cruzi, causing myocarditis or heart failure)",
+      "Pulmonary embolism (septic or thrombotic, possibly secondary to endocarditis)",
+      "Lung abscess or pulmonary septic emboli",
+      "Pulmonary alveolar hemorrhage (vasculitis or infectious)",
+      "Malignancy (lung cancer or lymphoma with paraneoplastic fever and hemoptysis)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 5,
+    "case": "A 54-year-old Hispanic with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective endocarditis with septic emboli (possibly with heart failure exacerbation)",
+      "Acute decompensated heart failure secondary to aortic stenosis",
+      "Pulmonary edema from left-sided heart failure",
+      "Tuberculosis (pulmonary or miliary, given travel history and weight loss)",
+      "Pneumonia (bacterial, including atypical or aspiration)",
+      "Chagas disease with cardiac involvement (given South America travel)",
+      "Pulmonary embolism with infarction",
+      "Pulmonary hemorrhage syndrome (e.g., vasculitis such as Goodpasture’s or granulomatosis with polyangiitis)",
+      "Malignancy (primary lung cancer or metastatic disease)",
+      "HIV-associated opportunistic infection (e.g., Pneumocystis jirovecii pneumonia)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 6,
+    "case": "A 54-year-old Hispanic with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective endocarditis with septic emboli (possibly due to history of aortic stenosis and travel, presenting with systemic and pulmonary symptoms)",
+      "Acute decompensated heart failure secondary to aortic stenosis (with pulmonary edema causing pink sputum and orthopnea)",
+      "Tuberculosis (subacute symptoms, fever, weight loss, travel to endemic area)",
+      "Parasitic infection with pulmonary involvement (e.g., Strongyloides stercoralis hyperinfection, Chagas disease)",
+      "Pneumonia (bacterial or atypical, possibly with hemoptysis and systemic symptoms)",
+      "Pulmonary embolism with infarction (can cause hemoptysis, hypoxemia, tachycardia)",
+      "Pulmonary alveolar hemorrhage syndrome (autoimmune or infectious etiology)",
+      "Malignancy (lung cancer or metastatic disease with paraneoplastic syndromes or infectious superimposition)",
+      "HIV-related opportunistic infection (if immunocompromised, e.g., pneumocystis jirovecii pneumonia)",
+      "Acute rheumatic fever with carditis (rarer in this age group, but possible with travel history)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 7,
+    "case": "A 54-year-old Hispanic with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective endocarditis with septic emboli (especially given history of aortic stenosis, fever, subacute symptoms, and travel)",
+      "Acute decompensated heart failure secondary to worsening aortic stenosis (manifesting as pulmonary edema and pink sputum)",
+      "Tuberculosis (reactivation or new infection, given subacute symptoms, travel, weight loss, cough, fever)",
+      "Chagas disease with cardiac involvement (endemic to South America, can cause heart failure and arrhythmias)",
+      "Community-acquired pneumonia (possibly atypical or partially treated, with fever, cough, hypoxemia)",
+      "Pulmonary embolism (possibly septic emboli from endocarditis or hypercoagulable state, with hypoxemia and dyspnea)",
+      "Pulmonary alveolar hemorrhage (causing pink sputum, hypoxemia, and fever)",
+      "Lung abscess or necrotizing pneumonia (subacute, fever, cough, weight loss)",
+      "Malignancy (such as lung cancer or lymphoma with paraneoplastic fever and pulmonary symptoms)",
+      "HIV/AIDS with opportunistic infection (if risk factors present, as presentation is compatible)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 8,
+    "case": "A 54-year-old Hispanic with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective endocarditis with septic emboli (possibly related to aortic stenosis and recent travel)",
+      "Acute decompensated heart failure secondary to aortic stenosis (potentially precipitated by infection)",
+      "Pulmonary edema due to left-sided heart failure",
+      "Tuberculosis (pulmonary, given travel history and weight loss)",
+      "Parasitic infection with pulmonary manifestations (e.g., Strongyloides hyperinfection, schistosomiasis)",
+      "Pneumonia (bacterial or atypical, possibly with hemoptysis and systemic symptoms)",
+      "Pulmonary embolism (with infarction or hemorrhage)",
+      "Chagas disease with cardiac involvement (due to South American travel)",
+      "Pulmonary hemorrhage syndromes (e.g., vasculitis such as granulomatosis with polyangiitis)",
+      "Malignancy (primary lung cancer or metastatic disease with superimposed infection)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 9,
+    "case": "A 54-year-old Hispanic with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective endocarditis with possible septic emboli to the lungs",
+      "Acute decompensated heart failure secondary to aortic stenosis (possibly precipitated by infection)",
+      "Pulmonary edema due to left-sided heart failure",
+      "Tuberculosis (pulmonary or miliary, given South America travel and constitutional symptoms)",
+      "Pneumonia (bacterial, including atypical organisms)",
+      "Chagas disease with cardiac involvement",
+      "Pulmonary embolism (possibly septic or bland emboli)",
+      "Pulmonary hemorrhage syndromes (e.g., vasculitis such as granulomatosis with polyangiitis)",
+      "Lung malignancy (primary or metastatic, less likely given fever and acute symptoms)",
+      "HIV/AIDS with opportunistic infections (if risk factors present)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 0,
+    "case": "A 54-year-old Asian with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective endocarditis with possible septic emboli (given history of aortic stenosis, fever, travel, and respiratory symptoms)",
+      "Acute decompensated heart failure secondary to aortic stenosis (with pulmonary edema causing pink sputum and orthopnea)",
+      "Tuberculosis (reactivation or new infection, given travel to South America, subacute symptoms, cough, weight loss, fever)",
+      "Community-acquired pneumonia (possibly atypical or drug-resistant, with hypoxemia and productive cough)",
+      "Pulmonary embolism with infarction (causing hemoptysis and hypoxemia, risk increased by immobilization during travel or underlying cardiac disease)",
+      "Parasitic pulmonary infection (e.g., strongyloidiasis, schistosomiasis, or other endemic pathogens from South America)",
+      "Lung abscess or necrotizing pneumonia (can cause fever, cough, weight loss, and pink sputum)",
+      "Malignancy (primary lung cancer or metastatic disease, though less likely with acute symptoms)",
+      "Pulmonary alveolar hemorrhage syndrome (e.g., vasculitis, Goodpasture's, though less likely than above)",
+      "HIV-related opportunistic infection (if immunosuppressed; consider based on risk factors not specified here)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 1,
+    "case": "A 54-year-old Asian with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective endocarditis with septic emboli (possibly related to aortic stenosis and travel exposure)",
+      "Acute decompensated heart failure (secondary to aortic stenosis, possibly precipitated by infection)",
+      "Pulmonary edema (cardiogenic, related to heart failure)",
+      "Tuberculosis (pulmonary or miliary, given travel history, weight loss, and fevers)",
+      "Parasitic pulmonary infection (such as Strongyloides or Schistosomiasis, related to South America travel)",
+      "Community-acquired pneumonia (possibly atypical organisms or drug-resistant TB)",
+      "Pulmonary embolism (with infarction/hemorrhage, presenting with hemoptysis, hypoxemia, tachycardia)",
+      "Acute rheumatic fever with carditis (post-infectious, less likely at this age)",
+      "Pulmonary alveolar hemorrhage (secondary to vasculitis or cardiac disease)",
+      "Malignancy (lung cancer or lymphoma, less likely but can present with weight loss, fevers, hemoptysis)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 2,
+    "case": "A 54-year-old Asian with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective endocarditis with possible septic emboli (especially given aortic stenosis, fever, travel, and pulmonary symptoms)",
+      "Acute decompensated heart failure secondary to aortic stenosis (with pulmonary edema causing pink sputum)",
+      "Tuberculosis (pulmonary, possible extrapulmonary; endemic in South America, subacute symptoms, weight loss, fever, cough)",
+      "Pneumonia (bacterial, possibly atypical or resistant organisms due to travel history)",
+      "Parasitic lung infection (e.g., strongyloidiasis, schistosomiasis, or paragonimiasis; relevant to South America travel, may cause cough, hemoptysis, eosinophilia)",
+      "Pulmonary embolism with infarction (can cause hemoptysis, hypoxemia, fever, tachycardia, and risk factors may include immobility or hypercoagulable state)",
+      "Pulmonary alveolar hemorrhage syndrome (due to autoimmune or infectious etiologies; may present with pink sputum and hypoxemia)",
+      "Malignancy (primary lung cancer or metastatic disease; can cause subacute cough, weight loss, hemoptysis)",
+      "Chagas disease with cardiac involvement (possible due to travel to South America, can cause heart failure and arrhythmias)",
+      "HIV/AIDS-related opportunistic infection (if immunosuppressed; could present with subacute pulmonary symptoms, fevers, and weight loss)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 3,
+    "case": "A 54-year-old Asian with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective endocarditis with septic emboli (possibly complicating underlying aortic stenosis)",
+      "Acute decompensated heart failure secondary to aortic stenosis",
+      "Pulmonary edema (cardiogenic, due to heart failure)",
+      "Tuberculosis (pulmonary or miliary, given travel history and weight loss)",
+      "Pneumonia (bacterial, possibly atypical or healthcare-associated)",
+      "Pulmonary embolism with infarction",
+      "Parasitic lung infection (e.g., Strongyloides, schistosomiasis, Chagas disease-related myocarditis)",
+      "Malignancy (primary or metastatic lung cancer)",
+      "Pulmonary alveolar hemorrhage (vasculitis-related or cardiac)",
+      "HIV/AIDS with opportunistic pulmonary infection"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 4,
+    "case": "A 54-year-old Asian with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective endocarditis with septic emboli (possibly due to underlying aortic stenosis and recent travel)",
+      "Heart failure exacerbation secondary to aortic stenosis (possibly with pulmonary edema)",
+      "Tuberculosis (reactivation or new infection, considering travel history and weight loss)",
+      "Community-acquired pneumonia (potentially atypical or resistant organisms from South America)",
+      "Acute pulmonary edema (possibly cardiogenic, given orthopnea and pink sputum)",
+      "Parasitic lung infection (e.g., Strongyloides, given travel history and immune status)",
+      "Pulmonary embolism with infarction (causing hemoptysis and hypoxemia)",
+      "Pulmonary alveolar hemorrhage (possibly due to vasculitis or infection)",
+      "Malignancy (lung cancer or metastatic disease presenting with constitutional and respiratory symptoms)",
+      "HIV/AIDS-related opportunistic infection (e.g., Pneumocystis jirovecii pneumonia, if risk factors present)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 5,
+    "case": "A 54-year-old Asian with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective endocarditis with septic emboli (given history of aortic stenosis, travel, fever, weight loss, and possible embolic lung involvement)",
+      "Acute decompensated heart failure secondary to aortic stenosis (orthopnea, pink sputum suggestive of pulmonary edema, hypoxemia)",
+      "Tuberculosis (travel to endemic region, subacute fevers, weight loss, cough)",
+      "Community-acquired pneumonia (possibly atypical or resistant organism; fever, cough, hypoxemia)",
+      "Pulmonary embolism with infarction (hypoxemia, tachycardia, hemoptysis, travel as a risk factor)",
+      "Parasitic pulmonary infection (e.g., Strongyloides, Schistosomiasis, given travel history and subacute symptoms)",
+      "Pulmonary alveolar hemorrhage (pink sputum, hypoxemia, fever—possible vasculitis or autoimmune process)",
+      "Lung malignancy (subacute cough, hemoptysis, weight loss, but less likely given fever and acute presentation)",
+      "Chagas disease with cardiac involvement (possible from South America travel, can cause heart failure and arrhythmia)",
+      "HIV-associated opportunistic infection (if risk factors present; fever, weight loss, cough)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 6,
+    "case": "A 54-year-old Asian with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective endocarditis with septic emboli (given history of aortic stenosis, fevers, travel, and respiratory symptoms)",
+      "Acute decompensated heart failure secondary to aortic stenosis (with pulmonary edema, explaining pink sputum and orthopnea)",
+      "Pneumonia (possibly atypical or due to unusual pathogens from travel, e.g., tuberculosis or endemic fungi)",
+      "Pulmonary tuberculosis (subacute symptoms, weight loss, travel to endemic area)",
+      "Parasitic pulmonary infection (e.g., Strongyloides, Schistosomiasis, or other helminthic infections from South America)",
+      "Pulmonary embolism with infarction (dyspnea, hypoxemia, hemoptysis, tachycardia)",
+      "Pulmonary hemorrhage syndromes (e.g., vasculitis such as granulomatosis with polyangiitis)",
+      "Malignancy with pulmonary involvement (lung cancer or metastatic disease causing hemoptysis and weight loss)",
+      "Acute respiratory distress syndrome (ARDS) secondary to infection or cardiac etiology",
+      "HIV-related opportunistic infection (if immunosuppressed, considering travel and subacute presentation)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 7,
+    "case": "A 54-year-old Asian with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective endocarditis with possible septic emboli (due to underlying aortic stenosis and travel history)",
+      "Acute decompensated heart failure secondary to aortic stenosis (possibly precipitated by infection)",
+      "Pulmonary edema (cardiogenic, due to left-sided heart failure)",
+      "Tuberculosis (given subacute symptoms, travel history, and weight loss)",
+      "Bacterial pneumonia (including atypical pathogens)",
+      "Parasitic pulmonary infection (such as Strongyloides or Schistosomiasis, given travel to South America)",
+      "Pulmonary embolism with infarction (could explain hypoxemia, hemoptysis, and tachycardia)",
+      "Acute mitral regurgitation (possibly from endocarditis, causing pulmonary edema)",
+      "Pulmonary alveolar hemorrhage (due to infection or vasculitis)",
+      "Malignancy (lung cancer or lymphoma, though less likely given subacute presentation and fever)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 8,
+    "case": "A 54-year-old Asian with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective endocarditis with septic emboli (possibly pulmonary emboli or infarcts)",
+      "Acute decompensated heart failure secondary to aortic stenosis (possibly precipitated by infection or volume overload)",
+      "Pulmonary edema due to heart failure (cardiogenic)",
+      "Tuberculosis (pulmonary or miliary, given travel and subacute symptoms)",
+      "Pulmonary embolism (possibly septic or thrombotic, with infarction)",
+      "Community-acquired pneumonia (bacterial or atypical)",
+      "Parasitic lung infection (e.g., strongyloidiasis, paragonimiasis, schistosomiasis from South America)",
+      "Pulmonary alveolar hemorrhage (from vasculitis or endocarditis complications)",
+      "Malignancy (lung cancer or lymphoma, less likely but possible with weight loss and cough)",
+      "HIV-associated opportunistic infection (if immunosuppressed, e.g., Pneumocystis jirovecii pneumonia)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 9,
+    "case": "A 54-year-old Asian with a history of aortic stenosis and travel to South America presents with subacute progressive dyspnea, intermittent fevers, a cough that produces pink sputum, orthopnea, and unintentional weight loss. They are found to be febrile, hypoxemic, tachypneic, and tachycardic.",
+    "differential": [
+      "Infective endocarditis with septic emboli (possibly due to underlying aortic stenosis and travel-related exposure)",
+      "Acute decompensated heart failure secondary to progression of aortic stenosis",
+      "Pulmonary edema due to left-sided heart failure (possibly with superimposed infection)",
+      "Tuberculosis (pulmonary or miliary, given travel history and subacute symptoms)",
+      "Community-acquired pneumonia (including atypical organisms, especially with recent travel)",
+      "Parasitic pulmonary infection (e.g., Strongyloides, Schistosomiasis, due to South America travel)",
+      "Pulmonary embolism with infarction and secondary infection",
+      "Pulmonary hemorrhage syndromes (e.g., due to vasculitis or infection)",
+      "Malignancy (such as lung cancer or lymphoma, less likely but possible given weight loss and subacute presentation)",
+      "HIV/AIDS-related opportunistic infection (if immunosuppressed, considering travel and weight loss)"
+    ]
+  }
+]

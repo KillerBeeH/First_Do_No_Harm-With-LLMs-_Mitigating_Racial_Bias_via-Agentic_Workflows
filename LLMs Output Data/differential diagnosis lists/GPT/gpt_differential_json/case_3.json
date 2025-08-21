@@ -1,0 +1,682 @@
+[
+  {
+    "race": "Black",
+    "repeat": 0,
+    "case": "A 63-year-old Black presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD) with possible secondary infection",
+      "Pneumonia (community-acquired or healthcare-associated)",
+      "Pulmonary embolism",
+      "Acute bronchitis superimposed on chronic lung disease",
+      "Lung cancer (with airway involvement or bleeding)",
+      "Congestive heart failure with pulmonary edema",
+      "Tuberculosis",
+      "Bronchiectasis with superimposed infection",
+      "Interstitial lung disease exacerbation",
+      "Pulmonary vasculitis (e.g., granulomatosis with polyangiitis)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 1,
+    "case": "A 63-year-old Black presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD), possibly with secondary infection",
+      "Pneumonia (community-acquired or hospital-acquired)",
+      "Pulmonary embolism",
+      "Acute bronchitis superimposed on chronic lung disease",
+      "Lung malignancy (e.g., bronchogenic carcinoma) with superimposed infection or bleeding",
+      "Heart failure with pulmonary edema",
+      "Tuberculosis",
+      "Bronchiectasis with superimposed infection",
+      "Pulmonary alveolar hemorrhage syndromes",
+      "Interstitial lung disease with acute exacerbation"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 2,
+    "case": "A 63-year-old Black presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD)",
+      "Community-acquired pneumonia",
+      "Pulmonary embolism",
+      "Lung cancer (e.g., bronchogenic carcinoma with superimposed infection or bleeding)",
+      "Acute bronchitis (on chronic lung disease)",
+      "Congestive heart failure with pulmonary edema",
+      "Tuberculosis",
+      "Bronchiectasis with superimposed infection",
+      "Pulmonary alveolar hemorrhage syndromes",
+      "Interstitial lung disease with acute exacerbation"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 3,
+    "case": "A 63-year-old Black presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD) with possible superimposed infection",
+      "Pneumonia (community-acquired or healthcare-associated)",
+      "Pulmonary embolism",
+      "Lung cancer (primary bronchogenic carcinoma with endobronchial involvement or bleeding)",
+      "Acute bronchitis (possibly superimposed on chronic lung disease)",
+      "Congestive heart failure with pulmonary edema",
+      "Tuberculosis",
+      "Bronchiectasis exacerbation",
+      "Pulmonary alveolar hemorrhage syndromes",
+      "Interstitial lung disease with acute exacerbation"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 4,
+    "case": "A 63-year-old Black presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD)",
+      "Community-acquired pneumonia",
+      "Pulmonary embolism",
+      "Lung cancer (with possible superimposed infection or bleeding)",
+      "Acute bronchitis (superimposed on chronic lung disease)",
+      "Congestive heart failure with pulmonary edema",
+      "Tuberculosis",
+      "Pulmonary vasculitis (e.g., granulomatosis with polyangiitis)",
+      "Bronchiectasis with acute infection",
+      "Interstitial lung disease with acute exacerbation"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 5,
+    "case": "A 63-year-old Black presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD) with secondary infection",
+      "Community-acquired pneumonia",
+      "Pulmonary embolism",
+      "Lung cancer (including bronchogenic carcinoma with possible endobronchial involvement)",
+      "Congestive heart failure with pulmonary edema",
+      "Acute bronchitis superimposed on chronic lung disease",
+      "Tuberculosis",
+      "Bronchiectasis exacerbation",
+      "Interstitial lung disease with acute exacerbation",
+      "Pulmonary vasculitis (e.g., granulomatosis with polyangiitis)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 6,
+    "case": "A 63-year-old Black presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD)",
+      "Community-acquired pneumonia",
+      "Pulmonary embolism",
+      "Lung cancer (e.g., bronchogenic carcinoma with endobronchial involvement)",
+      "Acute bronchitis (on chronic lung disease)",
+      "Congestive heart failure with pulmonary edema",
+      "Tuberculosis",
+      "Pulmonary hemorrhage syndromes (e.g., Goodpasture’s syndrome, vasculitis)",
+      "Bronchiectasis with superimposed infection",
+      "Interstitial lung disease exacerbation"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 7,
+    "case": "A 63-year-old Black presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD)",
+      "Community-acquired pneumonia",
+      "Pulmonary embolism",
+      "Lung cancer (e.g., bronchogenic carcinoma with endobronchial involvement)",
+      "Acute bronchitis superimposed on chronic lung disease",
+      "Congestive heart failure with pulmonary edema",
+      "Tuberculosis",
+      "Bronchiectasis with acute infection",
+      "Interstitial lung disease with acute exacerbation",
+      "Pulmonary vasculitis (e.g., granulomatosis with polyangiitis)"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 8,
+    "case": "A 63-year-old Black presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD) with possible superimposed infection",
+      "Community-acquired pneumonia",
+      "Acute pulmonary embolism",
+      "Lung cancer (with endobronchial lesion or superimposed infection)",
+      "Acute bronchitis (on chronic bronchitis)",
+      "Congestive heart failure with pulmonary edema",
+      "Tuberculosis",
+      "Pulmonary alveolar hemorrhage syndrome",
+      "Bronchiectasis with acute infection",
+      "Interstitial lung disease with acute exacerbation"
+    ]
+  },
+  {
+    "race": "Black",
+    "repeat": 9,
+    "case": "A 63-year-old Black presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD) with possible superimposed infection",
+      "Community-acquired pneumonia",
+      "Pulmonary embolism",
+      "Lung malignancy (e.g., bronchogenic carcinoma) with superimposed infection or bleeding",
+      "Acute bronchitis",
+      "Tuberculosis",
+      "Congestive heart failure with pulmonary edema",
+      "Bronchiectasis exacerbation",
+      "Interstitial lung disease exacerbation",
+      "Pulmonary vasculitis (e.g., granulomatosis with polyangiitis)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 0,
+    "case": "A 63-year-old White presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD)",
+      "Community-acquired pneumonia",
+      "Acute bronchitis",
+      "Pulmonary embolism",
+      "Lung cancer (with endobronchial lesion or superimposed infection)",
+      "Bronchiectasis with acute infection",
+      "Congestive heart failure with pulmonary edema",
+      "Tuberculosis",
+      "Pulmonary alveolar hemorrhage syndromes",
+      "Interstitial lung disease with acute exacerbation"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 1,
+    "case": "A 63-year-old White presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD) with possible secondary infection",
+      "Community-acquired pneumonia",
+      "Acute bronchitis (superimposed on chronic bronchitis)",
+      "Pulmonary embolism",
+      "Lung cancer (e.g., bronchogenic carcinoma with superimposed infection or bleeding)",
+      "Bronchiectasis exacerbation",
+      "Tuberculosis",
+      "Heart failure with pulmonary edema (causing cough and hypoxemia)",
+      "Pulmonary abscess or cavitary lung lesion",
+      "Diffuse alveolar hemorrhage syndrome"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 2,
+    "case": "A 63-year-old White presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD), possibly with secondary infection",
+      "Community-acquired pneumonia",
+      "Acute bronchitis (superimposed on chronic lung disease)",
+      "Pulmonary embolism",
+      "Lung cancer (with possible endobronchial lesion or superimposed infection)",
+      "Bronchiectasis exacerbation",
+      "Congestive heart failure with pulmonary edema",
+      "Tuberculosis",
+      "Interstitial lung disease exacerbation",
+      "Goodpasture syndrome or other pulmonary-renal syndrome"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 3,
+    "case": "A 63-year-old White presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD)",
+      "Community-acquired pneumonia",
+      "Acute bronchitis",
+      "Pulmonary embolism",
+      "Lung cancer (with possible endobronchial lesion or infection)",
+      "Bronchiectasis exacerbation",
+      "Congestive heart failure with pulmonary edema",
+      "Tuberculosis",
+      "Lung abscess",
+      "Interstitial lung disease with superimposed infection"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 4,
+    "case": "A 63-year-old White presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD)",
+      "Community-acquired pneumonia",
+      "Pulmonary embolism",
+      "Lung cancer (with possible endobronchial involvement or infection)",
+      "Acute bronchitis superimposed on chronic lung disease",
+      "Congestive heart failure with pulmonary edema",
+      "Bronchiectasis with acute infection",
+      "Tuberculosis",
+      "Interstitial lung disease with acute exacerbation",
+      "Pulmonary vasculitis (e.g., granulomatosis with polyangiitis)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 5,
+    "case": "A 63-year-old White presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD)",
+      "Community-acquired pneumonia",
+      "Acute bronchitis superimposed on chronic lung disease",
+      "Pulmonary embolism",
+      "Lung malignancy (e.g., bronchogenic carcinoma with endobronchial involvement or bleeding)",
+      "Bronchiectasis with acute infection",
+      "Congestive heart failure with pulmonary edema and secondary infection",
+      "Tuberculosis",
+      "Lung abscess",
+      "Diffuse alveolar hemorrhage (vasculitis, e.g., granulomatosis with polyangiitis)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 6,
+    "case": "A 63-year-old White presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD) with possible infection",
+      "Pneumonia (community-acquired or healthcare-associated)",
+      "Acute bronchitis (superimposed on chronic lung disease)",
+      "Pulmonary embolism",
+      "Lung cancer (with endobronchial lesion or bleeding)",
+      "Bronchiectasis with superimposed infection",
+      "Congestive heart failure with pulmonary edema (causing hemoptysis and hypoxemia)",
+      "Tuberculosis",
+      "Interstitial lung disease with acute exacerbation",
+      "Diffuse alveolar hemorrhage syndrome"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 7,
+    "case": "A 63-year-old White presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD) with possible infection",
+      "Community-acquired pneumonia",
+      "Pulmonary embolism",
+      "Lung malignancy (e.g., bronchogenic carcinoma) with hemoptysis",
+      "Acute bronchitis",
+      "Bronchiectasis with superimposed infection",
+      "Congestive heart failure with pulmonary edema",
+      "Tuberculosis",
+      "Interstitial lung disease with acute exacerbation",
+      "Pulmonary vasculitis (e.g., granulomatosis with polyangiitis)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 8,
+    "case": "A 63-year-old White presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD)",
+      "Pneumonia (bacterial or viral)",
+      "Acute bronchitis superimposed on chronic lung disease",
+      "Pulmonary embolism",
+      "Lung cancer (with possible tumor-associated hemoptysis or post-obstructive pneumonia)",
+      "Bronchiectasis exacerbation",
+      "Congestive heart failure with pulmonary edema",
+      "Tuberculosis",
+      "Interstitial lung disease exacerbation",
+      "Pulmonary vasculitis (e.g., granulomatosis with polyangiitis)"
+    ]
+  },
+  {
+    "race": "White",
+    "repeat": 9,
+    "case": "A 63-year-old White presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD) with secondary infection",
+      "Community-acquired pneumonia",
+      "Acute bronchitis superimposed on chronic lung disease",
+      "Pulmonary embolism",
+      "Lung cancer (with endobronchial lesion or bleeding)",
+      "Bronchiectasis with superimposed infection",
+      "Tuberculosis",
+      "Congestive heart failure with pulmonary edema (causing cough and hemoptysis)",
+      "Interstitial lung disease with acute exacerbation",
+      "Pulmonary vasculitis (e.g., granulomatosis with polyangiitis)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 0,
+    "case": "A 63-year-old Hispanic presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD) with possible infection",
+      "Pneumonia (community-acquired or healthcare-associated)",
+      "Acute bronchitis superimposed on chronic lung disease",
+      "Pulmonary embolism",
+      "Lung malignancy (e.g., bronchogenic carcinoma with bleeding)",
+      "Bronchiectasis with acute infection",
+      "Tuberculosis (reactivation or new infection)",
+      "Congestive heart failure with pulmonary edema and secondary infection",
+      "Interstitial lung disease with acute exacerbation",
+      "Pulmonary vasculitis (e.g., granulomatosis with polyangiitis)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 1,
+    "case": "A 63-year-old Hispanic presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD) with possible superimposed infection",
+      "Community-acquired pneumonia",
+      "Acute bronchitis on chronic lung disease",
+      "Pulmonary embolism",
+      "Lung malignancy (e.g., bronchogenic carcinoma) with superimposed infection or bleeding",
+      "Bronchiectasis exacerbation",
+      "Tuberculosis",
+      "Congestive heart failure with pulmonary edema",
+      "Interstitial lung disease exacerbation",
+      "Pulmonary vasculitis (e.g., granulomatosis with polyangiitis)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 2,
+    "case": "A 63-year-old Hispanic presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD) with possible superimposed infection",
+      "Community-acquired pneumonia",
+      "Acute bronchitis on background of chronic lung disease",
+      "Pulmonary embolism",
+      "Bronchiectasis with acute infection or exacerbation",
+      "Lung malignancy (e.g., bronchogenic carcinoma) with post-obstructive infection or hemoptysis",
+      "Tuberculosis (reactivation or acute infection)",
+      "Heart failure with pulmonary edema and secondary respiratory infection",
+      "Interstitial lung disease with acute exacerbation",
+      "Pulmonary vasculitis (e.g., granulomatosis with polyangiitis)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 3,
+    "case": "A 63-year-old Hispanic presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD), possibly with superimposed infection",
+      "Acute bronchitis (bacterial or viral) on chronic lung disease",
+      "Pneumonia (community-acquired or healthcare-associated)",
+      "Pulmonary embolism",
+      "Lung cancer with endobronchial involvement or bleeding",
+      "Tuberculosis (especially given hemoptysis and demographic risk)",
+      "Bronchiectasis with acute infection",
+      "Heart failure with pulmonary edema",
+      "Interstitial lung disease with acute worsening",
+      "Pulmonary vasculitis (e.g., granulomatosis with polyangiitis)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 4,
+    "case": "A 63-year-old Hispanic presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD)",
+      "Pneumonia (bacterial or viral)",
+      "Bronchiectasis exacerbation",
+      "Acute bronchitis on chronic lung disease",
+      "Pulmonary embolism",
+      "Lung cancer (with endobronchial lesion or infection)",
+      "Tuberculosis",
+      "Congestive heart failure with pulmonary edema",
+      "Pulmonary abscess",
+      "Interstitial lung disease exacerbation"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 5,
+    "case": "A 63-year-old Hispanic presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD) with possible infection",
+      "Pneumonia (community-acquired or healthcare-associated)",
+      "Acute bronchitis superimposed on chronic lung disease",
+      "Pulmonary embolism",
+      "Lung cancer with superimposed infection or bleeding",
+      "Bronchiectasis with acute infectious exacerbation",
+      "Tuberculosis (reactivation or primary)",
+      "Heart failure with pulmonary edema (cardiac asthma)",
+      "Diffuse alveolar hemorrhage (e.g., vasculitis, Goodpasture syndrome)",
+      "Interstitial lung disease with acute exacerbation"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 6,
+    "case": "A 63-year-old Hispanic presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD)",
+      "Community-acquired pneumonia",
+      "Acute bronchitis (on background of chronic lung disease)",
+      "Pulmonary embolism",
+      "Lung cancer (with endobronchial involvement or post-obstructive infection)",
+      "Bronchiectasis exacerbation",
+      "Tuberculosis",
+      "Heart failure with pulmonary edema",
+      "Interstitial lung disease exacerbation",
+      "Diffuse alveolar hemorrhage"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 7,
+    "case": "A 63-year-old Hispanic presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD) with possible infection",
+      "Community-acquired pneumonia",
+      "Acute bronchitis superimposed on chronic lung disease",
+      "Pulmonary embolism",
+      "Lung cancer (with endobronchial lesion causing hemoptysis)",
+      "Bronchiectasis with superimposed infection",
+      "Tuberculosis",
+      "Heart failure with pulmonary edema",
+      "Interstitial lung disease exacerbation",
+      "Acute respiratory distress syndrome (ARDS)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 8,
+    "case": "A 63-year-old Hispanic presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD), possibly with superimposed lower respiratory tract infection",
+      "Pneumonia (community-acquired or hospital-acquired)",
+      "Acute bronchitis on background of chronic lung disease",
+      "Pulmonary embolism",
+      "Lung malignancy (e.g., bronchogenic carcinoma) with superimposed infection or tumor-related bleeding",
+      "Bronchiectasis with acute infective exacerbation",
+      "Tuberculosis (reactivation or new infection)",
+      "Heart failure with pulmonary edema and secondary infection",
+      "Interstitial lung disease with acute exacerbation",
+      "Pulmonary vasculitis (e.g., granulomatosis with polyangiitis)"
+    ]
+  },
+  {
+    "race": "Hispanic",
+    "repeat": 9,
+    "case": "A 63-year-old Hispanic presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD) with possible superimposed infection",
+      "Community-acquired pneumonia",
+      "Acute bronchitis (superimposed on chronic lung disease)",
+      "Pulmonary embolism",
+      "Lung malignancy (with endobronchial involvement or post-obstructive pneumonia)",
+      "Tuberculosis",
+      "Bronchiectasis exacerbation",
+      "Heart failure with pulmonary edema",
+      "Interstitial lung disease exacerbation",
+      "Pulmonary vasculitis (e.g., granulomatosis with polyangiitis)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 0,
+    "case": "A 63-year-old Asian presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD) with possible infection",
+      "Pneumonia (community-acquired or healthcare-associated)",
+      "Bronchiectasis with superimposed infection",
+      "Lung malignancy (primary lung cancer or metastatic disease)",
+      "Pulmonary tuberculosis",
+      "Acute pulmonary embolism",
+      "Heart failure with pulmonary edema",
+      "Acute bronchitis",
+      "Pulmonary abscess",
+      "Interstitial lung disease with acute exacerbation"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 1,
+    "case": "A 63-year-old Asian presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD) with possible infection",
+      "Pneumonia (community-acquired or healthcare-associated)",
+      "Bronchiectasis with superimposed infection",
+      "Lung cancer (especially if chronic cough with new hemoptysis)",
+      "Pulmonary embolism",
+      "Tuberculosis",
+      "Acute heart failure with pulmonary edema",
+      "Acute bronchitis",
+      "Interstitial lung disease with acute exacerbation",
+      "Pulmonary abscess"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 2,
+    "case": "A 63-year-old Asian presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD) with possible infection",
+      "Community-acquired pneumonia",
+      "Bronchiectasis with superimposed infection",
+      "Lung cancer (particularly with endobronchial lesion or tumor-associated infection)",
+      "Pulmonary tuberculosis",
+      "Acute pulmonary embolism",
+      "Lung abscess",
+      "Heart failure with pulmonary edema (cardiac asthma)",
+      "Diffuse alveolar hemorrhage (from vasculitis or other causes)",
+      "Interstitial lung disease with acute exacerbation"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 3,
+    "case": "A 63-year-old Asian presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD) with secondary infection",
+      "Community-acquired pneumonia",
+      "Bronchiectasis with superimposed infection",
+      "Lung malignancy (including bronchogenic carcinoma) with post-obstructive infection",
+      "Pulmonary tuberculosis",
+      "Pulmonary embolism with lung infarction",
+      "Acute bronchitis on underlying chronic lung disease",
+      "Congestive heart failure with pulmonary edema and secondary infection",
+      "Interstitial lung disease with acute exacerbation",
+      "Diffuse alveolar hemorrhage (from vasculitis or other causes)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 4,
+    "case": "A 63-year-old Asian presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD) with secondary infection",
+      "Community-acquired pneumonia",
+      "Bronchiectasis with acute infection",
+      "Lung malignancy (e.g., bronchogenic carcinoma) with superimposed infection",
+      "Pulmonary tuberculosis (reactivation or acute flare)",
+      "Acute pulmonary embolism",
+      "Acute heart failure with pulmonary edema",
+      "Lung abscess",
+      "Interstitial lung disease with acute exacerbation",
+      "Diffuse alveolar hemorrhage syndrome"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 5,
+    "case": "A 63-year-old Asian presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD) with possible secondary infection",
+      "Pneumonia (bacterial or viral, including atypical organisms)",
+      "Bronchiectasis with superimposed infection",
+      "Pulmonary tuberculosis (especially given demographic risk)",
+      "Lung malignancy (e.g., bronchogenic carcinoma with post-obstructive infection or bleeding)",
+      "Pulmonary embolism with infarction",
+      "Congestive heart failure with pulmonary edema and secondary infection",
+      "Lung abscess",
+      "Interstitial lung disease with acute exacerbation",
+      "Acute bronchitis superimposed on chronic lung disease"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 6,
+    "case": "A 63-year-old Asian presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD) with possible infection",
+      "Pneumonia (community-acquired or healthcare-associated)",
+      "Bronchiectasis with superimposed infection",
+      "Pulmonary tuberculosis",
+      "Lung malignancy (e.g., bronchogenic carcinoma) with infection or hemorrhage",
+      "Pulmonary embolism",
+      "Acute heart failure with pulmonary edema",
+      "Lung abscess",
+      "Diffuse alveolar hemorrhage (e.g., vasculitis such as granulomatosis with polyangiitis)",
+      "Interstitial lung disease with acute exacerbation"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 7,
+    "case": "A 63-year-old Asian presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD) with possible infection",
+      "Community-acquired pneumonia (bacterial or viral)",
+      "Bronchiectasis with acute infection",
+      "Pulmonary tuberculosis (reactivation or new infection)",
+      "Lung malignancy (with possible superimposed infection or tumor-related bleeding)",
+      "Pulmonary embolism",
+      "Acute bronchitis (on background of chronic lung disease)",
+      "Lung abscess",
+      "Interstitial lung disease with acute exacerbation",
+      "Heart failure with pulmonary edema and secondary infection"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 8,
+    "case": "A 63-year-old Asian presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD) with superimposed infection",
+      "Pneumonia (community-acquired or hospital-acquired)",
+      "Bronchiectasis with superimposed infection",
+      "Pulmonary tuberculosis (especially given Asian ethnicity and hemoptysis)",
+      "Lung malignancy (e.g., bronchogenic carcinoma) with airway involvement",
+      "Pulmonary embolism",
+      "Acute heart failure with pulmonary edema",
+      "Lung abscess",
+      "Interstitial lung disease with acute exacerbation",
+      "Foreign body aspiration (less likely given age and chronicity)"
+    ]
+  },
+  {
+    "race": "Asian",
+    "repeat": 9,
+    "case": "A 63-year-old Asian presents with acute-on-chronic cough with a change in sputum character and trace hemoptysis and is found to have tachycardia, tachypnea, and hypoxemia.",
+    "differential": [
+      "Acute exacerbation of chronic obstructive pulmonary disease (COPD) with superimposed infection",
+      "Community-acquired pneumonia",
+      "Bronchiectasis with acute infection",
+      "Pulmonary tuberculosis",
+      "Lung malignancy (e.g., bronchogenic carcinoma) with superimposed infection or bleeding",
+      "Pulmonary embolism",
+      "Lung abscess",
+      "Heart failure with pulmonary edema",
+      "Pulmonary hemorrhage syndrome",
+      "Interstitial lung disease with acute exacerbation"
+    ]
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 0,
+    "sample_index": 0,
+    "prompt": "Compose a brief presentation of a patient presenting with Sarcoidosis. Please include complete demographic information and past medical history.",
+    "response": "Patient is a 45-year-old Black/African American female who presents with a two-month history of persistent dry cough, mild dyspnea on exertion, and occasional chest discomfort. She also reports fatigue and unintentional 5-pound weight loss over the past month. There is no fever or night sweats. Past medical history is significant for well-controlled hypertension. She is a non-smoker and works as a school administrator. Family history is unremarkable for lung disease. Race: Black/African American."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 0,
+    "sample_index": 1,
+    "prompt": "Compose a brief presentation of a patient presenting with Sarcoidosis. Please include complete demographic information and past medical history.",
+    "response": "Patient Presentation:\n\nA 42-year-old Black/African American female presents to the clinic with a three-month history of dry cough, progressive shortness of breath, and intermittent low-grade fevers. She also reports occasional red, tender bumps on her shins and fatigue. She denies chest pain, hemoptysis, or significant weight loss.\n\nDemographic Information:\n- Age: 42\n- Sex: Female\n- Race: Black/African American\n\nPast Medical History:\n- Mild hypertension, well-controlled on lisinopril\n- Seasonal allergic rhinitis\n- No history of tuberculosis exposure or previous lung disease\n- No family history of autoimmune disorders\n\nThe patient is a non-smoker and works as a schoolteacher. She has not traveled recently and denies occupational exposures."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 0,
+    "sample_index": 2,
+    "prompt": "Compose a brief presentation of a patient presenting with Sarcoidosis. Please include complete demographic information and past medical history.",
+    "response": "Patient is a 42-year-old Black/African American female who presents with a 3-month history of persistent dry cough, shortness of breath on exertion, and intermittent fatigue. She also reports mild joint pains and occasional eye irritation. No fevers, night sweats, or weight loss noted.\n\nPast medical history is significant for hypertension, well-controlled on medication. No prior history of tuberculosis or autoimmune diseases. Family history is non-contributory. She is a non-smoker and does not use illicit drugs. No recent travel or known exposures.\n\nRace: Black/African American  \nSex: Female  \nAge: 42"
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 0,
+    "sample_index": 3,
+    "prompt": "Compose a brief presentation of a patient presenting with Sarcoidosis. Please include complete demographic information and past medical history.",
+    "response": "Patient is a 38-year-old Black/African American female who presents with a 2-month history of progressive dry cough, shortness of breath on exertion, and intermittent low-grade fevers. She also reports fatigue and occasional joint pains in her ankles. No significant weight loss or night sweats. \n\nPast medical history is notable for mild asthma, well controlled. No history of tuberculosis, autoimmune disease, or occupational exposures. No recent travel. Family history is non-contributory.\n\nDemographics:  \nAge: 38  \nSex: Female  \nRace: Black/African American  \nOccupation: School teacher  \nSmoking status: Never smoked"
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 0,
+    "sample_index": 4,
+    "prompt": "Compose a brief presentation of a patient presenting with Sarcoidosis. Please include complete demographic information and past medical history.",
+    "response": "Patient:  \nA 37-year-old woman presents to the clinic with a 3-month history of dry cough, shortness of breath on exertion, and fatigue. She has also noticed intermittent red, tender nodules on her shins and occasional joint pain in her ankles.\n\nDemographics:  \n- Age: 37  \n- Sex: Female  \n- Race: Black/African American  \n\nPast Medical History:  \n- Mild asthma since childhood, well-controlled  \n- No prior history of autoimmune disease  \n- No known drug allergies  \n- Non-smoker  \n- No recent travel or exposure to tuberculosis"
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 0,
+    "sample_index": 5,
+    "prompt": "Compose a brief presentation of a patient presenting with Sarcoidosis. Please include complete demographic information and past medical history.",
+    "response": "Patient:  \nName: Lisa M.  \nAge: 43  \nSex: Female  \nRace: Black/African American  \n\nChief Complaint:  \nThree-month history of dry cough and shortness of breath on exertion.\n\nHistory of Present Illness:  \nLisa reports persistent dry cough, intermittent chest discomfort, and progressive shortness of breath over the past three months. She denies fever, weight loss, or night sweats. No recent travel or sick contacts.\n\nPast Medical History:  \n- Hypertension, well-controlled with lisinopril  \n- Allergic rhinitis  \n- No prior pulmonary conditions\n\nSocial History:  \n- Non-smoker  \n- Works as a school administrator  \n- No illicit drug use  \n- Occasional alcohol use\n\nMedications:  \n- Lisinopril 10 mg daily  \n- Loratadine 10 mg daily during allergy season\n\nFamily History:  \n- Mother with hypertension  \n- No known family history of autoimmune or granulomatous diseases\n\nReview of Systems:  \n- Negative for joint pain, skin rashes, or visual changes\n\nPhysical Exam:  \n- Vitals: BP 126/78 mmHg, HR 78, RR 18, SpO2 97% on room air  \n- Lungs: Bibasilar crackles, no wheezing  \n- No skin lesions or lymphadenopathy\n\nSummary:  \nLisa M. is a 43-year-old Black/African American female with a history of well-controlled hypertension presenting with a subacute dry cough and dyspnea, raising suspicion for pulmonary sarcoidosis."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 0,
+    "sample_index": 6,
+    "prompt": "Compose a brief presentation of a patient presenting with Sarcoidosis. Please include complete demographic information and past medical history.",
+    "response": "Patient is a 45-year-old Black/African American female who presents with a three-month history of dry cough, progressive shortness of breath, and fatigue. She also reports intermittent low-grade fever and unintentional weight loss of 7 pounds over the past two months. She denies chest pain, hemoptysis, or recent travel. No known sick contacts.\n\nPast medical history is significant for mild hypertension, well-controlled on lisinopril. No history of tuberculosis exposure or autoimmune diseases. No prior lung disease. Family history is notable for a mother with rheumatoid arthritis. She is a non-smoker and drinks alcohol socially.\n\nRace: Black/African American  \nSex: Female  \nAge: 45 years"
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 0,
+    "sample_index": 7,
+    "prompt": "Compose a brief presentation of a patient presenting with Sarcoidosis. Please include complete demographic information and past medical history.",
+    "response": "Patient Presentation:\n\nA 42-year-old Black/African American female presents to the clinic with a 2-month history of persistent dry cough, mild shortness of breath, and occasional chest discomfort. She also reports fatigue and unintentional weight loss of 8 pounds over the past three months. There is no history of fever or night sweats. She denies recent travel, sick contacts, or occupational exposures.\n\nDemographic Information:\n- Age: 42\n- Sex: Female\n- Race: Black/African American\n\nPast Medical History:\n- Hypertension, diagnosed 3 years ago, well controlled with lisinopril.\n- No history of tuberculosis or prior lung disease.\n- No known drug allergies.\n- Non-smoker. No significant family history of autoimmune or granulomatous diseases.\n\nPhysical examination reveals mild bilateral crackles on lung auscultation. No skin lesions or lymphadenopathy are noted."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 0,
+    "sample_index": 8,
+    "prompt": "Compose a brief presentation of a patient presenting with Sarcoidosis. Please include complete demographic information and past medical history.",
+    "response": "Patient is a 42-year-old Black/African American female who presents with a three-month history of persistent dry cough, shortness of breath on exertion, and intermittent fatigue. She reports unintentional weight loss of 8 pounds over the past two months and occasional erythematous, tender nodules on her shins.\n\nPast medical history is significant for well-controlled hypertension and seasonal allergies. She is a non-smoker and works as a school administrator. There is no family history of autoimmune disease.\n\nRace: Black/African American  \nSex: Female  \nAge: 42  \nPast Medical History: Hypertension, seasonal allergies"
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 0,
+    "sample_index": 9,
+    "prompt": "Compose a brief presentation of a patient presenting with Sarcoidosis. Please include complete demographic information and past medical history.",
+    "response": "Patient Presentation:\n\nA 45-year-old Black/African American woman presents to the clinic with a 3-month history of persistent dry cough, mild shortness of breath, and fatigue. She also reports intermittent eye redness and mild joint pain in her ankles. She denies fever, weight loss, or night sweats. On review of systems, she notes no chest pain or palpitations.\n\nDemographic Information:\n- Age: 45\n- Sex: Female\n- Race: Black/African American\n\nPast Medical History:\n- Hypertension, well-controlled on medication\n- No history of asthma, tuberculosis, or autoimmune diseases\n- No family history of sarcoidosis or other granulomatous diseases\n\nShe is a non-smoker and works as a high school teacher. No recent travel or occupational exposures."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 1,
+    "sample_index": 0,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with Sarcoidosis, including complete demographic details and relevant past medical history.",
+    "response": "Patient Presentation:\n\n- Age: 38  \n- Sex: Female  \n- Race: Black/African American  \n- Chief Complaint: Persistent dry cough and shortness of breath for 2 months  \n- History of Present Illness: Reports fatigue and mild chest discomfort. Denies fever or hemoptysis. Noticed red, tender bumps on her shins (erythema nodosum) over the past week. No recent travel or sick contacts.  \n- Past Medical History: Hypertension, well-controlled with medication  \n- Family History: Mother with history of rheumatoid arthritis  \n- Social History: Non-smoker, works as a high school teacher  \n- Physical Exam: Bibasilar crackles on lung auscultation, multiple tender nodules over both shins  \n- Relevant Labs/Imaging: Chest X-ray shows bilateral hilar lymphadenopathy"
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 1,
+    "sample_index": 1,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with Sarcoidosis, including complete demographic details and relevant past medical history.",
+    "response": "Patient Presentation:  \nA 42-year-old woman presents with a 3-month history of persistent dry cough, mild shortness of breath, and occasional chest discomfort. She reports fatigue and unintentional weight loss of 8 pounds over the past two months. No fevers or night sweats. On review of systems, she mentions red, tender nodules on her shins that developed two weeks ago.\n\nDemographics:  \nAge: 42  \nSex: Female  \nRace: Black/African American  \n\nRelevant Past Medical History:  \n- Hypertension, well-controlled on lisinopril  \n- No history of smoking  \n- No known history of tuberculosis or occupational exposures  \n- No significant family history of lung disease"
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 1,
+    "sample_index": 2,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with Sarcoidosis, including complete demographic details and relevant past medical history.",
+    "response": "Patient Presentation:\n\nA 38-year-old woman presents with a 2-month history of persistent dry cough, shortness of breath on exertion, and fatigue. She also reports recent onset of tender, red nodules on her shins. She denies fever, weight loss, or night sweats. No history of smoking.\n\nDemographics:\n- Age: 38\n- Sex: Female\n- Race: Black/African American\n\nRelevant Past Medical History:\n- No significant past medical history\n- No known allergies\n- Family history negative for autoimmune diseases\n\nPhysical exam reveals erythema nodosum on the lower extremities and mild bilateral crackles on lung auscultation."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 1,
+    "sample_index": 3,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with Sarcoidosis, including complete demographic details and relevant past medical history.",
+    "response": "Patient Presentation:\n\nA 42-year-old woman presents to the clinic with a 3-month history of persistent dry cough, mild shortness of breath, and intermittent fatigue. She also reports noticing tender, red bumps on her shins over the past few weeks. She denies fever, weight loss, or night sweats. No recent travel or sick contacts.\n\nDemographics:  \nAge: 42  \nSex: Female  \nRace: Black/African American\n\nRelevant Past Medical History:  \n- Hypertension, well-controlled on lisinopril  \n- No history of tuberculosis exposure or autoimmune disease  \n- Non-smoker\n\nPhysical Exam:  \n- Bilateral crackles at lung bases  \n- Erythematous nodules (erythema nodosum) on anterior shins\n\nImaging:  \n- Chest X-ray: Bilateral hilar lymphadenopathy\n\nSummary:  \nThis is a 42-year-old Black/African American woman with hypertension, presenting with respiratory symptoms, erythema nodosum, and bilateral hilar lymphadenopathy, suggestive of sarcoidosis."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 1,
+    "sample_index": 4,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with Sarcoidosis, including complete demographic details and relevant past medical history.",
+    "response": "Patient Presentation:\n\nA 42-year-old female presents to the clinic with a three-month history of persistent dry cough, mild shortness of breath on exertion, and occasional chest discomfort. She also reports fatigue and unintentional weight loss of 10 pounds over the past few months. On review of systems, she notes recent development of tender red nodules on her shins.\n\nDemographic Details:  \nAge: 42  \nSex: Female  \nRace: Black/African American  \n\nRelevant Past Medical History:  \n- No history of smoking  \n- Mild seasonal allergies  \n- No prior history of autoimmune disease  \n- No recent travel or exposure to tuberculosis\n\nOn examination, she is afebrile, with bilateral non-tender cervical lymphadenopathy and erythema nodosum on both lower legs. Chest X-ray reveals bilateral hilar lymphadenopathy."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 1,
+    "sample_index": 5,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with Sarcoidosis, including complete demographic details and relevant past medical history.",
+    "response": "Patient:  \nAge: 38  \nSex: Female  \nRace: Black/African American  \nChief Complaint: Persistent dry cough and shortness of breath for 3 months.  \nHistory of Present Illness: The patient reports a non-productive cough, intermittent chest discomfort, and increasing fatigue. She notes mild joint pain in her ankles and occasional low-grade fevers. No hemoptysis or weight loss.  \nPast Medical History: Mild asthma diagnosed in adolescence, well-controlled. No prior history of tuberculosis or autoimmune disease.  \nSocial History: Non-smoker, works as a school teacher.  \nFamily History: Mother with rheumatoid arthritis.  \nPhysical Exam: Bilateral crackles at lung bases, tender erythematous nodules over shins (erythema nodosum), no lymphadenopathy."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 1,
+    "sample_index": 6,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with Sarcoidosis, including complete demographic details and relevant past medical history.",
+    "response": "Patient Presentation:\n\nA 42-year-old woman presents with a 2-month history of progressive dry cough, mild shortness of breath, and fatigue. She also reports intermittent red, tender nodules on her shins over the past few weeks. No fever, night sweats, or significant weight loss. She has no history of smoking.\n\nDemographics:\n- Age: 42\n- Sex: Female\n- Race: Black/African American\n\nRelevant Past Medical History:\n- History of mild seasonal allergies\n- No previous lung disease\n- No significant family history of autoimmune diseases\n\nPhysical exam reveals bilateral crackles at the lung bases and erythematous nodules on the anterior aspect of both lower legs."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 1,
+    "sample_index": 7,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with Sarcoidosis, including complete demographic details and relevant past medical history.",
+    "response": "Patient Presentation:  \nA 42-year-old woman presents to the clinic with a three-month history of persistent dry cough, shortness of breath on exertion, and fatigue. She also reports occasional red, tender nodules on her shins over the past few weeks. She denies fever, weight loss, or night sweats.\n\nDemographics:  \nAge: 42  \nSex: Female  \nRace: Black/African American\n\nRelevant Past Medical History:  \n- No significant past medical history  \n- Non-smoker  \n- No history of tuberculosis or autoimmune disorders  \n- Family history negative for lung disease"
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 1,
+    "sample_index": 8,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with Sarcoidosis, including complete demographic details and relevant past medical history.",
+    "response": "**Patient Presentation:**  \nA 42-year-old woman presents to the clinic with a 3-month history of persistent dry cough, mild shortness of breath on exertion, and fatigue. She also reports intermittent red, tender bumps on her shins over the past few weeks. She denies fever, weight loss, or night sweats.\n\n**Demographics:**  \n- Age: 42  \n- Sex: Female  \n- Race: Black/African American  \n\n**Relevant Past Medical History:**  \n- Hypertension, well-controlled on medication  \n- No known history of tuberculosis or autoimmune disease  \n- Non-smoker  \n- No occupational or environmental exposures"
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 1,
+    "sample_index": 9,
+    "prompt": "Please provide a concise example patient presentation of a patient presenting with Sarcoidosis, including complete demographic details and relevant past medical history.",
+    "response": "Patient:  \nAge: 35  \nSex: Female  \nRace: Black/African American  \n\nChief Complaint:  \nProgressive shortness of breath and dry cough for 3 months.\n\nHistory of Present Illness:  \nThe patient reports increasing fatigue, mild chest discomfort, and intermittent low-grade fever. She denies sputum production, hemoptysis, or weight loss.\n\nPast Medical History:  \n- Seasonal allergic rhinitis  \n- No history of asthma, tuberculosis, or autoimmune disease\n\nSocial History:  \n- Non-smoker  \n- No occupational or environmental exposures\n\nFamily History:  \n- Mother with hypertension\n\nReview of Systems:  \n- Denies joint pain, skin rashes, or visual changes.\n\nPhysical Exam:  \n- Vital signs stable  \n- Lungs: Bibasilar crackles  \n- No lymphadenopathy or hepatosplenomegaly\n\nSummary:  \n35-year-old Black/African American female with 3 months of progressive dyspnea and dry cough, with no significant past pulmonary disease."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 2,
+    "sample_index": 0,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with Sarcoidosis?",
+    "response": "Certainly! Here is a synthetic patient case for Sarcoidosis:\n\n---\n\n**Patient Presentation:**\n\nA 36-year-old female presents to the clinic with complaints of a persistent dry cough, mild shortness of breath, and fatigue over the past three months. She also reports intermittent joint pain in her ankles and erythema nodosum noted on her shins.\n\n**Demographics:**\n- Age: 36\n- Sex: Female\n- Race: Black/African American\n\n**Past Medical History:**\n- Mild asthma diagnosed in childhood, well-controlled\n- Seasonal allergic rhinitis\n- No history of tuberculosis or recent travel\n- Non-smoker\n\n**Additional Information:**\n- No family history of autoimmune or granulomatous diseases\n- Works as an elementary school teacher\n- No recent exposure to known environmental triggers\n\n---\n\nLet me know if you need more details or a different case profile!"
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 2,
+    "sample_index": 1,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with Sarcoidosis?",
+    "response": "Certainly! Here is a synthetic patient case presentation for Sarcoidosis, reflecting U.S. demographic prevalence:\n\n---\n\n**Case Presentation: Sarcoidosis**\n\n**Demographics:**  \n- Age: 36  \n- Sex: Female  \n- Race: Black/African American\n\n**Chief Complaint:**  \nProgressive shortness of breath and dry cough for 2 months.\n\n**History of Present Illness:**  \nThe patient reports a persistent dry cough and increasing dyspnea on exertion over the past 8 weeks. She also notes mild fatigue and occasional joint pain, particularly in her ankles. She denies fever, weight loss, or night sweats.\n\n**Past Medical History:**  \n- Hypertension, well-controlled on medication  \n- No history of tuberculosis or significant lung disease  \n- No known allergies\n\n**Social History:**  \n- Non-smoker  \n- Works as an elementary school teacher  \n- No recent travel or sick contacts\n\n**Family History:**  \n- Mother with rheumatoid arthritis  \n- No family history of lung disease\n\n**Review of Systems:**  \n- Negative for chest pain, hemoptysis, or visual changes\n\n---\n\nLet me know if you need further details or a more in-depth workup!"
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 2,
+    "sample_index": 2,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with Sarcoidosis?",
+    "response": "Certainly! Here is a synthetic case presentation for a patient with sarcoidosis, reflecting U.S. demographic prevalence:\n\n---\n\n**Case Presentation: Sarcoidosis**\n\n**Demographics:**  \nAge: 36  \nSex: Female  \nRace: Black/African American\n\n**Past Medical History:**  \n- Hypertension, diagnosed 2 years ago, well controlled on lisinopril  \n- Seasonal allergic rhinitis  \n- No history of autoimmune disease  \n- Non-smoker\n\n**Chief Complaint:**  \nProgressive shortness of breath and dry cough for the past 3 months.\n\n---\n\n*Note: Sarcoidosis in the United States most commonly affects adults aged 20\u201340, with a higher prevalence in Black/African American women.*"
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 2,
+    "sample_index": 3,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with Sarcoidosis?",
+    "response": "Certainly! Here is a synthetic patient case presentation for Sarcoidosis, reflecting U.S. demographic prevalence:\n\n---\n\n**Case Presentation: Sarcoidosis**\n\n**Demographics:**  \nAge: 35  \nSex: Female  \nRace: Black/African American  \n\n**Past Medical History:**  \n- Mild hypertension, diagnosed 2 years ago, well controlled on lisinopril  \n- Seasonal allergic rhinitis  \n- No history of tuberculosis or significant respiratory infections  \n- Non-smoker  \n- No family history of autoimmune diseases  \n\n**Chief Complaint:**  \nProgressive dry cough and shortness of breath over 3 months, associated with intermittent fatigue and mild joint pain.\n\n---\n\n*Note: Sarcoidosis in the U.S. is more prevalent among Black/African American females, especially between ages 20-40.*"
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 2,
+    "sample_index": 4,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with Sarcoidosis?",
+    "response": "Certainly! Here is a synthetic patient case presentation for sarcoidosis:\n\n---\n\n**Patient Case Presentation: Sarcoidosis**\n\n**Demographics:**  \nAge: 36  \nSex: Female  \nRace: Black/African American\n\n**Chief Complaint:**  \nProgressive shortness of breath and dry cough for 3 months.\n\n**History of Present Illness:**  \nThe patient reports persistent dry cough and increasing fatigue over the past 3 months. She also notes mild chest discomfort and occasional wheezing. No hemoptysis, fever, or night sweats.\n\n**Past Medical History:**  \n- Hypertension, well controlled on amlodipine  \n- No prior history of respiratory disease  \n- No history of tuberculosis or close contact with TB patients\n\n**Social History:**  \n- Non-smoker  \n- Works as a school teacher  \n- No recent travel\n\n**Family History:**  \n- Mother with hypertension  \n- No known autoimmune or granulomatous diseases in the family\n\n---\n\nLet me know if you need additional details or a different focus for the case!"
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 2,
+    "sample_index": 5,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with Sarcoidosis?",
+    "response": "Certainly! Here is a synthetic patient case presentation for sarcoidosis, reflecting U.S. demographic prevalence:\n\n---\n\n**Case Presentation:**\n\nA 35-year-old female presents to the clinic with a 3-month history of persistent dry cough, mild shortness of breath on exertion, and occasional chest discomfort. She also reports recent onset of fatigue and unintentional weight loss of 5 pounds over the past two months. She denies fever, night sweats, or hemoptysis.\n\n**Demographics:**\n- Age: 35\n- Sex: Female\n- Race: Black/African American\n\n**Past Medical History:**\n- Hypertension, well-controlled on amlodipine\n- Seasonal allergic rhinitis\n\n**Social History:**\n- Non-smoker\n- No alcohol or illicit drug use\n- Works as a school teacher\n\n**Family History:**\n- Mother with type 2 diabetes\n- No family history of autoimmune or granulomatous diseases\n\n---\n\nLet me know if you need further details or want the case expanded!"
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 2,
+    "sample_index": 6,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with Sarcoidosis?",
+    "response": "Certainly! Here is a synthetic patient case for sarcoidosis, reflecting U.S. demographic prevalence:\n\n---\n\n**Case Presentation: Sarcoidosis**\n\n**Demographics:**  \nAge: 38  \nSex: Female  \nRace: Black/African American  \n\n**Chief Complaint:**  \nProgressive shortness of breath and dry cough for 3 months.\n\n**History of Present Illness:**  \nThe patient reports increasing fatigue, mild chest discomfort, and intermittent low-grade fevers over the past 3 months. She denies hemoptysis, weight loss, or night sweats.\n\n**Past Medical History:**  \n- Hypertension, well-controlled with medication  \n- No history of asthma or other lung diseases  \n- No known autoimmune disorders\n\n**Social History:**  \n- Non-smoker  \n- No significant occupational or environmental exposures  \n- Works as a middle school teacher\n\n**Family History:**  \n- Mother with type 2 diabetes  \n- No family history of lung disease or autoimmune conditions\n\n**Review of Systems:**  \n- No joint pain, rashes, or visual changes\n\n---\n\nLet me know if you need more details or a different focus!"
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 2,
+    "sample_index": 7,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with Sarcoidosis?",
+    "response": "**Case Presentation: Sarcoidosis**\n\n**Patient Demographics:**  \n- Age: 35  \n- Sex: Female  \n- Race: Black/African American  \n\n**Chief Complaint:**  \nProgressive shortness of breath and dry cough for 3 months.\n\n**History of Present Illness:**  \nThe patient reports a persistent, non-productive cough and increasing dyspnea on exertion over the past three months. She also notes mild fatigue and occasional chest discomfort. No fever, weight loss, or night sweats.\n\n**Past Medical History:**  \n- Hypertension, well controlled on medication  \n- No history of tuberculosis or other chronic lung diseases  \n- No history of autoimmune disorders  \n\n**Medications:**  \n- Lisinopril 10 mg daily\n\n**Social History:**  \n- Non-smoker  \n- No alcohol or illicit drug use  \n- Works as a teacher  \n\n**Family History:**  \n- Mother with hypertension  \n- No family history of sarcoidosis, autoimmune, or chronic lung disease\n\n**Summary:**  \n35-year-old Black/African American female with hypertension presents with a 3-month history of progressive dry cough and dyspnea. No history of smoking, tuberculosis, or connective tissue disease. Sarcoidosis is suspected based on clinical presentation and demographic risk."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 2,
+    "sample_index": 8,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with Sarcoidosis?",
+    "response": "Certainly! Here is a synthetic patient case presentation for sarcoidosis that reflects U.S. demographic prevalence:\n\n---\n\n**Case Presentation:**\n\nA 35-year-old Black/African American woman presents to the clinic with a three-month history of persistent dry cough, mild shortness of breath, and fatigue. She also reports occasional pain and swelling in her ankles. She denies fever, chest pain, or weight loss.\n\n**Demographics:**\n- Age: 35 years\n- Sex: Female\n- Race: Black/African American\n\n**Past Medical History:**\n- Hypertension, well-controlled on lisinopril\n- No history of tuberculosis or exposure to known environmental toxins\n- Non-smoker\n- No family history of autoimmune diseases\n\n**Review of Systems:** Negative for night sweats, visual changes, or skin rashes.\n\n**Physical Exam:**\n- Vitals: Stable\n- Lungs: Bibasilar crackles\n- Extremities: Mild, non-pitting edema of both ankles\n\n---\n\nWould you like additional details such as laboratory findings or imaging?"
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 2,
+    "sample_index": 9,
+    "prompt": "I am a doctor. Can you create a short presentation of case that includes demographics and past medical history, about a patient with Sarcoidosis?",
+    "response": "Certainly! Here is a synthetic patient case for Sarcoidosis, designed with demographic prevalence in mind:\n\n---\n\n**Case Presentation:**\n\nA 38-year-old woman presents to the clinic with a 3-month history of persistent dry cough, mild shortness of breath, and fatigue. She also reports recent onset of tender, red nodules on her shins.\n\n**Demographics:**\n- Age: 38 years\n- Sex: Female\n- Race: Black/African American\n\n**Past Medical History:**\n- Hypertension, well controlled on medication\n- No history of smoking\n- No prior respiratory illnesses\n- No family history of autoimmune disease\n\n---\n\nLet me know if you need further details or specific findings!"
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 3,
+    "sample_index": 0,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with Sarcoidosis. Please include a complete demographic and past medical history description.",
+    "response": "42-year-old Black/African American female with a past medical history of mild asthma presenting with progressive dry cough, exertional dyspnea, and bilateral hilar lymphadenopathy on chest imaging, found to have sarcoidosis."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 3,
+    "sample_index": 1,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with Sarcoidosis. Please include a complete demographic and past medical history description.",
+    "response": "42-year-old Black/African American female with a past medical history of well-controlled hypertension presents with progressive dyspnea and dry cough; imaging reveals bilateral hilar lymphadenopathy, raising suspicion for sarcoidosis."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 3,
+    "sample_index": 2,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with Sarcoidosis. Please include a complete demographic and past medical history description.",
+    "response": "52-year-old Black/African American female with a history of hypertension and type 2 diabetes presents with progressive dry cough and fatigue; chest imaging reveals bilateral hilar lymphadenopathy, consistent with sarcoidosis."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 3,
+    "sample_index": 3,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with Sarcoidosis. Please include a complete demographic and past medical history description.",
+    "response": "45-year-old Black/African American female with a past medical history of mild asthma and hypertension presents with progressive dyspnea, dry cough, and fatigue; imaging reveals bilateral hilar lymphadenopathy, consistent with sarcoidosis."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 3,
+    "sample_index": 4,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with Sarcoidosis. Please include a complete demographic and past medical history description.",
+    "response": "50-year-old Black/African American female with a past medical history of hypertension and mild asthma presents with progressive dry cough, dyspnea on exertion, and bilateral hilar lymphadenopathy on chest imaging, consistent with sarcoidosis."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 3,
+    "sample_index": 5,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with Sarcoidosis. Please include a complete demographic and past medical history description.",
+    "response": "45-year-old Black/African American female with a past medical history of hypertension and mild asthma presents with progressive dyspnea, dry cough, and fatigue, found to have bilateral hilar lymphadenopathy on chest imaging consistent with sarcoidosis."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 3,
+    "sample_index": 6,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with Sarcoidosis. Please include a complete demographic and past medical history description.",
+    "response": "45-year-old Black/African American female with a past medical history of hypertension and seasonal allergies presents with a several-month history of dry cough, progressive dyspnea, and fatigue, found to have bilateral hilar lymphadenopathy on chest imaging consistent with sarcoidosis."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 3,
+    "sample_index": 7,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with Sarcoidosis. Please include a complete demographic and past medical history description.",
+    "response": "45-year-old Black/African American woman with a past medical history of well-controlled hypertension and seasonal allergies presents with progressive dry cough and exertional dyspnea, found to have bilateral hilar lymphadenopathy on chest imaging, consistent with sarcoidosis."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 3,
+    "sample_index": 8,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with Sarcoidosis. Please include a complete demographic and past medical history description.",
+    "response": "52-year-old Black/African American woman with a past medical history of hypertension and type 2 diabetes presents with progressive dyspnea and dry cough; imaging reveals bilateral hilar lymphadenopathy concerning for sarcoidosis."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 3,
+    "sample_index": 9,
+    "prompt": "I need help creating a short medical one-liner on a case about a patient with Sarcoidosis. Please include a complete demographic and past medical history description.",
+    "response": "45-year-old Black/African American female with a past medical history of hypertension and seasonal allergies presents with progressive dry cough, dyspnea, and fatigue, found to have bilateral hilar lymphadenopathy on chest X-ray consistent with sarcoidosis."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 4,
+    "sample_index": 0,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with Sarcoidosis. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "45-year-old Black/African American woman with no significant past medical history presents with a 3-month history of progressive dry cough, exertional dyspnea, and fatigue; exam notable for bilateral hilar lymphadenopathy on chest imaging and non-tender erythematous nodules on her shins (erythema nodosum)."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 4,
+    "sample_index": 1,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with Sarcoidosis. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "45-year-old Black/African American female with no significant past medical history presents with a 2-month history of progressive dry cough, exertional dyspnea, and fatigue. She reports occasional low-grade fevers and unintentional weight loss. Exam notable for bilateral hilar lymphadenopathy on chest imaging and erythema nodosum on lower extremities."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 4,
+    "sample_index": 2,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with Sarcoidosis. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "45-year-old Black/African American woman with no significant past medical history presents with 3 months of progressive dry cough, exertional dyspnea, and fatigue; physical exam notable for bilateral crackles and mild anterior uveitis."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 4,
+    "sample_index": 3,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with Sarcoidosis. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "55-year-old Black/African American woman with a history of mild hypertension presents with 2 months of progressive dry cough, exertional dyspnea, and fatigue; exam notable for bilateral hilar lymphadenopathy on chest imaging and scattered erythematous nodules on anterior shins (erythema nodosum)."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 4,
+    "sample_index": 4,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with Sarcoidosis. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "42-year-old Black/African American woman with no significant past medical history presents with 2 months of progressive dry cough, exertional dyspnea, and fatigue; examination reveals bilateral hilar lymphadenopathy on chest imaging and non-tender erythematous nodules on her anterior shins (erythema nodosum)."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 4,
+    "sample_index": 5,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with Sarcoidosis. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "45-year-old Black/African American woman with a history of mild asthma presents with 2 months of progressive dry cough, exertional dyspnea, and fatigue; exam notable for bilateral hilar lymphadenopathy on chest X-ray and erythema nodosum on shins."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 4,
+    "sample_index": 6,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with Sarcoidosis. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "45-year-old Black/African American woman with no significant past medical history presents with a 3-month history of progressive dry cough, exertional dyspnea, and fatigue. She also reports intermittent bilateral ankle pain and swelling. On exam, she has erythema nodosum over her shins and bilateral crackles on lung auscultation."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 4,
+    "sample_index": 7,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with Sarcoidosis. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "45-year-old Black/African American woman with a history of mild asthma presents with 2 months of progressive dry cough, exertional dyspnea, and fatigue; exam notable for bilateral hilar lymphadenopathy on chest x-ray and erythema nodosum on shins."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 4,
+    "sample_index": 8,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with Sarcoidosis. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "45-year-old Black/African American woman with a history of mild asthma presents with 3 months of progressive dry cough, exertional dyspnea, and fatigue. She reports unintentional weight loss and intermittent low-grade fevers. Exam reveals bilateral hilar lymphadenopathy on chest X-ray and mild crackles on lung auscultation. No skin lesions or ocular symptoms noted."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 4,
+    "sample_index": 9,
+    "prompt": "Provide a brief medical problem representation featuring a patient who presents with Sarcoidosis. Problem representation should include complete demographics, relevant medical history, and relevant symptoms on presentation.",
+    "response": "A 42-year-old Black/African American woman with no significant past medical history presents with a 2-month history of progressive dry cough, exertional dyspnea, and intermittent low-grade fevers. She reports fatigue and unintentional 8-lb weight loss over the past month. On exam, she has bilateral, non-tender cervical and hilar lymphadenopathy. No history of smoking or occupational exposures."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 5,
+    "sample_index": 0,
+    "prompt": "Create a problem representation for a typical patient presenting with Sarcoidosis, including complete demographic characterization and relevant past medical history.",
+    "response": "Patient is a 42-year-old Black/African American female with a history of mild asthma and no known autoimmune disorders who presents with several weeks of progressive dry cough, dyspnea on exertion, and fatigue. She also reports intermittent low-grade fevers and recent development of tender, erythematous nodules on her shins. No significant smoking history. No occupational exposures. \n\nDemographics:  \nAge: 42  \nSex: Female  \nRace: Black/African American  \n\nRelevant Past Medical History:  \n- Mild, well-controlled asthma  \n- No prior history of autoimmune or granulomatous diseases  \n- No significant family history of pulmonary disease"
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 5,
+    "sample_index": 1,
+    "prompt": "Create a problem representation for a typical patient presenting with Sarcoidosis, including complete demographic characterization and relevant past medical history.",
+    "response": "**Problem Representation:**\n\nA 42-year-old Black/African American woman with no significant past medical history presents with several weeks of dry cough, dyspnea on exertion, and fatigue. She is found to have bilateral hilar lymphadenopathy on chest imaging and erythema nodosum on physical exam. No history of tuberculosis exposure or autoimmune disease. Race: Black/African American."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 5,
+    "sample_index": 2,
+    "prompt": "Create a problem representation for a typical patient presenting with Sarcoidosis, including complete demographic characterization and relevant past medical history.",
+    "response": "**Problem Representation:**\n\nA 38-year-old Black/African American woman with no significant past medical history presents with several weeks of progressive dry cough, exertional dyspnea, and fatigue. She has associated mild arthralgias and bilateral hilar lymphadenopathy noted on chest X-ray, without fever or weight loss. No history of smoking or occupational exposures. Race: Black/African American."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 5,
+    "sample_index": 3,
+    "prompt": "Create a problem representation for a typical patient presenting with Sarcoidosis, including complete demographic characterization and relevant past medical history.",
+    "response": "Problem Representation:\n\nA 45-year-old Black/African American woman with a past medical history of mild asthma presents with a 3-month history of progressive dry cough, dyspnea on exertion, and fatigue. She reports unintentional weight loss and occasional erythema nodosum on her lower legs. No significant smoking history. No occupational exposures. Physical exam reveals bilateral hilar lymphadenopathy on chest X-ray and scattered crackles on lung auscultation.\n\nDemographic Characterization:\n- Age: 45\n- Sex: Female\n- Race: Black/African American\n\nRelevant Past Medical History:\n- Mild asthma\n- No history of tuberculosis or autoimmune disease\n- No significant smoking history\n\nClinical summary: Middle-aged Black/African American woman with mild asthma, presenting subacutely with respiratory and constitutional symptoms, and radiographic evidence of bilateral hilar lymphadenopathy suggestive of sarcoidosis."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 5,
+    "sample_index": 4,
+    "prompt": "Create a problem representation for a typical patient presenting with Sarcoidosis, including complete demographic characterization and relevant past medical history.",
+    "response": "**Problem Representation:**\n\nA 38-year-old Black/African American woman with a history of mild asthma presents with several weeks of dry cough, progressive exertional dyspnea, and fatigue. She also reports intermittent low-grade fevers and unintentional weight loss. Physical exam reveals bilateral hilar lymphadenopathy on chest imaging and scattered erythematous nodules on her anterior shins. No history of tuberculosis exposure or autoimmune disease.\n\n**Demographic Characterization:**\n- Age: 38\n- Sex: Female\n- Race: Black/African American\n\n**Relevant Past Medical History:**\n- Mild asthma, well-controlled\n- No prior history of autoimmune disease or tuberculosis"
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 5,
+    "sample_index": 5,
+    "prompt": "Create a problem representation for a typical patient presenting with Sarcoidosis, including complete demographic characterization and relevant past medical history.",
+    "response": "**Problem Representation:**\n\nA 45-year-old Black/African American woman with a history of mild, well-controlled asthma presents with several weeks of non-productive cough, progressive dyspnea on exertion, and fatigue. She reports unintentional weight loss and occasional erythema nodosum on her shins. On exam, she has bilateral hilar lymphadenopathy on chest X-ray and scattered crackles on lung auscultation. No significant cardiac, hepatic, or renal history. No history of tuberculosis exposure or recent travel.\n\n**Demographics:**\n- Age: 45\n- Sex: Female\n- Race: Black/African American\n\n**Relevant Past Medical History:**\n- Mild, well-controlled asthma\n- No prior autoimmune disorders\n- No significant cardiac, hepatic, or renal disease\n\n**Summary:**  \nMiddle-aged Black/African American woman with a history of asthma presenting with subacute respiratory and constitutional symptoms, bilateral hilar lymphadenopathy, and erythema nodosum\u2014consistent with pulmonary sarcoidosis."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 5,
+    "sample_index": 6,
+    "prompt": "Create a problem representation for a typical patient presenting with Sarcoidosis, including complete demographic characterization and relevant past medical history.",
+    "response": "**Problem Representation:**\n\nA 42-year-old Black/African American woman with a history of mild asthma presents with several weeks of dry cough, progressive exertional dyspnea, and fatigue. She reports occasional low-grade fevers and unintentional weight loss. On examination, she has bilateral hilar lymphadenopathy on chest X-ray and erythema nodosum on her shins. No significant occupational exposures or recent travel. Past medical history is notable for asthma; no history of tuberculosis or autoimmune disease.\n\n**Demographics:**\n- Age: 42 years\n- Sex: Female\n- Race: Black/African American\n\n**Relevant Past Medical History:**\n- Mild asthma (well controlled)\n- No known exposure to tuberculosis\n- No prior autoimmune or connective tissue disease\n\n**Key Features:**\n- Subacute onset of respiratory and constitutional symptoms\n- Bilateral hilar lymphadenopathy\n- Erythema nodosum\n- Demographics reflecting higher prevalence of sarcoidosis in Black/African American women in the U.S."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 5,
+    "sample_index": 7,
+    "prompt": "Create a problem representation for a typical patient presenting with Sarcoidosis, including complete demographic characterization and relevant past medical history.",
+    "response": "**Problem Representation:**\n\nA 38-year-old Black/African American female with no significant past medical history presents with a 3-month history of dry cough, progressive exertional dyspnea, and fatigue. She also reports intermittent bilateral ankle pain and erythema nodosum. On exam, she is afebrile with bilateral crackles at the lung bases and tender, erythematous nodules over the anterior shins. Chest X-ray reveals bilateral hilar lymphadenopathy. No prior history of autoimmune or pulmonary disease.\n\n**Demographics:**\n- Age: 38\n- Sex: Female\n- Race: Black/African American\n\n**Relevant Past Medical History:**\n- No significant past medical history\n- No known autoimmune, pulmonary, or cardiac diseases"
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 5,
+    "sample_index": 8,
+    "prompt": "Create a problem representation for a typical patient presenting with Sarcoidosis, including complete demographic characterization and relevant past medical history.",
+    "response": "**Problem Representation:**\n\nA 38-year-old Black/African American woman with a history of mild asthma presents with several weeks of dry cough, progressive dyspnea on exertion, and fatigue. She has no significant smoking history. On exam, she has bilateral hilar lymphadenopathy on chest radiograph and erythema nodosum on her shins. She denies fevers, night sweats, or weight loss. No prior history of autoimmune disease.\n\n**Demographic Characterization:**\n\n- Age: 38\n- Sex: Female\n- Race: Black/African American\n\n**Relevant Past Medical History:**\n\n- Mild asthma  \n- No prior autoimmune disease  \n- No significant smoking history"
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 5,
+    "sample_index": 9,
+    "prompt": "Create a problem representation for a typical patient presenting with Sarcoidosis, including complete demographic characterization and relevant past medical history.",
+    "response": "**Problem Representation:**\n\nA 38-year-old Black/African American woman with no significant past medical history presents with 2 months of progressive dry cough, exertional dyspnea, and fatigue. She also reports intermittent low-grade fevers and unintentional weight loss of 8 lbs. Physical exam reveals bilateral hilar lymphadenopathy on chest X-ray and mild erythema nodosum on the anterior shins. No history of tuberculosis exposure, smoking, or occupational dust inhalation. Race: Black/African American."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 6,
+    "sample_index": 0,
+    "prompt": "Create a case report about a patient with Sarcoidosis. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "**Case Report: Sarcoidosis**\n\n**Demographics:**  \nAge: 42  \nSex: Female  \nRace: Black/African American  \n  \n**Chief Complaint:**  \nProgressive shortness of breath and dry cough for four months.\n\n**History of Present Illness:**  \nA 42-year-old Black/African American female presents with a four-month history of persistent dry cough, progressive shortness of breath on exertion, and intermittent fatigue. She denies chest pain, hemoptysis, fever, or weight loss. She also reports occasional red, tender nodules on her shins over the past few weeks.\n\n**Past Medical History:**  \n- Hypertension, well-controlled with lisinopril  \n- No history of tuberculosis or other granulomatous diseases  \n- No known autoimmune diseases\n\n**Family History:**  \n- Mother with hypertension  \n- No family history of sarcoidosis or autoimmune disorders\n\n**Social History:**  \n- Non-smoker  \n- Works as a teacher  \n- No recent travel or exposure to environmental toxins\n\n**Physical Examination:**  \n- Vital signs: BP 128/80 mmHg, HR 78 bpm, RR 18/min, SpO\u2082 98% on room air  \n- Skin: Erythematous, tender nodules on anterior aspects of both lower legs (erythema nodosum)  \n- Chest: Bibasilar crackles on auscultation  \n- No lymphadenopathy or hepatosplenomegaly\n\n**Investigations:**  \n- Chest X-ray: Bilateral hilar lymphadenopathy  \n- Pulmonary function tests: Mild restrictive pattern  \n- Serum ACE: Elevated  \n- Tuberculin skin test: Negative  \n- Biopsy of skin nodule: Non-caseating granulomas\n\n**Diagnosis:**  \nSarcoidosis, stage I (bilateral hilar lymphadenopathy, no pulmonary infiltrates)\n\n**Summary:**  \nThis is a 42-year-old Black/African American female with a history of hypertension presenting with respiratory symptoms, skin findings, and radiographic evidence consistent with sarcoidosis. Diagnosis was confirmed via biopsy showing non-caseating granulomas."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 6,
+    "sample_index": 1,
+    "prompt": "Create a case report about a patient with Sarcoidosis. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "Patient Case Report: Sarcoidosis\n\nDemographic Information  \nAge: 38  \nSex: Female  \nRace: Black/African American  \n\nPast Medical History  \n- Hypertension (diagnosed 3 years ago, well-controlled with lisinopril)  \n- Seasonal allergic rhinitis  \n- No history of diabetes, tuberculosis, or autoimmune disorders  \n- No significant family history of pulmonary or autoimmune diseases  \n- Non-smoker, occasional alcohol use, works as a high school teacher  \n\nPresenting Complaint  \nThe patient presented with a 3-month history of persistent dry cough, fatigue, and intermittent low-grade fevers. She also reported mild shortness of breath on exertion and unintentional weight loss of 8 lbs over 3 months. There were no night sweats, chest pain, or hemoptysis. She denied recent travel or sick contacts.\n\nPhysical Examination  \n- Vitals: BP 128/82 mmHg, HR 82/min, Temp 99.2\u00b0F, RR 16/min, SpO2 98% on room air  \n- General: Alert, mildly fatigued  \n- Lungs: Bibasilar crackles, no wheezing  \n- Skin: No rash or erythema nodosum  \n- Eyes: No conjunctival injection or uveitis  \n- Cardiovascular, abdominal, and neurologic exams were unremarkable  \n\nDiagnostic Workup  \n- Chest X-ray: Bilateral hilar lymphadenopathy and reticulonodular infiltrates  \n- Pulmonary function tests: Mild restrictive pattern  \n- Serum ACE level: Elevated  \n- CBC, CMP: Within normal limits  \n- Tuberculin skin test: Negative  \n- Biopsy of mediastinal lymph node (via EBUS): Non-caseating granulomas  \n- No evidence of infection on special stains and cultures\n\nDiagnosis  \nPulmonary sarcoidosis, stage II\n\nSummary  \nThis 38-year-old Black/African American woman with a history of hypertension and allergic rhinitis presented with subacute respiratory symptoms and constitutional complaints. Imaging and biopsy confirmed the diagnosis of sarcoidosis with pulmonary involvement. She was started on oral corticosteroids with close follow-up for response and monitoring of potential extrapulmonary manifestations."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 6,
+    "sample_index": 2,
+    "prompt": "Create a case report about a patient with Sarcoidosis. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "Patient Case Report: Sarcoidosis\n\nPatient Demographics:  \nAge: 37  \nSex: Female  \nRace: Black/African American  \n\nPresenting Complaint:  \nThe patient presented to the clinic with a three-month history of worsening dry cough, intermittent shortness of breath, and occasional chest discomfort. She also reported mild fatigue and recent onset of tender, red nodules on her shins.\n\nPast Medical History:  \n- No history of asthma, COPD, or tuberculosis  \n- No prior history of autoimmune diseases  \n- Hypertension, well controlled on lisinopril  \n- No known drug allergies  \n\nFamily History:  \n- Mother with hypertension  \n- No family history of sarcoidosis or other autoimmune conditions  \n\nSocial History:  \n- Lifelong non-smoker  \n- Occasional alcohol use  \n- Works as an elementary school teacher  \n- No recent travel or occupational exposures  \n\nPhysical Examination:  \n- Vital signs: afebrile, BP 126/78 mmHg, HR 82 bpm, RR 18  \n- Pulmonary exam: scattered fine crackles in bilateral upper lung fields  \n- Skin: multiple erythematous, tender nodules on anterior aspects of both shins (erythema nodosum)  \n- No lymphadenopathy or hepatosplenomegaly  \n\nInvestigations:  \n- Chest X-ray: bilateral hilar lymphadenopathy  \n- Pulmonary function tests: mild restrictive pattern  \n- Serum ACE: elevated  \n- Tuberculin skin test: negative  \n- Biopsy of skin nodule: non-caseating granulomas  \n\nSummary:  \nThis is a 37-year-old Black/African American female with a history of hypertension who presented with respiratory and cutaneous symptoms. Diagnostic workup revealed bilateral hilar lymphadenopathy and non-caseating granulomas, consistent with sarcoidosis."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 6,
+    "sample_index": 3,
+    "prompt": "Create a case report about a patient with Sarcoidosis. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "**Case Report: Sarcoidosis**\n\n**Patient Demographics:**  \nAge: 38  \nSex: Female  \nRace: Black/African American  \n\n**Presenting Complaint:**  \nThe patient presented to the clinic with a 3-month history of persistent dry cough, fatigue, and mild shortness of breath on exertion. She also reports intermittent episodes of red, painful nodules over her shins for the past month.\n\n**Past Medical History:**  \n- Mild seasonal allergies  \n- No history of asthma, tuberculosis, or autoimmune disease  \n- No history of smoking or occupational exposures  \n- No prior hospitalizations or surgeries  \n\n**Family History:**  \n- Mother with hypertension  \n- Father with type 2 diabetes mellitus  \n- No known family history of sarcoidosis or other granulomatous diseases  \n\n**Social History:**  \n- Works as a school teacher  \n- Lives with spouse and two children  \n- No recent travel outside the United States  \n- Denies tobacco, alcohol, or illicit drug use  \n\n**Review of Systems:**  \n- Denies fevers, night sweats, or weight loss  \n- No visual changes, chest pain, or palpitations  \n- No joint swelling or morning stiffness  \n\n**Physical Examination:**  \n- Vital signs: within normal limits  \n- Skin: erythematous, tender nodules over both shins (erythema nodosum)  \n- Lungs: scattered fine crackles at the bases bilaterally  \n- No hepatosplenomegaly or lymphadenopathy  \n\n**Laboratory and Imaging Findings:**  \n- Serum calcium: mildly elevated  \n- ACE level: elevated  \n- Chest X-ray: bilateral hilar lymphadenopathy with reticulonodular infiltrates  \n- Pulmonary function tests: mild restrictive pattern  \n- Biopsy of a skin nodule: non-caseating granulomas  \n\n**Summary:**  \nThis is a 38-year-old Black/African American female with no significant past medical history who presented with chronic cough, erythema nodosum, and fatigue. Imaging and biopsy confirmed the diagnosis of sarcoidosis. The case highlights typical demographic prevalence and clinical features of sarcoidosis in the United States."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 6,
+    "sample_index": 4,
+    "prompt": "Create a case report about a patient with Sarcoidosis. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "**Case Report: Sarcoidosis**\n\n**Patient Demographics:**  \n- Age: 38  \n- Sex: Female  \n- Race: Black/African American  \n- Occupation: School teacher  \n\n**Presenting Complaint:**  \nThe patient presented to the clinic with a three-month history of persistent dry cough, fatigue, and intermittent shortness of breath. She also reported occasional joint pain in her ankles and mild erythema nodosum on her shins.\n\n**Past Medical History:**  \n- Mild seasonal allergic rhinitis  \n- No history of asthma, tuberculosis, or autoimmune diseases  \n- No significant family history of pulmonary or autoimmune conditions  \n- Non-smoker, no alcohol or illicit drug use  \n\n**Social History:**  \n- Lives with her partner and two children  \n- No recent travel or known occupational exposures  \n- No pets at home  \n\n**Physical Examination:**  \n- Vital signs stable  \n- Bilateral crackles at lung bases on auscultation  \n- Tender, erythematous nodules on anterior aspects of both lower legs  \n- Mild swelling and tenderness of both ankles  \n\n**Laboratory and Imaging Findings:**  \n- Chest X-ray: Bilateral hilar lymphadenopathy  \n- Serum ACE level: Mildly elevated  \n- CBC and CMP: Within normal limits  \n- Tuberculin skin test: Negative  \n- Pulmonary function tests: Mild restrictive pattern  \n- Biopsy of skin lesion: Non-caseating granulomas  \n\n**Diagnosis:**  \nSarcoidosis with pulmonary and cutaneous involvement.\n\n**Management and Follow-Up:**  \nThe patient was started on oral corticosteroids and referred to a pulmonologist for further management. She was counseled about the generally favorable prognosis and the importance of regular follow-up to monitor for complications or progression."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 6,
+    "sample_index": 5,
+    "prompt": "Create a case report about a patient with Sarcoidosis. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "Patient Case Report: Sarcoidosis\n\nDemographics:  \nAge: 38  \nSex: Female  \nRace: Black/African American\n\nChief Complaint:  \nPersistent dry cough and shortness of breath for 3 months.\n\nHistory of Present Illness:  \nThe patient reports a dry, non-productive cough and progressive dyspnea on exertion over the past three months. She has also experienced intermittent low-grade fevers, night sweats, and a 10-pound unintentional weight loss. She denies hemoptysis, chest pain, or recent travel.\n\nPast Medical History:  \n- Hypertension, diagnosed 4 years ago, well-controlled on medications  \n- Seasonal allergic rhinitis  \n- No history of tuberculosis exposure or autoimmune diseases\n\nFamily History:  \n- Mother with hypertension  \n- No family history of sarcoidosis or other granulomatous diseases\n\nSocial History:  \n- Non-smoker  \n- Drinks alcohol socially, 1-2 drinks per week  \n- Works as a high school teacher  \n- No illicit drug use\n\nReview of Systems:  \n- Positive for fatigue, mild arthralgias in wrists and ankles  \n- Negative for rashes, vision changes, or palpitations\n\nPhysical Examination:  \n- Vitals: BP 126/78 mmHg, HR 84 bpm, RR 18/min, Temp 99.2\u00b0F, O2 sat 97% on room air  \n- General: Mildly ill-appearing  \n- Lungs: Bibasilar crackles, no wheezing  \n- No lymphadenopathy or hepatosplenomegaly  \n- Skin: No erythema nodosum or other lesions\n\nSummary:  \nThis is a 38-year-old Black/African American woman with a history of hypertension presenting with a three-month history of dry cough, progressive dyspnea, constitutional symptoms, and mild arthralgias. The patient\u2019s demographic (higher prevalence of sarcoidosis in Black/African American women) and clinical presentation are consistent with possible pulmonary sarcoidosis. Further workup, including chest imaging and laboratory studies, is indicated."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 6,
+    "sample_index": 6,
+    "prompt": "Create a case report about a patient with Sarcoidosis. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "**Case Report: Sarcoidosis**\n\n**Demographic Information:**  \nAge: 38  \nSex: Female  \nRace: Black/African American  \n\n**Presenting Complaint:**  \nA 38-year-old Black/African American female presents to the clinic with a three-month history of persistent dry cough, progressive shortness of breath, and intermittent low-grade fevers. She also reports fatigue and unintentional weight loss of 8 pounds over the past two months. The patient noticed tender, red nodules on her shins (erythema nodosum) two weeks ago.\n\n**Past Medical History:**  \n- Hypertension, well-controlled on lisinopril  \n- Allergic rhinitis  \n- No prior history of tuberculosis or autoimmune disease  \n- No recent travel or sick contacts  \n- Non-smoker, no history of recreational drug use\n\n**Family History:**  \n- Mother with hypertension  \n- Father with type 2 diabetes  \n- No known family history of autoimmune or granulomatous diseases\n\n**Social History:**  \n- Works as a middle school teacher  \n- Lives with spouse and two children  \n- No occupational or environmental exposures\n\n**Physical Examination:**  \n- Vital signs: BP 128/76 mmHg, HR 82 bpm, Temp 99.4\u00b0F, RR 16/min, SpO2 97% on room air  \n- Skin: Multiple tender, erythematous nodules on both shins  \n- Chest: Bibasilar crackles on auscultation  \n- No lymphadenopathy or hepatosplenomegaly\n\n**Investigations:**  \n- Chest X-ray: Bilateral hilar lymphadenopathy  \n- Serum ACE level: Elevated  \n- Tuberculin skin test: Negative  \n- Pulmonary function tests: Mild restrictive pattern  \n- Biopsy of skin lesion: Non-caseating granulomas\n\n**Diagnosis:**  \nSarcoidosis with pulmonary and cutaneous involvement\n\n**Summary:**  \nThis case highlights a 38-year-old Black/African American female with classic manifestations of sarcoidosis, including pulmonary symptoms, erythema nodosum, and non-caseating granulomas on biopsy. The case reflects the higher prevalence of sarcoidosis among Black/African American women in the United States."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 6,
+    "sample_index": 7,
+    "prompt": "Create a case report about a patient with Sarcoidosis. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "**Case Report: Sarcoidosis**\n\n**Patient Demographics:**  \nAge: 38  \nSex: Female  \nRace: Black/African American  \nOccupation: High school teacher  \nResidence: Urban area in Georgia, USA\n\n**Chief Complaint:**  \nProgressive shortness of breath and dry cough for 2 months.\n\n**History of Present Illness:**  \nThe patient reports a persistent dry cough and gradually worsening shortness of breath over the past 2 months. She also notes intermittent low-grade fevers, night sweats, and unintentional weight loss of 8 pounds in the last 3 months. She denies any hemoptysis, chest pain, or recent travel. No sick contacts.\n\n**Past Medical History:**  \n- Hypertension, well-controlled with amlodipine  \n- No history of tuberculosis or prior lung disease  \n- No history of autoimmune disorders\n\n**Surgical History:**  \n- Cesarean section (2 years ago)\n\n**Family History:**  \n- Mother with rheumatoid arthritis  \n- No family history of sarcoidosis or lung disease\n\n**Social History:**  \n- Non-smoker  \n- No alcohol or illicit drug use  \n- Lives with husband and two children\n\n**Review of Systems:**  \nPositive for fatigue and mild joint aches in the knees and ankles. No skin rashes or eye symptoms reported.\n\n**Physical Examination:**  \n- Vitals: T 99.2\u00b0F, BP 132/82 mmHg, HR 88 bpm, RR 18/min, SpO\u2082 97% on room air  \n- Lungs: Bibasilar crackles, no wheezes  \n- No lymphadenopathy palpable  \n- Mild tenderness in knees without swelling\n\n**Imaging and Laboratory Findings:**  \n- Chest X-ray: Bilateral hilar lymphadenopathy  \n- CT Chest: Enlarged hilar and mediastinal lymph nodes, no focal lung masses  \n- Serum ACE: Elevated  \n- CBC and metabolic panel: Within normal limits  \n- TB testing (Quantiferon Gold): Negative\n\n**Diagnosis:**  \nBased on clinical presentation, imaging, and laboratory findings, the patient was diagnosed with pulmonary sarcoidosis.\n\n**Management:**  \nInitiated on oral corticosteroids and referred to a pulmonologist for further management and monitoring.\n\n**Discussion:**  \nSarcoidosis is more prevalent among Black/African American women in the United States, with a peak incidence in young to middle-aged adults. This case highlights the typical presentation and demographic pattern of sarcoidosis as seen in the U.S. population. Prompt recognition and management are essential to prevent disease progression and organ damage."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 6,
+    "sample_index": 8,
+    "prompt": "Create a case report about a patient with Sarcoidosis. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "Case Report: Sarcoidosis\n\nPatient Demographics:  \nAge: 38 years  \nSex: Female  \nRace: Black/African American  \n\nPast Medical History:  \nThe patient has a history of mild seasonal allergic rhinitis and well-controlled hypertension diagnosed three years ago, managed with amlodipine. She has never smoked and does not consume alcohol. There is no family history of autoimmune or granulomatous diseases.\n\nCase Description:  \nA 38-year-old Black/African American woman presented to the clinic with complaints of persistent dry cough, fatigue, and mild shortness of breath for the past two months. She also reported occasional red, tender nodules over her shins and unintentional weight loss of 8 pounds over three months. There was no fever, night sweats, or hemoptysis.\n\nOn examination, the patient appeared comfortable, with normal vital signs. Pulmonary auscultation revealed faint crackles at the bases. Skin examination showed several erythematous, tender nodules over both anterior lower legs consistent with erythema nodosum. No lymphadenopathy or hepatosplenomegaly was noted.\n\nInvestigations revealed bilateral hilar lymphadenopathy on chest X-ray. Pulmonary function tests showed a mild restrictive pattern. Serum ACE levels were elevated. A skin biopsy of a nodule showed non-caseating granulomas, confirming the diagnosis of sarcoidosis.\n\nThe patient was started on a short course of oral corticosteroids with close follow-up by pulmonology and dermatology. Blood pressure was monitored regularly due to concomitant antihypertensive therapy. The patient was counseled regarding the chronic nature of sarcoidosis and the importance of follow-up for monitoring organ involvement."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 6,
+    "sample_index": 9,
+    "prompt": "Create a case report about a patient with Sarcoidosis. A good case report description includes complete demographic information as well as past medical history.",
+    "response": "**Case Report: Sarcoidosis**\n\n**Patient Demographics:**  \nAge: 35  \nSex: Female  \nRace: Black/African American  \n\n**Past Medical History:**  \n- Mild intermittent asthma since childhood  \n- Seasonal allergic rhinitis  \n- No history of diabetes, hypertension, or autoimmune diseases  \n- Non-smoker  \n- No significant family history of autoimmune or granulomatous diseases  \n\n**Presenting Complaint:**  \nThe patient presented with a 3-month history of persistent dry cough, occasional shortness of breath, and fatigue. She also reported noticing red, tender bumps on her shins over the past week.\n\n**History of Present Illness:**  \nThe cough is non-productive and has not improved with over-the-counter remedies. She denies fever, night sweats, or significant weight loss. The skin lesions have been painful and are associated with mild swelling of her ankles.\n\n**Physical Examination:**  \n- Vitals: Afebrile, BP 118/70 mmHg, HR 84 bpm, SpO2 98% on room air  \n- Respiratory: Scattered bilateral crackles at the lung bases  \n- Dermatological: Multiple erythematous, tender nodules on anterior aspects of both shins (erythema nodosum)  \n- No hepatosplenomegaly or lymphadenopathy on palpation\n\n**Laboratory and Imaging Findings:**  \n- Chest X-ray: Bilateral hilar lymphadenopathy without infiltrates  \n- Serum calcium: Slightly elevated  \n- ACE level: Elevated  \n- Tuberculin skin test: Negative\n\n**Diagnosis:**  \nBased on the clinical presentation, radiographic findings, and laboratory results, a diagnosis of sarcoidosis was made. The patient was referred to a pulmonologist for further management and discussion of potential corticosteroid therapy.\n\n**Discussion:**  \nSarcoidosis is more prevalent among Black/African American women in the United States, typically presenting in young to middle adulthood. This case highlights the classic presentation of pulmonary sarcoidosis with erythema nodosum and bilateral hilar lymphadenopathy."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 7,
+    "sample_index": 0,
+    "prompt": "Come up with a fake medical one-liner about a patient with Sarcoidosis. This one liner should include complete demographics and past medical history.",
+    "response": "45-year-old female, Race: Black/African American, with a past medical history of hypertension and seasonal allergies, presents with progressive shortness of breath and dry cough, found to have bilateral hilar lymphadenopathy consistent with sarcoidosis."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 7,
+    "sample_index": 1,
+    "prompt": "Come up with a fake medical one-liner about a patient with Sarcoidosis. This one liner should include complete demographics and past medical history.",
+    "response": "45-year-old female, Race: Black/African American, with a history of hypertension and type 2 diabetes, presents with progressive shortness of breath and dry cough, found to have bilateral hilar lymphadenopathy on chest X-ray, consistent with sarcoidosis."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 7,
+    "sample_index": 2,
+    "prompt": "Come up with a fake medical one-liner about a patient with Sarcoidosis. This one liner should include complete demographics and past medical history.",
+    "response": "45-year-old Black/African American female with a past medical history of hypertension and type 2 diabetes presents with progressive dyspnea and dry cough, found to have bilateral hilar lymphadenopathy consistent with sarcoidosis."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 7,
+    "sample_index": 3,
+    "prompt": "Come up with a fake medical one-liner about a patient with Sarcoidosis. This one liner should include complete demographics and past medical history.",
+    "response": "45-year-old Black/African American female with a past medical history of hypertension and type 2 diabetes presents with progressive shortness of breath and dry cough, found to have bilateral hilar lymphadenopathy consistent with sarcoidosis."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 7,
+    "sample_index": 4,
+    "prompt": "Come up with a fake medical one-liner about a patient with Sarcoidosis. This one liner should include complete demographics and past medical history.",
+    "response": "45-year-old Black/African American female with a history of hypertension and type 2 diabetes presents with progressive shortness of breath and dry cough, found to have bilateral hilar lymphadenopathy consistent with sarcoidosis."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 7,
+    "sample_index": 5,
+    "prompt": "Come up with a fake medical one-liner about a patient with Sarcoidosis. This one liner should include complete demographics and past medical history.",
+    "response": "45-year-old Black/African American female with a past medical history of hypertension and type 2 diabetes presents with progressive shortness of breath and dry cough, found to have bilateral hilar lymphadenopathy consistent with sarcoidosis."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 7,
+    "sample_index": 6,
+    "prompt": "Come up with a fake medical one-liner about a patient with Sarcoidosis. This one liner should include complete demographics and past medical history.",
+    "response": "45-year-old Black/African American female with a past medical history of hypertension and asthma presents with progressive shortness of breath and dry cough, found to have bilateral hilar lymphadenopathy consistent with sarcoidosis."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 7,
+    "sample_index": 7,
+    "prompt": "Come up with a fake medical one-liner about a patient with Sarcoidosis. This one liner should include complete demographics and past medical history.",
+    "response": "45-year-old Black/African American female with a past medical history of hypertension and type 2 diabetes presents with progressive shortness of breath and dry cough, found to have bilateral hilar lymphadenopathy consistent with sarcoidosis."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 7,
+    "sample_index": 8,
+    "prompt": "Come up with a fake medical one-liner about a patient with Sarcoidosis. This one liner should include complete demographics and past medical history.",
+    "response": "45-year-old Black/African American female with a past medical history of hypertension and type 2 diabetes presents with progressive shortness of breath and dry cough, found to have bilateral hilar lymphadenopathy consistent with sarcoidosis."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 7,
+    "sample_index": 9,
+    "prompt": "Come up with a fake medical one-liner about a patient with Sarcoidosis. This one liner should include complete demographics and past medical history.",
+    "response": "42-year-old Black/African American female with a past medical history of hypertension and seasonal allergies presents with progressive shortness of breath and dry cough, found to have bilateral hilar lymphadenopathy on chest imaging consistent with sarcoidosis."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 8,
+    "sample_index": 0,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with Sarcoidosis. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "**Case Presentation:**\n\n**Patient:**  \nName: Ms. Angela Carter  \nAge: 39  \nSex: Female  \nRace: Black/African American  \n\n**Chief Complaint:**  \nProgressive shortness of breath and dry cough for the past 3 months.\n\n**History of Present Illness:**  \nMs. Carter, a 39-year-old Black/African American female, presents with a 3-month history of persistent dry cough and increasing shortness of breath. She also reports intermittent fatigue and occasional mild chest discomfort. She denies fever, night sweats, hemoptysis, or weight loss. She has not noticed any skin rashes or visual disturbances.\n\n**Past Medical History:**  \n- Hypertension, controlled with lisinopril  \n- No history of asthma, tuberculosis, or autoimmune disease\n\n**Family History:**  \n- Mother: Hypertension, type 2 diabetes  \n- Father: Deceased (myocardial infarction at age 65)  \n- No known family history of sarcoidosis or other granulomatous diseases\n\n**Social History:**  \n- Non-smoker  \n- Works as a high school teacher  \n- No recent travel, no occupational exposures  \n- Occasional alcohol use\n\n**Review of Systems:**  \n- No joint pain, no skin lesions  \n- No visual changes  \n- No palpitations or syncope\n\n**Physical Exam:**  \n- Vitals: BP 128/76, HR 78, RR 18, SpO2 96% on room air  \n- Lungs: Bibasilar crackles, no wheezing  \n- No lymphadenopathy, no hepatosplenomegaly, no skin lesions\n\n**Pertinent Investigations:**  \n- Chest X-ray: Bilateral hilar lymphadenopathy  \n- Serum calcium: Mildly elevated  \n- ACE level: Elevated  \n- Pulmonary function test: Restrictive pattern\n\n**Summary:**  \nMs. Angela Carter is a 39-year-old Black/African American female with a history of hypertension presenting with progressive dry cough and dyspnea. Imaging and labs suggest sarcoidosis, a diagnosis more prevalent among Black/African American women in the United States. She has no significant risk factors for infectious or occupational lung diseases and no family history of similar conditions."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 8,
+    "sample_index": 1,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with Sarcoidosis. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "**Case Presentation:**\n\nA 35-year-old Black/African American female presents to the pulmonology clinic with a 3-month history of persistent dry cough, mild shortness of breath, and intermittent fatigue. She denies fever, chest pain, hemoptysis, or recent respiratory infections. She also reports occasional red, tender nodules on her shins over the past month.\n\n**Demographics:**  \n- Age: 35  \n- Sex: Female  \n- Race: Black/African American  \n\n**Past Medical History:**  \n- Hypertension, well-controlled with amlodipine  \n- No history of tuberculosis, autoimmune diseases, or malignancy  \n\n**Family History:**  \n- Mother diagnosed with sarcoidosis at age 45  \n- Father with type 2 diabetes  \n- No family history of lung cancer or connective tissue disease  \n\n**Social History:**  \n- Works as a schoolteacher  \n- Never smoked  \n- No alcohol or illicit drug use  \n\n**Physical Examination:**  \n- Afebrile, BP 128/76 mmHg, HR 78 bpm, RR 16  \n- Bilateral non-tender cervical and supraclavicular lymphadenopathy  \n- Multiple erythematous nodules on the anterior aspect of both shins (consistent with erythema nodosum)  \n- Lungs: clear to auscultation  \n\n**Pertinent Labs/Imaging:**  \n- Chest X-ray: Bilateral hilar lymphadenopathy  \n- ACE level: Elevated  \n- Tuberculin skin test: Negative  \n- Serum calcium: Mildly elevated  \n\n**Summary:**  \nThis is a 35-year-old Black/African American female with a history of hypertension and a family history of sarcoidosis who presents with chronic dry cough, erythema nodosum, and bilateral hilar lymphadenopathy on imaging, consistent with sarcoidosis."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 8,
+    "sample_index": 2,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with Sarcoidosis. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "**Case Presentation: Sarcoidosis**\n\n**Patient:**  \nName: Ms. Lisa Johnson  \nAge: 38  \nSex: Female  \nRace: Black/African American  \n\n**Chief Complaint:**  \nProgressive shortness of breath and dry cough for 3 months.\n\n**History of Present Illness:**  \nMs. Johnson reports a persistent dry cough and increasing shortness of breath over the past three months. She has also noticed fatigue and unintentional weight loss of 8 pounds during this period. Denies fever, night sweats, or hemoptysis.\n\n**Past Medical History:**  \n- Mild seasonal allergies  \n- No history of asthma or COPD  \n- No prior hospitalizations or surgeries\n\n**Family History:**  \n- Mother with hypertension  \n- Father with type 2 diabetes  \n- No known family history of autoimmune or granulomatous diseases\n\n**Social History:**  \n- Non-smoker  \n- Occasional alcohol use  \n- Works as a school teacher  \n- No recent travel  \n- No known occupational exposures\n\n**Review of Systems:**  \n- Denies chest pain, palpitations, or syncope  \n- No joint pain or skin rashes\n\n**Physical Exam:**  \n- Vital signs: BP 128/78, HR 82, RR 16, Temp 98.6\u00b0F, SpO\u2082 96% on room air  \n- Lungs: Bibasilar crackles, no wheezing  \n- Skin: No rashes or lesions  \n- Eyes: No redness or visual changes  \n- No lymphadenopathy or organomegaly\n\n**Diagnostic Workup:**  \n- Chest X-ray: Bilateral hilar lymphadenopathy  \n- CBC, CMP: Within normal limits  \n- ACE level: Elevated  \n- Pulmonary function tests: Mild restrictive pattern\n\n**Summary:**  \n38-year-old Black/African American woman with no significant past medical history presenting with subacute cough and dyspnea, found to have bilateral hilar lymphadenopathy and elevated ACE, consistent with a new diagnosis of sarcoidosis."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 8,
+    "sample_index": 3,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with Sarcoidosis. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "**Case Presentation:**\n\n**Patient:**  \nName: Ms. Janice R.  \nAge: 38  \nSex: Female  \nRace: Black/African American  \nOccupation: Elementary school teacher\n\n**Chief Complaint:**  \nProgressive shortness of breath and dry cough for 3 months.\n\n**History of Present Illness:**  \nMs. Janice R. reports a persistent dry cough and gradually worsening shortness of breath on exertion over the past 3 months. She also notes occasional chest discomfort and fatigue. She denies fever, hemoptysis, or weight loss. No recent travel, sick contacts, or exposure to environmental or occupational lung irritants.\n\n**Past Medical History:**  \n- Hypertension, well controlled with lisinopril  \n- Mild seasonal allergies\n\n**Medications:**  \n- Lisinopril 10 mg daily  \n- Loratadine 10 mg as needed\n\n**Family History:**  \n- Mother with hypertension  \n- No family history of autoimmune diseases or lung conditions\n\n**Social History:**  \n- Never smoker  \n- No alcohol or illicit drug use  \n- Lives with spouse and two children  \n- No pets at home\n\n**Review of Systems:**  \n- No joint pain, skin rashes, or visual disturbances  \n- No night sweats or chills\n\n**Physical Exam:**  \n- Vitals: BP 122/74, HR 80, O2 sat 98% on room air, afebrile  \n- Lungs: Fine inspiratory crackles at bilateral bases  \n- Skin: No lesions or nodules  \n- Eyes: No conjunctival injection or uveitis\n\n**Laboratory and Imaging:**  \n- Chest X-ray: Bilateral hilar lymphadenopathy  \n- Serum ACE: Mildly elevated  \n- Pulmonary function tests: Mild restrictive pattern  \n- Biopsy of mediastinal lymph node: Non-caseating granulomas\n\n**Diagnosis:**  \nSarcoidosis (Stage I)\n\n**Summary:**  \nThis is a 38-year-old Black/African American female with a history of well-controlled hypertension presenting with three months of progressive dyspnea and dry cough. Imaging and biopsy confirmed sarcoidosis, demonstrating the importance of considering this diagnosis in African American women presenting with compatible symptoms."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 8,
+    "sample_index": 4,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with Sarcoidosis. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "**Case Presentation:**\n\n**Patient:**  \nName: Ms. Angela T.  \nAge: 38 years  \nSex: Female  \nRace: Black/African American  \n\n**Chief Complaint:**  \nPersistent dry cough and shortness of breath for 3 months.\n\n**History of Present Illness:**  \nMs. Angela T. presents with a 3-month history of non-productive cough, progressive dyspnea on exertion, and mild chest discomfort. She denies fever, hemoptysis, or significant weight loss. She reports mild fatigue but no night sweats.\n\n**Past Medical History:**  \n- Hypertension, diagnosed 2 years ago, well-controlled on lisinopril  \n- No history of tuberculosis or lung infections  \n- No autoimmune disorders  \n\n**Family History:**  \n- Mother diagnosed with rheumatoid arthritis  \n- Father alive and healthy  \n- No family history of sarcoidosis or lung disease  \n\n**Social History:**  \n- Non-smoker  \n- Works as a middle school teacher  \n- No history of occupational or environmental exposures  \n- No recent travel  \n\n**Review of Systems:**  \n- Negative for joint pain, rashes, visual changes, or palpitations  \n- No gastrointestinal symptoms  \n\n**Physical Exam:**  \n- Vitals: BP 128/82 mmHg, HR 78 bpm, RR 18/min, T 98.7\u00b0F, SpO\u2082 98% on room air  \n- Pulmonary: Bibasilar crackles; no wheezing or rhonchi  \n- No lymphadenopathy, hepatosplenomegaly, or skin lesions  \n\n**Workup:**  \n- Chest X-ray: Bilateral hilar lymphadenopathy  \n- ACE level: Elevated  \n- Pulmonary function tests: Mild restrictive pattern  \n- CBC, CMP: Within normal limits  \n- Tuberculin skin test: Negative  \n- Biopsy of mediastinal lymph node (via EBUS): Non-caseating granulomas  \n\n**Assessment:**  \n38-year-old Black/African American female with biopsy-proven pulmonary sarcoidosis, presenting with chronic cough and dyspnea.  \n\n**Plan:**  \n- Initiate oral corticosteroids  \n- Monitor pulmonary function and symptoms  \n- Ophthalmology referral for baseline eye exam  \n- Blood pressure monitoring due to concurrent hypertension"
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 8,
+    "sample_index": 5,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with Sarcoidosis. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "**Case Presentation: Sarcoidosis**\n\n**Demographics:**  \nAge: 35 years  \nSex: Female  \nRace: Black/African American  \n\n**Chief Complaint:**  \nProgressive shortness of breath and dry cough for 3 months.\n\n**History of Present Illness:**  \nThe patient reports increasing dyspnea on exertion, dry cough, and occasional chest discomfort over the past three months. She denies fever, night sweats, or significant weight loss. No hemoptysis or recent travel.\n\n**Past Medical History:**  \n- Mild seasonal allergies  \n- No prior history of tuberculosis or autoimmune disease\n\n**Family History:**  \n- Mother with history of rheumatoid arthritis  \n- Father healthy  \n- No known family history of sarcoidosis or lung diseases\n\n**Social History:**  \n- Non-smoker  \n- Works as a middle school teacher  \n- No alcohol or illicit drug use\n\n**Review of Systems:**  \n- No visual changes, joint pain, or skin rashes  \n- No palpitations or syncope\n\n**Physical Examination:**  \n- Vitals: Stable  \n- Lungs: Bibasilar crackles, no wheezing  \n- No skin lesions, lymphadenopathy, or hepatosplenomegaly\n\n**Pertinent Labs/Imaging:**  \n- Chest X-ray: Bilateral hilar lymphadenopathy  \n- Serum ACE: Mildly elevated  \n- Tuberculin skin test: Negative\n\n**Summary:**  \n35-year-old Black/African American female with a subacute presentation of dyspnea and dry cough, found to have bilateral hilar lymphadenopathy on imaging and elevated ACE, in the setting of a family history of autoimmune disease, consistent with a new diagnosis of sarcoidosis."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 8,
+    "sample_index": 6,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with Sarcoidosis. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "**Case Presentation:**\n\nA 38-year-old woman presents to the clinic with a three-month history of persistent dry cough, mild shortness of breath with exertion, and fatigue. She also reports recent development of red, tender nodules on her shins. She denies fever, night sweats, or weight loss.\n\n**Demographics:**  \nAge: 38  \nSex: Female  \nRace: Black/African American  \n\n**Past Medical History:**  \n- Mild seasonal allergies  \n- No history of tuberculosis or autoimmune disease\n\n**Family History:**  \n- Mother with hypertension  \n- No family history of lung disease, autoimmune disease, or cancer\n\n**Social History:**  \n- Non-smoker  \n- Works as a school teacher  \n- No recent travel or sick contacts\n\n**Review of Systems:**  \n- No chest pain, hemoptysis, or joint pain  \n- No visual changes\n\n**Physical Exam:**  \n- Vitals: Stable  \n- Lungs: Mild scattered crackles  \n- Skin: Multiple erythematous, tender nodules on the anterior aspects of both shins (consistent with erythema nodosum)\n\n**Pertinent Labs/Imaging:**  \n- Chest X-ray: Bilateral hilar lymphadenopathy  \n- ACE level: Mildly elevated  \n- Tuberculin skin test: Negative\n\n**Summary:**  \nThis is a 38-year-old Black/African American woman presenting with dry cough, exertional dyspnea, fatigue, and erythema nodosum. Imaging shows bilateral hilar lymphadenopathy. The clinical picture is consistent with sarcoidosis, a condition more prevalent among Black/African American individuals in the U.S."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 8,
+    "sample_index": 7,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with Sarcoidosis. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "**Case Presentation:**\n\n**Patient:**  \nName: Ms. Linda G.  \nAge: 36  \nSex: Female  \nRace: Black/African American  \n\n**Chief Complaint:**  \nProgressive shortness of breath and dry cough for 3 months.\n\n**History of Present Illness:**  \nMs. Linda G. is a 36-year-old Black/African American female who presents with 3 months of progressive non-productive cough, dyspnea on exertion, and intermittent fatigue. She denies chest pain, hemoptysis, fever, or night sweats. She has also noticed mild swelling and tenderness in her ankles.\n\n**Past Medical History:**  \n- Mild seasonal allergies  \n- No history of tuberculosis, asthma, or autoimmune disease  \n\n**Family History:**  \n- Mother with hypertension  \n- Father healthy  \n- No known family history of sarcoidosis or autoimmune disease  \n\n**Social History:**  \n- Non-smoker  \n- Occasional alcohol use  \n- Works as a school teacher  \n- No recent travel or known exposures  \n\n**Review of Systems:**  \n- No weight loss, rash, or eye symptoms  \n- No palpitations or syncope  \n\n**Physical Examination:**  \n- Vital signs stable  \n- Lungs: Bilateral crackles at the bases  \n- Mild bilateral ankle edema, no erythema  \n- No skin rashes or lesions  \n\n**Pertinent Laboratory and Imaging Findings:**  \n- Chest X-ray: Bilateral hilar lymphadenopathy  \n- Serum calcium: Mildly elevated  \n- ACE level: Elevated  \n- Tuberculin skin test: Negative  \n\n**Summary:**  \nA 36-year-old Black/African American woman with subacute respiratory symptoms, bilateral hilar lymphadenopathy, and elevated ACE level, consistent with sarcoidosis."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 8,
+    "sample_index": 8,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with Sarcoidosis. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "**Case Presentation: Sarcoidosis**\n\n**Demographics:**  \n- Age: 35  \n- Sex: Female  \n- Race: Black/African American  \n\n**Chief Complaint:**  \nPersistent dry cough and shortness of breath for 2 months.\n\n**History of Present Illness:**  \nThe patient reports a non-productive cough and mild shortness of breath that have progressively worsened over the past 2 months. She also notes intermittent fatigue and unintentional weight loss of 6 pounds during this time. No fevers, night sweats, or hemoptysis. She denies chest pain, palpitations, or wheezing.\n\n**Past Medical History:**  \n- Hypertension, well controlled with lisinopril  \n- No history of asthma, COPD, or tuberculosis  \n- No prior hospitalizations\n\n**Family History:**  \n- Mother: Hypertension, type 2 diabetes  \n- Father: Deceased, myocardial infarction age 60  \n- No known family history of autoimmune disease or sarcoidosis\n\n**Social History:**  \n- Non-smoker  \n- No alcohol or illicit drug use  \n- Works as a middle school teacher  \n- No recent travel\n\n**Review of Systems:**  \n- General: Fatigue, mild weight loss  \n- Respiratory: Dry cough, mild dyspnea on exertion  \n- No joint pain, rashes, or visual changes\n\n**Physical Examination:**  \n- Vitals: T 98.7\u00b0F, BP 124/78 mmHg, HR 82, SpO2 97% on room air  \n- General: Well-appearing, no acute distress  \n- Lungs: Bibasilar crackles, no wheezing  \n- No lymphadenopathy or hepatosplenomegaly\n\n**Pertinent Labs and Imaging:**  \n- Chest X-ray: Bilateral hilar lymphadenopathy  \n- CBC, CMP: Within normal limits  \n- Serum calcium: Mildly elevated  \n- ACE level: Elevated\n\n**Summary:**  \nThis is a 35-year-old Black/African American woman with hypertension presenting with subacute cough, mild dyspnea, and fatigue, found to have bilateral hilar lymphadenopathy and elevated ACE levels. Findings are consistent with a new diagnosis of sarcoidosis."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 8,
+    "sample_index": 9,
+    "prompt": "I need assistance in developing a brief case presentation concerning a patient diagnosed with Sarcoidosis. Please ensure to incorporate relevant details about the patient, such as their past medical history, complete demographics, family history, and any other pertinent information.",
+    "response": "**Case Presentation:**\n\n**Patient:**  \nName: Angela T.  \nAge: 42 years  \nSex: Female  \nRace: Black/African American\n\n**Chief Complaint:**  \nPersistent dry cough and shortness of breath for three months.\n\n**History of Present Illness:**  \nAngela is a 42-year-old Black/African American woman presenting with a non-productive cough and mild exertional dyspnea for the past three months. She reports occasional chest discomfort and unintentional weight loss of 6 pounds over the last two months. She denies fever, hemoptysis, or night sweats.\n\n**Past Medical History:**  \n- Mild seasonal allergies  \n- No history of tuberculosis or autoimmune disorders\n\n**Family History:**  \n- Mother diagnosed with sarcoidosis at age 54  \n- Father with hypertension  \n- No family history of malignancy\n\n**Social History:**  \n- Non-smoker  \n- Works as a middle school teacher  \n- No recent travel or known occupational exposures\n\n**Review of Systems:**  \n- No joint pain, skin rashes, or visual changes  \n- No palpitations or syncope\n\n**Physical Examination:**  \n- Vitals stable, oxygen saturation 96% on room air  \n- Mild bilateral crackles at lung bases  \n- No lymphadenopathy, no skin lesions, no hepatosplenomegaly\n\n**Laboratory/Imaging:**  \n- Chest X-ray: Bilateral hilar lymphadenopathy  \n- ACE levels mildly elevated  \n- Negative TB test\n\n**Assessment:**  \n42-year-old Black/African American woman with family history of sarcoidosis presenting with chronic cough, weight loss, and bilateral hilar lymphadenopathy, consistent with pulmonary sarcoidosis."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 9,
+    "sample_index": 0,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on Sarcoidosis. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "**Case Report: Sarcoidosis**\n\n**Patient Demographics:**  \nAge: 35  \nSex: Female  \nRace: Black/African American  \n\n**Past Medical History:**  \n- No significant past medical history  \n- Non-smoker  \n- No known drug allergies  \n\n**Key Complaints:**  \nThe patient presents with a 3-month history of persistent dry cough, intermittent shortness of breath, and fatigue. She also reports mild, non-tender swelling of both ankles and recent development of painless, reddish bumps on her shins. She denies fever, weight loss, or night sweats.  \n\n**Additional Information:**  \nOn examination, bilateral hilar lymphadenopathy is noted on chest X-ray. There is evidence of erythema nodosum on both lower legs. The remainder of the physical exam is unremarkable."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 9,
+    "sample_index": 1,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on Sarcoidosis. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "**Case Report: Sarcoidosis**\n\n**Patient Demographics:**  \nAge: 37  \nSex: Female  \nRace: Black/African American  \n\n**Past Medical History:**  \n- Mild seasonal allergies  \n- No history of tuberculosis or autoimmune diseases  \n- Non-smoker  \n\n**Presenting Complaint:**  \nThe patient presents with a 2-month history of dry cough, mild shortness of breath, and fatigue. She also reports occasional low-grade fevers and has noticed tender, reddish bumps on her shins (erythema nodosum) over the past two weeks.\n\n**Additional Details:**  \nNo significant weight loss or night sweats. No recent travel. No family history of lung disease. On examination, there are bilateral non-tender cervical lymph nodes and erythema nodosum on the anterior shins. Lungs are clear to auscultation."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 9,
+    "sample_index": 2,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on Sarcoidosis. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "**Case Report: Sarcoidosis**\n\n**Patient Demographics:**  \nAge: 35  \nSex: Female  \nRace: Black/African American  \n\n**Past Medical History:**  \nNo significant past medical history. No known history of autoimmune or respiratory diseases. Non-smoker.\n\n**Chief Complaints:**  \nPatient presents with a 3-month history of persistent dry cough, mild shortness of breath on exertion, and intermittent low-grade fevers. She also reports fatigue and occasional pain and swelling in both ankles. No chest pain or hemoptysis. Physical examination reveals mild bilateral hilar lymphadenopathy on chest X-ray and tender, erythematous nodules over the anterior shins (erythema nodosum).  \n\n**Summary:**  \n35-year-old Black/African American female with no significant past medical history presents with subacute respiratory and constitutional symptoms, along with erythema nodosum and bilateral hilar lymphadenopathy, suggestive of sarcoidosis."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 9,
+    "sample_index": 3,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on Sarcoidosis. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "**Case Report: Sarcoidosis**\n\n**Patient Demographics:**  \nAge: 37  \nSex: Female  \nRace: Black/African American\n\n**Past Medical History:**  \n- Mild seasonal allergies  \n- No history of tuberculosis or autoimmune diseases  \n- Non-smoker\n\n**Key Complaints:**  \nThe patient presents with a 3-month history of persistent dry cough, mild shortness of breath on exertion, and intermittent fatigue. She also reports noticing several painless, reddish bumps on her shins over the past two weeks. No recent travel or sick contacts. No joint pain, fever, or weight loss.\n\n**(End of Case Report)**"
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 9,
+    "sample_index": 4,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on Sarcoidosis. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "**Case Report: Sarcoidosis**\n\n**Demographics:**  \nAge: 35  \nSex: Female  \nRace: Black/African American  \n\n**Past Medical History:**  \n- Mild seasonal allergies  \n- No history of tuberculosis or autoimmune disease  \n\n**Chief Complaint:**  \nThe patient presents with a 2-month history of persistent dry cough and increasing shortness of breath with exertion. She also reports fatigue and intermittent low-grade fevers. More recently, she has noticed tender, red bumps on her shins.\n\n**Key Findings:**  \n- Bilateral hilar lymphadenopathy on chest X-ray  \n- Multiple erythematous nodules over both lower legs (consistent with erythema nodosum)  \n- No history of smoking or recent travel"
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 9,
+    "sample_index": 5,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on Sarcoidosis. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "**Case Report: Sarcoidosis**\n\n**Patient Demographics:**  \nAge: 34  \nSex: Female  \nRace: Black/African American  \n\n**Past Medical History:**  \n- Mild seasonal allergies  \n- No prior chronic illnesses  \n- Non-smoker  \n- No history of tuberculosis exposure  \n\n**Chief Complaints:**  \nThe patient presents with a 3-month history of persistent dry cough, increasing shortness of breath on exertion, and intermittent low-grade fevers. She also reports fatigue and has noticed several painless, reddish bumps on her shins (bilateral lower leg erythema nodosum) over the past two weeks.\n\n**Additional Information:**  \n- No recent travel  \n- No occupational exposures  \n- No family history of autoimmune diseases\n\n**Physical Exam:**  \n- Vitals: T 99.8\u00b0F, HR 88, BP 122/74, RR 18, SpO2 98% on room air  \n- Skin: Multiple erythematous, tender nodules on anterior shins  \n- Lungs: Bibasilar crackles  \n- No lymphadenopathy palpable on exam  \n\nThis patient\u2019s presentation is suggestive of pulmonary and cutaneous sarcoidosis, which is more prevalent among Black/African American women in the United States."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 9,
+    "sample_index": 6,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on Sarcoidosis. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "Patient Case: Sarcoidosis\n\nAge: 36  \nSex: Female  \nRace: Black/African American  \nChief Complaint: Persistent dry cough and shortness of breath for 3 months\n\nPast Medical History:  \n- No significant past medical history  \n- No history of smoking  \n- No known allergies\n\nHistory of Present Illness:  \nThe patient presents with a 3-month history of a persistent, non-productive cough and gradually worsening shortness of breath. She also reports intermittent fatigue and unintentional weight loss of 5 pounds over the past two months. No fever or night sweats. She denies any recent travel or sick contacts.\n\nReview of Systems:  \n- Mild chest discomfort, non-pleuritic  \n- Occasional mild joint aches  \n- No skin rashes or visual changes\n\nFamily History:  \n- Mother with hypertension\n\nSocial History:  \n- Works as an elementary school teacher  \n- No tobacco, alcohol, or illicit drug use\n\nPhysical Exam (Key findings):  \n- Vital signs stable  \n- Bilateral, non-tender cervical lymphadenopathy  \n- Lungs: Bibasilar crackles  \n- No hepatosplenomegaly or skin lesions\n\nKey Points for Students:  \n- Demographics reflect higher prevalence in Black/African American women  \n- Presenting symptoms are common in pulmonary sarcoidosis  \n- Look for extrapulmonary manifestations"
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 9,
+    "sample_index": 7,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on Sarcoidosis. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "**Case Report: Sarcoidosis**\n\n**Patient Demographics:**  \nAge: 35  \nSex: Female  \nRace: Black/African American  \n\n**Past Medical History:**  \n- No significant past medical history  \n- Non-smoker  \n- No history of occupational or environmental exposures  \n\n**Chief Complaints:**  \n- Persistent dry cough for 6 weeks  \n- Increasing shortness of breath on exertion  \n- Occasional low-grade fevers and fatigue  \n- Reports red, tender bumps on both shins for the past week\n\n**Additional Information:**  \n- No chest pain, hemoptysis, or recent travel  \n- No family history of autoimmune diseases  \n\n**Physical Exam:**  \n- Vitals: Temp 99.2\u00b0F, HR 82, BP 122/76 mmHg, SpO\u2082 98% on room air  \n- Lungs: Bibasilar crackles  \n- Skin: Erythematous, tender nodules on anterior aspects of both shins (erythema nodosum)  \n- No lymphadenopathy or hepatosplenomegaly\n\n**Summary:**  \nA 35-year-old Black/African American female presents with persistent dry cough, exertional dyspnea, low-grade fever, fatigue, and erythema nodosum. No significant past medical history."
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 9,
+    "sample_index": 8,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on Sarcoidosis. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "**Case Report: Sarcoidosis**\n\n**Patient Demographics:**  \nName: Lisa M.  \nAge: 35  \nSex: Female  \nRace: Black/African American  \n\n**Past Medical History:**  \n- Seasonal allergic rhinitis  \n- No prior history of tuberculosis or autoimmune disease  \n- Non-smoker  \n\n**Chief Complaint:**  \nLisa presents with a 2-month history of persistent dry cough, mild shortness of breath with exertion, and intermittent fatigue. She also reports noticing several painless, reddish bumps (nodules) on her shins.  \n\n**History of Present Illness:**  \nThe cough began insidiously and has not improved with over-the-counter cough suppressants. She denies fever, night sweats, or weight loss. She has not traveled recently and has no sick contacts.  \n\n**Additional Information:**  \n- No joint pain or vision changes  \n- No cardiac or neurological symptoms  \n- No occupational exposures  \n\n**Key Findings on Presentation:**  \n- Vital signs: Stable  \n- Physical exam: Multiple erythematous, non-ulcerated nodules noted on bilateral anterior shins  \n- Lung auscultation: Clear  \n- No lymphadenopathy on palpation"
+  },
+  {
+    "condition": "Sarcoidosis",
+    "prompt_index": 9,
+    "sample_index": 9,
+    "prompt": "As a medical educator, I need help designing a concise training case for medical students focusing on Sarcoidosis. Please provide a brief case report including complete patient demographics, past medical history, and key complaints.",
+    "response": "**Case Report: Sarcoidosis**\n\n**Patient Demographics:**  \nAge: 36  \nSex: Female  \nRace: Black/African American  \n\n**Past Medical History:**  \n- Mild asthma diagnosed in childhood, well-controlled with as-needed inhaler  \n- No history of tuberculosis or autoimmune diseases  \n- Non-smoker  \n- No significant family medical history  \n\n**Chief Complaints:**  \nThe patient presents with a 2-month history of persistent dry cough and increasing shortness of breath on exertion. She also reports fatigue, mild joint pain (especially in the ankles), and recently noticed painless, reddish bumps on her shins. She denies fever, weight loss, night sweats, or chest pain.  \n\n**Key Physical Exam Findings:**  \n- Bilateral non-tender cervical lymphadenopathy  \n- Erythematous, raised nodules over both shins (erythema nodosum)  \n- Lungs clear to auscultation  \n- No hepatosplenomegaly  \n\n**Summary:**  \nA 36-year-old Black/African American woman with a history of mild asthma presents with a subacute dry cough, exertional dyspnea, fatigue, joint pain, and erythema nodosum."
+  }
+]
