@@ -40,7 +40,7 @@ This folder contains the complete collection of prompts used in all experiments 
 
 **5. Flowise**
 
-This folder contains two figures related to the Flowise agent workflow:
+This folder contains two figures related to the Flowise agentic workflow:
 
 (1) A screenshot of the agentic workflow pipeline designed in Flowise.
 (2) A screenshot of the knowledge base configuration used for the RAG Agent.
