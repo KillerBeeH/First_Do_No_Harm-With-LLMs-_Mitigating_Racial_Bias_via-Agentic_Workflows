@@ -1,4 +1,4 @@
-# Enhancing-LLM-Driven-Bias-Detection-in-Healthcare-Agentic-Workflows-for-Racial-Disparity-Mitigation
+# First_Do_No_Harm-With-LLMs-_Mitigating_Racial_Bias_via-Agentic_Workflows
 
 This repository contains the data and code for the paper “Enhancing LLM-Driven Bias Detection in Healthcare: Agentic Workflows for Racial Disparity Mitigation.”
 
